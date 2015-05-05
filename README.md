@@ -1,2 +1,3 @@
-# cliffordlab.github.io
-Clifford Lab website
+# gdclifford
+
+lab website
