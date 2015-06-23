@@ -6,6 +6,11 @@ body {
   padding-top: 50px;
   padding-bottom: 150px;
 }
+
+.section {
+	width: 700px;
+}
+
 .text-center {
   padding-top: 20px;
 }
