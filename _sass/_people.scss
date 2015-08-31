@@ -17,7 +17,6 @@
 }
 
 .members {
-	width:100%;
 	margin:0 auto;
 }
 
@@ -28,6 +27,7 @@
 	border:1px solid #efefef;
 	border-radius:5px;
 	padding:10px;
+	box-shadow:2px 2px 5px 1px #eee;
 }
 
 .pic {
@@ -47,10 +47,14 @@
 }
 
 .profile-icons {
-	display:inline-block;
 	text-align:center;
+
+	a {
+		text-decoration: none;
+	}
 
 	i {
 		margin:10px;
+		font-size:20px;
 	}
 }

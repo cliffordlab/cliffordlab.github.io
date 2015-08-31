@@ -75,6 +75,17 @@
  site: "#"
  pubs: "#"
 
+-
+ name: Camilo Valderamma
+ title: PhD student in Biomedical Informatics
+ dept: Dept. of Mathematics and Computer Science
+ location: "Emory University"
+ picture: "/assets/img/camilo.jpg"
+ twitter: "#"
+ email: "#"
+ site: "#"
+ pubs: "#"
+
 - 
  name: Victoria Nicholson
  title: Data Analyst
@@ -118,3 +129,5 @@
  email:
  site:
  pubs:
+
+
