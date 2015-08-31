@@ -1,0 +1,33 @@
+---
+---
+@import "variables";
+@import "mixins";
+@import "mqueries";
+@import "nav";
+@import "footer";
+@import "home";
+
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  background: $body-color;
+  margin-bottom: $footer-height;
+}
+
+.container .text-muted {
+  margin: 20px 0;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+code {
+  font-size: 80%;
+}
+
