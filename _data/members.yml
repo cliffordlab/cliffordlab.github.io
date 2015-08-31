@@ -4,10 +4,10 @@
  dept: Dept. of Biomedical Informatics
  location: Emory University
  picture: "/assets/img/qiao.jpg"
- twitter: "#"
- email: "#"
- site: "#"
- pubs: "#"
+ twitter: ""
+ email: "mailto:qiao.li@emory.edu"
+ site: ""
+ pubs: ""
 
 - 
  name: Lisa Stroux
@@ -15,10 +15,10 @@
  dept: Institute of Biomedical Engineering
  location: University of Oxford
  picture: "/assets/img/lisa.jpg"
- twitter: "#"
- email: "#"
- site: "#"
- pubs: "#"
+ twitter: ""
+ email: ""
+ site: "http://gdclifford.info"
+ pubs: ""
 
 - 
  name: David Springer
@@ -26,10 +26,10 @@
  dept: Institute of Biomedical Engineering
  location: University of Oxford
  picture: "/assets/img/david.jpg"
- twitter: "#"
- email: "#"
- site: "#"
- pubs: "#"
+ twitter: "https://twitter.com/davespringer"
+ email: "mailto:david.springer@eng.ox.ac.uk"
+ site: "http://www.davespringer.com"
+ pubs: "http://scholar.google.co.uk/citations?user=wCYPIOIAAAAJ&hl=en"
 
 - 
  name: Elnaz Gederi
@@ -37,10 +37,10 @@
  dept: Institute of Biomedical Engineering
  location: University of Oxford
  picture: "/assets/img/elnaz.jpg"
- twitter: "#"
- email: "#"
- site: "#"
- pubs: "#"
+ twitter: ""
+ email: "mailto:elnaz.gederi@eng.ox.ac.uk"
+ site: ""
+ pubs: ""
 
 - 
  name: Maxim Osipov
@@ -48,10 +48,10 @@
  dept: Institute of Biomedical Engineering
  location: University of Oxford
  picture: "/assets/img/maxim.jpg"
- twitter: "#"
- email: "#"
- site: "#"
- pubs: "#"
+ twitter: ""
+ email: "mailto:maxim.osipov@gmail.com"
+ site: "http://users.ox.ac.uk/~wolf3400/"
+ pubs: ""
 
 - 
  name: Arvind Raghu
@@ -59,10 +59,10 @@
  dept: Institute of Biomedical Engineering
  location: University of Oxford
  picture: "/assets/img/arvind.jpg"
- twitter: "#"
- email: "#"
- site: "#"
- pubs: "#"
+ twitter: ""
+ email: "mailto:arvind.raghu@worc.ox.ac.uk"
+ site: "https://about.me/arvindraghu"
+ pubs: ""
 
 - 
  name: Erik Reinertsen
@@ -70,10 +70,10 @@
  dept: Dept. of Biomedical Engineering
  location: "Georgia Tech & Emory University"
  picture: "/assets/img/erik.jpg"
- twitter: "#"
- email: "#"
- site: "#"
- pubs: "#"
+ twitter: "https://twitter.com/ereinerts"
+ email: "mailto:ereinerts@gmail.com"
+ site: "http://erikreinertsen.com"
+ pubs: "https://scholar.google.co.uk/citations?user=iFS2ETsAAAAJ&hl=en&oi=ao"
 
 -
  name: Camilo Valderamma
@@ -81,10 +81,10 @@
  dept: "Dept. of Mathematics and C.S. <br> Concentration in Biomedical Informatics"
  location: "Emory University"
  picture: "/assets/img/camilo.jpg"
- twitter: "#"
- email: "#"
- site: "#"
- pubs: "#"
+ twitter: ""
+ email: "mailto:cevacu@gmail.com"
+ site: ""
+ pubs: ""
 
 - 
  name: Victoria Nicholson
@@ -92,10 +92,10 @@
  dept: "Dept. of Biomedical Informatics"
  location: Emory University
  picture: "/assets/img/victoria.jpg"
- twitter: "#"
- email: "#"
- site: "#"
- pubs: "#"
+ twitter: ""
+ email: "victoria.nicholson@emory.edu"
+ site: "https://www.linkedin.com/pub/victoria-nicholson/5a/255/284"
+ pubs: ""
 
 - 
  name: Andrew El Masry
@@ -103,10 +103,10 @@
  dept: Dept. of Biomedical Informatics
  location: Emory University
  picture: "/assets/img/andrew.jpg"
- twitter: "#"
- email: "#"
- site: "#"
- pubs: "#"
+ twitter: ""
+ email: "mailto:andrewelmasry@gmail.com"
+ site: "https://www.linkedin.com/in/aelmasry"
+ pubs: ""
 
 -
  name: Trevor Terris
@@ -114,10 +114,10 @@
  dept: Dept. of Biomedical Informatics
  location: Emory University
  picture: '/assets/img/trevor.jpg'
- twitter:
- email:
- site:
- pubs:
+ twitter: ""
+ email: "mailto:trevorterris@gmail.com"
+ site: ""
+ pubs: ""
 
 -
  name: Taylor Daugherty
@@ -125,9 +125,9 @@
  dept: Dept. of Biomedical Informatics
  location: Emory University
  picture: '/assets/img/taylor.jpg'
- twitter:
- email:
- site:
- pubs:
+ twitter: "https://twitter.com/mdaugherty"
+ email: "mdaugh4@emory.edu"
+ site: "http://mtaylord.com"
+ pubs: ""
 
 
