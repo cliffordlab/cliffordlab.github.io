@@ -9,36 +9,12 @@
  site: "#"
  pubs: "#"
 
-
 - 
  name: Lisa Stroux
  title: DPhil Candidate
  dept: Institute of Biomedical Engineering
  location: University of Oxford
  picture: "/assets/img/lisa.jpg"
- twitter: "#"
- email: "#"
- site: "#"
- pubs: "#"
-
-- 
- name: "Athanasios Tsanas, DPhil"
- title: Postdoctoral Research Fellow
- dept: Institute of Biomedical Engineering
- location: University of Oxford
- picture: "/assets/img/athanasios.jpg"
- twitter: "#"
- email: "#"
- site: "#"
- pubs: "#"
-
-
-- 
- name: "Julien Oster, PhD"
- title: Postdoctoral Research Fellow
- dept: Institute of Biomedical Engineering
- location: University of Oxford
- picture: "/assets/img/julien.jpg"
  twitter: "#"
  email: "#"
  site: "#"
@@ -78,33 +54,11 @@
  pubs: "#"
 
 - 
- name: Alistair Johnson
- title: DPhil Candidate
- dept: Institute of Biomedical Engineering
- location: University of Oxford
- picture: "/assets/img/alistair.jpg"
- twitter: "#"
- email: "#"
- site: "#"
- pubs: "#"
-
-- 
  name: Arvind Raghu
  title: DPhil Candidate
  dept: Institute of Biomedical Engineering
  location: University of Oxford
  picture: "/assets/img/arvind.jpg"
- twitter: "#"
- email: "#"
- site: "#"
- pubs: "#"
-
-- 
- name: Aoife Roebuck
- title: DPhil Candidate
- dept: Institute of Biomedical Engineering
- location: University of Oxford
- picture: "/assets/img/aoife.jpg"
  twitter: "#"
  email: "#"
  site: "#"
@@ -142,3 +96,25 @@
  email: "#"
  site: "#"
  pubs: "#"
+
+-
+ name: Trevor Terris
+ title: Software Engineer
+ dept: Dept. of Biomedical Informatics
+ location: Emory University
+ picture: '/assets/img/trevor.jpg'
+ twitter:
+ email:
+ site:
+ pubs:
+
+-
+ name: Taylor Daugherty
+ title: Software Engineer
+ dept: Dept. of Biomedical Informatics
+ location: Emory University
+ picture: '/assets/img/taylor.jpg'
+ twitter:
+ email:
+ site:
+ pubs:
