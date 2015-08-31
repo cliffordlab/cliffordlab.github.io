@@ -18,6 +18,10 @@ body {
   margin-bottom: $footer-height;
 }
 
+.text-right {
+	text-align:right;
+}
+
 @import "mqueries";
 
 

@@ -9,6 +9,10 @@
 
 .container .text-muted {
   margin: 20px 0;
+
+  p > a {
+  	color:$brand-color;
+  }
 }
 
 .footer > .container {
