@@ -1,0 +1,52 @@
+---
+---
+@import "variables";
+@import "mixins";
+@import "mqueries";
+@import "nav";
+@import "footer";
+@import "home";
+
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  background: $body-color;
+  margin-bottom: $footer-height;
+}
+
+.container .text-muted {
+  margin: 20px 0;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+code {
+  font-size: 80%;
+}
+
+.gari,.icons {
+	text-align:center;
+	font-size:24px;
+}
+
+.icons {
+	padding-top:20px;
+}
+
+.icon {
+	padding:0 20px;
+}
+
+.alum {
+	max-width:760px;
+	margin:0 auto;
+}
+
+

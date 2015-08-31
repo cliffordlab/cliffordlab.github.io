@@ -1,1 +1,9 @@
+name: The Clifford Lab
+description: Website for Clifford Lab at Emory University
+url: gdclifford.info
+permalink: :categories/:title
+exclude: [vendor]
+markdown: kramdown
 host: localhost
+sass:
+    style: compressed
