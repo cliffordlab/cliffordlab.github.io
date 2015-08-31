@@ -1,0 +1,56 @@
+.gari,.icons {
+	text-align:center;
+	font-size:24px;
+}
+
+.gari-icons {
+	padding-top:20px;
+}
+
+.gari-icon {
+	padding:0 20px;
+}
+
+.alum {
+	max-width:760px;
+	margin:0 auto;
+}
+
+.members {
+	width:100%;
+	margin:0 auto;
+}
+
+.profile {
+	width:300px;
+	display:inline-block;
+	margin: 20px;
+	border:1px solid #efefef;
+	border-radius:5px;
+	padding:10px;
+}
+
+.pic {
+	width:100%;
+	height:auto;
+	margin:0 auto;
+}
+
+.profile-info {
+	h3 {
+
+	}
+
+	h4 {
+		color:$jumbotron-color;
+	}
+}
+
+.profile-icons {
+	display:inline-block;
+	text-align:center;
+
+	i {
+		margin:10px;
+	}
+}
