@@ -4,28 +4,29 @@ title: People - Clifford Lab
 ---
 
 
-<div class = "members">
+<div class = "row members">
 {% for member in site.data.members %}
 		<div class = "profile">
 	  	<img src="{{member.picture}}" class = "pic">
 	  	<div class = "profile-info">
 		  	<div class = "name">
-		    <h3>{{ member.name }}</h3>
+		    	<h3>{{ member.name }}</h3>
 		    </div>
 		    <div class = "title">
-		    <h4>{{ member.title }}<h4>
+		    	<h4>{{ member.title }}</h4>
 		    </div>
 		    <div class = "dept">
-		    {{ member.dept }}
+		   	 {{ member.dept }}
 		    </div>
 		    <div class = "location">
-		    {{ member.location}}
+		    	{{ member.location}}
 		    </div>
 	    </div>
 	    {% include icons.html %}
 	  </div>
 {% endfor %}
 </div>
+</div>>
 
 
 <!--  <div class="row">
