@@ -3,7 +3,40 @@ layout: default
 title: People - Clifford Lab
 ---
 
-		<div class="col-sm-8 col-md-3">
+
+<div class = "members">
+{% for member in site.data.members %}
+		<div class = "profile">
+	  	<img src="{{member.picture}}" class = "pic">
+	  	<div class = "profile-info">
+		  	<div class = "name">
+		    <h3>{{ member.name }}</h3>
+		    </div>
+		    <div class = "title">
+		    <h4>{{ member.title }}<h4>
+		    </div>
+		    <div class = "dept">
+		    {{ member.dept }}
+		    </div>
+		    <div class = "location">
+		    {{ member.location}}
+		    </div>
+	    </div>
+	    {% include icons.html %}
+	  </div>
+{% endfor %}
+</div>
+
+
+<!--  <div class="row">
+
+	<div class = "profile">
+		<div class = "profile-pic">
+			{{ site.data.members | first}}
+		</div>
+	</div>
+
+		<div class="col-xs-3 col-md-3">
 			<div class="thumbnail">
 				<img src="/assets/img/qiao.jpg" alt="..." width=100%>
 				<div class="caption">
@@ -18,9 +51,8 @@ title: People - Clifford Lab
 					</center>
 				</div>
 			</div>
-		</div>
-
-			<div class="col-sm-8 col-md-3">
+		</div> 
+<div class="col-sm-8 col-md-3">
 				<div class="thumbnail">
 					<img src="/assets/img/lisa.jpg" alt="..." width=100%>
 					<div class="caption">
@@ -254,3 +286,4 @@ title: People - Clifford Lab
 					</div>
 				</div>
 			</div>
+ -->
