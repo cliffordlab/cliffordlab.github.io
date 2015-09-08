@@ -1,7 +1,7 @@
-- 
+-
  name: "Qiao Li, PhD"
  title: Assistant Professor
- dept: Dept. of Biomedical Informatics
+ dept: Department of Biomedical Informatics
  location: Emory University
  picture: "/assets/img/qiao.jpg"
  twitter: ""
@@ -9,9 +9,9 @@
  site: ""
  pubs: ""
 
-- 
+-
  name: Lisa Stroux
- title: DPhil Candidate
+ title: DPhil candidate
  dept: Institute of Biomedical Engineering
  location: University of Oxford
  picture: "/assets/img/lisa.jpg"
@@ -20,9 +20,9 @@
  site: "http://gdclifford.info"
  pubs: ""
 
-- 
+-
  name: David Springer
- title: DPhil Candidate
+ title: DPhil candidate
  dept: Institute of Biomedical Engineering
  location: University of Oxford
  picture: "/assets/img/david.jpg"
@@ -31,9 +31,9 @@
  site: "http://www.davespringer.com"
  pubs: "http://scholar.google.co.uk/citations?user=wCYPIOIAAAAJ&hl=en"
 
-- 
+-
  name: Elnaz Gederi
- title: DPhil Candidate
+ title: DPhil candidate
  dept: Institute of Biomedical Engineering
  location: University of Oxford
  picture: "/assets/img/elnaz.jpg"
@@ -42,9 +42,9 @@
  site: ""
  pubs: ""
 
-- 
+-
  name: Maxim Osipov
- title: DPhil Candidate
+ title: DPhil candidate
  dept: Institute of Biomedical Engineering
  location: University of Oxford
  picture: "/assets/img/maxim.jpg"
@@ -53,9 +53,9 @@
  site: "http://users.ox.ac.uk/~wolf3400/"
  pubs: ""
 
-- 
+-
  name: Arvind Raghu
- title: DPhil Candidate
+ title: DPhil candidate
  dept: Institute of Biomedical Engineering
  location: University of Oxford
  picture: "/assets/img/arvind.jpg"
@@ -64,10 +64,10 @@
  site: "https://about.me/arvindraghu"
  pubs: ""
 
-- 
+-
  name: Erik Reinertsen
  title: MD/PhD student
- dept: Dept. of Biomedical Engineering
+ dept: Department of Biomedical Engineering
  location: "Georgia Tech & Emory University"
  picture: "/assets/img/erik.jpg"
  twitter: "https://twitter.com/ereinerts"
@@ -76,9 +76,9 @@
  pubs: "https://scholar.google.co.uk/citations?user=iFS2ETsAAAAJ&hl=en&oi=ao"
 
 -
- name: Camilo Valderamma
- title: PhD Student
- dept: "Dept. of Mathematics and C.S. <br> Concentration in Biomedical Informatics"
+ name: Camilo Cuadros
+ title: PhD student
+ dept: "Department of Math & Computer Science"
  location: "Emory University"
  picture: "/assets/img/camilo.jpg"
  twitter: ""
@@ -86,10 +86,10 @@
  site: ""
  pubs: ""
 
-- 
+-
  name: Victoria Nicholson
  title: Data Analyst
- dept: "Dept. of Biomedical Informatics"
+ dept: "Department of Biomedical Informatics"
  location: Emory University
  picture: "/assets/img/victoria.jpg"
  twitter: ""
@@ -97,10 +97,10 @@
  site: "https://www.linkedin.com/pub/victoria-nicholson/5a/255/284"
  pubs: ""
 
-- 
+-
  name: Andrew El Masry
- title: mHealth Applications Engineer
- dept: Dept. of Biomedical Informatics
+ title: Android Developer
+ dept: Department of Biomedical Informatics
  location: Emory University
  picture: "/assets/img/andrew.jpg"
  twitter: ""
@@ -111,23 +111,21 @@
 -
  name: Trevor Terris
  title: Software Engineer
- dept: Dept. of Biomedical Informatics
+ dept: Department of Biomedical Informatics
  location: Emory University
  picture: '/assets/img/trevor.jpg'
  twitter: ""
- email: "mailto:trevorterris@gmail.com"
+ email: "mailto:tjterris@gmail.com"
  site: ""
  pubs: ""
 
 -
  name: Taylor Daugherty
  title: Software Engineer
- dept: Dept. of Biomedical Informatics
+ dept: Department of Biomedical Informatics
  location: Emory University
  picture: '/assets/img/taylor.jpg'
  twitter: "https://twitter.com/mdaugherty"
  email: "mdaugh4@emory.edu"
  site: "http://mtaylord.com"
  pubs: ""
-
-
