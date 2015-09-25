@@ -43,6 +43,17 @@
  pubs: ""
 
 -
+ name: Tingting Zhu
+ title: DPhil candidate
+ dept: Institute of Biomedical Engineering
+ location: University of Oxford
+ picture: "/assets/img/tingting.jpg"
+ twitter: ""
+ email: "tingting.zhu@eng.ox.ac.uk"
+ site: "https://about.me/tingtingzhu"
+ pubs: "http://scholar.google.com/citations?user=fjGMIl0AAAAJ&hl=en"
+
+-
  name: Maxim Osipov
  title: DPhil candidate
  dept: Institute of Biomedical Engineering
