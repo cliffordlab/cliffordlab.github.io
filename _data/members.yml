@@ -137,7 +137,7 @@
  location: Emory University
  picture: '/assets/img/taylor.jpg'
  twitter: "https://twitter.com/mdaugherty"
- email: "mdaugh4@emory.edu"
+ email: "mailto:mdaugh4@emory.edu"
  site: "http://mtaylord.com"
  pubs: ""
 
@@ -148,6 +148,6 @@
  location: Emory University
  picture: '/assets/img/chris.jpg'
  twitter: ""
- email: "chriswainwrightaaron@gmail.com"
+ email: "mailto:chriswainwrightaaron@gmail.com"
  site: "https://www.linkedin.com/in/chriswaaron"
  pubs: ""
