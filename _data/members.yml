@@ -154,6 +154,17 @@
  pubs: ""
 
 -
+ name: Kishan Bhakta
+ title: Software Engineer
+ dept: Department of Biomedical Informatics
+ location: Emory University
+ picture: '/assets/img/kishan.jpg'
+ twitter: "https://twitter.com/bhktkshn"
+ email: "mailto:kishan.d.bhakta@gmail.com"
+ site: "https://www.linkedin.com/in/tvpham11"
+ pubs: ""
+
+-
  name: Vi Pham
  title: Software Engineer
  dept: Department of Biomedical Informatics
@@ -161,5 +172,5 @@
  picture: '/assets/img/vi.jpg'
  twitter: "https://twitter.com/vi_pham"
  email: "mailto:tvpham11@gmail.com"
- site: "https://www.linkedin.com/in/tvpham11"
+ site: "https://www.linkedin.com/in/kishanbhakta"
  pubs: ""
