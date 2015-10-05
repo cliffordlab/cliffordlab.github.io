@@ -1,3 +1,4 @@
+
 -
  name: "Qiao Li, PhD"
  title: Assistant Professor
@@ -150,4 +151,15 @@
  twitter: ""
  email: "mailto:chriswainwrightaaron@gmail.com"
  site: "https://www.linkedin.com/in/chriswaaron"
+ pubs: ""
+
+-
+ name: Vi Pham
+ title: Software Engineer
+ dept: Department of Biomedical Informatics
+ location: Emory University
+ picture: '/assets/img/vi.jpg'
+ twitter: "https://twitter.com/vi_pham"
+ email: "mailto:tvpham11@gmail.com"
+ site: "https://www.linkedin.com/in/tvpham11"
  pubs: ""
