@@ -99,28 +99,6 @@
  pubs: ""
 
 -
- name: Victoria Nicholson
- title: Data Analyst
- dept: "Department of Biomedical Informatics"
- location: Emory University
- picture: "/assets/img/victoria.jpg"
- twitter: ""
- email: "victoria.nicholson@emory.edu"
- site: "https://www.linkedin.com/pub/victoria-nicholson/5a/255/284"
- pubs: ""
-
--
- name: Andrew El Masry
- title: Android Developer
- dept: Department of Biomedical Informatics
- location: Emory University
- picture: "/assets/img/andrew.jpg"
- twitter: ""
- emaii: "mailto:andrewelmasry@gmail.com"
- site: "https://www.linkedin.com/in/aelmasry"
- pubs: ""
-
--
  name: Trevor Terris
  title: Software Engineer
  dept: Department of Biomedical Informatics
