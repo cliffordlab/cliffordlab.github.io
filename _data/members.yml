@@ -99,6 +99,17 @@
  pubs: ""
 
 -
+ name: Supreeth Prajwal 
+ title: PhD student
+ dept: "Dept. of Electrical & Computer Engineering"
+ location: "Georgia Tech"
+ picture: "/assets/img/supreeth.jpg"
+ twitter: ""
+ email: "mailto:supreeth@gatech.edu"
+ site: ""
+ pubs: ""
+
+-
  name: Trevor Terris
  title: Software Engineer
  dept: Department of Biomedical Informatics
