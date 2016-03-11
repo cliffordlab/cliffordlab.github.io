@@ -99,25 +99,14 @@
  pubs: ""
 
 -
- name: Victoria Nicholson
- title: Data Analyst
- dept: "Department of Biomedical Informatics"
- location: Emory University
- picture: "/assets/img/victoria.jpg"
+ name: Supreeth Prajwal 
+ title: PhD student
+ dept: "Dept. of Electrical & Computer Engineering"
+ location: "Georgia Tech"
+ picture: "/assets/img/supreeth.jpg"
  twitter: ""
- email: "victoria.nicholson@emory.edu"
- site: "https://www.linkedin.com/pub/victoria-nicholson/5a/255/284"
- pubs: ""
-
--
- name: Andrew El Masry
- title: Android Developer
- dept: Department of Biomedical Informatics
- location: Emory University
- picture: "/assets/img/andrew.jpg"
- twitter: ""
- emaii: "mailto:andrewelmasry@gmail.com"
- site: "https://www.linkedin.com/in/aelmasry"
+ email: "mailto:supreeth@gatech.edu"
+ site: "https://sites.google.com/site/supreethprajwal93/home"
  pubs: ""
 
 -
@@ -151,17 +140,6 @@
  twitter: ""
  email: "mailto:chriswainwrightaaron@gmail.com"
  site: "https://www.linkedin.com/in/chriswaaron"
- pubs: ""
-
--
- name: Kishan Bhakta
- title: Software Engineer
- dept: Department of Biomedical Informatics
- location: Emory University
- picture: '/assets/img/kishan.jpg'
- twitter: "https://twitter.com/bhktkshn"
- email: "mailto:kishan.d.bhakta@gmail.com"
- site: "https://www.linkedin.com/in/kishanbhakta"
  pubs: ""
 
 -
