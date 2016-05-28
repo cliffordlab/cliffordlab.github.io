@@ -99,7 +99,7 @@
  pubs: ""
 
 -
- name: Supreeth Prajwal 
+ name: Supreeth Prajwal
  title: PhD student
  dept: "Dept. of Electrical & Computer Engineering"
  location: "Georgia Tech"
@@ -118,17 +118,6 @@
  twitter: ""
  email: "mailto:tjterris@gmail.com"
  site: ""
- pubs: ""
-
--
- name: Taylor Daugherty
- title: Software Engineer
- dept: Department of Biomedical Informatics
- location: Emory University
- picture: '/assets/img/taylor.jpg'
- twitter: "https://twitter.com/mdaugherty"
- email: "mailto:mdaugh4@emory.edu"
- site: "http://mtaylord.com"
  pubs: ""
 
 -
