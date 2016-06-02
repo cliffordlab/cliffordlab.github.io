@@ -19,12 +19,20 @@
  dept: Department of Biomedical Informatics
  location: Emory University
  picture: "/assets/img/amitverma.jpg"
+ twitter: ""
+ site: ""
+ pubs: ""
+ email: "mailto:amit.verma@emory.edu"
 -
  name: LaVonda Brown
  title: Postdoc
  dept: Department of Biomedical Informatics
  location: Emory University
  picture: "/assets/img/lavondabrown.jpg"
+ email: "mailto:lavonda.n.brown@emory.edu"
+ twitter: ""
+ site: ""
+ pubs: ""
 
 # -
 #  name: Lisa Stroux
@@ -109,6 +117,10 @@
  dept: Department of Biomedical Informatics
  location: Emory University
  picture: "/assets/img/rafihague.jpg"
+ email: "mailto:rafihaque90@gmail.com"
+ twitter: ""
+ site: ""
+ pubs: ""
 -
  name: Camilo Cuadros
  title: PhD student
@@ -137,6 +149,9 @@
  location: Oxford
  dept:
  picture: "/assets/img/ndunkley.jpg"
+ twitter: ""
+ site: ""
+ pubs: ""
 
 -
  name: Guilia Da Poian
@@ -144,6 +159,9 @@
  location: Emory
  dept: Department of Biomedical Informatics
  picture: "/assets/img/giuliadapoian.jpg"
+ twitter: ""
+ site: ""
+ pubs: ""
 -
  name: Trevor Terris
  title: Software Engineer
