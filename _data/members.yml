@@ -1,4 +1,8 @@
 
+#Amit Verma - postdoc
+#Lavonda Brown - postdoc
+#Rafi Haque - MD/PhD
+# Guilia Da Poian - Visiting PhD student
 -
  name: "Qiao Li, PhD"
  title: Assistant Professor
@@ -9,28 +13,40 @@
  email: "mailto:qiao.li@emory.edu"
  site: ""
  pubs: ""
-
 -
- name: Lisa Stroux
- title: DPhil candidate
- dept: Institute of Biomedical Engineering
- location: University of Oxford
- picture: "/assets/img/lisa.jpg"
- twitter: ""
- email: ""
- site: "http://gdclifford.info"
- pubs: ""
-
+ name: Amit Verma
+ title: Postdoc
+ dept: Department of Biomedical Informatics
+ location: Emory University
+ picture: "/assets/img/amitverma.jpg"
 -
- name: David Springer
- title: DPhil candidate
- dept: Institute of Biomedical Engineering
- location: University of Oxford
- picture: "/assets/img/david.jpg"
- twitter: "https://twitter.com/davespringer"
- email: "mailto:david.springer@eng.ox.ac.uk"
- site: "http://www.davespringer.com"
- pubs: "http://scholar.google.co.uk/citations?user=wCYPIOIAAAAJ&hl=en"
+ name: LaVonda Brown
+ title: Postdoc
+ dept: Department of Biomedical Informatics
+ location: Emory University
+ picture: "/assets/img/lavondabrown.jpg"
+
+# -
+#  name: Lisa Stroux
+#  title: DPhil candidate
+#  dept: Institute of Biomedical Engineering
+#  location: University of Oxford
+#  picture: "/assets/img/lisa.jpg"
+#  twitter: ""
+#  email: ""
+#  site: "http://gdclifford.info"
+#  pubs: ""
+#
+# -
+#  name: David Springer
+#  title: DPhil candidate
+#  dept: Institute of Biomedical Engineering
+#  location: University of Oxford
+#  picture: "/assets/img/david.jpg"
+#  twitter: "https://twitter.com/davespringer"
+#  email: "mailto:david.springer@eng.ox.ac.uk"
+#  site: "http://www.davespringer.com"
+#  pubs: "http://scholar.google.co.uk/citations?user=wCYPIOIAAAAJ&hl=en"
 
 -
  name: Elnaz Gederi
@@ -65,16 +81,16 @@
  site: "http://users.ox.ac.uk/~wolf3400/"
  pubs: ""
 
--
- name: Arvind Raghu
- title: DPhil candidate
- dept: Institute of Biomedical Engineering
- location: University of Oxford
- picture: "/assets/img/arvind.jpg"
- twitter: ""
- email: "mailto:arvind.raghu@worc.ox.ac.uk"
- site: "https://about.me/arvindraghu"
- pubs: ""
+# -
+#  name: Arvind Raghu
+#  title: DPhil candidate
+#  dept: Institute of Biomedical Engineering
+#  location: University of Oxford
+#  picture: "/assets/img/arvind.jpg"
+#  twitter: ""
+#  email: "mailto:arvind.raghu@worc.ox.ac.uk"
+#  site: "https://about.me/arvindraghu"
+#  pubs: ""
 
 -
  name: Erik Reinertsen
@@ -87,6 +103,12 @@
  site: "http://erikreinertsen.com"
  pubs: "https://scholar.google.co.uk/citations?user=iFS2ETsAAAAJ&hl=en&oi=ao"
 
+-
+ name: Rafi Hague
+ title: MD/PhD student
+ dept: Department of Biomedical Informatics
+ location: Emory University
+ picture: "/assets/img/rafihague.jpg"
 -
  name: Camilo Cuadros
  title: PhD student
@@ -109,6 +131,19 @@
  site: "https://sites.google.com/site/supreethprajwal93/home"
  pubs: ""
 
+-
+ name: Nicholas Dunkley
+ title: DPhil Student
+ location: Oxford
+ dept:
+ picture: "/assets/img/ndunkley.jpg"
+
+-
+ name: Guilia Da Poian
+ title: Visiting PhD student
+ location: Emory
+ dept: Department of Biomedical Informatics
+ picture: "/assets/img/giuliadapoian.jpg"
 -
  name: Trevor Terris
  title: Software Engineer
