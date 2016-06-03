@@ -1,8 +1,3 @@
-
-#Amit Verma - postdoc
-#Lavonda Brown - postdoc
-#Rafi Haque - MD/PhD
-# Guilia Da Poian - Visiting PhD student
 -
  name: "Qiao Li, PhD"
  title: Assistant Professor
@@ -14,48 +9,15 @@
  site: ""
  pubs: ""
 -
- name: Amit Verma
- title: Postdoc
- dept: Department of Biomedical Informatics
- location: Emory University
- picture: "/assets/img/amitverma.jpg"
- twitter: ""
- site: ""
- pubs: ""
- email: "mailto:amit.verma@emory.edu"
--
  name: LaVonda Brown
  title: Postdoc
  dept: Department of Biomedical Informatics
  location: Emory University
- picture: "/assets/img/doge.jpg"
+ picture: "/assets/img/lavondabrown.jpg"
  email: "mailto:lavonda.n.brown@emory.edu"
  twitter: ""
  site: ""
  pubs: ""
-
-# -
-#  name: Lisa Stroux
-#  title: DPhil candidate
-#  dept: Institute of Biomedical Engineering
-#  location: University of Oxford
-#  picture: "/assets/img/lisa.jpg"
-#  twitter: ""
-#  email: ""
-#  site: "http://gdclifford.info"
-#  pubs: ""
-#
-# -
-#  name: David Springer
-#  title: DPhil candidate
-#  dept: Institute of Biomedical Engineering
-#  location: University of Oxford
-#  picture: "/assets/img/david.jpg"
-#  twitter: "https://twitter.com/davespringer"
-#  email: "mailto:david.springer@eng.ox.ac.uk"
-#  site: "http://www.davespringer.com"
-#  pubs: "http://scholar.google.co.uk/citations?user=wCYPIOIAAAAJ&hl=en"
-
 -
  name: Elnaz Gederi
  title: DPhil candidate
@@ -89,17 +51,6 @@
  site: "http://users.ox.ac.uk/~wolf3400/"
  pubs: ""
 
-# -
-#  name: Arvind Raghu
-#  title: DPhil candidate
-#  dept: Institute of Biomedical Engineering
-#  location: University of Oxford
-#  picture: "/assets/img/arvind.jpg"
-#  twitter: ""
-#  email: "mailto:arvind.raghu@worc.ox.ac.uk"
-#  site: "https://about.me/arvindraghu"
-#  pubs: ""
-
 -
  name: Erik Reinertsen
  title: MD/PhD student
@@ -112,11 +63,11 @@
  pubs: "https://scholar.google.co.uk/citations?user=iFS2ETsAAAAJ&hl=en&oi=ao"
 
 -
- name: Rafi Hague
+ name: Rafi Haque
  title: MD/PhD student
  dept: Department of Biomedical Informatics
  location: Emory University
- picture: "/assets/img/rafihague.jpg"
+ picture: "/assets/img/rafihaque.jpg"
  email: "mailto:rafihaque90@gmail.com"
  twitter: ""
  site: ""
@@ -154,7 +105,7 @@
  pubs: ""
 
 -
- name: Guilia Da Poian
+ name: Giulia Da Poian
  title: Visiting PhD student
  location: Emory
  dept: Department of Biomedical Informatics
@@ -162,6 +113,17 @@
  twitter: ""
  site: ""
  pubs: ""
+ email: "mailto:dapoian.giulia@spes.uniud.it"
+-
+ name: Amit Verma
+ title: Software Engineer
+ dept: Department of Biomedical Informatics
+ location: Emory University
+ picture: "/assets/img/doge.jpg"
+ twitter: ""
+ site: ""
+ pubs: ""
+ email: "mailto:amit.verma@emory.edu"
 -
  name: Trevor Terris
  title: Software Engineer
