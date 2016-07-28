@@ -86,8 +86,8 @@
 -
  name: Supreeth Prajwal
  title: PhD student
- dept: "Dept. of Electrical & Computer Engineering"
- location: "Georgia Tech"
+ dept: Dept. of Electrical & Computer Engineering
+ location: Georgia Tech
  picture: "/assets/img/supreeth.jpg"
  twitter: ""
  email: "mailto:supreeth@gatech.edu"
@@ -97,8 +97,8 @@
 -
  name: Nicholas Dunkley
  title: DPhil Student
- location: Oxford
- dept:
+ dept: Institute of Biomedical Engineering
+ location: University of Oxford
  picture: "/assets/img/ndunkley.jpg"
  twitter: ""
  site: ""
@@ -107,8 +107,8 @@
 -
  name: Giulia Da Poian
  title: Visiting PhD student
- location: Emory
  dept: Department of Biomedical Informatics
+ location: Emory University
  picture: "/assets/img/giuliadapoian.jpg"
  twitter: ""
  site: ""
