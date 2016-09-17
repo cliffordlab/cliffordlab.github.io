@@ -129,7 +129,7 @@
  title: Software Engineer
  dept: Department of Biomedical Informatics
  location: Emory University
- picture: '/assets/img/trevor.jpg'
+ picture: '/assets/img/doge.jpg'
  twitter: ""
  email: "mailto:tjterris@gmail.com"
  site: "https://www.linkedin.com/in/tjterris"
@@ -147,12 +147,3 @@
  pubs: ""
 
 -
- name: Vi Pham
- title: Software Engineer
- dept: Department of Biomedical Informatics
- location: Emory University
- picture: '/assets/img/vi.jpg'
- twitter: "https://twitter.com/vi_pham"
- email: "mailto:tvpham11@gmail.com"
- site: "https://www.linkedin.com/in/tvpham11"
- pubs: ""
