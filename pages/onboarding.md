@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Joining - Clifford Lab
-permalink: /onboarding.md
+permalink: /onboarding.html
 ---
 
 Everyone joining the Clifford Lab has a few logistical to-dos.
