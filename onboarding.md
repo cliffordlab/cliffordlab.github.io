@@ -7,9 +7,6 @@ permalink: /onboarding.html
         <h1>Onboaring</h1>
 </div>
 
-        <div class="row info">
-	</div>
-
 Everyone joining the Clifford Lab has a few logistical to-dos.
 
 This post outlines what to do, and how.
