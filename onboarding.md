@@ -1,8 +1,14 @@
 ---
 layout: default
 title: Joining - Clifford Lab
-permalink: /onboarding.md
+permalink: /onboarding.html
 ---
+<div class="jumbotron">
+        <h1>Onboaring</h1>
+</div>
+
+        <div class="row info">
+	</div>
 
 Everyone joining the Clifford Lab has a few logistical to-dos.
 
@@ -62,7 +68,7 @@ Check out the [website](http://nematilab.info/bmijc/), which also explains how t
 
 ## Google Calendars
 
-We have a `Clifford Lab Calendar` for putting in your holidays/absences, or key meetings in the group. 
+We have a `Clifford Lab Calendar` for putting in your holidays/absences, or key meetings in the group.
 
 We also have a `BMI Talks` calendar for seminars.
 
