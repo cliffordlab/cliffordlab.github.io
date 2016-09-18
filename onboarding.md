@@ -3,7 +3,7 @@ layout: default
 title: Joining - Clifford Lab
 ---
 <div class="jumbotron">
-        <h1>Onboaring</h1>
+        <h1>Onboarding</h1>
 </div>
 
 Everyone joining the Clifford Lab has a few logistical to-dos.
