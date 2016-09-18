@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Joining - Clifford Lab
-permalink: /onboarding.html
 ---
 <div class="jumbotron">
         <h1>Onboaring</h1>
