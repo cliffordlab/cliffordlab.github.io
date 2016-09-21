@@ -1,17 +1,23 @@
 ---
 layout: default
-title: Joining - Clifford Lab
+title: Info - Clifford Lab
 ---
 <div class="jumbotron">
-        <h1>Onboarding</h1>
+        <h1>Info</h1>
 </div>
+
+## Getting in touch
+
+If you wish to get in touch with Prof. Clifford please email him (`gari AT gatech.edu`) and ensure you cc Cathy Keeler (`ckeeler AT emory.edu`) who will help arrange a meeting. If you do not cc Cathy your email may go into the void.
+
+# Onboarding
 
 Everyone joining the Clifford Lab has a few logistical to-dos.
 
 This post outlines what to do, and how.
 
 0. [Want to join the lab?](#want-to-join-the-lab)
-1. [Building access](#building-access)
+1. [Access to Building](#access-to-building)
 2. [Roster](#roster)
 3. [Slack](#slack)
 4. [BMI listserv](#bmi-listserv)
@@ -28,7 +34,9 @@ If you are a student or postdoc interested in joining the Clifford Lab:
 2. Send your CV, transcripts, funding situation, and research interests to Gari (`gari AT gatech.edu`).
 3. If you are already at Emory or GT and want to request a 30-min chat, email Cathy Keeler (`ckeeler AT emory.edu`) who will help arrange a meeting.
 
-## Building access
+[Job Opportunities](http://gdclifford.info/jobs)
+
+## Access to Building
 
 Our office at HSRB requires keycard access.
 
