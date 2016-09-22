@@ -132,3 +132,33 @@
  email: "mailto:chriswainwrightaaron@gmail.com"
  site: "https://www.linkedin.com/in/chriswaaron"
  pubs: ""
+-
+ name: Ramesh Manyam
+ title: Database Architect
+ dept: Department of Biomedical Informatics
+ location: Emory University
+ picture: '/assets/img/ramesh.jpg'
+ pubs: ""
+ twitter: ""
+ site: ""
+ email: "mailto:maanyam@gmail.com"
+-
+ name: Tony Nguyen
+ title: Software Engineer
+ dept: Department of Biomedical Informatics
+ location: Emory University
+ twitter: ""
+ pubs: ""
+ picture: '/assets/img/tony.jpg'
+ email: "mailto:tonyviet87@gmail.com"
+ site: "https://www.linkedin.com/in/tony-nguyen-30b279120"
+-
+ name: Whitney Hogg
+ title: iOS Developer
+ dept: Department of Biomedical Informatics
+ location: Emory University
+ twitter: ""
+ picture: '/assets/img/whitney.jpg'
+ email: "whitneylaurenhogg@gmail.com"
+ site: "https://www.linkedin.com/in/whitneylaurenhogg"
+ pubs: ""
