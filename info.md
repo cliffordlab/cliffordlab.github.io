@@ -6,9 +6,10 @@ title: Info - Clifford Lab
         <h1>Info</h1>
 </div>
 
-## Getting in touch
+## Contacting BMI
 
 If you wish to get in touch with Prof. Clifford please email him (`gari AT gatech.edu`) and ensure you cc the BMI admin (`bmi-admin AT emory.edu`) who will help arrange a meeting. If you do not cc the admin your email may go into the void.
+
 
 # Onboarding
 
