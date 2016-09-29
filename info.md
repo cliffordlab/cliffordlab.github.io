@@ -8,7 +8,7 @@ title: Info - Clifford Lab
 
 ## Getting in touch
 
-If you wish to get in touch with Prof. Clifford please email him (`gari AT gatech.edu`) and ensure you cc Cathy Keeler (`ckeeler AT emory.edu`) who will help arrange a meeting. If you do not cc Cathy your email may go into the void.
+If you wish to get in touch with Prof. Clifford please email him (`gari AT gatech.edu`) and ensure you cc the BMI admin (`bmi-admin AT emory.edu`) who will help arrange a meeting. If you do not cc the admin your email may go into the void.
 
 # Onboarding
 
@@ -32,7 +32,7 @@ If you are a student or postdoc interested in joining the Clifford Lab:
 
 1. Read Gari's [ethics and expectations](http://gdclifford.info/ethics).
 2. Send your CV, transcripts, funding situation, and research interests to Gari (`gari AT gatech.edu`).
-3. If you are already at Emory or GT and want to request a 30-min chat, email Cathy Keeler (`ckeeler AT emory.edu`) who will help arrange a meeting.
+3. If you are already at Emory or GT and want to request a 30-min chat, email the admin (`bmi-admin AT emory.edu`) who will help arrange a meeting.
 
 [Job Opportunities](http://gdclifford.info/jobs)
 
