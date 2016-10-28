@@ -163,6 +163,16 @@
  site: "https://www.linkedin.com/in/whitneylaurenhogg"
  pubs: ""
 -
+  name: Chris Myers
+  title: iOS Developer
+  dept: Department of Biomedical Informatics
+  location: Emory University
+  twitter: "https://twitter.com/MyersChris78"
+  picture: '/assets/img/chrismyers.jpeg'
+  email: "cmyers78@gmail.com"
+  site: "https://www.linkedin.com/in/cmyers78"
+  pubs: ""
+-
   name: Aaron Francis
   title: Software Engineering Intern
   dept: Department of Biomedical Informatics
@@ -203,7 +213,7 @@
   site: "https://www.linkedin.com/in/katiana-stephens-778727103"
   pubs: ""
 -
-  name: Katiana Stephens
+  name: Kevin Briggs Jr.
   title: Software Engineering Intern
   dept: Department of Biomedical Informatics
   location: Emory University
