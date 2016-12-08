@@ -1,0 +1,22 @@
+<div class="profile-icons">
+	{% if member.email != "" %}
+	<a href="{{member.email}}">
+		<i class="fa fa-envelope"></i>
+	</a>
+	{% endif %}
+	{% if member.twitter != "" %}
+	<a href="{{member.twitter}}">
+		<i class="fa fa-twitter"></i>
+	</a>
+	{% endif %}
+	{% if member.site != "" %}
+	<a href="{{member.site}}">
+		<i class="fa fa-link"></i>
+	</a>
+	{% endif %}
+	{% if member.pubs != "" %}
+	<a href="{{member.pubs}}">
+		<i class="fa fa-file-text"></i>
+	</a>
+	{% endif %}
+</div>
