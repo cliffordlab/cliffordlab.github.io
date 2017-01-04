@@ -24,6 +24,7 @@ This post outlines what to do, and how.
 4. [BMI listserv](#bmi-listserv)
 5. [Journal club](#journal-club)
 6. [Google Calendars](#google-calendars)
+7. [(Self) Organization](#self-organization)
 
 ---
 
@@ -78,3 +79,14 @@ We have a `Clifford Lab Calendar` for putting in your holidays/absences, or key 
 We also have a `BMI Talks` calendar for seminars.
 
 Feel free to share your personal calendar with Gari (but not the whole group) if you have a particularly complex schedule.
+
+## Self Organization
+
+Perhaps the most important thing in terms of organizing your research is how and where you store all the code, data and information you create. Here's is my basic guide:
+1. Code - store in a private repo on github under clifford lab. Default license is BSD.
+2. Lab diary (see below) - Google Docs, shared with me
+3. Data - beast:/data/... (this is not something you usually create) ... it will soon be mirrored in a synchronised way to a mounted drive on the cluster.
+4. Processed data you generate but is not the original data: your home directory on any BMI machine. This is also mirrored on a mounted drive on the cluster. If it's on your laptop, then use Box or OneDrive to back it up if you have to. The key point here is that no-one but you should have access to this processed data - partially because it may contain PHI, but also because it must be fully regenerable by your code (in github) applied to the fixed original data. When you start to share copies of the data that have been transformed, filtered or altered in some way, the research ceases to be replicable and scientific repeatability is lost. Your research becomes essentially useless and the next person will have to do it all from scratch. This happens in the majority of cases and is a constant source of frustration to the entire scientific community.
+5. Academic papers / thesis etc - use Overleaf.com and share with me. (This can be coupled with github if you wish to work offline, but remember that merging and resolving conflicts is then your job).
+6. References - use Mendeley and insert PDFs of papers and comments on papers and share with the project team.
+7. Documentation of code - README files in github are sometimes not enough ...  I'm happy with a linked google doc if it is more complex, but if you have time to learn github's augmented README file structure and are sure it will stand the test of time, feel free.
