@@ -83,6 +83,7 @@ Feel free to share your personal calendar with Gari (but not the whole group) if
 ## Self Organization
 
 Perhaps the most important thing in terms of organizing your research is how and where you store all the code, data and information you create. Here's is my basic guide:
+
 1. Code - store in a private repo on github under clifford lab. Default license is BSD.
 2. Lab diary (see below) - Google Docs, shared with me
 3. Data - beast:/data/... (this is not something you usually create) ... it will soon be mirrored in a synchronised way to a mounted drive on the cluster.
