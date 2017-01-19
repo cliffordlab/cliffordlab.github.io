@@ -15,12 +15,12 @@ After cloning down the repository, run:
 
 #### Add new member data & upload photo
 
-  1. From root directory, ___data/members.yml__
-  2. From root directory, ___site/assets/img__
+  1. From root directory, _data/members.yml
+  2. From root directory, _site/assets/img
 
 #### Update Alumni, Collaborators or Gari's bio
   1. From root directory, __people/__
-    * you'll notice your changes reflected in the respective ___site/__ files
+    * you'll notice your changes reflected in the respective _site/ files
 
 #### Update Info, Ethics & Jobs Page
   1. From root directory, __info.md__, __ethics.md__ and __jobs.md__
