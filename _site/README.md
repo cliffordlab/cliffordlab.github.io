@@ -1,59 +1,28 @@
-# gdclifford.info
+## [Lab Website](https://github.com/cliffordlab/cliffordlab.github.io) -
 
-This is code for the Clifford Lab website.
+This document will explain where and how to perform common updates to the lab website.
 
-We have a custom domain so cliffordlab.github.io redirects to gdclifford.info.
+First, install RVM (ruby version manager).  This will be good to have if you have to work on any ruby or rails projects.
 
-This site is built with [jekyll](http://jekyllrb.com/).  You must have ruby and ruby gems installed to generate and test the site.
+https://rvm.io/rvm/install
 
-```
-gem install jekyll
-```
+After cloning down the repository, run:
 
-```
-jekyll serve
-```
+  1. ```rvm gemset create lab-website```
+  2. ```rvm gemset use lab-website```
+  3. ```gem install jekyll```
+  4. ```jekyll serve``` and test locally on port 4000
 
-Navigate to `http://localhost:4000`.
+#### Add new member data & upload photo
 
+  1. From root directory, ___data/members.yml__
+  2. From root directory, ___site/assets/img__
 
-###Directory Breakdown
+#### Update Alumni, Collaborators or Gari's bio
+  1. From root directory, __people/__
+    * you'll notice your changes reflected in the respective ___site/__ files
 
-####_data
+#### Update Info, Ethics & Jobs Page
+  1. From root directory, __info.md__, __ethics.md__ and __jobs.md__
 
-YAML files that hold things such as lab member info.
-
-####_includes
-
-HTML templates for the header, footer, and large text blobs.
-
-####_layouts
-
-Holds `default.html` which ties everything together.
-
-####_sass
-
-Partials for sass.
-
-####assets
-
-Where CSS, JS, images are kept.  
-
-`main.scss` is where all the partials are imported.
-
-####Pages
-
-Standalone HTML pages.
-
-
-
-
-
-
-
-
-
-
-
-
-
+Please resist the urge to delete what may appear to be redundant files. They are not.  You may consider restructuring if you have nothing better to do, but do so at your own risk. Have a nice day.
