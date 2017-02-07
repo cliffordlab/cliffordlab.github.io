@@ -133,17 +133,6 @@
  pubs: ""
  email: "mailto:amit.verma@emory.edu"
 -
- name: Trevor Terris
- title: Software Engineer
- dept: Department of Biomedical Informatics
- location: Emory University
- picture: '/assets/img/doge.jpg'
- twitter: ""
- email: "mailto:tjterris@gmail.com"
- site: "https://www.linkedin.com/in/tjterris"
- pubs: ""
-
--
  name: Christopher Aaron
  title: Chief Mobile Software Manager
  dept: Department of Biomedical Informatics
@@ -189,7 +178,7 @@
   dept: Department of Biomedical Informatics
   location: Emory University
   twitter: "https://twitter.com/MyersChris78"
-  picture: '/assets/img/whitechris.jpg'
+  picture: '/assets/img/chrismyers.jpg'
   email: "cmyers78@gmail.com"
   site: "https://www.linkedin.com/in/cmyers78"
   pubs: ""
