@@ -8,7 +8,6 @@
  email: mailto:qiao.li@emory.edu
  site: ""
  pubs: ""
-
 -
  name: Chengyu Liu, PhD
  title: Postdoctoral Fellow
@@ -19,7 +18,6 @@
  email: mailto:chengyu.liu@emory.edu
  site: https://www.linkedin.com/in/chengyu-liu-14299759?trk=hp-identity-name
  pubs: https://scholar.google.co.uk/citations?user=9vfBticAAAAJ&hl=en
-
 -
  name: Adriana Vest, PhD
  title: Postdoctoral Fellow
@@ -57,7 +55,7 @@
  location: Georgia Tech & Emory University
  picture: /assets/img/erik.jpg
  twitter: https://twitter.com/erikrtn
- email: mailto:erikrtn@gmail.com
+ email: mailto:er@gatech.edu
  site: http://erikreinertsen.com
  pubs: https://scholar.google.com/citations?hl=en&user=APy8nq4AAAAJ&view_op=list_works&sortby=pubdate
 -
@@ -73,51 +71,38 @@
 -
  name: Camilo Cuadros
  title: PhD student
- dept: "Department of Math & Computer Science"
- location: "Emory University"
- picture: "/assets/img/camilo.jpg"
+ dept: Department of Math & Computer Science
+ location: Emory University
+ picture: /assets/img/camilo.jpg
  twitter: ""
- email: "mailto:cevacu@gmail.com"
+ email: mailto:cevacu@gmail.com
  site: ""
  pubs: ""
-
 -
  name: Supreeth Prajwal
  title: PhD student
  dept: Dept. of Electrical & Computer Engineering
  location: Georgia Tech
- picture: "/assets/img/supreeth.jpg"
- twitter: ""
- email: "mailto:supreeth@gatech.edu"
- site: "https://sites.google.com/site/supreethprajwal93/home"
+ picture: /assets/img/supreeth.jpg
+ twitter: https://twitter.com/sprajw
+ email: mailto:supreeth@gatech.edu
+ site: https://sites.google.com/site/supreethprajwal93/home
  pubs: ""
-
 -
  name: Nicholas Dunkley
  title: DPhil Student
  dept: Institute of Biomedical Engineering
  location: University of Oxford
- picture: "/assets/img/ndunkley.jpg"
+ picture: "/assets/img/nicholas.jpg"
  twitter: ""
  site: ""
  pubs: ""
-
--
- name: Giulia Da Poian
- title: Visiting PhD student
- dept: Department of Biomedical Informatics
- location: Emory University
- picture: "/assets/img/giuliadapoian.jpg"
- twitter: ""
- site: ""
- pubs: ""
- email: "mailto:dapoian.giulia@spes.uniud.it"
 -
  name: Pradyumna Suresha
  title: PhD student
  dept: Dept. of Electrical & Computer Engineering
  location: Georgia Tech
- picture: "/assets/img/rsz_pradyumna.jpg"
+ picture: "/assets/img/pradyumna.jpg"
  twitter: ""
  site: "https://sites.google.com/site/pradyumnabysuresha/"
  pubs: ""
@@ -127,7 +112,7 @@
  title: Software Engineer
  dept: Department of Biomedical Informatics
  location: Emory University
- picture: "/assets/img/doge.jpg"
+ picture: "/assets/img/amit.jpg"
  twitter: ""
  site: ""
  pubs: ""
@@ -173,62 +158,62 @@
  site: "https://www.linkedin.com/in/whitneylaurenhogg"
  pubs: ""
 -
-  name: Chris Myers
-  title: iOS Developer
-  dept: Department of Biomedical Informatics
-  location: Emory University
-  twitter: "https://twitter.com/MyersChris78"
-  picture: '/assets/img/chrismyers.jpg'
-  email: "cmyers78@gmail.com"
-  site: "https://www.linkedin.com/in/cmyers78"
-  pubs: ""
+ name: Chris Myers
+ title: iOS Developer
+ dept: Department of Biomedical Informatics
+ location: Emory University
+ twitter: "https://twitter.com/MyersChris78"
+ picture: '/assets/img/chrismyers.jpg'
+ email: "cmyers78@gmail.com"
+ site: "https://www.linkedin.com/in/cmyers78"
+ pubs: ""
 -
-  name: Aaron Francis
-  title: Software Engineering Intern
-  dept: Department of Biomedical Informatics
-  location: Emory University
-  twitter: ""
-  picture: '/assets/img/aaronfrancis.jpg'
-  email: "francis.aarons@gmail.com"
-  site: "https://www.linkedin.com/in/francis-aaron"
-  pubs: ""
+ name: Aaron Francis
+ title: Software Engineering Intern
+ dept: Department of Biomedical Informatics
+ location: Emory University
+ twitter: ""
+ picture: '/assets/img/aaronfrancis.jpg'
+ email: "francis.aarons@gmail.com"
+ site: "https://www.linkedin.com/in/francis-aaron"
+ pubs: ""
 -
-  name: Tisha Sutherland
-  title: Software Engineering Intern
-  dept: Department of Biomedical Informatics
-  location: Emory University
-  twitter: ""
-  picture: '/assets/img/tishasutherland.jpg'
-  email: "tisha.sutherland2001@gmail.com"
-  site: "https://www.linkedin.com/in/tishasutherland"
-  pubs: ""
+ name: Tisha Sutherland
+ title: Software Engineering Intern
+ dept: Department of Biomedical Informatics
+ location: Emory University
+ twitter: ""
+ picture: '/assets/img/tishasutherland.jpg'
+ email: "tisha.sutherland2001@gmail.com"
+ site: "https://www.linkedin.com/in/tishasutherland"
+ pubs: ""
 -
-  name: Corey Shaw
-  title: Software Engineering Intern
-  dept: Department of Biomedical Informatics
-  location: Emory University
-  twitter: ""
-  picture: '/assets/img/coreyshaw.jpg'
-  email: "coreyrshaw@gmail.com"
-  site: "https://www.linkedin.com/in/corey-shaw-626969b2"
-  pubs: ""
+ name: Corey Shaw
+ title: Software Engineering Intern
+ dept: Department of Biomedical Informatics
+ location: Emory University
+ twitter: ""
+ picture: '/assets/img/coreyshaw.jpg'
+ email: "coreyrshaw@gmail.com"
+ site: "https://www.linkedin.com/in/corey-shaw-626969b2"
+ pubs: ""
 -
-  name: Katiana Stephens
-  title: Software Engineering Intern
-  dept: Department of Biomedical Informatics
-  location: Emory University
-  twitter: ""
-  picture: '/assets/img/katianastephens.jpg'
-  email: "kcjstephens@gmail.com"
-  site: "https://www.linkedin.com/in/katiana-stephens-778727103"
-  pubs: ""
+ name: Katiana Stephens
+ title: Software Engineering Intern
+ dept: Department of Biomedical Informatics
+ location: Emory University
+ twitter: ""
+ picture: '/assets/img/katianastephens.jpg'
+ email: "kcjstephens@gmail.com"
+ site: "https://www.linkedin.com/in/katiana-stephens-778727103"
+ pubs: ""
 -
-  name: Kevin Briggs Jr.
-  title: Software Engineering Intern
-  dept: Department of Biomedical Informatics
-  location: Emory University
-  twitter: ""
-  picture: '/assets/img/kevinbriggs.jpg'
-  email: "kjproduction10@gmail.com"
-  site: "https://www.linkedin.com/in/kevin-briggs-jr-508225112"
-  pubs: ""
+ name: Kevin Briggs Jr.
+ title: Software Engineering Intern
+ dept: Department of Biomedical Informatics
+ location: Emory University
+ twitter: ""
+ picture: '/assets/img/kevinbriggs.jpg'
+ email: "kjproduction10@gmail.com"
+ site: "https://www.linkedin.com/in/kevin-briggs-jr-508225112"
+ pubs: ""
