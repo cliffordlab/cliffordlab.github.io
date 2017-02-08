@@ -1,7 +1,8 @@
 ---
-layout: default
 title: Jobs - Clifford Lab
+layout: default
 ---
+
 <div class="jumbotron">
         <h1>Jobs</h1>
 </div>
