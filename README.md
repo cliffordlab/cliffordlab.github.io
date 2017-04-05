@@ -6,7 +6,7 @@ This document will explain where and how to perform common updates to Gari's gro
 
 Before you edit this website, install RVM and Jekyll.
 
-https://rvm.io/rvm/install
+https://rvm.io/rvm/install  
 https://jekyllrb.com/docs/installation/
 
 > Note: you probably need to `brew install jekyll-seo-tag` too.
