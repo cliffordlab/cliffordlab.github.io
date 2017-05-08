@@ -86,13 +86,10 @@ Check out the [website](http://nematilab.info/bmijc/), which also explains how t
 
 ## Google Calendars
 
-We have a `Clifford Lab Calendar` for putting in your holidays/absences, or key meetings in the group.
+We have several Google calendars:
 
-We also have a `BMI Talks` calendar for seminars.
-
-Ask anyone in the lab to invite you to both.
-
-Feel free to share your personal calendar with Gari (but not the whole group) if you have a particularly complex schedule.
+1. The `Clifford Lab` calendar lists lab members' holidays/absences, key group meetings, and social events. Ask Gari Clifford for access.
+2. The `BMI Talks` calendar lists departmental talks, seminars, etc. Ask Barbara Birt for access.
 
 
 ## Workflow
