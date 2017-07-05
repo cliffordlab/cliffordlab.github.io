@@ -19,36 +19,6 @@
  site: https://www.linkedin.com/in/chengyu-liu-14299759?trk=hp-identity-name
  pubs: https://scholar.google.co.uk/citations?user=9vfBticAAAAJ&hl=en
 -
- name: Adriana Vest, PhD
- title: Postdoctoral Fellow
- dept: Department of Biomedical Engineering
- location: Georgia Tech & Emory University
- picture: /assets/img/adriana.jpg
- twitter: ""
- email: mailto:anvest@gatech.edu
- site: https://www.linkedin.com/in/adriana-nicholson-vest-a5334b10
- pubs: https://scholar.google.com/citations?hl=en&user=tSjgUqEAAAAJ&view_op=list_works&sortby=pubdate
--
- name: LaVonda Brown, PhD
- title: Postdoctoral Fellow
- dept: Department of Biomedical Informatics
- location: Emory University
- picture: /assets/img/lavondabrown.jpg
- email: mailto:lavonda.n.brown@emory.edu
- twitter: ""
- site: ""
- pubs: ""
--
- name: Elnaz Gederi
- title: DPhil candidate
- dept: Institute of Biomedical Engineering
- location: University of Oxford
- picture: "/assets/img/elnaz.jpg"
- twitter: ""
- email: "mailto:elnaz.gederi@eng.ox.ac.uk"
- site: ""
- pubs: ""
--
  name: Erik Reinertsen
  title: MD/PhD student
  dept: Department of Biomedical Engineering
@@ -87,15 +57,6 @@
  twitter: https://twitter.com/sprajw
  email: mailto:supreeth@gatech.edu
  site: https://sites.google.com/site/supreethprajwal93/home
- pubs: ""
--
- name: Nicholas Dunkley
- title: DPhil Student
- dept: Institute of Biomedical Engineering
- location: University of Oxford
- picture: "/assets/img/nicholas.jpg"
- twitter: ""
- site: ""
  pubs: ""
 -
  name: Pradyumna Suresha
