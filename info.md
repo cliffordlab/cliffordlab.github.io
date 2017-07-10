@@ -51,7 +51,7 @@ Once you have your card, email Leita Young (`lkyoung AT emory.edu`) to request t
 
 ## Roster
 
-Ask Erik Reinertsen (`erikrtn AT gmail DOT com`) for an invitation to our lab roster Google Spreadsheet, then add your info.
+Ask Erik Reinertsen (`er AT gatech DOT edu`) for an invitation to our lab roster Google Spreadsheet, then add your info.
 
 
 ## Listserv
