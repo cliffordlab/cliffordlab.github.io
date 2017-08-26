@@ -29,16 +29,6 @@
  site: https://www.linkedin.com/in/giulia-da-poian-38414653/
  pubs: https://scholar.google.com/scholar?hl=en&q=Giulia+Da+Poian&btnG=&as_sdt=1%2C11&as_sdtp=
 -
- name: Erik Reinertsen
- title: MD/PhD student
- dept: Department of Biomedical Engineering
- location: Georgia Tech & Emory University
- picture: /assets/img/erik.jpg
- twitter: https://twitter.com/erikrtn
- email: mailto:er@gatech.edu
- site: http://erikreinertsen.com
- pubs: https://scholar.google.com/citations?hl=en&user=APy8nq4AAAAJ&view_op=list_works&sortby=pubdate
--
  name: Rafi Haque
  title: MD/PhD student
  dept: Department of Biomedical Informatics
@@ -78,6 +68,16 @@
  site: "https://sites.google.com/site/pradyumnabysuresha/"
  pubs: ""
  email: "mailto:pradyumna@gatech.edu"
+-
+ name: Ayse Cakmak
+ title: PhD student
+ dept: Dept. of Electrical & Computer Engineering
+ location: Georgia Tech
+ picture: "/assets/img/ayse.jpg"
+ twitter: ""
+ site: ""
+ pubs: ""
+ email: "mailto:acakmak3@gatech.edu"
 -
  name: Amit Verma
  title: Software Engineer
