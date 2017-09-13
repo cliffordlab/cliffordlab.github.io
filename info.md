@@ -9,14 +9,13 @@ layout: default
 
 ## Contacting BMI
 
-If you wish to get in touch with Prof. Clifford please email him (`gari AT gatech.edu`) and ensure you cc the BMI admin (`bmi-admin AT emory.edu`) who will help arrange a meeting. If you do not cc the admin your email may go into the void.
+If you wish to get in touch with Prof. Clifford please email him (`gari AT gatech.edu`) and CC the BMI admin (`bmi-admin AT emory.edu`) who will help arrange a meeting.
 
+---
 
 # Onboarding
 
-Everyone joining the Clifford Lab has a few logistical to-dos.
-
-This post outlines what to do, and how.
+This post outlines what to do, and how, when you join the lab.
 
 0. [Joining the lab](#joining-the-lab)
 1. [Access to Building](#access-to-building)
@@ -51,7 +50,7 @@ Once you have your card, email Leita Young (`lkyoung AT emory.edu`) to request t
 
 ## Roster
 
-Ask Erik Reinertsen (`er AT gatech DOT edu`) for an invitation to our lab roster Google Spreadsheet, then add your info.
+Ask a lab member for an invitation to our Google Spreadsheet roster and add your info.
 
 
 ## Listserv
