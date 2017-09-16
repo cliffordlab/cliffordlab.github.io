@@ -149,16 +149,6 @@
  site: "https://www.linkedin.com/in/francis-aaron"
  pubs: ""
 -
- name: Tisha Sutherland
- title: Software Engineering Intern
- dept: Department of Biomedical Informatics
- location: Emory University
- twitter: ""
- picture: '/assets/img/tishasutherland.jpg'
- email: "tisha.sutherland2001@gmail.com"
- site: "https://www.linkedin.com/in/tishasutherland"
- pubs: ""
--
  name: Corey Shaw
  title: Software Engineering Intern
  dept: Department of Biomedical Informatics
@@ -167,16 +157,6 @@
  picture: '/assets/img/coreyshaw.jpg'
  email: "coreyrshaw@gmail.com"
  site: "https://www.linkedin.com/in/corey-shaw-626969b2"
- pubs: ""
--
- name: Katiana Stephens
- title: Software Engineering Intern
- dept: Department of Biomedical Informatics
- location: Emory University
- twitter: ""
- picture: '/assets/img/katianastephens.jpg'
- email: "kcjstephens@gmail.com"
- site: "https://www.linkedin.com/in/katiana-stephens-778727103"
  pubs: ""
 -
  name: Kevin Briggs Jr.
