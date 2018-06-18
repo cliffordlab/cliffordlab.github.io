@@ -9,16 +9,6 @@
  site: ""
  pubs: ""
 -
- name: Chengyu Liu, PhD
- title: Postdoctoral Fellow
- dept: Department of Biomedical Informatics
- location: Emory University
- picture: /assets/img/chengyu.jpg
- twitter: ""
- email: mailto:chengyu.liu@emory.edu
- site: https://www.linkedin.com/in/chengyu-liu-14299759?trk=hp-identity-name
- pubs: https://scholar.google.co.uk/citations?user=9vfBticAAAAJ&hl=en
--
  name: Giulia Da Poian, PhD
  title: Postdoctoral Fellow
  dept: Department of Biomedical Informatics
@@ -39,7 +29,7 @@
  site: ""
  pubs: ""
 -
- name: Camilo Cuadros
+ name: Camilo Valderrama
  title: PhD student
  dept: Department of Math & Computer Science
  location: Emory University
@@ -69,6 +59,46 @@
  pubs: ""
  email: "mailto:pradyumna@gatech.edu"
 -
+ name: Ismail Sadiq
+ title: PhD student
+ dept: Dept. of Electrical & Computer Engineering
+ location: Georgia Tech
+ picture: "/assets/img/ismail.jpg"
+ twitter: ""
+ site: ""
+ pubs: ""
+ email: "mailto:ismail.sadiq@gatech.edu"
+-
+ name: Nasim Katebi
+ title: PhD student
+ dept: Department of Biomedical Informatics
+ location: Emory University
+ picture: "/assets/img/nasim.png"
+ twitter: ""
+ site: ""
+ pubs: ""
+ email: "mailto:nasim.katebi@gmail.com"
+-
+ name: Jacob Zelko
+ title: Data Information Specialist
+ dept: Department of Biomedical Engineering
+ location: Georgia Tech
+ picture: "/assets/img/jacob.png"
+ twitter: "https://twitter.com/Jacob_Zelko"
+ site: ""
+ pubs: ""
+ email: "mailto:jacobszelko@gatech.edu"
+-
+ name: Rush Leigh
+ title: BS Student
+ dept: Department of Biomedical Engineering
+ location: Georgia Tech
+ picture: "/assets/img/rush.png"
+ twitter: ""
+ site: ""
+ pubs: ""
+ email: "mailto:rush.a.leigh@gmail.com"
+-
  name: Ayse Cakmak
  title: PhD student
  dept: Dept. of Electrical & Computer Engineering
@@ -78,6 +108,26 @@
  site: ""
  pubs: ""
  email: "mailto:acakmak3@gatech.edu"
+-
+ name: Samaneh Nasiri
+ title: PhD student
+ dept: Department of Biomedical Informatics
+ location: Emory University
+ picture: "/assets/img/samaneh.png"
+ twitter: ""
+ site: ""
+ pubs: ""
+ email: "mailto:samaneh.nasiri.gh@gmail.com"
+-
+ name: Mohsen Salari
+ title: Software Engineer
+ dept: Department of Biomedical Informatics
+ location: Emory University
+ picture: "/assets/img/mohsen.png"
+ twitter: ""
+ site: ""
+ pubs: ""
+ email: "mailto:mohsen.saalari@gmail.com"
 -
  name: Amit Verma
  title: Software Engineer
@@ -89,15 +139,35 @@
  pubs: ""
  email: "mailto:amit.verma@emory.edu"
 -
- name: Christopher Aaron
- title: Chief Mobile Software Manager
+ name: Alvince Pongos
+ title: Research Assistant
  dept: Department of Biomedical Informatics
  location: Emory University
- picture: '/assets/img/chris.jpg'
- twitter: ""
- email: "mailto:chriswainwrightaaron@gmail.com"
- site: "https://www.linkedin.com/in/chriswaaron"
+ picture: '/assets/img/al.png'
  pubs: ""
+ twitter: ""
+ site: ""
+ email: "mailto:alvince.learnz.pongos@emory.edu"
+-
+ name: Rob Mannino
+ title: Post-Doc
+ dept: Department of Biomedical Informatics
+ location: Georgia Tech
+ picture: '/assets/img/rob.png'
+ pubs: ""
+ twitter: ""
+ site: "https://www.linkedin.com/in/robert-mannino-53127155/"
+ email: ""
+-
+ name: Ian An-Kwok Wong
+ title: Internal Medicine Resident
+ dept: Department of Biomedical Informatics
+ location: Emory University
+ picture: '/assets/img/ian.png'
+ pubs: "https://scholar.google.com/citations?hl=en&user=WUsArK4AAAAJ"
+ twitter: ""
+ site: "http://aiwong.com/"
+ email: "http://aiwong.com/#contact"
 -
  name: Ramesh Manyam
  title: Database Architect
