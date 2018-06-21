@@ -108,16 +108,16 @@
  site: ""
  pubs: ""
  email: "mailto:acakmak3@gatech.edu"
- -
-  name: Shafa-at Ali Sheikh
-  title: PhD student
-  dept: Dept. of Electrical & Computer Engineering
-  location: Georgia Tech
-  picture: "/assets/img/shafa-at.png"
-  twitter: ""
-  site: ""
-  pubs: "https://scholar.google.com/citations?user=G8l2_MwAAAAJ&hl=en&oi=ao"
-  email: "mailto:sashei3@emory.edu"
+-
+ name: Shafa-at Ali Sheikh
+ title: PhD student
+ dept: Dept. of Electrical & Computer Engineering
+ location: Georgia Tech
+ picture: "/assets/img/shafa-at.jpg"
+ twitter: ""
+ site: ""
+ pubs: "https://scholar.google.com/citations?user=G8l2_MwAAAAJ&hl=en&oi=ao"
+ email: "mailto:sashei3@emory.edu"
 -
  name: Samaneh Nasiri
  title: PhD student
