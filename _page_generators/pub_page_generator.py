@@ -237,7 +237,7 @@ def theses(theses_file, html_file):
 
 def main():
 
-    header_html("../pages/test_publications.html")
+    header_html("../pages/publications.html")
     journals("publication_info/data/JOURNALS.txt", "../pages/publications.html")
     reviews_editorials("publication_info/data/REVIEWS_EDITORIALS.txt", "../pages/publications.html")
     teaching_aids("publication_info/data/TEACHING_AIDS.txt", "../pages/publications.html")
