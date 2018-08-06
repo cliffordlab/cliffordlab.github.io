@@ -245,7 +245,7 @@ def main():
     books_chapters("publication_info/data/BOOKS_CHAPTERS.txt", "../pages/publications.html")
     other_material("publication_info/data/MATERIAL.txt", "../pages/publications.html")
     theses("publication_info/data/THESES.txt", "../pages/publications.html")
-    end_html("../pages/test_publications.html")
+    end_html("../pages/publications.html")
 
 if __name__ == "__main__":
     main()
