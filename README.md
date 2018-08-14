@@ -73,7 +73,7 @@ Uh... Use bmiwebdev! Speak with BMI administration to get it set up (look at ins
 
 ## _page_generators
 
-In the _page_generators folder, there are tools provided for easy updating of critical parts of the website - namely of which is the publications page. Here are descriptions of the current page generator tools:
+In the _page_generators folder, there are tools provided for easy updating of critical parts of the website. These tools are designed to be sufficiently extensible for adding new components to a page. Please, do not hard code anything and reinvent the wheel. Here are descriptions of the current page generator tools:
 
 ### pub_page_generator.py
 
@@ -91,17 +91,49 @@ Say we have the journal publication "Doe, J. How to Be Awesome in 5 Steps. Natur
 
 For different publication types either look for the corresponding file in the data folder or speak with Dr. Clifford to determine where it goes.
 
-Here is a guided video tutorial of the process:
-
-
-
 >Note: Keep in mind when you are adding new entries, you will need to put them manually in proper date order - check the publication dates in the previously recorded entries.
 
-## Where to add content
+## How to Update Members Page
 
-+ Add new member data to `_data/members.yml`
-+ Add new member pics to `_site/assets/img`
-+ Update Alumni, Collaborators or Gari's bio in `__people/__`
+To update the members page, go to the file `members.yml` in the _data file. To add a new person to the members page, add new yml like so:
+
+```
+-
+ name: Who, MD
+ title: Time Lord
+ dept: TARDIS
+ location: Space
+ picture: /assets/img/who.jpg
+ twitter: "https://twitter.com/bbcdoctorwho"
+ email: mailto:badwolf@infinitymail.xio
+ site: "https://www.doctorwho.tv/"
+ pubs: "http://www.bbc.com/"
+-
+```
+
+Make sure if you want to include an image alongside a person's profile, to put that image in the _site/assets/img folder.
+
+> Note: Do not forget the hyphens and indentation levels! yml files are quite picky.
+
+## Updating the Rest of the Website
+
+The rest of the website is much easier to update. Here are locations for files and what files to edit to get the desired changes:
+
++ Update Alumni or Gari's bio in `__people/__`
 + Update Info (onboarding) at `__info.md__`
 + Update Ethics at ` __ethics.md__`
 + Update Jobs Page at ` __jobs.md__`
+
+---
+
+# Notes
+
+You may notice an .old_pages folder; these are where old pages from the website go - rather than delete those files, put them here and comment the permalink path out at the top of the old files.
+
+<br/>
+
+If you have any questions about things, contact the BMI administration or [TheCedarPrince](mailto:thecedarprince@gmail.com).
+
+<br/>
+
+~ TheCedarPrince
