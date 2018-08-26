@@ -237,6 +237,15 @@ def theses(theses_file, html_file):
 
 def main():
 
+    """
+    This quick script generates the HTML needed for the publications html file
+    in the pages folder. One can create another section as long as you include
+    the proper HTML in the new method.
+
+    If adding a new section, make sure to add the data in the publication_info
+    folder.
+    """
+
     header_html("../pages/publications.html")
     journals("publication_info/data/JOURNALS.txt", "../pages/publications.html")
     reviews_editorials("publication_info/data/REVIEWS_EDITORIALS.txt", "../pages/publications.html")
