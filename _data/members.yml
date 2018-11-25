@@ -89,16 +89,6 @@
  pubs: ""
  email: "mailto:jacobszelko@gatech.edu"
 -
- name: Rush Leigh
- title: BS Student
- dept: Department of Biomedical Engineering
- location: Georgia Tech
- picture: "/assets/img/rush.png"
- twitter: ""
- site: ""
- pubs: ""
- email: "mailto:rush.a.leigh@gmail.com"
--
  name: Ayse Cakmak
  title: PhD student
  dept: Dept. of Electrical & Computer Engineering
@@ -118,16 +108,6 @@
  site: ""
  pubs: "https://scholar.google.com/citations?user=G8l2_MwAAAAJ&hl=en&oi=ao"
  email: "mailto:sashei3@emory.edu"
--
- name: Taniel Winner
- title: PhD student
- dept: Dept. of Biomedical Engineering
- location: Georia Tech
- picture: /assets/img/taniel.jpg
- email: mailto:twinner@emory.edu
- twitter: ""
- site: "https://www.linkedin.com/in/tanielwinner/"
- pubs: ""
 -
  name: Samaneh Nasiri
  title: PhD student
@@ -173,7 +153,7 @@
  title: Post-Doc
  dept: Department of Biomedical Informatics
  location: Georgia Tech
- picture: '/assets/img/rob.png'
+ picture: '/assets/img/mannino.jpg'
  pubs: ""
  twitter: ""
  site: "https://www.linkedin.com/in/robert-mannino-53127155/"
@@ -219,26 +199,6 @@
  site: "https://www.linkedin.com/in/whitneylaurenhogg"
  pubs: ""
 -
-#  name: Chris Myers
-#  title: iOS Developer
-#  dept: Department of Biomedical Informatics
-#  location: Emory University
-#  twitter: "https://twitter.com/MyersChris78"
-#  picture: '/assets/img/chrismyers.jpg'
-#  email: "cmyers78@gmail.com"
-#  site: "https://www.linkedin.com/in/cmyers78"
-#  pubs: ""
-# -
- name: Aaron Francis
- title: Software Engineering Intern
- dept: Department of Biomedical Informatics
- location: Emory University
- twitter: ""
- picture: '/assets/img/aaronfrancis.jpg'
- email: "francis.aarons@gmail.com"
- site: "https://www.linkedin.com/in/francis-aaron"
- pubs: ""
--
  name: Corey Shaw
  title: Software Engineering Intern
  dept: Department of Biomedical Informatics
@@ -248,13 +208,4 @@
  email: "coreyrshaw@gmail.com"
  site: "https://www.linkedin.com/in/corey-shaw-626969b2"
  pubs: ""
-# -
-#  name: Kevin Briggs Jr.
-#  title: Software Engineering Intern
-#  dept: Department of Biomedical Informatics
-#  location: Emory University
-#  twitter: ""
-#  picture: '/assets/img/kevinbriggs.jpg'
-#  email: "kjproduction10@gmail.com"
-#  site: "https://www.linkedin.com/in/kevin-briggs-jr-508225112"
-#  pubs: ""
+-
