@@ -109,6 +109,16 @@
  pubs: "https://scholar.google.com/citations?user=G8l2_MwAAAAJ&hl=en&oi=ao"
  email: "mailto:sashei3@emory.edu"
 -
+ name: Zifan Jiang
+ title: PhD Student
+ dept: Department of Biomedical Engineering
+ location: Georgia Tech
+ picture: "/assets/img/zifan.jpg"
+ twitter: ""
+ site: "https://www.linkedin.com/in/zifan-jiang/"
+ email: "mailto:zifanjiang@gatech.edu"
+ pubs: ""
+-
  name: Samaneh Nasiri
  title: PhD student
  dept: Department of Biomedical Informatics
@@ -208,4 +218,3 @@
  email: "coreyrshaw@gmail.com"
  site: "https://www.linkedin.com/in/corey-shaw-626969b2"
  pubs: ""
--
