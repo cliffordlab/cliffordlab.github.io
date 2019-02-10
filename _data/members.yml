@@ -89,6 +89,16 @@
  pubs: ""
  email: "mailto:jacobszelko@gatech.edu"
 -
+ name: Nick Shu
+ title: PhD Student
+ dept: Department of Biomedical Engineering
+ location: Georgia Tech
+ picture: "/assets/img/nick.jpg"
+ twitter: ""
+ site: ""
+ pubs: ""
+ email: "nickshu@gatech.edu"
+-
  name: Ayse Cakmak
  title: PhD student
  dept: Dept. of Electrical & Computer Engineering
@@ -130,7 +140,7 @@
  email: "mailto:snasiri@emory.edu"
 -
  name: Mohsen Salari
- title: Software Engineer
+ title: PhD student
  dept: Department of Biomedical Informatics
  location: Emory University
  picture: "/assets/img/mohsen.png"
