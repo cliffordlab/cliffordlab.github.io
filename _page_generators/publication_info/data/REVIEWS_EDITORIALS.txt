@@ -13,7 +13,7 @@ Clifford GD| E-health in low to middle income countries| Journal Of Medical Engi
 Clifford GD, Silva I, Moody B, Li Q, Kella D, Chahin A, Kooistra T, Perry D, Mark RG| False alarm reduction in critical care (Editorial)| Physiol Meas. 2016 Aug;37(8):E5-E23|Unavailable
 Clifford GD, Liu C, Moody B, Millet J, Schmidt S, Li Q, Silva I, Mark RG| Recent advances in heart sound analysis| PhysiolMeas. 2017 Aug 1;38(8):E10-E25|https://drive.google.com/open?id=0B5wjNvhEV8-iNUEwWV84U0pIcWZyRzJfaEJfcjQ1aTZ5MFNn
 Oster J, Clifford GD| Acquisition of electrocardiogram signals during magnetic resonance imaging| Physiol Meas. 2017 Jun 22;38(7):R119-R142|Unavailable
-Herman A. Taylor Jr, Gari D. Clifford, Makia E. Powers| Hypertension Disparities - The Hidden Vulnerability of Youth| JAMA Cardiol. 2017;2(6):661-663|Unavailable
+Herman A. Taylor Jr, Gari D. Clifford, Makia E. Powers| Hypertension Disparities - The Hidden Vulnerability of Youth| JAMA Cardiol. 2017;2(6):661-663|https://drive.google.com/file/d/1Fo62jFpPf4MnMbw5Lt0znN_IVWMTX1bB/view?usp=sharing
 E Reinertsen, GD Clifford| A review of physiological and behavioral monitoring with digital sensors for neuropsychiatric illnesses| Physiol. Meas. 39 (5), 05TR01, May 2018|https://drive.google.com/file/d/1ZJzPubujQBrb4AnC-ZrgepSvKpkTnRwB/view
 Marzbanrad F, Stroux L, Clifford GD| Cardiotocography and beyond: a review of one-dimensional Doppler ultrasound application in fetal monitoring| Physiol Meas. 2018 Jul 20|https://drive.google.com/file/d/1b5J5SbJaxa9JO-H9Q7OPEBalzvBv2SL8/view
 Abbasi A, Li J, Clifford GD, Taylor H| Make “Fairness by Design” Part of Machine Learning| Harvard Business Review, August 01 2018|https://drive.google.com/file/d/1S-qQqld1zIF9fGEnurj44GuxXwfArFx3/view
