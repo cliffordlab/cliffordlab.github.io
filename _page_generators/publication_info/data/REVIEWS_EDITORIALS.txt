@@ -17,3 +17,4 @@ Herman A. Taylor Jr, Gari D. Clifford, Makia E. Powers| Hypertension Disparities
 E Reinertsen, GD Clifford| A review of physiological and behavioral monitoring with digital sensors for neuropsychiatric illnesses| Physiol. Meas. 39 (5), 05TR01, May 2018|https://drive.google.com/file/d/1ZJzPubujQBrb4AnC-ZrgepSvKpkTnRwB/view
 Marzbanrad F, Stroux L, Clifford GD| Cardiotocography and beyond: a review of one-dimensional Doppler ultrasound application in fetal monitoring| Physiol Meas. 2018 Jul 20|https://drive.google.com/file/d/1b5J5SbJaxa9JO-H9Q7OPEBalzvBv2SL8/view
 Abbasi A, Li J, Clifford GD, Taylor H| Make “Fairness by Design” Part of Machine Learning| Harvard Business Review, August 01 2018|https://drive.google.com/file/d/1S-qQqld1zIF9fGEnurj44GuxXwfArFx3/view
+J Behar, J Oster, M De Vos, GD Clifford | Wearables and mHealth in mental health and neurological disorders | Phys. Meas.  2019 (In Press) | https://drive.google.com/open?id=1lye1eO7sk8hEwfCkqFrrZ3n7mDpd3Xhu
