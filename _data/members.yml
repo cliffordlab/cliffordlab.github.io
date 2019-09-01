@@ -9,15 +9,25 @@
  site: ""
  pubs: ""
 -
- name: Giulia Da Poian, PhD
- title: Postdoctoral Fellow
+ name: Matthew Reyna
+ title: Postdoctoral Researcher
  dept: Department of Biomedical Informatics
  location: Emory University
- picture: /assets/img/giulia.jpg
+ picture: "/assets/img/mreyna.jpg"
  twitter: ""
- email: mailto:giulia.dap@gmail.com
- site: https://www.linkedin.com/in/giulia-da-poian-38414653/
- pubs: https://scholar.google.com/scholar?hl=en&q=Giulia+Da+Poian&btnG=&as_sdt=1%2C11&as_sdtp=
+ email: "mailto:matthew@dbmi.emory.edu"
+ site: ""
+ pubs: ""
+-
+ name: Salman Seyedi
+ title: Postdoctoral Researcher
+ dept: Department of Biomedical Informatics
+ location: Emory University
+ picture: "/assets/img/sseyedi.jpg"
+ twitter: ""
+ email: "mailto:sseyedi@emory.edu"
+ site: ""
+ pubs: ""
 -
  name: Rafi Haque
  title: MD/PhD student
@@ -158,16 +168,6 @@
  site: ""
  pubs: ""
  email: "mailto:amit.verma@emory.edu"
--
- name: Alvince Pongos
- title: Research Assistant
- dept: Department of Biomedical Informatics
- location: Emory University
- picture: '/assets/img/al.png'
- pubs: ""
- twitter: ""
- site: ""
- email: "mailto:alvince.learnz.pongos@emory.edu"
 -
  name: Rob Mannino
  title: Post-Doc
