@@ -1,0 +1,100 @@
+I"�<div class="jumbotron">
+        <h1>Info</h1>
+</div>
+
+<h2 id="contacting-bmi">Contacting BMI</h2>
+
+<p>If you wish to get in touch with Prof. Clifford please email him (<code class="highlighter-rouge">gari AT gatech.edu</code>) and CC the BMI admin (<code class="highlighter-rouge">bmi-admin AT emory.edu</code>) who will help arrange a meeting.</p>
+
+<hr />
+
+<h1 id="onboarding">Onboarding</h1>
+
+<p>This post outlines what to do, and how, when you join the lab.</p>
+
+<ol>
+  <li><a href="#joining-the-lab">Joining the lab</a></li>
+  <li><a href="#access-to-building">Access to Building</a></li>
+  <li><a href="#roster">Roster</a></li>
+  <li><a href="#listserv">Listserv</a></li>
+  <li><a href="#slack">Slack</a></li>
+  <li><a href="#bmi-listserv">BMI listserv</a></li>
+  <li><a href="#journal-club">Journal club</a></li>
+  <li><a href="#google-calendars">Google Calendars</a></li>
+  <li><a href="#workflow">Workflow</a></li>
+</ol>
+
+<hr />
+
+<h2 id="joining-the-lab">Joining the lab</h2>
+
+<p>If you are a student or postdoc interested in joining the Clifford Lab:</p>
+
+<ol>
+  <li>Look at our <a href="http://gdclifford.info/jobs">listing of jobs</a>.</li>
+  <li>Read Gari’s <a href="http://gdclifford.info/ethics">ethics and expectations</a>.</li>
+  <li>Send your CV, transcripts, funding situation, and research interests to Gari (<code class="highlighter-rouge">gari AT gatech.edu</code>).</li>
+  <li>If you are already at Emory or GT and want to request a 30-min chat, email the admin (<code class="highlighter-rouge">bmi-admin AT emory.edu</code>) who will help arrange a meeting.</li>
+</ol>
+
+<h2 id="access-to-building">Access to building</h2>
+
+<p>Our office at HSRB requires keycard access.</p>
+
+<p>First, get your Emory ID card from the Emory card office.</p>
+
+<p>Once you have your card, email Leita Young (<code class="highlighter-rouge">lkyoung AT emory.edu</code>) to request to have building access granted to your card.</p>
+
+<h2 id="roster">Roster</h2>
+
+<p>Ask a lab member for an invitation to our Google Spreadsheet roster and add your info.</p>
+
+<h2 id="listserv">Listserv</h2>
+
+<p>Go to our <a href="https://groups.google.com/d/forum/cliffordgroup">Google Group</a> and request access. This is how Gari or the BMI administration contacts all of us.</p>
+
+<h2 id="slack">Slack</h2>
+
+<p>Most of our group communicates in <a href="http://slack.com">Slack</a>. Ask anyone in the lab to invite you to the team.</p>
+
+<h2 id="bmi-student-listserv">BMI student listserv</h2>
+
+<p>Join the listserv for the Department of Biomedical Informatics.</p>
+
+<p>Navigate to <a href="http://listserv.cc.emory.edu">listserv.cc.emory.edu</a> and log in.</p>
+
+<p>Under “unlisted lists”, search for <code class="highlighter-rouge">cci-students</code>.</p>
+
+<p>Select that listserv and click subscribe.</p>
+
+<h2 id="journal-club">Journal Club</h2>
+
+<p>Students and postdocs attend and present at our journal club.</p>
+
+<p>Check out the <a href="http://nematilab.info/bmijc/">website</a>, which also explains how to sign up to present.</p>
+
+<p><em>NOTE: this is currently paused.</em></p>
+
+<h2 id="google-calendars">Google Calendars</h2>
+
+<p>We have several Google calendars:</p>
+
+<ol>
+  <li>The <code class="highlighter-rouge">Clifford Lab</code> calendar lists lab members’ holidays/absences, key group meetings, and social events. Ask Gari Clifford for access.</li>
+  <li>The <code class="highlighter-rouge">BMI Talks</code> calendar lists departmental talks, seminars, etc. Ask Barbara Birt for access.</li>
+</ol>
+
+<h2 id="workflow">Workflow</h2>
+
+<p>We’ve developed some standard ways to store code, data, and information:</p>
+
+<ul>
+  <li><strong>Code</strong> - store in a private repo on <a href="https://github.com/cliffordlab/">https://github.com/cliffordlab/</a>. Default license is BSD.</li>
+  <li><strong>Documentation of code</strong> - Learn Markdown and write good README files in your GitHub project repo.</li>
+  <li><strong>Lab diary</strong> - Google Docs, shared with Gari.</li>
+  <li><strong>Original data</strong> - <code class="highlighter-rouge">beast:/data/...</code> (this is not something you usually create) … it will soon be mirrored in a synchronised way to a mounted drive on the cluster.</li>
+  <li><strong>Processed data you generate but is not the original data</strong> - your home directory on any BMI machine. This is also mirrored on a mounted drive on the cluster. If it’s on your laptop, then use Box or OneDrive to back it up if you have to. Make sure your machine is encrypted. The key point here is that no-one but you should have access to this processed data - partially because it may contain PHI, but also because it must be fully reproducible by your code applied to the fixed original data. When you share copies of the data that have been transformed, filtered, or altered in some way, the research ceases to be replicable and scientific repeatability is lost. Your research becomes useless and the next person will have to do it all from scratch. This happens often and is a constant source of frustration to everyone.</li>
+  <li><strong>Manuscripts, thesis, etc.</strong> - use <a href="https://overleaf.com">Overleaf</a> and share with Gari. You can use <a href="https://www.overleaf.com/blog/195-new-collaborate-online-and-offline-with-overleaf-and-git-beta">Git to work offline</a>, but merging and resolving conflicts is then your job.</li>
+  <li><strong>References and papers</strong> - use Mendeley and insert PDFs of papers and comments on papers and share with the project team.</li>
+</ul>
+:ET
