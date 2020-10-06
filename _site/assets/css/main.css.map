@@ -1,0 +1,26 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"main.scss",
+		"_sass/_variables.scss",
+		"_sass/_mixins.scss",
+		"_sass/_nav.scss",
+		"_sass/_footer.scss",
+		"_sass/_home.scss",
+		"_sass/_people.scss",
+		"_sass/_mqueries.scss"
+	],
+	"sourcesContent": [
+		"@import \"variables\";\n@import \"mixins\";\n@import \"nav\";\n@import \"footer\";\n@import \"home\";\n@import \"people\";\n\n\nhtml {\n  position: relative;\n  min-height: 100%;\n}\n\nbody {\n  background: $body-color;\n  margin-bottom: $footer-height;\n}\n\n.text-right {\n\ttext-align:right;\n}\n\n@import \"mqueries\";\n",
+		"//colors\n$body-color: #fff;\n$footer-color: #f5f5f5;\n\n$logo-color:#333333;\n$jumbotron-color:#9E9E9E;\n\n$brand-color:#E1E1E1;\n\n//formatting\n$footer-height:70px;",
+		"",
+		".navbar {\n\tborder-radius:0;\n}\n\n#navigation > ul > li:hover {\n\tbackground:#333333;\n}",
+		".footer {\n  position: absolute;\n  bottom: 0;\n  width: 100%;\n  /* Set the fixed height of the footer here */\n  height: $footer-height;\n  background-color: $footer-color;\n}\n\n.container .text-muted {\n  margin: 20px 0;\n\n  p > a {\n  \tcolor:$brand-color;\n  }\n}\n\n.ethics {\n  margin-top:20px;\n}\n\n.footer > .container {\n  padding-right: 15px;\n  padding-left: 15px;\n}\n",
+		".intro-pic {\n\tmax-width:300px;\n\theight:auto;\n\tdisplay:block;\n\tmargin:20px auto;\n}\n\n.jumbotron {\n\tpadding-left:15px;\n\tpadding-right:15px;\n\tcolor:$jumbotron-color;\n}\n\n.research {\n\tmax-width:500px;\n\tmargin:0 auto;\n\th2 {\n\t\ttext-align:center;\n\t\tmargin-top:0;\n\t\tmargin-bottom:20px;\n\t}\n\tpadding:20px 15px;\n}\n\n.logo {\n\tcolor:$logo-color;\n}\n",
+		".gari,.icons {\n\ttext-align:center;\n\tfont-size:24px;\n}\n\n.gari-icons {\n\tpadding-top:20px;\n\ttext-align:center;\n\tfont-size:24px;\n}\n\n.gari-icon {\n\tpadding:0 20px;\n}\n\n.alum {\n\tmax-width:760px;\n\tmargin:0 auto;\n}\n\n.members {\n\ttext-align:center;\n}\n\n.profile {\n\twidth:300px;\n\tdisplay:inline-block;\n\tmargin: 15px;\n\tborder:1px solid #efefef;\n\tborder-radius:5px;\n\tpadding:10px;\n\tbox-shadow:2px 2px 5px 1px #eee;\n}\n\n.pic {\n\twidth:100%;\n\theight:auto;\n\tmargin:0 auto;\n\tborder-radius: 10px;\n\tborder-color:1px solid #efefef;\n}\n\n.profile-info {\n\ttext-align:left;\n\th4 {\n\t\tcolor:$jumbotron-color;\n\t}\n}\n\n.profile-icons {\n\ttext-align:center;\n\tmargin:10px 0;\n\n\n\ta {\n\t\ttext-decoration: none;\n\t}\n\n\ti {\n\t\tmargin:10px;\n\t\tfont-size:20px;\n\t}\n}",
+		"@media (max-width:700px){\n\t.profile {\n\t\twidth:80%;\n\t\tmax-width:300px;\n\t\tmargin:10px auto;\n\t\tdisplay:block;\n\t}\n\n}\n\n@media (min-width:992px) {\n\t.research {\n\t\tmax-width:100%;\n\t}\n}\n"
+	],
+	"names": [],
+	"mappings": "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"
+}

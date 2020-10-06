@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+	<meta http-equiv="content-type" content="text/html" charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>ECG BOOK CHAPTER 12 - Clifford Lab</title>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="/assets/css/main.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha256-Sk3nkD6mLTMOF0EOpNtsIry+s1CsaqQC1rVLTAy+0yc= sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
+
+
+
+	<body>
+
+	<nav id="mainNav" class="navbar navbar-inverse">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navigation">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand page-scroll" href="/">Clifford Lab</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="navigation">
+      <ul class="nav navbar-nav navbar-right">
+
+       <li>
+          <a class="page-scroll" href="/"><i class="fa fa-home"></i> Home</a>
+        </li>
+
+        <li>
+          <a class="page-scroll" href="/news"><i class="fa fa-calendar-o"></i> News</a>
+        </li>
+
+        <!-- Research Dropdown -->
+      	<li class="dropdown">
+				<a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-lightbulb-o"></i> Research<span class="caret"></span></a>
+					<ul class="dropdown-menu" role="menu">
+						<li><a href="/research">All projects</a></li>
+						<li><a href="/research">Global Health Informatics</a></li>
+						<li><a href="/research">Neuropsychiatric Health Informatics</a></li>
+						<li><a href="/research">Cardiovascular Health Informatics</a></li>
+						<li><a href="/research">Critical Care Informatics</a></li>
+					</ul>
+				</li>
+
+				<!-- People Dropdown -->
+      	<li class="dropdown">
+				<a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user"></i> People<span class="caret"></span></a>
+					<ul class="dropdown-menu" role="menu">
+						<li><a href="/people/gari">Gari Clifford</a></li>
+						<li><a href="/people">Lab Members</a></li>
+						<li><a href="/people/alum">Alumni</a></li>
+
+            <!-- Remove comments below to re-link collaborators  -->
+						<!-- <li><a href="/people/collaborators">Collaborators</a></li> -->
+
+					</ul>
+				</li>
+
+        <li>
+          <a class="page-scroll" href="/publications.html"><i class="fa fa-file-text-o"></i> Publications</a>
+        </li>
+
+        <li>
+          <a class="page-scroll" href="/info"><i class="fa fa-info"></i> Info</a>
+        </li>
+
+        <li>
+          <a class="page-scroll" href="/jobs"><i class="fa fa-fighter-jet"></i> Job Opportunities</a>
+        </li>
+        <li>
+          <a class="page-scroll" href="/ethics"><i class="fa fa-smile-o"></i> Ethics</a>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+	<div class = "container">
+		<style type="text/css">
+        @import url("assets/css/newcss.css");
+    </style>
+
+<div style="width:100%; min-width:10px; min-height: 10px;" align="center">
+        <img src="/assets/img/titlebar1.PNG">
+    </div>
+
+<div class="container">
+        <h1 align="center">Supervised Learning Methods for ECG Classification/Neural Networks and SVM Approaches - Chapter 12</h1>
+        <h3 align="center">Stanislaw Osowski, Linh Tran Hoai, and Tomasz Markiewicz</h3>
+        <br><br>
+        <div class="col-md-6">
+            <p>This page provides supplementary information and relevant links for Chapter 7 in <a href="http://gdclifford.info/ecgbook">Advanced Methods for ECG Analysis</a>, which is co-edited by Francisco Azuaje and Patrick McSharry, and is published
+                by
+                <a href="http://us.artechhouse.com/">Artech House
+                </a>. The main URL for this book can be found here, together with ordering information. Much of the software associated with this book can be found <a href="http://gdclifford.info/CODE">here</a>.</p><br><br>
+            <h3 align="center"><u>Links:</u></h3>
+            <ul>
+              <li><a href="https://drive.google.com/open?id=1IcitzO43skMSF8pplPOhEWQa_gFlyIIc">Download sample of chapter</a></li>
+              <li><a href="/assets/ecgbook_code/CODE/ECGtools/">ECGtools - A selection of ECG analysis tools in Matlab including a self-explaining QRS detector, filtering tools and HRV analysis algorithms.</a></li>
+              <li><a href="http://www.ncrg.aston.ac.uk/netlab/index.php">Netlab - A free set of pattern recognition & neural network tools in Matlab by Ian Nabney. the associated book is simply wonderful. </a></li>
+            </ul>
+
+        </div>
+        <div align="center" class="col-md-6">
+            <img style="min-width: 20%" src="/assets/img/chap12.png"><br><br>
+            <div align="left">
+                <h3 align="center"><u>Contents:</u></h3>
+                <ul>
+                    <li>12.1 Introduction</li>
+                    <li>12.2 Generation of Features
+                    <ul>
+                        <li>12.2.1 Hermite Basis Function Expansion</li>
+                        <li>12.2.2 HOS Features of the ECG</li>
+                    </ul>
+                    </li>
+                    <li>12.3 Supervised Neural Classifiers
+                        <ul>
+                            <li>12.3.1 Multilayer Perceptron</li>
+                            <li>12.3.2 Hybrid Fuzzy Network</li>
+                            <li>12.3.3 TSK Neuro-Fuzzy Network</li>
+                            <li>12.3.4 Support Vector Machine Classifiers</li>
+                        </ul>
+                    </li>
+                    <li>12.4 Integration of Multiple Classifiers</li>
+                    <li>12.5 Results of Numerical Experiments</li>
+                    <li>12.6 Conclusions</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="col-xs-6">
+                <p class="text-muted"><i class="fa fa-copyright"></i> 2017 Clifford Lab</p>
+            </div>
+        </div>
+    </footer>
+
+	</div>
+
+	<footer class="footer">
+  <div class="container">
+  	<div class="col-xs-6">
+    <p class="text-muted"><i class="fa fa-copyright"></i> 2017 Clifford Lab</p>
+    </div>
+  </div>
+</footer>
+
+
+	</body>
+</html>
