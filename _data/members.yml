@@ -9,16 +9,6 @@
  site: ""
  pubs: ""
 -
- name: Ali Bahrami Rad, PhD
- title: Assistant Professor
- dept: Department of Biomedical Informatics
- location: Emory University
- picture: /assets/img/ali.jpg
- twitter: ""
- email: mailto:ali.bahrami.rad@emory.edu
- site: ""
- pubs: ""
--
  name: Erick Perez Alday
  title: Postdoctoral Researcher
  dept: Department of Biomedical Informatics
@@ -69,6 +59,16 @@
  site: ""
  pubs: ""
 -
+ name: Supreeth Prajwal
+ title: PhD student
+ dept: Dept. of Electrical & Computer Engineering
+ location: Georgia Tech
+ picture: /assets/img/supreeth.jpg
+ twitter: https://twitter.com/sprajw
+ email: mailto:supreeth@gatech.edu
+ site: https://sites.google.com/site/supreethprajwal93/home
+ pubs: ""
+-
  name: Pradyumna Suresha
  title: PhD student
  dept: Dept. of Electrical & Computer Engineering
@@ -98,6 +98,16 @@
  site: ""
  pubs: ""
  email: "mailto:nasim.katebi@gmail.com"
+-
+ name: Jacob Zelko
+ title: Data Information Specialist
+ dept: Department of Biomedical Engineering
+ location: Georgia Tech
+ picture: "/assets/img/jacob.png"
+ twitter: "https://twitter.com/Jacob_Zelko"
+ site: ""
+ pubs: ""
+ email: "mailto:jacobszelko@gatech.edu"
 -
  name: Nick Shu
  title: PhD Student
@@ -178,6 +188,16 @@
  twitter: ""
  site: "https://www.linkedin.com/in/robert-mannino-53127155/"
  email: ""
+-
+ name: Ian An-Kwok Wong
+ title: Internal Medicine Resident
+ dept: Department of Biomedical Informatics
+ location: Emory University
+ picture: '/assets/img/ian.png'
+ pubs: "https://scholar.google.com/citations?hl=en&user=WUsArK4AAAAJ"
+ twitter: ""
+ site: "http://aiwong.com/"
+ email: "http://aiwong.com/#contact"
 -
  name: Ramesh Manyam
  title: Database Architect
