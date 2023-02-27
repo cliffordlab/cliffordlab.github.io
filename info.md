@@ -102,3 +102,6 @@ We've developed some standard ways to store code, data, and information:
 + **Processed data you generate but is not the original data** - your home directory on any BMI machine. This is also mirrored on a mounted drive on the cluster. If it's on your laptop, then use Box or OneDrive to back it up if you have to. Make sure your machine is encrypted. The key point here is that no-one but you should have access to this processed data - partially because it may contain PHI, but also because it must be fully reproducible by your code applied to the fixed original data. When you share copies of the data that have been transformed, filtered, or altered in some way, the research ceases to be replicable and scientific repeatability is lost. Your research becomes useless and the next person will have to do it all from scratch. This happens often and is a constant source of frustration to everyone.
 + **Manuscripts, thesis, etc.** - use [Overleaf](https://overleaf.com) and share with Gari. You can use [Git to work offline](https://www.overleaf.com/blog/195-new-collaborate-online-and-offline-with-overleaf-and-git-beta), but merging and resolving conflicts is then your job.  
 + **References and papers** - use Mendeley and insert PDFs of papers and comments on papers and share with the project team.
+
+
+000 111
