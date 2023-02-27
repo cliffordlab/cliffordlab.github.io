@@ -103,5 +103,3 @@ We've developed some standard ways to store code, data, and information:
 + **Manuscripts, thesis, etc.** - use [Overleaf](https://overleaf.com) and share with Gari. You can use [Git to work offline](https://www.overleaf.com/blog/195-new-collaborate-online-and-offline-with-overleaf-and-git-beta), but merging and resolving conflicts is then your job.  
 + **References and papers** - use Mendeley and insert PDFs of papers and comments on papers and share with the project team.
 
-
-000 111
