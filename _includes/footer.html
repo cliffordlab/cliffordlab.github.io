@@ -1,7 +1,12 @@
-<footer class="footer">
-  <div class="container">
-  	<div class="col-xs-6">
-    <p class="text-muted"><i class="fa fa-copyright"></i> 2017 Clifford Lab</p>
-    </div>
+<!-- you can get back the original footer by deleting the local footer.html --->
+
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+	{%- if site.copyright -%}
+	<p> {{ site.copyright }} </p>
+	{%- endif -%}
   </div>
+
 </footer>

@@ -1,0 +1,3 @@
+#!/bin/sh
+python3 make_bibliography.py
+git add publications.md

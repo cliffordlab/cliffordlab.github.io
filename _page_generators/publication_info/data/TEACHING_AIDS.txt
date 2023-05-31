@@ -1,3 +1,0 @@
-Gari Clifford, John Fisher, Julie Greenberg, and William Wells|Biomedical Signal and Image Processing| MIT OpenCourseWare 2007| http://ocw.mit.edu/courses/health-sciences-and-technology/hst-582j-biomedical-signal-and-image-processing-spring-2007/
-Jhonatan Rotberg, Luis Sarmenta, Gari Clifford, and Rich Fletcher|NextLab I: Designing Mobile Technologies for the Next Billion Users| MIT OpenCourseWare 2008| http://ocw.mit.edu/courses/media-arts-and-sciences/mas-965-nextlab-i-designing-mobile-technologies-for-the-next-billion-users-fall-2008/
-Clifford GD, Scott DJ, Villarroel M| User guide and documentation for the MIMIC II database| MIMIC-II database version 2. Manual, 2009|https://physionet.org/mimic2/UserGuide/UserGuide.pdf

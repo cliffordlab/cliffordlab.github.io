@@ -1,0 +1,99 @@
+<header class="site-header" role="banner">
+
+  <div class="header-wrapper">
+	
+	<nav id="navigation-links">
+		<!-- SITE TITLE  -->
+		<div id="head-link">
+	    		{%- assign default_paths = site.pages | map: "path" -%}
+    			{%- assign page_paths = site.header_pages | default: default_paths -%}
+    			<a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+		</div>
+
+		<!-- HAMBURGER MENU --> 
+		<div id="link-container">	
+			<!-- CLICKABLE HAMBURGER SYMBOL -->	
+			<input type=checkbox class="checkboxclass" id="show-links"/>
+			<label id="hamburger-symbol" for="show-links">
+				<div id="hamburger-box">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M0 96C0 78.3 14.3 64 32 64H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H416c17.7 0 32 14.3 32 32z"/></svg>
+				</div>
+			</label>
+
+			<!-- LINK LIST -->
+			<div id="link-list" style="--numpaths: {{ site.pages | size }};">
+				{%- for path in page_paths -%}
+                    {%- if path == "research" -%}
+                      <div id="sub-link-container">
+			                  <input type=checkbox class="checkboxclass" id="show-research-links"/>
+                        <label id="check" for="show-research-links">
+                          <div class="sub-link-label">
+                            <style>
+                              .icon {
+                                fill: white;
+                                width: 1em;
+                                height: 1em;
+                              }
+                            </style>
+                            Research
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 320 512"><!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M182.6 470.6c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-9.2-9.2-11.9-22.9-6.9-34.9s16.6-19.8 29.6-19.8H288c12.9 0 24.6 7.8 29.6 19.8s2.2 25.7-6.9 34.9l-128 128z"/></svg>
+                         </div> <!-- end "research-label" -->
+                      </label>
+			                <!-- <label id="check" for="show-people-links"> -->
+                       <div id="sub-link-list" style="--numpaths: {{ site.people_pages | size }};">
+                        {%- for path in site.research_pages -%}
+            				    {%- assign my_page = site.pages | where: "path", path | first -%}
+                  		    {%- if my_page.title -%}
+            				  	    <div id="sub-link"><a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></div>
+            				      {%- endif -%}
+                        {%- endfor -%}
+                       </div> <!-- end "sub-link-list" -->
+                     </div> <!-- end "sub-link-container" -->
+
+                    {%- endif -%}
+
+                    {%- if path == "people" -%}
+                       <div id="sub-link-container">
+			                  <input type=checkbox class="checkboxclass" id="show-people-links"/>
+                        <label id="check" for="show-people-links">
+                          <div class="sub-link-label">
+                            <style>
+                              .icon {
+                                fill: white;
+                                width: 1em;
+                                height: 1em;
+                              }
+                            </style>
+                            People
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon" viewBox="0 0 320 512"><!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M182.6 470.6c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-9.2-9.2-11.9-22.9-6.9-34.9s16.6-19.8 29.6-19.8H288c12.9 0 24.6 7.8 29.6 19.8s2.2 25.7-6.9 34.9l-128 128z"/></svg>
+                         </div> <!-- end "sub-link-label" -->
+
+                      </label>
+			                <!-- <label id="check" for="show-people-links"> -->
+                       <div id="sub-link-list" style="--numpaths: {{ site.people_pages | size }};">
+                        {%- for path in site.people_pages -%}
+            				    {%- assign my_page = site.pages | where: "path", path | first -%}
+                  		    {%- if my_page.title -%}
+            				  	    <div id="sub-link"><a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></div>
+            				      {%- endif -%}
+                        {%- endfor -%}
+                       </div> <!-- end "sub-link-list" -->
+
+                    </div> <!-- end "sub-link-container" -->
+                    {%- else -%}
+            				  {%- assign my_page = site.pages | where: "path", path | first -%}
+            				  {%- if my_page.title -%}
+                        <div id="link-list-element">
+            				  	<a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+                        </div>
+            				  {%- endif -%}
+                    {%- endif -%}
+          			{%- endfor -%}
+
+			        </div> <!-- end "link-list" -->
+		      </div> <!-- end "link-container" -->
+	    </nav> <!-- end "nav" -->
+  </div> <!-- end "header-wrapper" -->
+
+
+</header>
