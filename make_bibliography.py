@@ -210,8 +210,10 @@ permalink: /publications
         file.write(f"\n## {publication_type}\n")
         file.write("\n|--|--|--|\n")
         bib_data = pybtex.database.parse_file(filepath)
-        # Number them in reverse chronological order by category (highest numbers first)
-        entries = reversed(list(enumerate(reversed(list(bib_data.entries.items())),start=1)))
+        # Number them in reverse chronological order by category
+        # (highest numbers first, lowest is 1)
+        entries=reversed(list((enumerate(sorted(list(bib_data.entries.items()), key=lambda tup: (tup[1].fields['year'])), 1))))
+#        entries=list(bib_data.entries.items()).sort(key=lambda tup: (tup[1]).fields['year'])
         for i, (key, entry) in entries:
             citation = format_citation(publication_type, entry)
             link = format_bibtex_entry(i, entry)
