@@ -49,10 +49,10 @@ def format_author(entry):
     def last_name(author):
         return " ".join(author.last_names)
     authors = list(iter(entry.persons['author']))
-    if len(authors) >= 6:
-        a = authors[0]
-        author_string = f"{last_name(a)} {first_initials(a)} et al. "
-    elif len(authors) == 1:
+#    if len(authors) >= 6:
+#        a = authors[0]
+#        author_string = f"{last_name(a)} {first_initials(a)} et al. "
+    if len(authors) == 1:
         a = authors[0]
         author_string = f"{last_name(a)} {first_initials(a)}. "
     else:
@@ -181,7 +181,6 @@ def format_thesis(entry):
     return refstring
 
 def format_citation(publication_type, entry):
-    print(f"Publication type: {publication_type}")
     if publication_type == JOURNAL:
         return format_journal_article(entry)
     elif publication_type == REVIEW:
