@@ -1,3 +1,7 @@
 #!/bin/sh
 python3 make_bibliography.py
+if (( $? != 0 )); then
+  echo "Error making the bibliography!"
+  exit 1
+fi
 git add publications.md
