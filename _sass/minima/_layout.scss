@@ -320,13 +320,12 @@ div.small-icons + p img {
 }
 
 #link-list-element a:hover {
-  //background-color: $grey-color;
 }
 
  
 table {border-collapse: collapse;}
 
-@media (max-width: 768px) {
+@media (max-width: 800px) {
   .site-title {
     margin-left: 55px;
   }
@@ -367,8 +366,25 @@ table {border-collapse: collapse;}
     padding-bottom: 10px;
    	//margin-right: 40px;
     padding-left: 10px;
-  	margin-top: -46px;
+  	margin-top: -44px;
   }
+
+  // hamburger unless checked
+
+  #link-container input:checked ~ #hamburger-symbol img[alt="hamburger"]{
+    display: none;
+  }
+
+  #link-container input:checked ~ #hamburger-symbol img[alt="xmark"]{
+    display: grid;
+    width: 30px;
+    height: 28px;
+  }
+
+  #link-container #hamburger-symbol img[alt="xmark"]{
+    display: none;
+  }
+
   
   #hamburger-box  {
     display: grid;
@@ -377,21 +393,6 @@ table {border-collapse: collapse;}
   	cursor: pointer;
   	border-radius: 5px;
   } 
-  
-  #hamburger-symbol svg {
-  	display: block;
-  	margin: auto;
-  	padding: 6px;
-  }
-  
-  #hamburger-symbol svg path {
-  	fill: white;
-  }
-  
-  #hamburger-box:hover > svg path {
-    fill: black;
-  //	background-color: $grey-color;
-  }
   
   #link-list a {
    	display: block;
@@ -413,7 +414,6 @@ table {border-collapse: collapse;}
   #link-list-element {
   padding: 0px;
   }
-   
  
  }
 
