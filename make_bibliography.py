@@ -228,6 +228,7 @@ def format_entry(entry):
 
 def add_section(file, title,publication_list):
     """Add the section to publications.md"""
+    print(f"Adding {title}...")
     file.write(f"\n## {title}\n")
     file.write("\n|--|--|--|\n")
     for i, (key, entry) in publication_list:
@@ -241,6 +242,7 @@ def add_section(file, title,publication_list):
 ### MAIN BEHAVIOR OF THE SCRIPT
 ### ---------------------------
 
+print("Generating the bibliography...")
 bib_data = pybtex.database.parse_file(bibliography)
 
 publication_types={}
