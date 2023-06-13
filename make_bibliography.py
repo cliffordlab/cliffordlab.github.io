@@ -280,6 +280,8 @@ def get_date(entry):
         return date.year, date.month, date.day
     
     # parse year, month, and day individually
+    if 'year' not in entry.fields:
+        raise KeyError("No date or year!")
     year = int(entry.fields['year'])
     month = 1
     day = 1
@@ -288,7 +290,10 @@ def get_date(entry):
         try:
             month = datetime.strptime(entry.fields['month'], '%b').month
         except ValueError:
-            month = datetime.strptime(entry.fields['month'], '%B').month
+            try:
+                month = datetime.strptime(entry.fields['month'], '%B').month
+            except ValueError:
+                raise ValueError(f"Unable to read the month field!")
     
     if 'day' in entry.fields:
         day = int(entry.fields['day'])
