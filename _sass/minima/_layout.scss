@@ -384,6 +384,13 @@ table {border-collapse: collapse;}
   #link-container #hamburger-symbol img[alt="xmark"]{
     display: none;
   }
+
+  #link-container #hamburger-symbol img[alt="hamburger"]{
+    display: grid;
+    width: 27px;
+    height: 28px;
+  }
+
   
   #hamburger-box  {
     display: grid;
