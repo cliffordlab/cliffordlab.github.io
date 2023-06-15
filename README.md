@@ -28,26 +28,26 @@ Currently, these will be cited:
 
 ### Journal articles
 
-    - **article.** Required fields: `author`, `title`, `journal`, and either `date` or `year`.
+  - **article.** Required fields: `author`, `title`, `journal`, and either `date` or `year`.
 
 ### Conferences
 
-    - **conference.** Required fields: `author`, `title`, either `journal` or `booktitle`, and either `date` or `year`.
-    - **inproceedings.** This is currently treated the same as `conference`.
+  - **conference.** Required fields: `author`, `title`, either `journal` or `booktitle`, and either `date` or `year`.
+  - **inproceedings.** This is currently treated the same as `conference`.
 
 ### Books and Chapters
 
-    - **book.** Required fields: `author`, `title`, `publisher`, and either `date` or `year`.
-    - **inbook.** Required fields: `author`, `title`, `booktitle`, and either `date` or `year`.
-    - **incollection.** This is currently treated the same as `inbook`.
+  - **book.** Required fields: `author`, `title`, `publisher`, and either `date` or `year`.
+  - **inbook.** Required fields: `author`, `title`, `booktitle`, and either `date` or `year`.
+  - **incollection.** This is currently treated the same as `inbook`.
 
 ### Other Material
 
-    - **misc.** Required fields: `author`, `title`, `howpublished`, and either `date` or `year`.
+  - **misc.** Required fields: `author`, `title`, `howpublished`, and either `date` or `year`.
 
 ### Theses
 
-    - **thesis.** Required fields: `author`, `title`, `school`, `type`, `year`.
+  - **thesis.** Required fields: `author`, `title`, `school`, `type`, `year`.
 
 ## How to add a publication
 
