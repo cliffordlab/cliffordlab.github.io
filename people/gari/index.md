@@ -15,7 +15,7 @@ permalink: /gari
 <!-- this is here so I can select the images in the table and adjust their sizes -->
 <div class="gari-icon"></div>
 
-| | | | [![](/icons/twitter.svg)](https://twitter.com/gariclifford) | [![](/icons/email.svg)](mailto:gari.clifford@bme.gatech.edu) | [![](/icons/publications.svg)](http://scholar.google.com/citations?user=VwYoZ6gAAAAJ&hl=en&oi=ao) | | | | 
+| [![](/icons/twitter.svg)](https://twitter.com/gariclifford) | [![](/icons/email.svg)](mailto:gari.clifford@bme.gatech.edu) | [![](/icons/publications.svg)](http://scholar.google.com/citations?user=VwYoZ6gAAAAJ&hl=en&oi=ao) |
 
 > - Chair & Professor, [Department of Biomedical Informatics, Emory University School of Medicine](https://www.bmi.emory.edu/)
 > - Professor, [Department of Biomedical Engineering, Georgia Institute of Technology](https://bme.gatech.edu/)

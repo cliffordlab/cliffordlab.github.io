@@ -192,6 +192,12 @@
 
 // icons on gari's page
 
+div.gari-icon + table {
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 div.gari-icon + table td {
   text-align: center;
 }
@@ -325,7 +331,7 @@ div.small-icons + p img {
  
 table {border-collapse: collapse;}
 
-@media (max-width: 800px) {
+@media (max-width: 858px) {
   .site-title {
     margin-left: 55px;
   }
