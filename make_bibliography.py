@@ -232,7 +232,10 @@ def add_section(file, title,publication_list):
     file.write(f"\n## {title}\n")
     file.write("\n|--|--|--|\n")
     for i, (key, entry) in publication_list:
-        citation=format_entry(entry)
+        try:
+            citation=format_entry(entry)
+        except KeyError as e:
+            raise ValueError(f"{entry.key}")
         link = make_download_link(f"{key}.bib",
                                   "BibTeX entry",
                                   entry.to_string('bibtex'))
