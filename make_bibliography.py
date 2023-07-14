@@ -126,7 +126,7 @@ def format_article(entry):
     reference += "."
 
     if 'doi' in entry.fields:
-        reference += f" {format_doi_link(entry)}."
+        reference += f" DOI: {format_doi_link(entry)}."
     
     return reference
 
