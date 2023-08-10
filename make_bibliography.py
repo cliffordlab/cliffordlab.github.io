@@ -80,6 +80,25 @@ def format_issue_number(entry):
         reference += f" ({iss})"
     return reference
 
+def format_month(entry):
+    m=""
+    months={ "jan": "Jan",
+             "feb": "Feb",
+             "mar": "Mar",
+             "apr": "Apr",
+             "may": "May",
+             "jun": "Jun",
+             "jul": "Jul",
+             "aug": "Aug",
+             "sep": "Sep",
+             "oct": "Oct",
+             "nov": "Nov",
+             "dec": "Dec" }
+
+    if 'month' in entry.fields:
+        m=months[entry.fields['month'].lower()[:3]] # first three characters
+    return m
+
 def format_date(entry):
     """Year, then possibly month, then possibly day."""
     if 'date' in entry.fields:
@@ -88,7 +107,7 @@ def format_date(entry):
     datestring=entry.fields['year']
     
     if 'month' in entry.fields:
-        datestring += f" {entry.fields['month']}"
+        datestring += format_month(entry)
         if 'day' in entry.fields:
             datestring += f" {entry.fields['day']}"
     return datestring
