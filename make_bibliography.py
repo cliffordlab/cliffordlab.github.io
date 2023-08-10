@@ -82,18 +82,18 @@ def format_issue_number(entry):
 
 def format_month(entry):
     m=""
-    months={ "jan": "Jan",
-             "feb": "Feb",
-             "mar": "Mar",
-             "apr": "Apr",
+    months={ "jan": "January",
+             "feb": "February",
+             "mar": "March",
+             "apr": "April",
              "may": "May",
-             "jun": "Jun",
-             "jul": "Jul",
-             "aug": "Aug",
-             "sep": "Sep",
-             "oct": "Oct",
-             "nov": "Nov",
-             "dec": "Dec" }
+             "jun": "June",
+             "jul": "July",
+             "aug": "August",
+             "sep": "September",
+             "oct": "October",
+             "nov": "November",
+             "dec": "December" }
 
     if 'month' in entry.fields:
         m=months[entry.fields['month'].lower()[:3]] # first three characters
@@ -107,7 +107,7 @@ def format_date(entry):
     datestring=entry.fields['year']
     
     if 'month' in entry.fields:
-        datestring += format_month(entry)
+        datestring += " " + format_month(entry)
         if 'day' in entry.fields:
             datestring += f" {entry.fields['day']}"
     return datestring
