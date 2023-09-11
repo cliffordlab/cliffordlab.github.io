@@ -7,9 +7,9 @@ generate a Publications page for this website and save it to
 Print them in this order:
     - article
     - conference and inproceedings
+    - unpublished (preprint)
     - inbook
     - book
-    - unpublished
     - misc
     - mastersthesis and phdthesis
 
@@ -128,6 +128,19 @@ def format_pages(entry):
     else:
         return 'p. ' + pages
 
+def format_preprint(entry):
+    """Format the entry assuming it's a preprint."""
+    authors=format_author_list(entry)
+    title=format_title(entry)
+    # the bibliographies I have always use "journal"
+    # for the text that says, e.g., "arXiv preprint"
+    preprint_info=format_journal_name(entry)
+    date=format_date(entry)
+    doi_link=""
+    if 'doi' in entry.fields:
+        doi_link=f" DOI: {format_doi_link(entry)}"
+    return f"{authors}. {title}. {preprint_info}; {date}.{doi_link}"
+
 def format_article(entry):
     """Format the entry assuming it's an article."""
     authors=format_author_list(entry)
@@ -243,6 +256,8 @@ def format_entry(entry):
         return format_incollection(entry)
     if entry.type == 'conference' or entry.type == 'inproceedings':
         return format_conference(entry)
+    if entry.type == 'unpublished':
+        return format_preprint(entry)
     return format_misc(entry)
 
 def add_section(file, title,publication_list):
@@ -291,6 +306,7 @@ if 'inbook' in publication_types:
 if 'incollection' in publication_types:
     publication_types['book'] += publication_types['incollection']
     del publication_types['incollection']
+# unpublished is the type we use for preprints
 
 # finally, number each category in reverse chronological order
 # (highest numbers first, lowest is 1)
@@ -337,6 +353,7 @@ permalink: /publications
 """)
     
     add_section(file,"Journal articles", publication_types['article'])
+    add_section(file,"Preprints", publication_types['unpublished'])
     add_section(file,"Conferences", publication_types['conference'])
     add_section(file,"Books and Chapters", publication_types['book'])
     add_section(file,"Other Material", publication_types['misc'])
