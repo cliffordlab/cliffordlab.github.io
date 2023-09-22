@@ -350,8 +350,11 @@ layout: page
 title: Publications
 permalink: /publications
 ---
-""")
+
+<div class="smalltextblock">Papers on this site are presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.</div>
     
+""")
+
     add_section(file,"Journal articles", publication_types['article'])
     add_section(file,"Preprints", publication_types['unpublished'])
     add_section(file,"Conferences", publication_types['conference'])

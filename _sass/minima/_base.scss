@@ -269,3 +269,18 @@ table {
     border: none;
   }
 }
+
+/**
+ * Small text block
+ */
+.smalltextblock {
+  font-size: $small_font_size;
+  line-height: 130%;
+//  margin-left: $spacing-unit * 4;
+//  margin-right: $spacing-unit * 3;
+  color: $grey-color-dark;
+  margin-bottom: $spacing-unit;
+  padding-left: $spacing-unit;
+  padding-right: $spacing-unit;
+//  padding: 40px;
+}

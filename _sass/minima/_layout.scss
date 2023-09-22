@@ -331,6 +331,31 @@ div.small-icons + p img {
  
 table {border-collapse: collapse;}
 
+// force tables to display on mobile
+// workaround from https://stackoverflow.com/questions/32301206/how-to-fold-table-columns-into-rows-on-mobile-devices
+@media (max-width: 600px) {
+
+    // make the numbers in the publications page
+    // bold and centered
+    table tr td:first-child {
+      font-weight: bold; 
+      text-align: center;
+    }
+
+    thead th:not(:first-child) {
+        display: none;
+    }
+
+    td, th {
+        display: block;
+    }
+
+    td[data-th]:before  {
+        content: attr(data-th);
+    }
+}
+
+
 @media (max-width: 858px) {
   .site-title {
     margin-left: 55px;
@@ -427,5 +452,5 @@ table {border-collapse: collapse;}
   padding: 0px;
   }
  
- }
+}
 
