@@ -1,5 +1,5 @@
 #!/bin/sh
-python3 make_bibliography.py
+make_publications_page.py
 if (( $? != 0 )); then
   echo "Error making the bibliography!"
   exit 1
