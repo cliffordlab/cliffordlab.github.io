@@ -20,8 +20,8 @@ this will simply ensure that `pre-commit` gets executed before
 committing changes.
 In turn, `pre-commit` does the following actions:
 
-    1. Attempt to generate `publications.md` from the bibliography files.
-    2. If the publications list was successfully created, add it to the commit.
+1. Attempt to generate `publications.md` from the bibliography files.
+2. If the publications list was successfully created, add it to the commit.
 
 The effect of this is that *you don't have to touch the publications page*,
 even to add it when it's changed. Both updating it and adding it
