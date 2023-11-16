@@ -86,7 +86,8 @@ your changes will persist.
 To find the BibTeX entry:
 - On the site, click “\[show BibTeX\]” and note the BibTeX key.
 - Search for the BibTeX key in the `.bib` file under `bibliography` corresponding to the section.
-If you're very impatient, you can enter `bibliography` in the command line and run
+
+Or if you're very impatient, you can enter `bibliography` in the command line and run
 ```
 grep -br `<some words from the citation>` --ignore-case
 ```
