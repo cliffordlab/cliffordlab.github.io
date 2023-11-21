@@ -1,0 +1,35 @@
+# This is a GitHub Action that runs make_publications_page and commits and pushes
+# publications.md to the repository.
+
+name: Make Publications Page
+permissions:
+  contents: write
+
+  # Controls when the workflow will run
+on:
+  # FIXME: let another action run this action
+  # Allowed to run manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  # Generate the page
+  make_publications_page:
+    runs-on: ubuntu-latest
+    steps:
+      # Check out the repo
+      - uses: actions/checkout@master
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      - name: Set up python.
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run the script to build publications.md.
+        run: ./make_publications_page.py
+
+      - name: Commit and push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
