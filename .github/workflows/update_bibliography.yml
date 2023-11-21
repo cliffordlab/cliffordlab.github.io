@@ -1,4 +1,5 @@
-# This updates the publications page.
+# This updates the bibliography and is also intended to
+# trigger an update to the publications page.
 # 
 # Source:
 #   https://github.com/marketplace/actions/github-push
@@ -22,7 +23,7 @@
 # search for answers that did work. The only part of its output
 # I used was installing the Python requirements.
 
-name: Update Publications Page
+name: Update Bibliography
 permissions:
   contents: write
 on:
