@@ -11,7 +11,7 @@ permalink: /publications
 
 <table>
 <tr>
-<td>279</td>
+<td>281</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LisetteCorbin_2023_12_01_Acomparison">
 <div class="citation">
@@ -34,7 +34,7 @@ Corbin L, Griner E, Seyedi S, Jiang Z, Roberts K, Boazak M, Rad AB, Clifford GD,
 <div class="hidebibtex">
 <label for="LisetteCorbin_2023_12_01_Acomparison">[show citation]</label>
 </div></div></td></tr><tr>
-<td>278</td>
+<td>280</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="HNZiobrowski_2023_Childhoodadversities">
 <div class="citation">
@@ -57,7 +57,31 @@ Ziobrowski H, Holt-Gosselin B, Petukhova M, King A, Lee S, House S, Beaudoin F, 
 <div class="hidebibtex">
 <label for="HNZiobrowski_2023_Childhoodadversities">[show citation]</label>
 </div></div></td></tr><tr>
-<td>277</td>
+<td>279</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="AbigailLZeamer_2023_11_18_Associationbetween">
+<div class="citation">
+Zeamer AL, Salive M, An X, Beaudoin FL, House SL, Stevens JS, Zeng D, Neylan TC, Clifford GD, Linnstaedt SD, Rauch SL, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Hudak LA, Pascual JL, Seamon MJ, Harris E, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O<span class="bibtex-protected">\textquoteright </span>Neil BJ, Sergot P, Sanchez LD, Bruce SE, Kessler RC, Koenen KC, McLean SA, Bucci V, Haran JP. <a href="https://www.nature.com/articles/s41398-023-02643-8">Association between microbiome and the development of adverse posttraumatic neuropsychiatric sequelae after traumatic stress exposure</a>. Translational Psychiatry 2023 November 18; 13 (1): p. 354.
+</div>
+<div class="bibtex_source"><pre>@article{AbigailLZeamer_2023_11_18_Associationbetween,
+    author = "Zeamer, Abigail L and Salive, Marie-Claire and An, Xinming and Beaudoin, Francesca L and House, Stacey L and Stevens, Jennifer S and Zeng, Donglin and Neylan, Thomas C and Clifford, Gari D and Linnstaedt, Sarah D and Rauch, Scott L and Storrow, Alan B and Lewandowski, Christopher and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Harris, Erica and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and O{\textquoteright}Neil, Brian J and Sergot, Paulina and Sanchez, Leon D and Bruce, Steven E and Kessler, Ronald C and Koenen, Karestan C and McLean, Samuel A and Bucci, Vanni and Haran, John P",
+    title = "Association between microbiome and the development of adverse posttraumatic neuropsychiatric sequelae after traumatic stress exposure",
+    date = "2023-11-18",
+    issue = "1",
+    journal = "Translational Psychiatry",
+    url = "https://www.nature.com/articles/s41398-023-02643-8",
+    pages = "354",
+    volume = "13",
+    note = "Publisher: Nature Publishing Group UK"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="AbigailLZeamer_2023_11_18_Associationbetween">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="AbigailLZeamer_2023_11_18_Associationbetween">[show citation]</label>
+</div></div></td></tr><tr>
+<td>278</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LiamButler_2023_11_08_AGeneralizable">
 <div class="citation">
@@ -78,7 +102,7 @@ Butler L, Karabayir I, Kitzman DW, Alonso A, Tison GH, Chen LY, Chang PP, Cliffo
 <div class="hidebibtex">
 <label for="LiamButler_2023_11_08_AGeneralizable">[show citation]</label>
 </div></div></td></tr><tr>
-<td>276</td>
+<td>277</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RayanAAnsari_2023_11_06_Interpretationof">
 <div class="citation">
@@ -102,7 +126,7 @@ Ansari RA, bhatia , Tooley J, Thakkar V, Torres J, Tung J, Alhusseini M, Clopton
 <div class="hidebibtex">
 <label for="RayanAAnsari_2023_11_06_Interpretationof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>275</td>
+<td>276</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RayanAAnsari_2023_11_06_Performanceof">
 <div class="citation">
@@ -126,7 +150,7 @@ Ansari RA, bhatia , Tooley J, Thakkar V, XU J, Torres J, Tung J, Alhusseini M, C
 <div class="hidebibtex">
 <label for="RayanAAnsari_2023_11_06_Performanceof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>274</td>
+<td>275</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AlbertJRogers_2023_11_06_EnhancedIdentification">
 <div class="citation">
@@ -150,7 +174,7 @@ Rogers AJ, bhatia , Tooley J, Thakkar V, XU J, Ansari R, Torres J, Tung J, Alhus
 <div class="hidebibtex">
 <label for="AlbertJRogers_2023_11_06_EnhancedIdentification">[show citation]</label>
 </div></div></td></tr><tr>
-<td>273</td>
+<td>274</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AlbertJRogers_2023_11_06_Impactof">
 <div class="citation">
@@ -174,7 +198,7 @@ Rogers AJ, Bhatia NK, Tooley J, Thakkar V, XU J, Ansari R, Torres J, Tung J, Alh
 <div class="hidebibtex">
 <label for="AlbertJRogers_2023_11_06_Impactof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>272</td>
+<td>273</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SalmanSeyedi_2023_10_31_UsingHIPAA">
 <div class="citation">
@@ -197,7 +221,7 @@ Seyedi S, Griner E, Corbin L, Jiang Z, Roberts K, Iacobelli L, Milloy A, Boazak 
 <div class="hidebibtex">
 <label for="SalmanSeyedi_2023_10_31_UsingHIPAA">[show citation]</label>
 </div></div></td></tr><tr>
-<td>271</td>
+<td>272</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="EdilbertoAmorim_2023_10_19_TheInternational">
 <div class="citation">
@@ -219,7 +243,7 @@ Amorim E, Zheng W, Ghassemi MM, Aghaeeaval M, Kandhare P, Karukonda V, Lee JW, H
 <div class="hidebibtex">
 <label for="EdilbertoAmorim_2023_10_19_TheInternational">[show citation]</label>
 </div></div></td></tr><tr>
-<td>270</td>
+<td>271</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NJabinGong_2023_10_09_ClassifyingTremor">
 <div class="citation">
@@ -243,7 +267,7 @@ Gong NJ, Clifford GD, Esper CD, Factor SA, McKay JL, Kwon H. <a href="https://ww
 <div class="hidebibtex">
 <label for="NJabinGong_2023_10_09_ClassifyingTremor">[show citation]</label>
 </div></div></td></tr><tr>
-<td>269</td>
+<td>270</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="EKateWebb_2023_09_05_NeighborhoodDisadvantage">
 <div class="citation">
@@ -266,6 +290,28 @@ Webb EK, Ely TD, Rowland GE, Lebois LA, Rooij SJ, Bruce SE, Jovanovic T, House S
 </div>
 <div class="hidebibtex">
 <label for="EKateWebb_2023_09_05_NeighborhoodDisadvantage">[show citation]</label>
+</div></div></td></tr><tr>
+<td>269</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="EdilbertoAmorim_2023_08_28_TheInternational">
+<div class="citation">
+Amorim E, Zheng W, Ghassemi MM, Aghaeeaval M, Kandhare P, Karukonda V, Lee JW, Herman ST, Sivaraju A, Gaspard N, Hofmeijer J, Putten MJ, Sameni R, Reyna MA, Clifford GD, Westover MB. <a href="https://www.medrxiv.org/content/10.1101/2023.08.28.23294672.abstract">The International Cardiac Arrest Research (I-CARE) Consortium Electroencephalography Database</a>. medRxiv 2023 August 28; p. 2023.08. 28.23294672.
+</div>
+<div class="bibtex_source"><pre>@article{EdilbertoAmorim_2023_08_28_TheInternational,
+    author = "Amorim, Edilberto and Zheng, Wei-Long and Ghassemi, Mohammad M and Aghaeeaval, Mahsa and Kandhare, Pravinkumar and Karukonda, Vishnu and Lee, Jong Woo and Herman, Susan T and Sivaraju, Adithya and Gaspard, Nicolas and Hofmeijer, Jeannette and van Putten, Michel JAM and Sameni, Reza and Reyna, Matthew A and Clifford, Gari D and Westover, M Brandon",
+    title = "The International Cardiac Arrest Research (I-CARE) Consortium Electroencephalography Database",
+    date = "2023-08-28",
+    journal = "medRxiv",
+    url = "https://www.medrxiv.org/content/10.1101/2023.08.28.23294672.abstract",
+    pages = "2023.08. 28.23294672",
+    note = "Publisher: Cold Spring Harbor Laboratory Press"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="EdilbertoAmorim_2023_08_28_TheInternational">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="EdilbertoAmorim_2023_08_28_TheInternational">[show citation]</label>
 </div></div></td></tr><tr>
 <td>268</td>
 <td><div class="citation_container">
