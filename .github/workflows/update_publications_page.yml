@@ -1,0 +1,65 @@
+# This updates the publications page.
+# 
+# Source:
+#   https://github.com/marketplace/actions/github-push
+# 
+# I used ChatGPT 3.5 (November 21, 2023) for advice.
+# 
+# Prompts:
+#  - How would I write a Github Action that once a month
+#      (1) loads a secret token into an environment variable,
+#      (2) calls a python script to modify some files in the
+#      repository, and (3) commits and pushes the results to
+#      the repository?
+#  - Hm, is there a better practice for automated workflows
+#      like this? It would be nice if it just sent an email to
+#      the repository owner, with a button to approve or deny
+#      the update.
+#  - Great! If the python script has dependencies, where would
+#      I put those?
+# 
+# Its answers didn't work, but they got me started and helped me
+# search for answers that did work. The only part of its output
+# I used was installing the Python requirements.
+
+name: Update Publications Page
+permissions:
+  contents: write
+on:
+  # FIXME: update once a month using the schedule: key.
+  # This makes us able to run the Action manually.
+  workflow_dispatch:
+jobs:
+  # Job 1: download new citations to the bibliography and push them.
+  download-publications:
+    runs-on: ubuntu-latest
+    steps:
+      # Check out the repository under $GITHUB_WORKSPACE
+      - uses: actions/checkout@master
+        with:
+          # these are from the "push" workflow example, and I don't know what they do,
+          # but I'm not going to mess with them
+          persist-credentials: false
+          fetch-depth: 0
+          
+      - name: Set up python.
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          
+      - name: Download any new citations to the bibliography.
+        env:
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+        run: ./download_bibliography.py
+
+      - name: Commit and push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          
+  # FIXME: Job 2: regenerate the publications page and push it.
+  # make-publications-page:
+  #  runs-on: ubuntu-latest
+  #  steps:
+      # Run the action generate_publications.yaml
+  
