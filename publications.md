@@ -8409,13 +8409,13 @@ Ward J, Robertson J, Sameni R, Wolfberg A, McDonnell C, Clifford G. <a href="htt
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="VMonasterio_2010_11_24_Comparacionde">
 <div class="citation">
-Monasterio V, Clifford G, Mart<span class="bibtex-protected">ı</span>nez J. Comparacion de Técnicas de Separacion de Fuentes para la Deteccion de Alternancias de Onda T en el ECG. XXVIII Congreso Anual de la Sociedad Espa{\~n}ola de Ingenier{\'\i}a Biom{\'e}dica (CASEIB 2010). 2010 November 24; pp. 163-167.
+Monasterio V, Clifford G, Mart<span class="bibtex-protected">ı</span>nez J. Comparacion de Técnicas de Separacion de Fuentes para la Deteccion de Alternancias de Onda T en el ECG. XXVIII Congreso Anual de la Sociedad Española de Ingenier{\'\i}a Biom{\'e}dica (CASEIB 2010). 2010 November 24; pp. 163-167.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{VMonasterio_2010_11_24_Comparacionde,
     author = "Monasterio, V and Clifford, GD and Mart{\i}nez, JP",
     title = "Comparacion de T{\'e}cnicas de Separacion de Fuentes para la Deteccion de Alternancias de Onda T en el ECG",
     date = "2010-11-24",
-    booktitle = "XXVIII Congreso Anual de la Sociedad Espa{\\textasciitilde n}ola de Ingenier{\'\i}a Biom{\'e}dica (CASEIB 2010).",
+    booktitle = "XXVIII Congreso Anual de la Sociedad Española de Ingenier{\'\i}a Biom{\'e}dica (CASEIB 2010).",
     pages = "163-167"
 }
 </pre>
