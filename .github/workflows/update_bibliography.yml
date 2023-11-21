@@ -23,7 +23,7 @@
 # search for answers that did work. The only part of its output
 # I used was installing the Python requirements.
 
-name: Update Publications Page
+name: Update Bibliography
 permissions:
   contents: write
 on:
