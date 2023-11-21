@@ -1,6 +1,7 @@
 /**
  * Site header
  */
+
 .site-header {
   // border-top: 5px solid $grey-color-dark;
  // border-bottom: 1px solid $grey-color-light;
@@ -331,6 +332,31 @@ div.small-icons + p img {
  
 table {border-collapse: collapse;}
 
+// force tables to display on mobile
+// workaround from https://stackoverflow.com/questions/32301206/how-to-fold-table-columns-into-rows-on-mobile-devices
+@media (max-width: 600px) {
+
+    // make the numbers in the publications page
+    // bold and centered
+    table tr td:first-child {
+      font-weight: bold; 
+      text-align: center;
+    }
+
+    thead th:not(:first-child) {
+        display: none;
+    }
+
+    td, th {
+        display: block;
+    }
+
+    td[data-th]:before  {
+        content: attr(data-th);
+    }
+}
+
+
 @media (max-width: 858px) {
   .site-title {
     margin-left: 55px;
@@ -427,5 +453,121 @@ table {border-collapse: collapse;}
   padding: 0px;
   }
  
- }
+}
 
+// Publications page
+// code should wrap
+
+
+.bibtex_source pre {
+  white-space: pre-wrap !important;
+}
+
+.bibtex_source {
+  display: none; /* Initially hide the BibTeX source */
+  flex: 1;
+  width: 80%;
+}
+
+/* Initially show the citation */
+.citation {
+  display: block;
+  flex: 1;
+}
+
+input[type="checkbox"] {
+  display: none;
+}
+
+input[type="checkbox"]:checked ~ .bibtex_source {
+  display: block;
+}
+
+input[type="checkbox"]:checked ~ .citation {
+  display: none;
+}
+
+.showbibtex label, .hidebibtex label {
+  cursor: pointer;
+  color: gray;
+  font-size: $small-font-size;
+}
+
+.citation_container {
+ // justify-content: center; // changes with wider outputs
+}
+
+.citation {
+}
+
+.hidebibtex {
+  display: none;
+}
+
+input[type="checkbox"]:checked ~ .showbibtex {
+  display: none;
+}
+
+input[type="checkbox"]:checked ~ .hidebibtex {
+  display: block;
+}
+
+@media (min-width: 600px) {
+  .citation_container{
+    display:flex;
+  }
+
+  .showbibtex label, .hidebibtex label {
+    flex: 1;
+    padding-left: 1rem;
+  }
+
+}
+
+
+// when the browser is small, swap the order so the bibtex button is on top
+// source: https://stackoverflow.com/questions/17455811/swap-div-position-with-css-only
+@media (max-width: 800px) {
+  .citation_container {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -moz-box-orient: vertical;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    /* optional */
+    -webkit-box-align: start;
+    -moz-box-align: start;
+    -ms-flex-align: start;
+    -webkit-align-items: flex-start;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .citation, .bibtex_source {
+    -webkit-box-ordinal-group: 2;
+    -moz-box-ordinal-group: 2;
+    -ms-flex-order: 2;
+    -webkit-order: 2;
+    order: 2;
+  }
+
+  .bibtex_source {
+    container-type: inline-size;
+
+  }
+  .showbibtex label, .hidebibtex label {
+    -webkit-box-ordinal-group: 1;
+    -moz-box-ordinal-group: 1;
+    -ms-flex-order: 1;
+    -webkit-order: 1;
+    order: 1;
+  }
+}
+
+.bibtex_source pre {
+}

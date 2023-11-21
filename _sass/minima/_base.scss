@@ -241,7 +241,7 @@ pre {
  * Tables
  */
 table {
-  width: 100%;
+  max-width: 100%;
   text-align: $table-text-align;
   color: lighten($text-color, 18%);
   border-collapse: collapse;
@@ -268,4 +268,21 @@ table {
 //    border: 1px solid $grey-color-light;
     border: none;
   }
+}
+
+/**
+ * Small text block
+ */
+.smalltextblock {
+  font-size: 8pt;
+  line-height: 130%;
+  max-width: 70%;
+  margin: auto;
+//  margin-left: $spacing-unit * 4;
+//  margin-right: $spacing-unit * 3;
+  color: $grey-color-dark;
+  margin-bottom: $spacing-unit;
+  padding-left: $spacing-unit;
+  padding-right: $spacing-unit;
+//  padding: 40px;
 }

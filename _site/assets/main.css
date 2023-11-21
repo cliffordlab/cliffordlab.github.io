@@ -64,11 +64,14 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .social-media-list li + li { padding-top: 5px; }
 
 /** Tables */
-table { width: 100%; text-align: left; color: #3f3f3f; border-collapse: collapse; margin-top: 30px; margin-bottom: 30px; max-width: inherit; border: none; }
+table { max-width: 100%; text-align: left; color: #3f3f3f; border-collapse: collapse; margin-top: 30px; margin-bottom: 30px; max-width: inherit; border: none; }
 table tr:nth-child(even) { background-color: #f7f7f7; }
 table th, table td { padding: 10px 15px; }
 table th { background-color: #f0f0f0; border: none; }
 table td { border: none; }
+
+/** Small text block */
+.smalltextblock { font-size: 8pt; line-height: 130%; max-width: 70%; margin: auto; color: #424242; margin-bottom: 30px; padding-left: 30px; padding-right: 30px; }
 
 /** Site header */
 .site-header { background-color: #424242; min-height: 55.95px; position: relative; }
@@ -128,6 +131,8 @@ table td { border: none; }
 .post-content h4 { font-size: 20px; }
 @media screen and (max-width: 800px) { .post-content h4 { font-size: 18px; } }
 
+div.gari-icon + table { max-width: 400px; margin-left: auto; margin-right: auto; }
+
 div.gari-icon + table td { text-align: center; }
 
 div.gari-icon + table img { width: 2.5em; height: 2.5em; }
@@ -166,21 +171,53 @@ div.small-icons + p img { width: 1.5em; height: 1.5em; padding-right: 6px; }
 
 table { border-collapse: collapse; }
 
-@media (max-width: 768px) { .site-title { margin-left: 55px; }
+@media (max-width: 600px) { table tr td:first-child { font-weight: bold; text-align: center; }
+  thead th:not(:first-child) { display: none; }
+  td, th { display: block; }
+  td[data-th]:before { content: attr(data-th); } }
+@media (max-width: 858px) { .site-title { margin-left: 55px; }
   #sub-link-list { position: relative; transition: all 0.3s ease; }
   #sub-link { padding: 0; margin-left: 1em; }
   #sub-link-container input:checked ~ #sub-link-list { position: relative; transition: all 0.3s ease; }
   #link-list { max-height: 0; overflow-y: hidden; display: block; position: relative; transition: max-height 0.3s ease-out; border-top: 6px solid #222222; }
   #show-links { display: none; }
-  #hamburger-symbol { display: grid; padding-bottom: 10px; padding-left: 10px; margin-top: -46px; }
+  #hamburger-symbol { display: grid; padding-bottom: 10px; padding-left: 10px; margin-top: -44px; }
+  #link-container input:checked ~ #hamburger-symbol img[alt="hamburger"] { display: none; }
+  #link-container input:checked ~ #hamburger-symbol img[alt="xmark"] { display: grid; width: 30px; height: 28px; }
+  #link-container #hamburger-symbol img[alt="xmark"] { display: none; }
+  #link-container #hamburger-symbol img[alt="hamburger"] { display: grid; width: 27px; height: 28px; }
   #hamburger-box { display: grid; width: 30px; height: 28px; cursor: pointer; border-radius: 5px; }
-  #hamburger-symbol svg { display: block; margin: auto; padding: 6px; }
-  #hamburger-symbol svg path { fill: white; }
-  #hamburger-box:hover > svg path { fill: black; }
   #link-list a { display: block; text-align: left; padding: 6px; color: white; }
   #link-list a:hover { background-color: #828282; text-decoration: none; }
   #link-container input:checked ~ #link-list { max-height: calc(var(--numpaths) * 2.5rem); transition: max-height 0.3s ease-in; }
   #link-list-element { padding: 0px; } }
+.bibtex_source pre { white-space: pre-wrap !important; }
+
+.bibtex_source { display: none; /* Initially hide the BibTeX source */ flex: 1; width: 80%; }
+
+/* Initially show the citation */
+.citation { display: block; flex: 1; }
+
+input[type="checkbox"] { display: none; }
+
+input[type="checkbox"]:checked ~ .bibtex_source { display: block; }
+
+input[type="checkbox"]:checked ~ .citation { display: none; }
+
+.showbibtex label, .hidebibtex label { cursor: pointer; color: gray; font-size: 14px; }
+
+.hidebibtex { display: none; }
+
+input[type="checkbox"]:checked ~ .showbibtex { display: none; }
+
+input[type="checkbox"]:checked ~ .hidebibtex { display: block; }
+
+@media (min-width: 600px) { .citation_container { display: flex; }
+  .showbibtex label, .hidebibtex label { flex: 1; padding-left: 1rem; } }
+@media (max-width: 800px) { .citation_container { display: -webkit-box; display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex; -webkit-box-orient: vertical; -moz-box-orient: vertical; -webkit-flex-direction: column; -ms-flex-direction: column; flex-direction: column; /* optional */ -webkit-box-align: start; -moz-box-align: start; -ms-flex-align: start; -webkit-align-items: flex-start; align-items: center; gap: 1rem; }
+  .citation, .bibtex_source { -webkit-box-ordinal-group: 2; -moz-box-ordinal-group: 2; -ms-flex-order: 2; -webkit-order: 2; order: 2; }
+  .bibtex_source { container-type: inline-size; }
+  .showbibtex label, .hidebibtex label { -webkit-box-ordinal-group: 1; -moz-box-ordinal-group: 1; -ms-flex-order: 1; -webkit-order: 1; order: 1; } }
 /** Syntax highlighting styles */
 .highlight { background: #fff; }
 .highlighter-rouge .highlight { background: #eef; }
