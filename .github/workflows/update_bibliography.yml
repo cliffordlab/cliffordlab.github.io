@@ -1,4 +1,5 @@
-# This updates the publications page.
+# This updates the bibliography and is also intended to
+# trigger an update to the publications page.
 # 
 # Source:
 #   https://github.com/marketplace/actions/github-push
