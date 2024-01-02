@@ -63,10 +63,11 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
-          
-  # FIXME: Job 2: regenerate the publications page and push it.
-  # make-publications-page:
-  #  runs-on: ubuntu-latest
-  #  steps:
-      # Run the action generate_publications.yaml
+
+  # FIXME: perhaps ask the owner for confirmation first, before
+  # automatically updating the website.
+  
+  # Job 2: regenerate the publications page and push it.
+  make-publications-page:
+    uses: ./.github/workflows/make_publications_page.yml
   
