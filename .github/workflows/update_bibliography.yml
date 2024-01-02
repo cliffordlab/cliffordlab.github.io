@@ -2,7 +2,7 @@
 # trigger an update to the publications page.
 # 
 # Source:
-#   https://github.com/marketplace/actions/github-push
+#   https://github.com/ad-m/github-push-action
 # 
 # I used ChatGPT 3.5 (November 21, 2023) for advice.
 # 
@@ -36,15 +36,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Check out the repository under $GITHUB_WORKSPACE
-      - uses: actions/checkout@master
+      - uses: actions/checkout@v2
         with:
           # these are from the "push" workflow example, and I don't know what they do,
           # but I'm not going to mess with them
           persist-credentials: false
           fetch-depth: 0
-
-      - name: Pull from the repo.
-        run: git pull
           
       - name: Set up python.
         run: |
@@ -56,10 +53,16 @@ jobs:
           SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
         run: ./download_bibliography.py
 
-      - name: Commit and push changes
-        uses: actions-js/push@master
+      - name: Commit files
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -a -m "Add changes"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
           
   # FIXME: Job 2: regenerate the publications page and push it.
   # make-publications-page:
