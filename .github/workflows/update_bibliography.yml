@@ -27,7 +27,9 @@ name: Update Bibliography
 permissions:
   contents: write
 on:
-  # FIXME: update once a month using the schedule: key.
+  # Update on the first of each month at 11:11.
+  schedule:
+    - cron: '11 11 1 * *'
   # This makes us able to run the Action manually.
   workflow_dispatch:
 jobs:
