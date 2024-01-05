@@ -1,4 +1,8 @@
-# Bibliography
+# The Clifford Lab website
+
+This is the source code for [gdclifford.info](gdclifford.info), which is run on GitHub Pages.
+
+## Bibliography
 
 The Publications page on this site is automatically generated
 from a collection of BibTeX files under `bibliography/`.
@@ -11,7 +15,29 @@ download new entries using [SerpAPI](https://serpapi.com/).
 Citations are never downloaded twice, so this makes fewer than 10 API queries a month,
 unless the Clifford Lab is extraordinarily prolific that month.
 
-## Initial setup
+You can
+- wait for the page to update every month,
+- update the bibliography yourself by running the GitHub Action, or
+- edit the bibliography yourself and regenerate the publications page on your local machine.
+
+### How to update the bibliography
+
+Actions -> Update Bibliography -> Run workflow -> Run workflow.
+
+You may get an error if there are no new publications. (**TODO**: implement a different exit code when no new publications need to be added, so we can just quit the job early instead of crashing.)
+
+### Dependencies (for updating the bibliography locally)
+
+With Python 3 installed:
+```
+pip3 install --requirements requirements.txt
+```
+On **Mac OS X**, you will also have to install `setuptools`:
+````
+pip3 install setuptools
+````
+
+### Initial setup on a local machine
 
 If you are editing this website, run `./init.sh` before the first
 time you commit. This script adds a commit hook to the local repository,
@@ -29,34 +55,34 @@ are automated. All you need to do is edit the bibliography files, add those,
 commit those, and presto! the publications page is also generated and
 included in the commit.
 
-## Currently supported citation types
+### Currently supported citation types
 
 Currently, these will be cited:
 
-### Journal Articles
+#### Journal Articles
 
   - **article.** Required fields: `author`, `title`, `journal`, and either `date` or `year`.
 
-### Conference Papers
+#### Conference Papers
 
   - **conference.** Required fields: `author`, `title`, either `journal` or `booktitle`, and either `date` or `year`.
   - **inproceedings.** This is currently treated the same as `conference`.
 
-### Books and Chapters
+#### Books and Chapters
 
   - **book.** Required fields: `author`, `title`, `publisher`, and either `date` or `year`.
   - **inbook.** Required fields: `author`, `title`, `booktitle`, and either `date` or `year`.
   - **incollection.** This is currently treated the same as `inbook`.
 
-### Other Material (including Patents)
+#### Other Material (including Patents)
 
   - **misc.** Required fields: `author`, `title`, `howpublished`, and either `date` or `year`.
 
-### Theses
+#### Theses
 
   - **thesis.** Required fields: `author`, `title`, `school`, `type`, `year`.
 
-## How to add a publication
+### How to add a publication
 
 - **Get a BibTeX citation for the publication.** These can be downloaded from
   Google Scholar, the library website, the journal, or another academic
@@ -78,7 +104,7 @@ Currently, these will be cited:
 - **Try running `make_publications_page.py`.**
    If it can't parse the file, it will crash and hopefully give a useful error message.
 
-## How to fix a wrong citation
+### How to fix a wrong citation
 
 To fix a wrong citation, you can edit the BibTeX entry directly. Since this entry will not be redownloaded,
 your changes will persist.
@@ -93,7 +119,7 @@ grep -br `<some words from the citation>` --ignore-case
 ```
 (with no angle-brackets), and you should see which file and where it is.
 
-## How to remove a citation entirely
+### How to remove a citation entirely
 
 Delete the citation from its BibTeX file. If it was automatically downloaded from Google Scholar, make sure that its **Google Scholar citation ID** is still listed in `bibliography/do_not_download_these_citations.txt`. Its BibTeX key will be included in the comment:
 ```
@@ -101,15 +127,15 @@ Delete the citation from its BibTeX file. If it was automatically downloaded fro
 ```
 You may want to move it to the `MANUALLY SKIPPED` section, just to avoid confusing anyone else down the line (including yourself).
 
-## How to restore a citation to the version in Google Scholar
+### How to restore a citation to the version in Google Scholar
 
 Delete the citation's Google Scholar citation ID from `bibliography/do_not_download_these_citations.txt`.
 
-## How to change the citation style
+### How to change the citation style
 
 In `make_publications_page.py`, edit the function `render_citation`.
 
-# Theme
+## Theme
 
 The theme of this website is [Minima](https://jekyll.github.io/minima/),
 with customizations. Minima is distributed with the MIT License:
