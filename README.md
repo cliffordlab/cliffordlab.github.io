@@ -115,7 +115,7 @@ To find the BibTeX entry:
 
 Or if you're very impatient, you can enter `bibliography` in the command line and run
 ```
-grep -br `<some words from the citation>` --ignore-case
+grep -br "<some words from the citation>" --ignore-case
 ```
 (with no angle-brackets), and you should see which file and where it is.
 
