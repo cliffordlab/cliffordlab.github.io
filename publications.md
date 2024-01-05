@@ -654,6 +654,29 @@ Rowland GE, Roeckner A, Ely TD, Lebois LA, Rooij SJ, Bruce SE, Jovanovic T, Hous
 </div></div></td></tr><tr>
 <td>259</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="ErickAPerezAlday_2023_02_Associationof">
+<div class="citation">
+Alday EAP, Poian GD, Levantsevych O, Murrah N, Shallenberger L, Alkhalaf M, Haffar A, Kaseer B, Ko Y, Goldberg J, Smith N, Lampert R, Bremner JD, Clifford GD, Vaccarino V, Shah AJ. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.14167">Association of Autonomic Activation with traumatic reminder challenges in posttraumatic stress disorder: A co-twin control study</a>. Psychophysiology 2023 February; 60 (2): p. e14167.
+</div>
+<div class="bibtex_source"><pre>@article{ErickAPerezAlday_2023_02_Associationof,
+    author = "Alday, Erick A Perez and Poian, Giulia Da and Levantsevych, Oleksiy and Murrah, Nancy and Shallenberger, Lucy and Alkhalaf, Mhmtjamil and Haffar, Ammer and Kaseer, Belal and Ko, Yi{-}An and Goldberg, Jack and Smith, Nicholas and Lampert, Rachel and Bremner, J Douglas and Clifford, Gari D and Vaccarino, Viola and Shah, Amit J",
+    title = "Association of Autonomic Activation with traumatic reminder challenges in posttraumatic stress disorder: A co{-}twin control study",
+    date = "2023-02",
+    issue = "2",
+    journal = "Psychophysiology",
+    url = "https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.14167",
+    pages = "e14167",
+    volume = "60"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="ErickAPerezAlday_2023_02_Associationof">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="ErickAPerezAlday_2023_02_Associationof">[show citation]</label>
+</div></div></td></tr><tr>
+<td>258</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="HyeokhyenKwon_2023_02_04_Anexplainable">
 <div class="citation">
 Kwon H, Clifford GD, Genias I, Bernhard D, Esper CD, Factor SA, McKay JL. <a href="https://www.mdpi.com/1424-8220/23/4/1766">An explainable spatial-temporal graphical convolutional network to score freezing of gait in parkinsonian patients</a>. Sensors 2023 February 4; 23 (4): p. 1766.
@@ -675,29 +698,6 @@ Kwon H, Clifford GD, Genias I, Bernhard D, Esper CD, Factor SA, McKay JL. <a hre
 </div>
 <div class="hidebibtex">
 <label for="HyeokhyenKwon_2023_02_04_Anexplainable">[show citation]</label>
-</div></div></td></tr><tr>
-<td>258</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="ErickAPerezAlday_2023_02_Associationof">
-<div class="citation">
-Alday EAP, Poian GD, Levantsevych O, Murrah N, Shallenberger L, Alkhalaf M, Haffar A, Kaseer B, Ko Y, Goldberg J, Smith N, Lampert R, Bremner JD, Clifford GD, Vaccarino V, Shah AJ. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.14167">Association of Autonomic Activation with traumatic reminder challenges in posttraumatic stress disorder: A co-twin control study</a>. Psychophysiology 2023 February; 60 (2): p. e14167.
-</div>
-<div class="bibtex_source"><pre>@article{ErickAPerezAlday_2023_02_Associationof,
-    author = "Alday, Erick A Perez and Poian, Giulia Da and Levantsevych, Oleksiy and Murrah, Nancy and Shallenberger, Lucy and Alkhalaf, Mhmtjamil and Haffar, Ammer and Kaseer, Belal and Ko, Yi{-}An and Goldberg, Jack and Smith, Nicholas and Lampert, Rachel and Bremner, J Douglas and Clifford, Gari D and Vaccarino, Viola and Shah, Amit J",
-    title = "Association of Autonomic Activation with traumatic reminder challenges in posttraumatic stress disorder: A co{-}twin control study",
-    date = "2023-02",
-    issue = "2",
-    journal = "Psychophysiology",
-    url = "https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.14167",
-    pages = "e14167",
-    volume = "60"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="ErickAPerezAlday_2023_02_Associationof">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="ErickAPerezAlday_2023_02_Associationof">[show citation]</label>
 </div></div></td></tr><tr>
 <td>257</td>
 <td><div class="citation_container">
@@ -2415,30 +2415,6 @@ Valderrama CE, Marzbanrad F, Hall-Clifford R, Rohloff P, Clifford GD. <a href="h
 </div></div></td></tr><tr>
 <td>184</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="ShafaatAliSheikh_2020_08_03_Anopensource">
-<div class="citation">
-Sheikh SA, Shah A, Levantsevych O, Soudan M, Alkhalaf J, Rad AB, Inan OT, Clifford GD. <a href="https://iopscience.iop.org/article/10.1088/1361-6579/ab9b71/meta">An open-source automated algorithm for removal of noisy beats for accurate impedance cardiogram analysis</a>. Physiological measurement 2020 August 3; 41 (7): p. 075002.
-</div>
-<div class="bibtex_source"><pre>@article{ShafaatAliSheikh_2020_08_03_Anopensource,
-    author = "Sheikh, Shafa-at Ali and Shah, Amit and Levantsevych, Oleksiy and Soudan, Majd and Alkhalaf, Jamil and Rad, Ali Bahrami and Inan, Omer T and Clifford, Gari D",
-    title = "An open-source automated algorithm for removal of noisy beats for accurate impedance cardiogram analysis",
-    date = "2020-08-03",
-    issue = "7",
-    journal = "Physiological measurement",
-    url = "https://iopscience.iop.org/article/10.1088/1361-6579/ab9b71/meta",
-    pages = "075002",
-    volume = "41",
-    note = "Publisher: IOP Publishing"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="ShafaatAliSheikh_2020_08_03_Anopensource">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="ShafaatAliSheikh_2020_08_03_Anopensource">[show citation]</label>
-</div></div></td></tr><tr>
-<td>183</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AyseSCakmak_2020_08_Anunbiased">
 <div class="citation">
 Cakmak AS, Poian GD, Willats A, Haffar A, Abdulbaki R, Ko Y, Shah AJ, Vaccarino V, Bliwise DL, Rozell C, Clifford GD. <a href="https://academic.oup.com/sleep/article-abstract/43/8/zsaa011/5719607">An unbiased, efficient sleep-wake detection algorithm for a population with sleep disorders: change point decoder</a>. Sleep 2020 August; 43 (8): p. zsaa011.
@@ -2460,6 +2436,30 @@ Cakmak AS, Poian GD, Willats A, Haffar A, Abdulbaki R, Ko Y, Shah AJ, Vaccarino 
 </div>
 <div class="hidebibtex">
 <label for="AyseSCakmak_2020_08_Anunbiased">[show citation]</label>
+</div></div></td></tr><tr>
+<td>183</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="ShafaatAliSheikh_2020_08_03_Anopensource">
+<div class="citation">
+Sheikh SA, Shah A, Levantsevych O, Soudan M, Alkhalaf J, Rad AB, Inan OT, Clifford GD. <a href="https://iopscience.iop.org/article/10.1088/1361-6579/ab9b71/meta">An open-source automated algorithm for removal of noisy beats for accurate impedance cardiogram analysis</a>. Physiological measurement 2020 August 3; 41 (7): p. 075002.
+</div>
+<div class="bibtex_source"><pre>@article{ShafaatAliSheikh_2020_08_03_Anopensource,
+    author = "Sheikh, Shafa-at Ali and Shah, Amit and Levantsevych, Oleksiy and Soudan, Majd and Alkhalaf, Jamil and Rad, Ali Bahrami and Inan, Omer T and Clifford, Gari D",
+    title = "An open-source automated algorithm for removal of noisy beats for accurate impedance cardiogram analysis",
+    date = "2020-08-03",
+    issue = "7",
+    journal = "Physiological measurement",
+    url = "https://iopscience.iop.org/article/10.1088/1361-6579/ab9b71/meta",
+    pages = "075002",
+    volume = "41",
+    note = "Publisher: IOP Publishing"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="ShafaatAliSheikh_2020_08_03_Anopensource">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="ShafaatAliSheikh_2020_08_03_Anopensource">[show citation]</label>
 </div></div></td></tr><tr>
 <td>182</td>
 <td><div class="citation_container">
@@ -2631,30 +2631,6 @@ Vidrine R, Zackoff M, Paff Z, Seger B, Pfeiffer S, Hagedorn P, Stalets E, Despon
 </div></div></td></tr><tr>
 <td>175</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="CamiloEValderrama_2020_03_05_Estimatingbirth">
-<div class="citation">
-Valderrama CE, Marzbanrad F, Juarez M, Hall-Clifford R, Rohloff P, Clifford GD. <a href="https://iopscience.iop.org/article/10.1088/1361-6579/ab7350/meta">Estimating birth weight from observed postnatal weights in a Guatemalan highland community</a>. Physiological Measurement 2020 March 5; 41 (2): p. 025008.
-</div>
-<div class="bibtex_source"><pre>@article{CamiloEValderrama_2020_03_05_Estimatingbirth,
-    author = "Valderrama, Camilo E and Marzbanrad, Faezeh and Juarez, Michel and Hall-Clifford, Rachel and Rohloff, Peter and Clifford, Gari D",
-    title = "Estimating birth weight from observed postnatal weights in a Guatemalan highland community",
-    date = "2020-03-05",
-    issue = "2",
-    journal = "Physiological Measurement",
-    url = "https://iopscience.iop.org/article/10.1088/1361-6579/ab7350/meta",
-    pages = "025008",
-    volume = "41",
-    note = "Publisher: IOP Publishing"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="CamiloEValderrama_2020_03_05_Estimatingbirth">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="CamiloEValderrama_2020_03_05_Estimatingbirth">[show citation]</label>
-</div></div></td></tr><tr>
-<td>174</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RichardGNetemeyer_2020_03_Healthliteracy">
 <div class="citation">
 Netemeyer RG, Dobolyi DG, Abbasi A, Clifford G, Taylor H. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/joca.12267">Health literacy, health numeracy, and trust in doctor: effects on key patient health outcomes</a>. Journal of Consumer Affairs 2020 March; 54 (1): pp. 3-42.
@@ -2677,31 +2653,31 @@ Netemeyer RG, Dobolyi DG, Abbasi A, Clifford G, Taylor H. <a href="https://onlin
 <div class="hidebibtex">
 <label for="RichardGNetemeyer_2020_03_Healthliteracy">[show citation]</label>
 </div></div></td></tr><tr>
-<td>173</td>
+<td>174</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="FaizanAhmad_2020_02_05_Adeep">
+<input type="checkbox" class="toggle-button" id="CamiloEValderrama_2020_03_05_Estimatingbirth">
 <div class="citation">
-Ahmad F, Abbasi A, Li J, Dobolyi DG, Netemeyer RG, Clifford GD, Chen H. <a href="https://dl.acm.org/doi/abs/10.1145/3365211">A deep learning architecture for psychometric natural language processing</a>. ACM Transactions on Information Systems (TOIS) 2020 February 5; 38 (1): pp. 1-29.
+Valderrama CE, Marzbanrad F, Juarez M, Hall-Clifford R, Rohloff P, Clifford GD. <a href="https://iopscience.iop.org/article/10.1088/1361-6579/ab7350/meta">Estimating birth weight from observed postnatal weights in a Guatemalan highland community</a>. Physiological Measurement 2020 March 5; 41 (2): p. 025008.
 </div>
-<div class="bibtex_source"><pre>@article{FaizanAhmad_2020_02_05_Adeep,
-    author = "Ahmad, Faizan and Abbasi, Ahmed and Li, Jingjing and Dobolyi, David G and Netemeyer, Richard G and Clifford, Gari D and Chen, Hsinchun",
-    title = "A deep learning architecture for psychometric natural language processing",
-    date = "2020-02-05",
-    issue = "1",
-    journal = "ACM Transactions on Information Systems (TOIS)",
-    url = "https://dl.acm.org/doi/abs/10.1145/3365211",
-    pages = "1-29",
-    volume = "38",
-    note = "Publisher: ACM"
+<div class="bibtex_source"><pre>@article{CamiloEValderrama_2020_03_05_Estimatingbirth,
+    author = "Valderrama, Camilo E and Marzbanrad, Faezeh and Juarez, Michel and Hall-Clifford, Rachel and Rohloff, Peter and Clifford, Gari D",
+    title = "Estimating birth weight from observed postnatal weights in a Guatemalan highland community",
+    date = "2020-03-05",
+    issue = "2",
+    journal = "Physiological Measurement",
+    url = "https://iopscience.iop.org/article/10.1088/1361-6579/ab7350/meta",
+    pages = "025008",
+    volume = "41",
+    note = "Publisher: IOP Publishing"
 }
 </pre>
 </div><div class="showbibtex">
-<label for="FaizanAhmad_2020_02_05_Adeep">[show BibTeX]</label>
+<label for="CamiloEValderrama_2020_03_05_Estimatingbirth">[show BibTeX]</label>
 </div>
 <div class="hidebibtex">
-<label for="FaizanAhmad_2020_02_05_Adeep">[show citation]</label>
+<label for="CamiloEValderrama_2020_03_05_Estimatingbirth">[show citation]</label>
 </div></div></td></tr><tr>
-<td>172</td>
+<td>173</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="BenjaminISiegel_2020_02_Useof">
 <div class="citation">
@@ -2725,7 +2701,7 @@ Siegel BI, Cakmak A, Reinertsen E, Benoit M, Figueroa J, Clifford GD, Phan HC. <
 <div class="hidebibtex">
 <label for="BenjaminISiegel_2020_02_Useof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>171</td>
+<td>172</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MatthewAReyna_2020_02_EarlyPrediction">
 <div class="citation">
@@ -2748,6 +2724,30 @@ Reyna MA, Josef CS, Jeter R, Shashikumar SP, Westover B, Nemati S, Clifford GD, 
 </div>
 <div class="hidebibtex">
 <label for="MatthewAReyna_2020_02_EarlyPrediction">[show citation]</label>
+</div></div></td></tr><tr>
+<td>171</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="FaizanAhmad_2020_02_05_Adeep">
+<div class="citation">
+Ahmad F, Abbasi A, Li J, Dobolyi DG, Netemeyer RG, Clifford GD, Chen H. <a href="https://dl.acm.org/doi/abs/10.1145/3365211">A deep learning architecture for psychometric natural language processing</a>. ACM Transactions on Information Systems (TOIS) 2020 February 5; 38 (1): pp. 1-29.
+</div>
+<div class="bibtex_source"><pre>@article{FaizanAhmad_2020_02_05_Adeep,
+    author = "Ahmad, Faizan and Abbasi, Ahmed and Li, Jingjing and Dobolyi, David G and Netemeyer, Richard G and Clifford, Gari D and Chen, Hsinchun",
+    title = "A deep learning architecture for psychometric natural language processing",
+    date = "2020-02-05",
+    issue = "1",
+    journal = "ACM Transactions on Information Systems (TOIS)",
+    url = "https://dl.acm.org/doi/abs/10.1145/3365211",
+    pages = "1-29",
+    volume = "38",
+    note = "Publisher: ACM"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="FaizanAhmad_2020_02_05_Adeep">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="FaizanAhmad_2020_02_05_Adeep">[show citation]</label>
 </div></div></td></tr><tr>
 <td>170</td>
 <td><div class="citation_container">
@@ -3061,30 +3061,6 @@ Li Q, Li Q, Liu C, Shashikumar SP, Nemati S, Clifford GD. <a href="https://iopsc
 </div></div></td></tr><tr>
 <td>157</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="RobertGMannino_2018_12_04_Smartphoneapp">
-<div class="citation">
-Mannino RG, Myers DR, Tyburski EA, Caruso C, Boudreaux J, Leong T, Clifford G, Lam WA. <a href="https://www.nature.com/articles/s41467-018-07262-2">Smartphone app for non-invasive detection of anemia using only patient-sourced photos</a>. Nature Communications 2018 December 4; 9 (1): pp. 1-10.
-</div>
-<div class="bibtex_source"><pre>@article{RobertGMannino_2018_12_04_Smartphoneapp,
-    author = "Mannino, Robert G and Myers, David R and Tyburski, Erika A and Caruso, Christina and Boudreaux, Jeanne and Leong, Traci and Clifford, GD and Lam, Wilbur A",
-    title = "Smartphone app for non-invasive detection of anemia using only patient-sourced photos",
-    date = "2018-12-04",
-    issue = "1",
-    journal = "Nature Communications",
-    url = "https://www.nature.com/articles/s41467-018-07262-2",
-    pages = "1-10",
-    volume = "9",
-    note = "Publisher: Nature Publishing Group"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="RobertGMannino_2018_12_04_Smartphoneapp">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="RobertGMannino_2018_12_04_Smartphoneapp">[show citation]</label>
-</div></div></td></tr><tr>
-<td>156</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="BorisMartinez_2018_12_mHealthintervention">
 <div class="citation">
 Martinez B, Ixen EC, Hall-Clifford R, Juarez M, Miller AC, Francis A, Valderrama CE, Stroux L, Clifford GD, Rohloff P. <a href="https://link.springer.com/article/10.1186/s12978-018-0554-z">mHealth intervention to improve the continuum of maternal and perinatal care in rural Guatemala: a pragmatic, randomized controlled feasibility trial</a>. Reproductive Health 2018 December; 15 (1): pp. 1-12.
@@ -3107,7 +3083,7 @@ Martinez B, Ixen EC, Hall-Clifford R, Juarez M, Miller AC, Francis A, Valderrama
 <div class="hidebibtex">
 <label for="BorisMartinez_2018_12_mHealthintervention">[show citation]</label>
 </div></div></td></tr><tr>
-<td>155</td>
+<td>156</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="DevarsettyPraveen_2018_12_Cardiovasculardisease">
 <div class="citation">
@@ -3130,6 +3106,30 @@ Praveen D, Peiris D, MacMahon S, Mogulluru K, Raghu A, Rodgers A, Chilappagari S
 </div>
 <div class="hidebibtex">
 <label for="DevarsettyPraveen_2018_12_Cardiovasculardisease">[show citation]</label>
+</div></div></td></tr><tr>
+<td>155</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="RobertGMannino_2018_12_04_Smartphoneapp">
+<div class="citation">
+Mannino RG, Myers DR, Tyburski EA, Caruso C, Boudreaux J, Leong T, Clifford G, Lam WA. <a href="https://www.nature.com/articles/s41467-018-07262-2">Smartphone app for non-invasive detection of anemia using only patient-sourced photos</a>. Nature Communications 2018 December 4; 9 (1): pp. 1-10.
+</div>
+<div class="bibtex_source"><pre>@article{RobertGMannino_2018_12_04_Smartphoneapp,
+    author = "Mannino, Robert G and Myers, David R and Tyburski, Erika A and Caruso, Christina and Boudreaux, Jeanne and Leong, Traci and Clifford, GD and Lam, Wilbur A",
+    title = "Smartphone app for non-invasive detection of anemia using only patient-sourced photos",
+    date = "2018-12-04",
+    issue = "1",
+    journal = "Nature Communications",
+    url = "https://www.nature.com/articles/s41467-018-07262-2",
+    pages = "1-10",
+    volume = "9",
+    note = "Publisher: Nature Publishing Group"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="RobertGMannino_2018_12_04_Smartphoneapp">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="RobertGMannino_2018_12_04_Smartphoneapp">[show citation]</label>
 </div></div></td></tr><tr>
 <td>154</td>
 <td><div class="citation_container">
@@ -6771,29 +6771,6 @@ Reyna MA, Amorim E, Sameni R, Weigle J, Elola A, Rad AB, Seyedi S, Kwon H, Zheng
 </div></div></td></tr><tr>
 <td>113</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="MatthewAReyna_2022_09_04_Heartmurmur">
-<div class="citation">
-Reyna MA, Kiarashi Y, Elola A, Oliveira J, Renna F, Gu A, Alday EAP, Sadr N, Sharma A, Mattos S, Coimbra MT, Sameni R, Rad AB, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/10081821/">Heart murmur detection from phonocardiogram recordings: The george b. moody physionet challenge 2022</a>. 2022 Computing in Cardiology (CinC) 2022 September 4; 498: pp. 1-4.
-</div>
-<div class="bibtex_source"><pre>@inproceedings{MatthewAReyna_2022_09_04_Heartmurmur,
-    author = "Reyna, Matthew A and Kiarashi, Yashar and Elola, Andoni and Oliveira, Jorge and Renna, Francesco and Gu, Annie and Alday, Erick A Perez and Sadr, Nadi and Sharma, Ashish and Mattos, Sandra and Coimbra, Miguel T and Sameni, Reza and Rad, Ali Bahrami and Clifford, Gari D",
-    title = "Heart murmur detection from phonocardiogram recordings: The george b. moody physionet challenge 2022",
-    date = "2022-09-04",
-    booktitle = "2022 Computing in Cardiology (CinC)",
-    url = "https://ieeexplore.ieee.org/abstract/document/10081821/",
-    pages = "1-4",
-    volume = "498",
-    publisher = "IEEE"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="MatthewAReyna_2022_09_04_Heartmurmur">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="MatthewAReyna_2022_09_04_Heartmurmur">[show citation]</label>
-</div></div></td></tr><tr>
-<td>112</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LucasMcCullum_2022_09_PhysioTagAn">
 <div class="citation">
 McCullum L, Saeed H, Moody B, Perry D, Gottlieb E, Pollard T, Frigola XB, Li Q, Clifford GD, Mark RG, Lehman LH. <a href="https://ieeexplore.ieee.org/abstract/document/10081652/">PhysioTag: An Open-Source Platform for Collaborative Annotation of Physiological Waveforms</a>. Computing in Cardiology 2022 September; 49: pp. 1-4.
@@ -6814,6 +6791,29 @@ McCullum L, Saeed H, Moody B, Perry D, Gottlieb E, Pollard T, Frigola XB, Li Q, 
 </div>
 <div class="hidebibtex">
 <label for="LucasMcCullum_2022_09_PhysioTagAn">[show citation]</label>
+</div></div></td></tr><tr>
+<td>112</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="MatthewAReyna_2022_09_04_Heartmurmur">
+<div class="citation">
+Reyna MA, Kiarashi Y, Elola A, Oliveira J, Renna F, Gu A, Alday EAP, Sadr N, Sharma A, Mattos S, Coimbra MT, Sameni R, Rad AB, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/10081821/">Heart murmur detection from phonocardiogram recordings: The george b. moody physionet challenge 2022</a>. 2022 Computing in Cardiology (CinC) 2022 September 4; 498: pp. 1-4.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{MatthewAReyna_2022_09_04_Heartmurmur,
+    author = "Reyna, Matthew A and Kiarashi, Yashar and Elola, Andoni and Oliveira, Jorge and Renna, Francesco and Gu, Annie and Alday, Erick A Perez and Sadr, Nadi and Sharma, Ashish and Mattos, Sandra and Coimbra, Miguel T and Sameni, Reza and Rad, Ali Bahrami and Clifford, Gari D",
+    title = "Heart murmur detection from phonocardiogram recordings: The george b. moody physionet challenge 2022",
+    date = "2022-09-04",
+    booktitle = "2022 Computing in Cardiology (CinC)",
+    url = "https://ieeexplore.ieee.org/abstract/document/10081821/",
+    pages = "1-4",
+    volume = "498",
+    publisher = "IEEE"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="MatthewAReyna_2022_09_04_Heartmurmur">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="MatthewAReyna_2022_09_04_Heartmurmur">[show citation]</label>
 </div></div></td></tr><tr>
 <td>111</td>
 <td><div class="citation_container">
@@ -7887,6 +7887,26 @@ Stroux L, Clifford GD. <a href="https://scholar.google.com/scholar?cluster=12940
 </div></div></td></tr><tr>
 <td>62</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="RBond_2014_05_Eyetracking">
+<div class="citation">
+Bond R, Finlay D, Clifford GD, Drew B, Breen C, Guldenring D, Gallagher AG. <a href="https://scholar.google.com/scholar?cluster=13712228794969400792&hl=en&oi=scholarr">Eye tracking technology and the 12-lead electrocardiogram: Where the experts look?</a>. 39th Annual Conference of the International Society for Computerized Electrocardiography 2014 May.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{RBond_2014_05_Eyetracking,
+    author = "Bond, R. and Finlay, D.D. and Clifford, G. D. and Drew, B. and Breen, C. and Guldenring, D. and Gallagher, A G",
+    title = "Eye tracking technology and the 12-lead electrocardiogram: Where the experts look?",
+    date = "2014-05",
+    booktitle = "39th Annual Conference of the International Society for Computerized Electrocardiography",
+    url = "https://scholar.google.com/scholar?cluster=13712228794969400792\&hl=en\&oi=scholarr"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="RBond_2014_05_Eyetracking">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="RBond_2014_05_Eyetracking">[show citation]</label>
+</div></div></td></tr><tr>
+<td>61</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="DavidBSpringer_2014_05_04_Signalquality">
 <div class="citation">
 Springer DB, Brennan T, Z<span class="bibtex-protected">ü</span>hlke L, Abdelrahman HY, Ntusi N, Clifford GD, Mayosi BM, Tarassenko L. <a href="https://ieeexplore.ieee.org/abstract/document/6853814/">Signal quality classification of mobile phone-recorded phonocardiogram signals</a>. 2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2014 May 4; pp. 1335-1339.
@@ -7906,26 +7926,6 @@ Springer DB, Brennan T, Z<span class="bibtex-protected">ü</span>hlke L, Abdelra
 </div>
 <div class="hidebibtex">
 <label for="DavidBSpringer_2014_05_04_Signalquality">[show citation]</label>
-</div></div></td></tr><tr>
-<td>61</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="RBond_2014_05_Eyetracking">
-<div class="citation">
-Bond R, Finlay D, Clifford GD, Drew B, Breen C, Guldenring D, Gallagher AG. <a href="https://scholar.google.com/scholar?cluster=13712228794969400792&hl=en&oi=scholarr">Eye tracking technology and the 12-lead electrocardiogram: Where the experts look?</a>. 39th Annual Conference of the International Society for Computerized Electrocardiography 2014 May.
-</div>
-<div class="bibtex_source"><pre>@inproceedings{RBond_2014_05_Eyetracking,
-    author = "Bond, R. and Finlay, D.D. and Clifford, G. D. and Drew, B. and Breen, C. and Guldenring, D. and Gallagher, A G",
-    title = "Eye tracking technology and the 12-lead electrocardiogram: Where the experts look?",
-    date = "2014-05",
-    booktitle = "39th Annual Conference of the International Society for Computerized Electrocardiography",
-    url = "https://scholar.google.com/scholar?cluster=13712228794969400792\&hl=en\&oi=scholarr"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="RBond_2014_05_Eyetracking">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="RBond_2014_05_Eyetracking">[show citation]</label>
 </div></div></td></tr><tr>
 <td>60</td>
 <td><div class="citation_container">
@@ -8433,28 +8433,6 @@ J. CGO, R. L, Z. T, E. S. Realistic MHD Modeling Based on MRI Blood Flow Measure
 </div></div></td></tr><tr>
 <td>36</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="ElnazGederi_2012_01_05_Fusionof">
-<div class="citation">
-Gederi E, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/6211731/">Fusion of image and signal processing for the detection of obstructive sleep apnea</a>. Proceedings of 2012 IEEE-EMBS International Conference on Biomedical and Health Informatics 2012 January 5; pp. 890-893.
-</div>
-<div class="bibtex_source"><pre>@inproceedings{ElnazGederi_2012_01_05_Fusionof,
-    author = "Gederi, Elnaz and Clifford, Gari D",
-    title = "Fusion of image and signal processing for the detection of obstructive sleep apnea",
-    date = "2012-01-05",
-    booktitle = "Proceedings of 2012 IEEE-EMBS International Conference on Biomedical and Health Informatics",
-    url = "https://ieeexplore.ieee.org/abstract/document/6211731/",
-    pages = "890-893",
-    publisher = "IEEE"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="ElnazGederi_2012_01_05_Fusionof">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="ElnazGederi_2012_01_05_Fusionof">[show citation]</label>
-</div></div></td></tr><tr>
-<td>35</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JWKrug_2012_TheLimited">
 <div class="citation">
 Krug J, Clifford G, Rose G, Oster J. <a href="https://ieeexplore.ieee.org/abstract/document/6334040/">The limited applicability of Wiener filtering to ECG signals disturbed by the MHD effect</a>. The Proceedings of EUSIPCO 2012 Conference, August 27-31, Bucharest, Romania 2012; pp. 959-963.
@@ -8474,6 +8452,28 @@ Krug J, Clifford G, Rose G, Oster J. <a href="https://ieeexplore.ieee.org/abstra
 </div>
 <div class="hidebibtex">
 <label for="JWKrug_2012_TheLimited">[show citation]</label>
+</div></div></td></tr><tr>
+<td>35</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="ElnazGederi_2012_01_05_Fusionof">
+<div class="citation">
+Gederi E, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/6211731/">Fusion of image and signal processing for the detection of obstructive sleep apnea</a>. Proceedings of 2012 IEEE-EMBS International Conference on Biomedical and Health Informatics 2012 January 5; pp. 890-893.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{ElnazGederi_2012_01_05_Fusionof,
+    author = "Gederi, Elnaz and Clifford, Gari D",
+    title = "Fusion of image and signal processing for the detection of obstructive sleep apnea",
+    date = "2012-01-05",
+    booktitle = "Proceedings of 2012 IEEE-EMBS International Conference on Biomedical and Health Informatics",
+    url = "https://ieeexplore.ieee.org/abstract/document/6211731/",
+    pages = "890-893",
+    publisher = "IEEE"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="ElnazGederi_2012_01_05_Fusionof">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="ElnazGederi_2012_01_05_Fusionof">[show citation]</label>
 </div></div></td></tr><tr>
 <td>34</td>
 <td><div class="citation_container">
@@ -9374,25 +9374,6 @@ Dumitru M, Li Q, Alday EAP, Rad AB, Clifford GD, Sameni R. <a href="https://arxi
 </div></div></td></tr><tr>
 <td>16</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="SalmanSeyedi_2023_01_05_AComparison">
-<div class="citation">
-Seyedi S, Griner E, Corbin L, Jiang Z, Iacobelli L, Milloy A, Boazak M, Rad AB, Cotes RO, Clifford GD. A Comparison of HIPAA-Compliant Transcription Services for Psychiatric Interviews. PsyARXiV 2023 January 5.
-</div>
-<div class="bibtex_source"><pre>@article{SalmanSeyedi_2023_01_05_AComparison,
-    author = "Seyedi, Salman and Griner, Emily and Corbin, Lisette and Jiang, Zifan and Iacobelli, Luca and Milloy, Aaron and Boazak, Mina and Rad, Ali Bahrami and Cotes, Robert O and Clifford, Gari D",
-    title = "A Comparison of HIPAA-Compliant Transcription Services for Psychiatric Interviews",
-    date = "2023-01-05",
-    journal = "PsyARXiV"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="SalmanSeyedi_2023_01_05_AComparison">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="SalmanSeyedi_2023_01_05_AComparison">[show citation]</label>
-</div></div></td></tr><tr>
-<td>15</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AbigailZeamer_2023_Pilotstudy">
 <div class="citation">
 Zeamer A, Salive M, An X, House S, Beaudoin FL, Stevens JS, Zeng D, Neylan T, Clifford GD, Linnstaedt SD, Rauch SL, Storrow AB, Lewandowski C, Musey PI, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Hudak LA, Seamon MJ, Harris E, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Bruce SE, Kessler RC, Koenen KC, McLean SA, Bucci V, Haran JP. <a href="https://www.medrxiv.org/content/10.1101/2023.03.01.23286577.abstract">Pilot study of the association between microbiome and the development of adverse posttraumatic neuropsychiatric sequelae after traumatic stress exposure</a>. medRxiv 2023; p. 2023.03. 01.23286577.
@@ -9413,7 +9394,7 @@ Zeamer A, Salive M, An X, House S, Beaudoin FL, Stevens JS, Zeng D, Neylan T, Cl
 <div class="hidebibtex">
 <label for="AbigailZeamer_2023_Pilotstudy">[show citation]</label>
 </div></div></td></tr><tr>
-<td>14</td>
+<td>15</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZifanJiang_2023_Disentanglingvisual">
 <div class="citation">
@@ -9435,7 +9416,7 @@ Jiang Z, Seyedi S, Vickers KL, Manzanares CM, Lah JJ, Levey AI, Clifford GD. <a 
 <div class="hidebibtex">
 <label for="ZifanJiang_2023_Disentanglingvisual">[show citation]</label>
 </div></div></td></tr><tr>
-<td>13</td>
+<td>14</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NasimKatebi_2023_AutomatedImage">
 <div class="citation">
@@ -9457,7 +9438,7 @@ Katebi N, Bremer W, Nguyen T, Phan D, Jeff J, Armstrong K, Phabian-Millbrook P, 
 <div class="hidebibtex">
 <label for="NasimKatebi_2023_AutomatedImage">[show citation]</label>
 </div></div></td></tr><tr>
-<td>12</td>
+<td>13</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZifanJiang_2023_Multimodalmental">
 <div class="citation">
@@ -9478,6 +9459,25 @@ Jiang Z, Seyedi S, Griner EL, Abbasi A, Rad AB, Kwon H, Cotes RO, Clifford GD. <
 </div>
 <div class="hidebibtex">
 <label for="ZifanJiang_2023_Multimodalmental">[show citation]</label>
+</div></div></td></tr><tr>
+<td>12</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="SalmanSeyedi_2023_01_05_AComparison">
+<div class="citation">
+Seyedi S, Griner E, Corbin L, Jiang Z, Iacobelli L, Milloy A, Boazak M, Rad AB, Cotes RO, Clifford GD. A Comparison of HIPAA-Compliant Transcription Services for Psychiatric Interviews. PsyARXiV 2023 January 5.
+</div>
+<div class="bibtex_source"><pre>@article{SalmanSeyedi_2023_01_05_AComparison,
+    author = "Seyedi, Salman and Griner, Emily and Corbin, Lisette and Jiang, Zifan and Iacobelli, Luca and Milloy, Aaron and Boazak, Mina and Rad, Ali Bahrami and Cotes, Robert O and Clifford, Gari D",
+    title = "A Comparison of HIPAA-Compliant Transcription Services for Psychiatric Interviews",
+    date = "2023-01-05",
+    journal = "PsyARXiV"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="SalmanSeyedi_2023_01_05_AComparison">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="SalmanSeyedi_2023_01_05_AComparison">[show citation]</label>
 </div></div></td></tr><tr>
 <td>11</td>
 <td><div class="citation_container">
