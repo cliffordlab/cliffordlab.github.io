@@ -71,5 +71,6 @@ jobs:
   
   # Job 2: regenerate the publications page and push it.
   make-publications-page:
+    needs: download-publications
     uses: ./.github/workflows/make_publications_page.yml
   
