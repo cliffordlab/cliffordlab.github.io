@@ -10,6 +10,7 @@ on:
   # FIXME: let another action run this action
   # Allowed to run manually from the Actions tab
   workflow_dispatch:
+  workflow_call:
 
 jobs:
   # Generate the page
