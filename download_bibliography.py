@@ -427,6 +427,8 @@ if __name__ == "__main__":
     u = UnicodeToLatexEncoder(unknown_char_policy='replace',
                               replacement_latex_protection='braces-all')
 
+    # Whether any new articles have been added:
+    any_new_articles=False
 
     for item in page_items:
         citation_id = get_citation_id(item)
@@ -434,6 +436,9 @@ if __name__ == "__main__":
         if citation_id in citation_ids_to_skip:
             print(f"Not (re)downloading {citation_id}.")
         else:
+            # yes we've found a new article!
+            any_new_articles=True
+
             # retrieve it from Google Scholar using the serpapi
             citation = download_citation(citation_id)
 
@@ -460,3 +465,7 @@ if __name__ == "__main__":
             print(f"Downloaded {citation_id}: {bibtex_identifier}.")
 
     print("Finished!")
+    if not any_new_articles:
+      print("No new articles; exiting now with code 2.")
+      exit(2)
+
