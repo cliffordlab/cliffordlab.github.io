@@ -7,11 +7,11 @@ permissions:
 
   # Controls when the workflow will run
 on:
-  # FIXME: let another action run this action
   # Allowed to run manually from the Actions tab
   workflow_dispatch:
-  workflow_call:
-
+  # Update on the first of each month at 11:22.
+  schedule:
+    - cron: '22 11 1 * *'
 jobs:
   # Generate the page
   make_publications_page:
