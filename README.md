@@ -15,16 +15,17 @@ download new entries using [SerpAPI](https://serpapi.com/).
 Citations are never downloaded twice, so this makes fewer than 10 API queries a month,
 unless the Clifford Lab is extraordinarily prolific that month.
 
+Then another GitHub Action generates a publications page from the BibTeX entries that were just downloaded.
+
 You can
 - wait for the page to update every month,
-- update the bibliography yourself by running the GitHub Action, or
+- update the bibliography yourself by running two GitHub Actions, or
 - edit the bibliography yourself and regenerate the publications page on your local machine.
 
-### How to update the bibliography
+### How to update the bibliography manually
 
-Actions -> Update Bibliography -> Run workflow -> Run workflow.
-
-You may get an error if there are no new publications. (**TODO**: implement a different exit code when no new publications need to be added, so we can just quit the job early instead of crashing.)
+1. **Update Bibliography:** Actions -> Update Bibliography -> Run workflow -> Run workflow.
+2. **Make Publications Page:** Actions -> Make Publications Page -> Run workflow -> Run workflow.
 
 ### Dependencies (for updating the bibliography locally)
 
