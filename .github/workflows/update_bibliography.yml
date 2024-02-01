@@ -54,16 +54,13 @@ jobs:
         env:
           SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
         run: |
-          ./download_bibliography.py &&
-          if (( $? == 2 )); then # no new publications
-            exit 0
-          fi
+          ./download_bibliography.py
 
       - name: Commit files
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git commit -a -m "Add changes"
+          git commit --allow-empty -a -m "Add changes"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
