@@ -54,7 +54,7 @@ jobs:
         env:
           SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
         run: |
-          ./download_bibliography.py
+          ./download_bibliography.py &&
           if (( $? == 2 )); then # no new publications
             exit 0
           fi
