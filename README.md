@@ -40,20 +40,24 @@ pip3 install setuptools
 
 ### Initial setup on a local machine
 
-If you are editing this website, run `./init.sh` before the first
-time you commit. This script adds a commit hook to the local repository,
-at `.git/hooks/pre-commit`. You don't need to interact with this file at all;
+**Run `./init.sh` before the first time you commit.**
+
+This script adds a commit hook to the local repository,
+at `.git/hooks/pre-commit`. **You don't need to interact with this file at all;**
 this will simply ensure that `pre-commit` gets executed before
 committing changes.
-In turn, `pre-commit` does the following actions:
+
+#### Wait, but what does `pre-commit` do?
+
+`pre-commit` does the following actions:
 
 1. Attempt to generate `publications.md` from the bibliography files.
 2. If the publications list was successfully created, add it to the commit.
 
 The effect of this is that *you don't have to touch the publications page*,
 even to add it when it's changed. Both updating it and adding it
-are automated. All you need to do is edit the bibliography files, add those,
-commit those, and presto! the publications page is also generated and
+are automated. All you need to do is edit the bibliography files, add those files,
+commit them, and presto! the publications page is also generated and
 included in the commit.
 
 ### Currently supported citation types
@@ -111,7 +115,7 @@ To fix a wrong citation, you can edit the BibTeX entry directly. Since this entr
 your changes will persist.
 
 To find the BibTeX entry:
-- On the site, click “\[show BibTeX\]” and note the BibTeX key.
+- On the site, click “\[show BibTeX\]” and note the **BibTeX key** (the string `xyz` in `@article{xyz,`).
 - Search for the BibTeX key in the `.bib` file under `bibliography` corresponding to the section.
 
 Or if you're very impatient, you can enter `bibliography` in the command line and run
