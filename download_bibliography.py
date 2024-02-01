@@ -466,6 +466,4 @@ if __name__ == "__main__":
 
     print("Finished!")
     if not any_new_articles:
-      print("No new articles; exiting now with code 2.")
-      exit(2)
-
+      print("No new publications!")
