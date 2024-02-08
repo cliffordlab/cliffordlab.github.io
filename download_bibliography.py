@@ -139,13 +139,13 @@ def is_patent(citation):
 def is_preprint(citation):
     """Determine whether to file this item as a preprint."""
     for field in ['journal', 'booktitle', 'conference', 'publisher']:
-        # if any of these contain 'arxiv' or 'medxiv' or 'preprint',
+        # if any of these contain 'arxiv' or 'medrxiv' or 'preprint',
         # return True
         if field in citation:
             publication_lc=citation[field].lower()
             if (re.search('preprint', publication_lc) or
                 re.search('arxiv', publication_lc) or
-                re.search('medxiv', publication_lc)):
+                re.search('medrxiv', publication_lc)):
                     return True
     return False
 
