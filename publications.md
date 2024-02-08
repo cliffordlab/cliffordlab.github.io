@@ -15,15 +15,14 @@ permalink: /publications
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="YasharKiarashi_2024_PredictingAdverse">
 <div class="citation">
-Kiarashi Y, Suresha PB, Rad AB, Reyna M, Anderson C, Foster J, Lantz J, Villavicencio T, Hamlin T, Clifford GD. <a href="https://www.medrxiv.org/content/10.1101/2024.01.23.24301681.abstract">Predicting Adverse Behavior in Individuals with Autism Spectrum Disorder Through Off-body Sleep Analysis</a>. medRxiv 2024; p. 2024.01. 23.24301681.
+Kiarashi Y, Suresha PB, Rad AB, Reyna M, Anderson C, Foster J, Lantz J, Villavicencio T, Hamlin T, Clifford GD. <a href="https://www.medrxiv.org/content/10.1101/2024.01.23.24301681v1.full.pdf">Predicting Adverse Behavior in Individuals with Autism Spectrum Disorder Through Off-body Sleep Analysis</a>. medRxiv 2024.
 </div>
 <div class="bibtex_source"><pre>@article{YasharKiarashi_2024_PredictingAdverse,
     author = "Kiarashi, Yashar and Suresha, Pradyumna B and Rad, Ali Bahrami and Reyna, Matthew and Anderson, Conor and Foster, Jenny and Lantz, Johanna and Villavicencio, Tania and Hamlin, Theresa and Clifford, Gari D",
     title = "Predicting Adverse Behavior in Individuals with Autism Spectrum Disorder Through Off-body Sleep Analysis",
     date = "2024",
     journal = "medRxiv",
-    url = "https://www.medrxiv.org/content/10.1101/2024.01.23.24301681.abstract",
-    pages = "2024.01. 23.24301681",
+    url = "https://www.medrxiv.org/content/10.1101/2024.01.23.24301681v1.full.pdf",
     note = "Publisher: Cold Spring Harbor Laboratory Press"
 }
 </pre>
@@ -37,14 +36,14 @@ Kiarashi Y, Suresha PB, Rad AB, Reyna M, Anderson C, Foster J, Lantz J, Villavic
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChaitraHegde_2024_01_16_IndoorGroup">
 <div class="citation">
-Hegde C, Kiarashi Y, Rodriguez AD, Levey AI, Doiron M, Kwon H, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/10400779/">Indoor Group Identification and Localization Using Privacy-Preserving Edge Computing Distributed Camera Network</a>. IEEE Journal of Indoor and Seamless Positioning and Navigation 2024 January 16.
+Hegde C, Kiarashi Y, Rodriguez AD, Levey AI, Doiron M, Kwon H, Clifford GD. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10400779">Indoor Group Identification and Localization Using Privacy-Preserving Edge Computing Distributed Camera Network</a>. IEEE Journal of Indoor and Seamless Positioning and Navigation 2024 January 16.
 </div>
 <div class="bibtex_source"><pre>@article{ChaitraHegde_2024_01_16_IndoorGroup,
     author = "Hegde, Chaitra and Kiarashi, Yashar and Rodriguez, Amy D and Levey, Allan I and Doiron, Matthew and Kwon, Hyeokhyen and Clifford, Gari D",
     title = "Indoor Group Identification and Localization Using Privacy-Preserving Edge Computing Distributed Camera Network",
     date = "2024-01-16",
     journal = "IEEE Journal of Indoor and Seamless Positioning and Navigation",
-    url = "https://ieeexplore.ieee.org/abstract/document/10400779/",
+    url = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=10400779",
     note = "Publisher: IEEE"
 }
 </pre>
@@ -3408,7 +3407,7 @@ Zhu T, Johnson AE, Yang Y, Clifford GD, Clifton DA. <a href="https://iopscience.
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="TingtingZhu_2018_06_05_UnsupervisedBayesian">
 <div class="citation">
-Zhu T, Pimentel MA, Clifford GD, Clifton DA. <a href="https://ieeexplore.ieee.org/abstract/document/8372446/">Unsupervised Bayesian inference to fuse biosignal sensory estimates for personalizing care</a>. IEEE Journal of Biomedical and Health Informatics 2018 June 5; 23 (1): pp. 47-58.
+Zhu T, Pimentel MA, Clifford GD, Clifton DA. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-iRFFZcVdnNVdidmlWS0ltcWVtc3NRZi1tTjVz/view?usp=sharing&resourcekey=0-wkMjsJuqEs6tFz1F3re8Bw">Unsupervised Bayesian inference to fuse biosignal sensory estimates for personalizing care</a>. IEEE Journal of Biomedical and Health Informatics 2018 June 5; 23 (1): pp. 47-58.
 </div>
 <div class="bibtex_source"><pre>@article{TingtingZhu_2018_06_05_UnsupervisedBayesian,
     author = "Zhu, Tingting and Pimentel, Marco AF and Clifford, Gari D and Clifton, David A",
@@ -3416,7 +3415,7 @@ Zhu T, Pimentel MA, Clifford GD, Clifton DA. <a href="https://ieeexplore.ieee.or
     date = "2018-06-05",
     issue = "1",
     journal = "IEEE Journal of Biomedical and Health Informatics",
-    url = "https://ieeexplore.ieee.org/abstract/document/8372446/",
+    url = "https://drive.google.com/file/d/0B5wjNvhEV8-iRFFZcVdnNVdidmlWS0ltcWVtc3NRZi1tTjVz/view?usp=sharing\&resourcekey=0-wkMjsJuqEs6tFz1F3re8Bw",
     pages = "47-58",
     volume = "23",
     note = "Publisher: IEEE"
@@ -3713,7 +3712,7 @@ Liu C, Springer D, Clifford GD. <a href="https://iopscience.iop.org/article/10.1
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="BradleyMWhitaker_2017_07_31_Combiningsparse">
 <div class="citation">
-Whitaker BM, Suresha PB, Liu C, Clifford GD, Anderson DV. <a href="https://iopscience.iop.org/article/10.1088/1361-6579/aa7623/meta">Combining sparse coding and time-domain features for heart sound classification</a>. Physiological Measurement 2017 July 31; 38 (8): p. 1701.
+Whitaker BM, Suresha PB, Liu C, Clifford GD, Anderson DV. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-iazVLbHh1bmtLUXpvRFYwd0Z0REFDZ3FCeWxV/view?usp=sharing&resourcekey=0-ULsQnhIVI-65u4rgK3j55Q">Combining sparse coding and time-domain features for heart sound classification</a>. Physiological Measurement 2017 July 31; 38 (8): p. 1701.
 </div>
 <div class="bibtex_source"><pre>@article{BradleyMWhitaker_2017_07_31_Combiningsparse,
     author = "Whitaker, Bradley M and Suresha, Pradyumna B and Liu, Chengyu and Clifford, Gari D and Anderson, David V",
@@ -3721,7 +3720,7 @@ Whitaker BM, Suresha PB, Liu C, Clifford GD, Anderson DV. <a href="https://iopsc
     date = "2017-07-31",
     issue = "8",
     journal = "Physiological Measurement",
-    url = "https://iopscience.iop.org/article/10.1088/1361-6579/aa7623/meta",
+    url = "https://drive.google.com/file/d/0B5wjNvhEV8-iazVLbHh1bmtLUXpvRFYwd0Z0REFDZ3FCeWxV/view?usp=sharing\&resourcekey=0-ULsQnhIVI-65u4rgK3j55Q",
     pages = "1701",
     volume = "38",
     note = "Publisher: IOP Publishing"
@@ -4181,14 +4180,14 @@ Liu C, Springer D, Moody B, Silva I, Johnson A, Samieinasab M, Sameni R, Mark R,
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="TingtingZhu_2015_12_Fusingcontinuousvalued">
 <div class="citation">
-Zhu T, Dunkley N, Behar J, Clifton DA, Clifford GD. <a href="https://link.springer.com/article/10.1007/s10439-015-1344-1">Fusing continuous-valued medical labels using a Bayesian model</a>. Annals of biomedical engineering 2015 December; 43: pp. 2892-2902.
+Zhu T, Dunkley N, Behar J, Clifton DA, Clifford GD. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-iVUxnbmJ2NV85T2s/view?usp=sharing&resourcekey=0-MiMjnpPlULoUicGRQeOiOw">Fusing continuous-valued medical labels using a Bayesian model</a>. Annals of biomedical engineering 2015 December; 43: pp. 2892-2902.
 </div>
 <div class="bibtex_source"><pre>@article{TingtingZhu_2015_12_Fusingcontinuousvalued,
     author = "Zhu, Tingting and Dunkley, Nic and Behar, Joachim and Clifton, David A and Clifford, Gari D",
     title = "Fusing continuous-valued medical labels using a Bayesian model",
     date = "2015-12",
     journal = "Annals of biomedical engineering",
-    url = "https://link.springer.com/article/10.1007/s10439-015-1344-1",
+    url = "https://drive.google.com/file/d/0B5wjNvhEV8-iVUxnbmJ2NV85T2s/view?usp=sharing\&resourcekey=0-MiMjnpPlULoUicGRQeOiOw",
     pages = "2892-2902",
     volume = "43",
     note = "Publisher: Springer US"
@@ -4866,7 +4865,7 @@ Tsanas A, Za<span class="bibtex-protected">ñ</span>artu M, Little MA, Fox C, Ra
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="TingtingZhu_2014_04_CrowdSourcedAnnotation">
 <div class="citation">
-Zhu T, Johnson AE, Behar J, Clifford GD. <a href="https://link.springer.com/article/10.1007/s10439-013-0964-6">Crowd-sourced annotation of ECG signals using contextual information</a>. Annals of Biomedical Engineering 2014 April; 42 (4): pp. 871-884.
+Zhu T, Johnson AE, Behar J, Clifford GD. <a href="https://drive.google.com/file/d/0B-JN4X_-q3f5bGZuWjJ2eVdlTnM/view?usp=sharing&resourcekey=0-7xuNjELyb6arMimF5nzPeA">Crowd-sourced annotation of ECG signals using contextual information</a>. Annals of Biomedical Engineering 2014 April; 42 (4).
 </div>
 <div class="bibtex_source"><pre>@article{TingtingZhu_2014_04_CrowdSourcedAnnotation,
     author = "Zhu, Tingting and Johnson, Alistair EW and Behar, Joachim and Clifford, Gari D",
@@ -4874,8 +4873,7 @@ Zhu T, Johnson AE, Behar J, Clifford GD. <a href="https://link.springer.com/arti
     date = "2014-04",
     issue = "4",
     journal = "Annals of Biomedical Engineering",
-    url = "https://link.springer.com/article/10.1007/s10439-013-0964-6",
-    pages = "871-884",
+    url = "https://drive.google.com/file/d/0B-JN4X\_-q3f5bGZuWjJ2eVdlTnM/view?usp=sharing\&resourcekey=0-7xuNjELyb6arMimF5nzPeA",
     volume = "42",
     note = "Publisher: Springer US"
 }
