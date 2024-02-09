@@ -8501,29 +8501,6 @@ Carspecken CW, Arteta C, Clifford GD. <a href="https://ieeexplore.ieee.org/abstr
 </div></div></td></tr><tr>
 <td>41</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="AEWJohnson_2012_09_09_PatientSpecific">
-<div class="citation">
-Johnson A, Dunkley N, Mayaud L, Tsanas A, Kramer A, Clifford G. <a href="https://ieeexplore.ieee.org/abstract/document/6420377/">Patient specific predictions in the intensive care unit using a Bayesian ensemble</a>. Computing in Cardiology, 2012 2012 September 9; 39: pp. 249-252.
-</div>
-<div class="bibtex_source"><pre>@inproceedings{AEWJohnson_2012_09_09_PatientSpecific,
-    author = "Johnson, AEW and Dunkley, N and Mayaud, L and Tsanas, A and Kramer, AA and Clifford, GD",
-    title = "Patient specific predictions in the intensive care unit using a Bayesian ensemble",
-    date = "2012-09-09",
-    booktitle = "Computing in Cardiology, 2012",
-    url = "https://ieeexplore.ieee.org/abstract/document/6420377/",
-    pages = "249-252",
-    volume = "39",
-    publisher = "IEEE"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="AEWJohnson_2012_09_09_PatientSpecific">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="AEWJohnson_2012_09_09_PatientSpecific">[show citation]</label>
-</div></div></td></tr><tr>
-<td>40</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JohannesWKrug_2012_09_Filteringthe">
 <div class="citation">
 Krug JW, Rose GH, Stucht D, Clifford GD, Oster J. <a href="https://ieeexplore.ieee.org/abstract/document/6420462/">Filtering the magnetohydrodynamic effect from 12-lead ECG signals using independent component analysis</a>. Computing in Cardiology, 2012 2012 September; pp. 589-592.
@@ -8544,7 +8521,7 @@ Krug JW, Rose GH, Stucht D, Clifford GD, Oster J. <a href="https://ieeexplore.ie
 <div class="hidebibtex">
 <label for="JohannesWKrug_2012_09_Filteringthe">[show citation]</label>
 </div></div></td></tr><tr>
-<td>39</td>
+<td>40</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JBehar_2012_09_ASingle">
 <div class="citation">
@@ -8566,7 +8543,7 @@ Behar J, Oster J, Li Q, Clifford G. <a href="https://ieeexplore.ieee.org/abstrac
 <div class="hidebibtex">
 <label for="JBehar_2012_09_ASingle">[show citation]</label>
 </div></div></td></tr><tr>
-<td>38</td>
+<td>39</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JonathanDaly_2012_09_ANeonatal">
 <div class="citation">
@@ -8587,6 +8564,29 @@ Daly J, Monasterio V, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract
 </div>
 <div class="hidebibtex">
 <label for="JonathanDaly_2012_09_ANeonatal">[show citation]</label>
+</div></div></td></tr><tr>
+<td>38</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="AEWJohnson_2012_09_09_PatientSpecific">
+<div class="citation">
+Johnson A, Dunkley N, Mayaud L, Tsanas A, Kramer A, Clifford G. <a href="https://ieeexplore.ieee.org/abstract/document/6420377/">Patient specific predictions in the intensive care unit using a Bayesian ensemble</a>. Computing in Cardiology, 2012 2012 September 9; 39: pp. 249-252.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{AEWJohnson_2012_09_09_PatientSpecific,
+    author = "Johnson, AEW and Dunkley, N and Mayaud, L and Tsanas, A and Kramer, AA and Clifford, GD",
+    title = "Patient specific predictions in the intensive care unit using a Bayesian ensemble",
+    date = "2012-09-09",
+    booktitle = "Computing in Cardiology, 2012",
+    url = "https://ieeexplore.ieee.org/abstract/document/6420377/",
+    pages = "249-252",
+    volume = "39",
+    publisher = "IEEE"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="AEWJohnson_2012_09_09_PatientSpecific">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="AEWJohnson_2012_09_09_PatientSpecific">[show citation]</label>
 </div></div></td></tr><tr>
 <td>37</td>
 <td><div class="citation_container">
@@ -9431,26 +9431,6 @@ Motie-Shirazi M, Sameni R, Rohloff P, Katebi N, Clifford GD. <a href="https://ar
 </div></div></td></tr><tr>
 <td>22</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="StephanieHaering_2023_10_09_Disentanglingsex">
-<div class="citation">
-Haering S, Seligowski AV, Linnstaedt SD, Michopoulos V, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Gentile NT, Hudak LA, Pascual JL, Seamon MJ, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sanchez LD, Bruce SE, Harte SE, McLean SA, Kessler RC, Koenen KC, Powers A, Stevens J. <a href="https://osf.io/preprints/psyarxiv/rp7af/">Disentangling sex differences in PTSD risk factors: a systematic overview and multiple mediation analysis in the AURORA study</a>. 2023 October 9.
-</div>
-<div class="bibtex_source"><pre>@unpublished{StephanieHaering_2023_10_09_Disentanglingsex,
-    author = "Haering, Stephanie and Seligowski, Antonia V and Linnstaedt, Sarah D and Michopoulos, Vasiliki and House, Stacey L and Beaudoin, Franceska L and An, Xinming and Neylan, Thomas C and Clifford, Gari D and Germine, Laura T and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and Gentile, Nina T and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sanchez, Leon D and Bruce, Steven E and Harte, Steven E and McLean, Samuel A and Kessler, Ronald C and Koenen, Karestan C and Powers, Abigail and Stevens, Jennifer",
-    title = "Disentangling sex differences in PTSD risk factors: a systematic overview and multiple mediation analysis in the AURORA study",
-    date = "2023-10-09",
-    url = "https://osf.io/preprints/psyarxiv/rp7af/",
-    note = "Publisher: PsyArXiv"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="StephanieHaering_2023_10_09_Disentanglingsex">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="StephanieHaering_2023_10_09_Disentanglingsex">[show citation]</label>
-</div></div></td></tr><tr>
-<td>21</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AlyssaRoeckner_2023_10_Whenplasticity">
 <div class="citation">
 Roeckner A, Lin ER, Hinrichs R, Harnett NG, Lebois L, Rooij SJ, Ely TD, Jovanovic T, Murty VP, Bruce SE, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Musey PI, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Hudak LA, Pascual JL, Seamon MJ, Datner EM, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Joormann J, Sheridan JF, Harte SE, Koenen KC, Kessler RC, McLean SA, Ressler KJ, Stevens J. <a href="https://osf.io/preprints/b7vnq/">When plasticity becomes pathological: Sequential decreases in basolateral amygdala response to threat cues predict failure to recover from PTSD</a>. 2023 October.
@@ -9468,6 +9448,26 @@ Roeckner A, Lin ER, Hinrichs R, Harnett NG, Lebois L, Rooij SJ, Ely TD, Jovanovi
 </div>
 <div class="hidebibtex">
 <label for="AlyssaRoeckner_2023_10_Whenplasticity">[show citation]</label>
+</div></div></td></tr><tr>
+<td>21</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="StephanieHaering_2023_10_09_Disentanglingsex">
+<div class="citation">
+Haering S, Seligowski AV, Linnstaedt SD, Michopoulos V, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Gentile NT, Hudak LA, Pascual JL, Seamon MJ, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sanchez LD, Bruce SE, Harte SE, McLean SA, Kessler RC, Koenen KC, Powers A, Stevens J. <a href="https://osf.io/preprints/psyarxiv/rp7af/">Disentangling sex differences in PTSD risk factors: a systematic overview and multiple mediation analysis in the AURORA study</a>. 2023 October 9.
+</div>
+<div class="bibtex_source"><pre>@unpublished{StephanieHaering_2023_10_09_Disentanglingsex,
+    author = "Haering, Stephanie and Seligowski, Antonia V and Linnstaedt, Sarah D and Michopoulos, Vasiliki and House, Stacey L and Beaudoin, Franceska L and An, Xinming and Neylan, Thomas C and Clifford, Gari D and Germine, Laura T and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and Gentile, Nina T and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sanchez, Leon D and Bruce, Steven E and Harte, Steven E and McLean, Samuel A and Kessler, Ronald C and Koenen, Karestan C and Powers, Abigail and Stevens, Jennifer",
+    title = "Disentangling sex differences in PTSD risk factors: a systematic overview and multiple mediation analysis in the AURORA study",
+    date = "2023-10-09",
+    url = "https://osf.io/preprints/psyarxiv/rp7af/",
+    note = "Publisher: PsyArXiv"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="StephanieHaering_2023_10_09_Disentanglingsex">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="StephanieHaering_2023_10_09_Disentanglingsex">[show citation]</label>
 </div></div></td></tr><tr>
 <td>20</td>
 <td><div class="citation_container">

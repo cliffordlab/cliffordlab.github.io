@@ -1,6 +1,6 @@
 #!/bin/sh
-base=$(dirname $0)
-$base/../../make_publications_page.py
+base="$(dirname $0)/../.." # .git/githooks/../..
+python3 "$base"/make_publications_page.py
 if (( $? != 0 )); then
   echo "Error making the bibliography!"
   exit 1
