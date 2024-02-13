@@ -380,7 +380,7 @@ Webb EK, Ely TD, Rowland GE, Lebois LA, Rooij SJ, Bruce SE, Jovanovic T, House S
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MohsenSalari_2023_07_10_Combiningcrowdsourcing">
 <div class="citation">
-Salari M, Kramer MR, Reyna MA, Taylor HA, Clifford GD. <a href="https://link.springer.com/article/10.1186/s12938-023-01108-9">Combining crowd-sourcing, census data, and public review forums for real-time, high-resolution food desert estimation</a>. BioMedical Engineering OnLine 2023 July 10; 22 (1): p. 69.
+Salari M, Kramer MR, Reyna MA, Taylor HA, Clifford GD. <a href="https://drive.google.com/file/d/1F-U7PFb6gBtEM3DSw54RjUgK8Hw3oLd4/view?usp=sharing">Combining crowd-sourcing, census data, and public review forums for real-time, high-resolution food desert estimation</a>. BioMedical Engineering OnLine 2023 July 10; 22 (1): p. 69.
 </div>
 <div class="bibtex_source"><pre>@article{MohsenSalari_2023_07_10_Combiningcrowdsourcing,
     author = "Salari, Mohsen and Kramer, Michael R and Reyna, Matthew A and Taylor, Herman A and Clifford, Gari D",
@@ -388,7 +388,7 @@ Salari M, Kramer MR, Reyna MA, Taylor HA, Clifford GD. <a href="https://link.spr
     date = "2023-07-10",
     issue = "1",
     journal = "BioMedical Engineering OnLine",
-    url = "https://link.springer.com/article/10.1186/s12938-023-01108-9",
+    url = "https://drive.google.com/file/d/1F-U7PFb6gBtEM3DSw54RjUgK8Hw3oLd4/view?usp=sharing",
     pages = "69",
     volume = "22",
     note = "Publisher: BioMed Central"
