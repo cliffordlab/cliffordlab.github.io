@@ -11,7 +11,7 @@ permalink: /publications
 
 <table>
 <tr>
-<td>312</td>
+<td>313</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChaitraHegde_2024_01_16_IndoorGroup">
 <div class="citation">
@@ -32,7 +32,7 @@ Hegde C, Kiarashi Y, Rodriguez AD, Levey AI, Doiron M, Kwon H, Clifford GD. <a h
 <div class="hidebibtex">
 <label for="ChaitraHegde_2024_01_16_IndoorGroup">[show citation]</label>
 </div></div></td></tr><tr>
-<td>311</td>
+<td>312</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZifanJiang_2024_01_10_MultimodalMental">
 <div class="citation">
@@ -53,7 +53,7 @@ Jiang Z, Seyedi S, Griner E, Abbasi A, Rad AB, Kwon H, Cotes RO, Clifford GD. <a
 <div class="hidebibtex">
 <label for="ZifanJiang_2024_01_10_MultimodalMental">[show citation]</label>
 </div></div></td></tr><tr>
-<td>310</td>
+<td>311</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SamuelHWaters_2023_12_22_PhysicsInformedTransfer">
 <div class="citation">
@@ -74,7 +74,7 @@ Waters SH, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/1
 <div class="hidebibtex">
 <label for="SamuelHWaters_2023_12_22_PhysicsInformedTransfer">[show citation]</label>
 </div></div></td></tr><tr>
-<td>309</td>
+<td>310</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LisetteCorbin_2023_12_01_Acomparison">
 <div class="citation">
@@ -97,7 +97,7 @@ Corbin L, Griner E, Seyedi S, Jiang Z, Roberts K, Boazak M, Rad AB, Clifford GD,
 <div class="hidebibtex">
 <label for="LisetteCorbin_2023_12_01_Acomparison">[show citation]</label>
 </div></div></td></tr><tr>
-<td>308</td>
+<td>309</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="YasharKiarashi_2023_11_30_GraphTrilateration">
 <div class="citation">
@@ -121,7 +121,7 @@ Kiarashi Y, Saghafi S, Das B, Hegde C, Madala VSK, Nakum A, Singh R, Tweedy R, D
 <div class="hidebibtex">
 <label for="YasharKiarashi_2023_11_30_GraphTrilateration">[show citation]</label>
 </div></div></td></tr><tr>
-<td>307</td>
+<td>308</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="HyeokhyenKwon_2023_11_28_AFeasibility">
 <div class="citation">
@@ -142,7 +142,7 @@ Kwon H, Hegde C, Kiarashi Y, Madala VSK, Singh R, Nakum A, Tweedy R, Tonetto LM,
 <div class="hidebibtex">
 <label for="HyeokhyenKwon_2023_11_28_AFeasibility">[show citation]</label>
 </div></div></td></tr><tr>
-<td>306</td>
+<td>307</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AbigailLZeamer_2023_11_18_Associationbetween">
 <div class="citation">
@@ -166,7 +166,7 @@ Zeamer AL, Salive M, An X, Beaudoin FL, House SL, Stevens JS, Zeng D, Neylan TC,
 <div class="hidebibtex">
 <label for="AbigailLZeamer_2023_11_18_Associationbetween">[show citation]</label>
 </div></div></td></tr><tr>
-<td>305</td>
+<td>306</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LiamButler_2023_11_08_AGeneralizable">
 <div class="citation">
@@ -187,7 +187,7 @@ Butler L, Karabayir I, Kitzman DW, Alonso A, Tison GH, Chen LY, Chang PP, Cliffo
 <div class="hidebibtex">
 <label for="LiamButler_2023_11_08_AGeneralizable">[show citation]</label>
 </div></div></td></tr><tr>
-<td>304</td>
+<td>305</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RayanAAnsari_2023_11_06_Interpretationof">
 <div class="citation">
@@ -211,7 +211,7 @@ Ansari RA, bhatia , Tooley J, Thakkar V, Torres J, Tung J, Alhusseini M, Clopton
 <div class="hidebibtex">
 <label for="RayanAAnsari_2023_11_06_Interpretationof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>303</td>
+<td>304</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RayanAAnsari_2023_11_06_Performanceof">
 <div class="citation">
@@ -235,7 +235,7 @@ Ansari RA, bhatia , Tooley J, Thakkar V, XU J, Torres J, Tung J, Alhusseini M, C
 <div class="hidebibtex">
 <label for="RayanAAnsari_2023_11_06_Performanceof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>302</td>
+<td>303</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AlbertJRogers_2023_11_06_EnhancedIdentification">
 <div class="citation">
@@ -259,7 +259,7 @@ Rogers AJ, bhatia , Tooley J, Thakkar V, XU J, Ansari R, Torres J, Tung J, Alhus
 <div class="hidebibtex">
 <label for="AlbertJRogers_2023_11_06_EnhancedIdentification">[show citation]</label>
 </div></div></td></tr><tr>
-<td>301</td>
+<td>302</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AlbertJRogers_2023_11_06_Impactof">
 <div class="citation">
@@ -283,7 +283,7 @@ Rogers AJ, Bhatia NK, Tooley J, Thakkar V, XU J, Ansari R, Torres J, Tung J, Alh
 <div class="hidebibtex">
 <label for="AlbertJRogers_2023_11_06_Impactof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>300</td>
+<td>301</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SalmanSeyedi_2023_10_31_UsingHIPAA">
 <div class="citation">
@@ -306,7 +306,7 @@ Seyedi S, Griner E, Corbin L, Jiang Z, Roberts K, Iacobelli L, Milloy A, Boazak 
 <div class="hidebibtex">
 <label for="SalmanSeyedi_2023_10_31_UsingHIPAA">[show citation]</label>
 </div></div></td></tr><tr>
-<td>299</td>
+<td>300</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="EdilbertoAmorim_2023_10_19_TheInternational">
 <div class="citation">
@@ -328,7 +328,7 @@ Amorim E, Zheng W, Ghassemi MM, Aghaeeaval M, Kandhare P, Karukonda V, Lee JW, H
 <div class="hidebibtex">
 <label for="EdilbertoAmorim_2023_10_19_TheInternational">[show citation]</label>
 </div></div></td></tr><tr>
-<td>298</td>
+<td>299</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NJabinGong_2023_10_09_ClassifyingTremor">
 <div class="citation">
@@ -352,7 +352,7 @@ Gong NJ, Clifford GD, Esper CD, Factor SA, McKay JL, Kwon H. <a href="https://dr
 <div class="hidebibtex">
 <label for="NJabinGong_2023_10_09_ClassifyingTremor">[show citation]</label>
 </div></div></td></tr><tr>
-<td>297</td>
+<td>298</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="EKateWebb_2023_09_05_NeighborhoodDisadvantage">
 <div class="citation">
@@ -376,7 +376,7 @@ Webb EK, Ely TD, Rowland GE, Lebois LA, Rooij SJ, Bruce SE, Jovanovic T, House S
 <div class="hidebibtex">
 <label for="EKateWebb_2023_09_05_NeighborhoodDisadvantage">[show citation]</label>
 </div></div></td></tr><tr>
-<td>296</td>
+<td>297</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="PeterHCharlton_2023_07_26_The2023">
 <div class="citation">
@@ -399,7 +399,7 @@ Charlton PH, Allen J, Bailon R, Baker S, Behar JA, Chen F, Clifford GD, Clifton 
 <div class="hidebibtex">
 <label for="PeterHCharlton_2023_07_26_The2023">[show citation]</label>
 </div></div></td></tr><tr>
-<td>295</td>
+<td>296</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MohsenSalari_2023_07_10_Combiningcrowdsourcing">
 <div class="citation">
@@ -423,7 +423,7 @@ Salari M, Kramer MR, Reyna MA, Taylor HA, Clifford GD. <a href="https://drive.go
 <div class="hidebibtex">
 <label for="MohsenSalari_2023_07_10_Combiningcrowdsourcing">[show citation]</label>
 </div></div></td></tr><tr>
-<td>294</td>
+<td>295</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ArefEinizade_2023_07_01_ProductGraphSleepNetSleep">
 <div class="citation">
@@ -446,7 +446,7 @@ Einizade A, Nasiri S, Sardouie SH, Clifford GD. <a href="https://drive.google.co
 <div class="hidebibtex">
 <label for="ArefEinizade_2023_07_01_ProductGraphSleepNetSleep">[show citation]</label>
 </div></div></td></tr><tr>
-<td>293</td>
+<td>294</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="CeciliaAHinojosa_2023_06_13_Associationsof">
 <div class="citation">
@@ -468,7 +468,7 @@ Hinojosa CA, Liew A, An X, Stevens JS, Basu A, Rooij SJ, House SL, Beaudoin FL, 
 <div class="hidebibtex">
 <label for="CeciliaAHinojosa_2023_06_13_Associationsof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>292</td>
+<td>293</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChenglinNiu_2023_05_31_HRnVCalcA">
 <div class="citation">
@@ -491,7 +491,7 @@ Niu C, Guo D, Ong MEH, Koh ZX, Marie-Alix GAL, Ho AFW, Lin Z, Liu C, Clifford GD
 <div class="hidebibtex">
 <label for="ChenglinNiu_2023_05_31_HRnVCalcA">[show citation]</label>
 </div></div></td></tr><tr>
-<td>291</td>
+<td>292</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AndoniElola_2023_05_10_BeyondHeart">
 <div class="citation">
@@ -512,7 +512,7 @@ Elola A, Aramendi E, Oliveira J, Renna F, Coimbra MT, Reyna MA, Sameni R, Cliffo
 <div class="hidebibtex">
 <label for="AndoniElola_2023_05_10_BeyondHeart">[show citation]</label>
 </div></div></td></tr><tr>
-<td>290</td>
+<td>291</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AliBahramiRad_2023_05_01_Analgorithmic">
 <div class="citation">
@@ -535,7 +535,7 @@ Rad AB, Kirsch M, Li Q, Xue J, Sameni R, Albert D, Clifford GD. <a href="https:/
 <div class="hidebibtex">
 <label for="AliBahramiRad_2023_05_01_Analgorithmic">[show citation]</label>
 </div></div></td></tr><tr>
-<td>289</td>
+<td>290</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JoelXue_2023_05_01_ECGQT">
 <div class="citation">
@@ -558,7 +558,7 @@ Xue J, Parekh A, Kirsch M, Yuan R, Treiman D, Albert D, Clifford G. <a href="htt
 <div class="hidebibtex">
 <label for="JoelXue_2023_05_01_ECGQT">[show citation]</label>
 </div></div></td></tr><tr>
-<td>288</td>
+<td>289</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AliBahramiRad_2023_05_01_Promisingmachine">
 <div class="citation">
@@ -581,7 +581,7 @@ Rad AB, Clifford GD. <a href="https://scholar.google.com/scholar?cluster=7068386
 <div class="hidebibtex">
 <label for="AliBahramiRad_2023_05_01_Promisingmachine">[show citation]</label>
 </div></div></td></tr><tr>
-<td>287</td>
+<td>288</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JoelXue_2023_05_01_EstimatingECG">
 <div class="citation">
@@ -604,7 +604,7 @@ Xue J, Parekh A, Kirsch M, Yuan R, Treiman D, Albert D, Clifford G. <a href="htt
 <div class="hidebibtex">
 <label for="JoelXue_2023_05_01_EstimatingECG">[show citation]</label>
 </div></div></td></tr><tr>
-<td>286</td>
+<td>287</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NaijiGong_2023_04_25_PhenotypingMotorsubtypes">
 <div class="citation">
@@ -628,7 +628,7 @@ Gong N, Kwon H, Clifford G, Esper C, Factor S, McKay J. <a href="https://n.neuro
 <div class="hidebibtex">
 <label for="NaijiGong_2023_04_25_PhenotypingMotorsubtypes">[show citation]</label>
 </div></div></td></tr><tr>
-<td>285</td>
+<td>286</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="HyeokhyenKwon_2023_04_25_DataDrivenDiscovery">
 <div class="citation">
@@ -652,7 +652,7 @@ Kwon H, Clifford G, Esper C, Factor S, McKay J. <a href="https://n.neurology.org
 <div class="hidebibtex">
 <label for="HyeokhyenKwon_2023_04_25_DataDrivenDiscovery">[show citation]</label>
 </div></div></td></tr><tr>
-<td>284</td>
+<td>285</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RanXiao_2023_04_18_Integratingmultimodal">
 <div class="citation">
@@ -675,7 +675,7 @@ Xiao R, Ding C, Hu X, Clifford GD, Wright DW, Shah AJ, Al-Zaiti S, Z<span class=
 <div class="hidebibtex">
 <label for="RanXiao_2023_04_18_Integratingmultimodal">[show citation]</label>
 </div></div></td></tr><tr>
-<td>283</td>
+<td>284</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShafaatAliSheikh_2023_03_Associationbetween">
 <div class="citation">
@@ -698,7 +698,7 @@ Sheikh SA, Alday EAP, Rad AB, Levantsevych O, Alkhalaf M, Soudan M, Abdulbaki R,
 <div class="hidebibtex">
 <label for="ShafaatAliSheikh_2023_03_Associationbetween">[show citation]</label>
 </div></div></td></tr><tr>
-<td>282</td>
+<td>283</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SamanthaAWong_2023_03_17_Internalcapsule">
 <div class="citation">
@@ -719,7 +719,7 @@ Wong SA, Lebois LA, Ely TD, Rooij SJ, Bruce SE, Murty VP, Jovanovic T, House SL,
 <div class="hidebibtex">
 <label for="SamanthaAWong_2023_03_17_Internalcapsule">[show citation]</label>
 </div></div></td></tr><tr>
-<td>281</td>
+<td>282</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="PradyumnaByappanahalliSuresha_2023_03_01_Rettsyndrome">
 <div class="citation">
@@ -742,7 +742,7 @@ Suresha PB, O'Leary H, Tarquinio DC, Hehn JV, Clifford GD. <a href="https://driv
 <div class="hidebibtex">
 <label for="PradyumnaByappanahalliSuresha_2023_03_01_Rettsyndrome">[show citation]</label>
 </div></div></td></tr><tr>
-<td>280</td>
+<td>281</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChristopherWJones_2023_03_01_Derivationand">
 <div class="citation">
@@ -766,7 +766,7 @@ Jones CW, An X, Ji Y, Liu M, Zeng D, House SL, Beaudoin FL, Stevens JS, Neylan T
 <div class="hidebibtex">
 <label for="ChristopherWJones_2023_03_01_Derivationand">[show citation]</label>
 </div></div></td></tr><tr>
-<td>279</td>
+<td>280</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LauraDStraus_2023_03_01_Utilityof">
 <div class="citation">
@@ -789,7 +789,7 @@ Straus LD, An X, Ji Y, McLean SA, Neylan TC, Cakmak AS, Richards A, Clifford GD,
 <div class="hidebibtex">
 <label for="LauraDStraus_2023_03_01_Utilityof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>278</td>
+<td>279</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NasimKatebi_2023_02_20_HierarchicalAttentive">
 <div class="citation">
@@ -810,7 +810,7 @@ Katebi N, Sameni R, Rohloff P, Clifford GD. <a href="https://ieeexplore.ieee.org
 <div class="hidebibtex">
 <label for="NasimKatebi_2023_02_20_HierarchicalAttentive">[show citation]</label>
 </div></div></td></tr><tr>
-<td>277</td>
+<td>278</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShafaatAliSheikh_2023_Impedancecardiogram">
 <div class="citation">
@@ -831,7 +831,7 @@ Sheikh SA, Shah AJ, Bremner JD, Vaccarino V, Inan OT, Clifford GD, Rad AB. <a hr
 <div class="hidebibtex">
 <label for="ShafaatAliSheikh_2023_Impedancecardiogram">[show citation]</label>
 </div></div></td></tr><tr>
-<td>276</td>
+<td>277</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="HNZiobrowski_2023_Childhoodadversities">
 <div class="citation">
@@ -854,7 +854,7 @@ Ziobrowski H, Holt-Gosselin B, Petukhova M, King A, Lee S, House S, Beaudoin F, 
 <div class="hidebibtex">
 <label for="HNZiobrowski_2023_Childhoodadversities">[show citation]</label>
 </div></div></td></tr><tr>
-<td>275</td>
+<td>276</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ErickAPerezAlday_2023_02_Associationof">
 <div class="citation">
@@ -877,7 +877,7 @@ Alday EAP, Poian GD, Levantsevych O, Murrah N, Shallenberger L, Alkhalaf M, Haff
 <div class="hidebibtex">
 <label for="ErickAPerezAlday_2023_02_Associationof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>274</td>
+<td>275</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="EdilbertoAmorim_2023_02_ICAREInternational">
 <div class="citation">
@@ -898,7 +898,7 @@ Amorim E, Zheng W, Lee JW, Herman S, Ghassemi M, Sivaraju A, Gaspard N, Hofmeije
 <div class="hidebibtex">
 <label for="EdilbertoAmorim_2023_02_ICAREInternational">[show citation]</label>
 </div></div></td></tr><tr>
-<td>273</td>
+<td>274</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GraceERowland_2023_02_16_PriorSexual">
 <div class="citation">
@@ -919,7 +919,7 @@ Rowland GE, Roeckner A, Ely TD, Lebois LA, Rooij SJ, Bruce SE, Jovanovic T, Hous
 <div class="hidebibtex">
 <label for="GraceERowland_2023_02_16_PriorSexual">[show citation]</label>
 </div></div></td></tr><tr>
-<td>272</td>
+<td>273</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="HyeokhyenKwon_2023_02_04_Anexplainable">
 <div class="citation">
@@ -943,7 +943,7 @@ Kwon H, Clifford GD, Genias I, Bernhard D, Esper CD, Factor SA, McKay JL. <a hre
 <div class="hidebibtex">
 <label for="HyeokhyenKwon_2023_02_04_Anexplainable">[show citation]</label>
 </div></div></td></tr><tr>
-<td>271</td>
+<td>272</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NathanielGHarnett_2023_02_01_Structuralinequities">
 <div class="citation">
@@ -965,7 +965,7 @@ Harnett NG, Fani N, Carter S, Sanchez LD, Rowland GE, Davie WM, Guzman C, Lebois
 <div class="hidebibtex">
 <label for="NathanielGHarnett_2023_02_01_Structuralinequities">[show citation]</label>
 </div></div></td></tr><tr>
-<td>270</td>
+<td>271</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="FrancescaLBeaudoin_2023_01_07_Useof">
 <div class="citation">
@@ -989,7 +989,7 @@ Beaudoin FL, An X, Basu A, Ji Y, Liu M, Kessler RC, Doughtery RF, Zeng D, Bollen
 <div class="hidebibtex">
 <label for="FrancescaLBeaudoin_2023_01_07_Useof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>269</td>
+<td>270</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ArefEinizade_2023_01_01_Explainableautomated">
 <div class="citation">
@@ -1012,7 +1012,7 @@ Einizade A, Nasiri S, Mozafari M, Sardouie SH, Clifford GD. <a href="https://www
 <div class="hidebibtex">
 <label for="ArefEinizade_2023_01_01_Explainableautomated">[show citation]</label>
 </div></div></td></tr><tr>
-<td>268</td>
+<td>269</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShafaatAliSheikh_2022_12_Datadrivenapproach">
 <div class="citation">
@@ -1035,7 +1035,7 @@ Sheikh SA, Gurel NZ, Gupta S, Chukwu IV, Levantsevych O, Alkhalaf M, Soudan M, A
 <div class="hidebibtex">
 <label for="ShafaatAliSheikh_2022_12_Datadrivenapproach">[show citation]</label>
 </div></div></td></tr><tr>
-<td>267</td>
+<td>268</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SalmanSeyedi_2022_12_Aninvestigation">
 <div class="citation">
@@ -1059,7 +1059,7 @@ Seyedi S, Jiang Z, Levey A, Clifford GD. <a href="https://biomedical-engineering
 <div class="hidebibtex">
 <label for="SalmanSeyedi_2022_12_Aninvestigation">[show citation]</label>
 </div></div></td></tr><tr>
-<td>266</td>
+<td>267</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SamuelHWaters_2022_12_Comparisonof">
 <div class="citation">
@@ -1083,7 +1083,7 @@ Waters SH, Clifford GD. <a href="https://biomedical-engineering-online.biomedcen
 <div class="hidebibtex">
 <label for="SamuelHWaters_2022_12_Comparisonof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>265</td>
+<td>266</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NicoleAShort_2022_12_01_Anxietysensitivity">
 <div class="citation">
@@ -1106,7 +1106,7 @@ Short NA, Rooij SJ, Murty VP, Stevens JS, An X, Ji Y, McLean SA, House SL, Beaud
 <div class="hidebibtex">
 <label for="NicoleAShort_2022_12_01_Anxietysensitivity">[show citation]</label>
 </div></div></td></tr><tr>
-<td>264</td>
+<td>265</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GabrielNajarro_2022_11_08_Associationof">
 <div class="citation">
@@ -1130,7 +1130,7 @@ Najarro G, Li L, Alday EAP, Al-Abboud O, Anderson BJ, Rad AB, Robichaux C, Cliff
 <div class="hidebibtex">
 <label for="GabrielNajarro_2022_11_08_Associationof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>263</td>
+<td>264</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="BrittanyEPunches_2022_09_23_Predictingatrisk">
 <div class="citation">
@@ -1154,7 +1154,7 @@ Punches BE, Stolz U, Freiermuth CE, Ancona RM, McLean SA, House SL, Beaudoin FL,
 <div class="hidebibtex">
 <label for="BrittanyEPunches_2022_09_23_Predictingatrisk">[show citation]</label>
 </div></div></td></tr><tr>
-<td>262</td>
+<td>263</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MinxuanHuang_2022_09_01_Thetemporal">
 <div class="citation">
@@ -1177,7 +1177,7 @@ Huang M, Bliwise DL, Shah A, Johnson DA, Clifford GD, Hall MH, Krafty RT, Goldbe
 <div class="hidebibtex">
 <label for="MinxuanHuang_2022_09_01_Thetemporal">[show citation]</label>
 </div></div></td></tr><tr>
-<td>261</td>
+<td>262</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LaurenAMLebois_2022_09_01_Persistentdissociation">
 <div class="citation">
@@ -1201,7 +1201,7 @@ Lebois LA, Harnett NG, Rooij SJ, Ely TD, Jovanovic T, Bruce SE, House SL, Ravich
 <div class="hidebibtex">
 <label for="LaurenAMLebois_2022_09_01_Persistentdissociation">[show citation]</label>
 </div></div></td></tr><tr>
-<td>260</td>
+<td>261</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ErickAPerezAlday_2022_09_01_Agesex">
 <div class="citation">
@@ -1224,7 +1224,7 @@ Alday EAP, Rad AB, Reyna MA, Sadr N, Gu A, Li Q, Dumitru M, Xue J, Albert D, Sam
 <div class="hidebibtex">
 <label for="ErickAPerezAlday_2022_09_01_Agesex">[show citation]</label>
 </div></div></td></tr><tr>
-<td>259</td>
+<td>260</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MatthewAReyna_2022_08_26_Issuesin">
 <div class="citation">
@@ -1248,7 +1248,7 @@ Reyna MA, Sadr N, Alday EAP, Gu A, Shah AJ, Robichaux C, Rad AB, Elola A, Seyedi
 <div class="hidebibtex">
 <label for="MatthewAReyna_2022_08_26_Issuesin">[show citation]</label>
 </div></div></td></tr><tr>
-<td>258</td>
+<td>259</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="BraTanriverdi_2022_08_24_HippocampalThreat">
 <div class="citation">
@@ -1272,7 +1272,7 @@ Tanriverdi B, Gregory DF, Olino TM, Ely TD, Harnett NG, Rooij SJ, Lebois LA, Sel
 <div class="hidebibtex">
 <label for="BraTanriverdi_2022_08_24_HippocampalThreat">[show citation]</label>
 </div></div></td></tr><tr>
-<td>257</td>
+<td>258</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AyseSCakmak_2022_08_24_PassivelyCaptured">
 <div class="citation">
@@ -1296,7 +1296,7 @@ Cakmak AS, Alday EAP, Densen S, Najarro G, Rout P, Rozell CJ, Inan OT, Shah AJ, 
 <div class="hidebibtex">
 <label for="AyseSCakmak_2022_08_24_PassivelyCaptured">[show citation]</label>
 </div></div></td></tr><tr>
-<td>256</td>
+<td>257</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NathanielGHarnett_2022_08_08_Structuralcovariance">
 <div class="citation">
@@ -1320,7 +1320,7 @@ Harnett NG, Finegold KE, Lebois LA, Rooij SJ, Ely TD, Murty VP, Jovanovic T, Bru
 <div class="hidebibtex">
 <label for="NathanielGHarnett_2022_08_08_Structuralcovariance">[show citation]</label>
 </div></div></td></tr><tr>
-<td>255</td>
+<td>256</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MatthewAReyna_2022_07_26_Rethinkingalgorithm">
 <div class="citation">
@@ -1344,7 +1344,7 @@ Reyna MA, Nsoesie EO, Clifford GD. <a href="https://jamanetwork.com/journals/jam
 <div class="hidebibtex">
 <label for="MatthewAReyna_2022_07_26_Rethinkingalgorithm">[show citation]</label>
 </div></div></td></tr><tr>
-<td>254</td>
+<td>255</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShafaatAliSheikh_2022_07_Validationof">
 <div class="citation">
@@ -1367,7 +1367,7 @@ Sheikh SA, Gurel NZ, Gupta S, Chukwu IV, Levantsevych O, Alkhalaf M, Soudan M, A
 <div class="hidebibtex">
 <label for="ShafaatAliSheikh_2022_07_Validationof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>253</td>
+<td>254</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RobertOCotes_2022_07_13_MultimodalAssessment">
 <div class="citation">
@@ -1391,7 +1391,7 @@ Cotes RO, Boazak M, Griner E, Jiang Z, Kim B, Bremer W, Seyedi S, Rad AB, Cliffo
 <div class="hidebibtex">
 <label for="RobertOCotes_2022_07_13_MultimodalAssessment">[show citation]</label>
 </div></div></td></tr><tr>
-<td>252</td>
+<td>253</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MauriceRohr_2022_07_07_Exploringnovel">
 <div class="citation">
@@ -1415,7 +1415,7 @@ Rohr M, Reich C, H<span class="bibtex-protected">ö</span>hl A, Lilienthal T, De
 <div class="hidebibtex">
 <label for="MauriceRohr_2022_07_07_Exploringnovel">[show citation]</label>
 </div></div></td></tr><tr>
-<td>251</td>
+<td>252</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="EvelinaSterina_2022_07_01_Timeof">
 <div class="citation">
@@ -1438,7 +1438,7 @@ Sterina E, Michopoulos V, Linnstaedt SD, Neylan TC, Clifford GD, Ethun KF, Lori 
 <div class="hidebibtex">
 <label for="EvelinaSterina_2022_07_01_Timeof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>250</td>
+<td>251</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="QiaoLi_2022_07_01_QTintervalestimation">
 <div class="citation">
@@ -1461,7 +1461,7 @@ Li Q, Dumitru M, Alday EAP, Rad AB, Dabiri S, Ackerman M, Noseworthy P, Schram M
 <div class="hidebibtex">
 <label for="QiaoLi_2022_07_01_QTintervalestimation">[show citation]</label>
 </div></div></td></tr><tr>
-<td>249</td>
+<td>250</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AliBahramiRad_2022_07_01_Boostingthe">
 <div class="citation">
@@ -1484,7 +1484,7 @@ Rad AB, Alday EAP, Galloway C, Li Q, Dumitru M, Xue J, Sameni R, Albert D, Cliff
 <div class="hidebibtex">
 <label for="AliBahramiRad_2022_07_01_Boostingthe">[show citation]</label>
 </div></div></td></tr><tr>
-<td>248</td>
+<td>249</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JoelXue_2022_07_01_Variousreduced">
 <div class="citation">
@@ -1506,7 +1506,7 @@ Xue J, Treiman D, Perez-Alday E, Noseworthy P, Attia Z, Harmon D, Kashou A, Frie
 <div class="hidebibtex">
 <label for="JoelXue_2022_07_01_Variousreduced">[show citation]</label>
 </div></div></td></tr><tr>
-<td>247</td>
+<td>248</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="KylePolanco_2022_05_01_P123Anxiety">
 <div class="citation">
@@ -1530,7 +1530,7 @@ Polanco K, Li Q, An X, Beaudoin F, Zeng D, Stevens J, Linnstaedt S, Jovanovic T,
 <div class="hidebibtex">
 <label for="KylePolanco_2022_05_01_P123Anxiety">[show citation]</label>
 </div></div></td></tr><tr>
-<td>246</td>
+<td>247</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LindsayMacchio_2022_05_01_P639AskYour">
 <div class="citation">
@@ -1554,7 +1554,7 @@ Macchio L, Guichard L, Ji Y, An X, Neylan T, Clifford G, Li Q, Stevens J, Jovano
 <div class="hidebibtex">
 <label for="LindsayMacchio_2022_05_01_P639AskYour">[show citation]</label>
 </div></div></td></tr><tr>
-<td>245</td>
+<td>246</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="IbrahimKarabayir_2022_05_01_PO70304ECGAI">
 <div class="citation">
@@ -1578,7 +1578,7 @@ Karabayir I, Butler L, Kitzman D, Alonso A, Tison G, Chen LY, Clifford G, Solima
 <div class="hidebibtex">
 <label for="IbrahimKarabayir_2022_05_01_PO70304ECGAI">[show citation]</label>
 </div></div></td></tr><tr>
-<td>244</td>
+<td>245</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZifanJiang_2022_04_08_Utilizingcomputer">
 <div class="citation">
@@ -1602,7 +1602,7 @@ Jiang Z, Luskus M, Seyedi S, Griner EL, Rad AB, Clifford GD, Boazak M, Cotes RO.
 <div class="hidebibtex">
 <label for="ZifanJiang_2022_04_08_Utilizingcomputer">[show citation]</label>
 </div></div></td></tr><tr>
-<td>243</td>
+<td>244</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="PradyumnaByappanahalliSuresha_2022_03_25_AnEdge">
 <div class="citation">
@@ -1626,7 +1626,7 @@ Suresha PB, Hegde C, Jiang Z, Clifford GD. <a href="https://www.mdpi.com/1424-82
 <div class="hidebibtex">
 <label for="PradyumnaByappanahalliSuresha_2022_03_25_AnEdge">[show citation]</label>
 </div></div></td></tr><tr>
-<td>242</td>
+<td>243</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="OguzAkbilgic_2022_03_08_ECGAIAN">
 <div class="citation">
@@ -1650,7 +1650,7 @@ Akbilgic O, Butler L, Karabayir I, Kitzman DW, Clifford G, Chen LY, Alonso A, Ch
 <div class="hidebibtex">
 <label for="OguzAkbilgic_2022_03_08_ECGAIAN">[show citation]</label>
 </div></div></td></tr><tr>
-<td>241</td>
+<td>242</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JesusAntonioSanchezPerez_2022_02_02_Awearable">
 <div class="citation">
@@ -1674,7 +1674,7 @@ Sanchez-Perez JA, Berkebile JA, Nevius BN, Ozmen GC, Nichols CJ, Ganti VG, Mabro
 <div class="hidebibtex">
 <label for="JesusAntonioSanchezPerez_2022_02_02_Awearable">[show citation]</label>
 </div></div></td></tr><tr>
-<td>240</td>
+<td>241</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LauraTGermine_2022_02_01_Neurocognitionafter">
 <div class="citation">
@@ -1697,7 +1697,7 @@ Germine LT, Joormann J, Passell E, Rutter LA, Scheuer L, Martini P, Hwang I, Lee
 <div class="hidebibtex">
 <label for="LauraTGermine_2022_02_01_Neurocognitionafter">[show citation]</label>
 </div></div></td></tr><tr>
-<td>239</td>
+<td>240</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChaitraHegde_2022_01_25_ModelingSocial">
 <div class="citation">
@@ -1721,7 +1721,7 @@ Hegde C, Rad AB, Sameni R, Clifford GD. <a href="https://ieeexplore.ieee.org/abs
 <div class="hidebibtex">
 <label for="ChaitraHegde_2022_01_25_ModelingSocial">[show citation]</label>
 </div></div></td></tr><tr>
-<td>238</td>
+<td>239</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZifanJiang_2022_01_21_Automatedanalysis">
 <div class="citation">
@@ -1745,7 +1745,7 @@ Jiang Z, Seyedi S, Haque RU, Pongos AL, Vickers KL, Manzanares CM, Lah JJ, Levey
 <div class="hidebibtex">
 <label for="ZifanJiang_2022_01_21_Automatedanalysis">[show citation]</label>
 </div></div></td></tr><tr>
-<td>237</td>
+<td>238</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JuttaJoormann_2022_01_Priorhistories">
 <div class="citation">
@@ -1768,7 +1768,7 @@ Joormann J, Ziobrowski HN, King AJ, Gildea SM, Lee S, Sampson NA, House SL, Beau
 <div class="hidebibtex">
 <label for="JuttaJoormann_2022_01_Priorhistories">[show citation]</label>
 </div></div></td></tr><tr>
-<td>236</td>
+<td>237</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="PradyumnaBSuresha_2022_01_14_RaspberryPiBased">
 <div class="citation">
@@ -1792,7 +1792,7 @@ Suresha PB, Robichaux CJ, Cassim TZ, Garc<span class="bibtex-protected">í</span
 <div class="hidebibtex">
 <label for="PradyumnaBSuresha_2022_01_14_RaspberryPiBased">[show citation]</label>
 </div></div></td></tr><tr>
-<td>235</td>
+<td>236</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariClifford_2022_01_11_AnOpenSource">
 <div class="citation">
@@ -1816,7 +1816,7 @@ Clifford G, Nguyen T, Shaw C, Newton B, Francis S, Salari M, Evans C, Jones C, A
 <div class="hidebibtex">
 <label for="GariClifford_2022_01_11_AnOpenSource">[show citation]</label>
 </div></div></td></tr><tr>
-<td>234</td>
+<td>235</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JorgeOliveira_2021_12_21_TheCirCor">
 <div class="citation">
@@ -1840,7 +1840,7 @@ Oliveira J, Renna F, Costa PD, Nogueira M, Oliveira C, Ferreira C, Jorge A, Matt
 <div class="hidebibtex">
 <label for="JorgeOliveira_2021_12_21_TheCirCor">[show citation]</label>
 </div></div></td></tr><tr>
-<td>233</td>
+<td>234</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="Unknown_2021_12_09_Criticalappraisal">
 <div class="citation">
@@ -1862,7 +1862,7 @@ Groot NM, Shah D, Boyle PM, Anter E, Clifford GD, Deisenhofer I, Deneke T, Desse
 <div class="hidebibtex">
 <label for="Unknown_2021_12_09_Criticalappraisal">[show citation]</label>
 </div></div></td></tr><tr>
-<td>232</td>
+<td>233</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JenniferSStevens_2021_11_Brainbasedbiotypes">
 <div class="citation">
@@ -1886,7 +1886,7 @@ Stevens JS, Harnett NG, Lebois LA, Rooij SJV, Ely TD, Roeckner A, Vincent N, Bea
 <div class="hidebibtex">
 <label for="JenniferSStevens_2021_11_Brainbasedbiotypes">[show citation]</label>
 </div></div></td></tr><tr>
-<td>231</td>
+<td>232</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AliBahramiRad_2021_11_16_Atrialfibrillation">
 <div class="citation">
@@ -1910,7 +1910,7 @@ Rad AB, Galloway C, Treiman D, Xue J, Li Q, Sameni R, Albert D, Clifford GD. <a 
 <div class="hidebibtex">
 <label for="AliBahramiRad_2021_11_16_Atrialfibrillation">[show citation]</label>
 </div></div></td></tr><tr>
-<td>230</td>
+<td>231</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AntoniaVSeligowski_2021_11_01_Aprospective">
 <div class="citation">
@@ -1933,7 +1933,7 @@ Seligowski AV, Steuber ER, Hinrichs R, Reda MH, Wiltshire CN, Wanna CP, Winters 
 <div class="hidebibtex">
 <label for="AntoniaVSeligowski_2021_11_01_Aprospective">[show citation]</label>
 </div></div></td></tr><tr>
-<td>229</td>
+<td>230</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="HannahNZiobrowski_2021_11_01_Developmentand">
 <div class="citation">
@@ -1957,7 +1957,7 @@ Ziobrowski HN, Kennedy CJ, Ustun B, House SL, Beaudoin FL, An X, Zeng D, Bollen 
 <div class="hidebibtex">
 <label for="HannahNZiobrowski_2021_11_01_Developmentand">[show citation]</label>
 </div></div></td></tr><tr>
-<td>228</td>
+<td>229</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LakshyaSinghal_2021_09_24_eARDSA">
 <div class="citation">
@@ -1981,7 +1981,7 @@ Singhal L, Garg Y, Yang P, Tabaie A, Wong AI, Mohammed A, Chinthala L, Kadaria D
 <div class="hidebibtex">
 <label for="LakshyaSinghal_2021_09_24_eARDSA">[show citation]</label>
 </div></div></td></tr><tr>
-<td>227</td>
+<td>228</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AzadeTabaie_2021_09_15_Deeplearning">
 <div class="citation">
@@ -2004,7 +2004,7 @@ Tabaie A, Orenstein EW, Nemati S, Basu RK, Clifford GD, Kamaleswaran R. <a href=
 <div class="hidebibtex">
 <label for="AzadeTabaie_2021_09_15_Deeplearning">[show citation]</label>
 </div></div></td></tr><tr>
-<td>226</td>
+<td>227</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ElizabethRSteuber_2021_09_01_Thalamicvolume">
 <div class="citation">
@@ -2027,7 +2027,7 @@ Steuber ER, Seligowski AV, Roeckner AR, Reda M, Lebois LA, Rooij SJ, Murty VP, E
 <div class="hidebibtex">
 <label for="ElizabethRSteuber_2021_09_01_Thalamicvolume">[show citation]</label>
 </div></div></td></tr><tr>
-<td>225</td>
+<td>226</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MelissaAaendel_2021_08_TheNational">
 <div class="citation">
@@ -2051,7 +2051,7 @@ aendel MA, Chute CG, Bennett TD, Eichmann DA, Guinney J, Kibbe WA, Payne PRO, Pf
 <div class="hidebibtex">
 <label for="MelissaAaendel_2021_08_TheNational">[show citation]</label>
 </div></div></td></tr><tr>
-<td>224</td>
+<td>225</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AlbertJosephRogers_2021_08_01_BPO01081MACHINE">
 <div class="citation">
@@ -2075,7 +2075,7 @@ Rogers AJ, Bhatia NK, Tooley J, Thakkar V, Torres J, Xu J, Tung JS, Alhusseini M
 <div class="hidebibtex">
 <label for="AlbertJosephRogers_2021_08_01_BPO01081MACHINE">[show citation]</label>
 </div></div></td></tr><tr>
-<td>223</td>
+<td>224</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SamuelAMcLean_2021_07_CorrectionThe">
 <div class="citation">
@@ -2099,7 +2099,7 @@ McLean SA, Ressler K, Koenen KC, Neylan T, Germine L, Jovanovic T, Clifford GD, 
 <div class="hidebibtex">
 <label for="SamuelAMcLean_2021_07_CorrectionThe">[show citation]</label>
 </div></div></td></tr><tr>
-<td>222</td>
+<td>223</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GillSchierhout_2021_07_01_Whydo">
 <div class="citation">
@@ -2123,7 +2123,7 @@ Schierhout G, Praveen D, Patel B, Li Q, Mogulluru K, Ameer MA, Patel A, Clifford
 <div class="hidebibtex">
 <label for="GillSchierhout_2021_07_01_Whydo">[show citation]</label>
 </div></div></td></tr><tr>
-<td>221</td>
+<td>222</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NathanielGHarnett_2021_06_Prognosticneuroimaging">
 <div class="citation">
@@ -2147,7 +2147,7 @@ Harnett NG, Rooij SJ, Ely TD, Lebois LA, Murty VP, Jovanovic T, Hill SB, Dumorna
 <div class="hidebibtex">
 <label for="NathanielGHarnett_2021_06_Prognosticneuroimaging">[show citation]</label>
 </div></div></td></tr><tr>
-<td>220</td>
+<td>221</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SamanehNasiri_2021_05_26_BoostingAutomated">
 <div class="citation">
@@ -2171,7 +2171,7 @@ Nasiri S, Clifford GD. <a href="https://academic.oup.com/sleep/article-abstract/
 <div class="hidebibtex">
 <label for="SamanehNasiri_2021_05_26_BoostingAutomated">[show citation]</label>
 </div></div></td></tr><tr>
-<td>219</td>
+<td>220</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SamruddhiSKulkarni_2021_05_21_CNNbasedLCD">
 <div class="citation">
@@ -2194,7 +2194,7 @@ Kulkarni SS, Katebi N, Valderrama CE, Rohloff P, Clifford GD. <a href="https://w
 <div class="hidebibtex">
 <label for="SamruddhiSKulkarni_2021_05_21_CNNbasedLCD">[show citation]</label>
 </div></div></td></tr><tr>
-<td>218</td>
+<td>219</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="FrancescaLBeaudoin_2021_05_Painafter">
 <div class="citation">
@@ -2217,7 +2217,7 @@ Beaudoin FL, Kessler R, Hwang I, Lee S, Sampson N, An X, Ressler K, Koenen K, Mc
 <div class="hidebibtex">
 <label for="FrancescaLBeaudoin_2021_05_Painafter">[show citation]</label>
 </div></div></td></tr><tr>
-<td>217</td>
+<td>218</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="QiaoLi_2021_05_13_Transferlearning">
 <div class="citation">
@@ -2241,7 +2241,7 @@ Li Q, Li Q, Cakmak AS, Poian GD, Bliwise DL, Vaccarino V, Shah AJ, Clifford GD. 
 <div class="hidebibtex">
 <label for="QiaoLi_2021_05_13_Transferlearning">[show citation]</label>
 </div></div></td></tr><tr>
-<td>216</td>
+<td>217</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AzadeTabaie_2021_05_01_Predictingpresumed">
 <div class="citation">
@@ -2264,7 +2264,7 @@ Tabaie A, Orenstein EW, Nemati S, Basu RK, Kandaswamy S, Clifford GD, Kamaleswar
 <div class="hidebibtex">
 <label for="AzadeTabaie_2021_05_01_Predictingpresumed">[show citation]</label>
 </div></div></td></tr><tr>
-<td>215</td>
+<td>216</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="EvelinaSterina_2021_05_01_Effectsof">
 <div class="citation">
@@ -2288,7 +2288,7 @@ Sterina E, Neylan T, Clifford G, Ressler K, Michopolous V, Stevens JS. <a href="
 <div class="hidebibtex">
 <label for="EvelinaSterina_2021_05_01_Effectsof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>214</td>
+<td>215</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MohsenSalari_2021_04_10_Fooddesert">
 <div class="citation">
@@ -2308,7 +2308,7 @@ Salari M, Reyna M, Kramer MD, Taylor HA, Clifford GD. <a href="https://papers.ss
 <div class="hidebibtex">
 <label for="MohsenSalari_2021_04_10_Fooddesert">[show citation]</label>
 </div></div></td></tr><tr>
-<td>213</td>
+<td>214</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ThomasCNeylan_2021_03_01_Priorsleep">
 <div class="citation">
@@ -2332,7 +2332,7 @@ Neylan TC, Kessler RC, Ressler KJ, Clifford G, Beaudoin FL, An X, Stevens JS, Ze
 <div class="hidebibtex">
 <label for="ThomasCNeylan_2021_03_01_Priorsleep">[show citation]</label>
 </div></div></td></tr><tr>
-<td>212</td>
+<td>213</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SamanehNasiri_2021_02_22_Generalizableseizure">
 <div class="citation">
@@ -2355,7 +2355,7 @@ Nasiri S, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/93
 <div class="hidebibtex">
 <label for="SamanehNasiri_2021_02_22_Generalizableseizure">[show citation]</label>
 </div></div></td></tr><tr>
-<td>211</td>
+<td>212</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="IsmailSadiq_2021_02_01_Breathingrate">
 <div class="citation">
@@ -2379,7 +2379,7 @@ Sadiq I, Perez-Alday EA, Shah AJ, Clifford GD. <a href="https://iopscience.iop.o
 <div class="hidebibtex">
 <label for="IsmailSadiq_2021_02_01_Breathingrate">[show citation]</label>
 </div></div></td></tr><tr>
-<td>210</td>
+<td>211</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AyseSCakmak_2021_01_22_Classificationand">
 <div class="citation">
@@ -2403,7 +2403,7 @@ Cakmak AS, Alday EAP, Poian GD, Rad AB, Metzler TJ, Neylan TC, House SL, Beaudoi
 <div class="hidebibtex">
 <label for="AyseSCakmak_2021_01_22_Classificationand">[show citation]</label>
 </div></div></td></tr><tr>
-<td>209</td>
+<td>210</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ErickAPerezAlday_2020_12_29_Classificationof">
 <div class="citation">
@@ -2427,7 +2427,7 @@ Alday EAP, Gu A, Shah AJ, Robichaux C, Wong AI, Liu C, Liu F, Rad AB, Elola A, S
 <div class="hidebibtex">
 <label for="ErickAPerezAlday_2020_12_29_Classificationof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>208</td>
+<td>209</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MatthewWSorensen_2020_12_Usingpulse">
 <div class="citation">
@@ -2450,7 +2450,7 @@ Sorensen MW, Sadiq I, Clifford GD, Maher KO, Oster ME. <a href="https://biomedic
 <div class="hidebibtex">
 <label for="MatthewWSorensen_2020_12_Usingpulse">[show citation]</label>
 </div></div></td></tr><tr>
-<td>207</td>
+<td>208</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="CamiloEValderrama_2020_12_07_Areview">
 <div class="citation">
@@ -2474,7 +2474,7 @@ Valderrama CE, Ketabi N, Marzbanrad F, Rohloff P, Clifford GD. <a href="https://
 <div class="hidebibtex">
 <label for="CamiloEValderrama_2020_12_07_Areview">[show citation]</label>
 </div></div></td></tr><tr>
-<td>206</td>
+<td>207</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ARogers_2020_11_Deepneural">
 <div class="citation">
@@ -2498,7 +2498,7 @@ Rogers A, Tung J, Tooley J, Bhatia N, Kang G, Alhusseini M, Baykaner T, Wang P, 
 <div class="hidebibtex">
 <label for="ARogers_2020_11_Deepneural">[show citation]</label>
 </div></div></td></tr><tr>
-<td>205</td>
+<td>206</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JTung_2020_11_Comparingmachine">
 <div class="citation">
@@ -2522,7 +2522,7 @@ Tung J, Rogers A, Ravi N, Bhatia N, Shah R, Purewal S, Baykaner T, Rappel W, Vis
 <div class="hidebibtex">
 <label for="JTung_2020_11_Comparingmachine">[show citation]</label>
 </div></div></td></tr><tr>
-<td>204</td>
+<td>205</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AlbertJRogers_2020_11_17_MachineLearning">
 <div class="citation">
@@ -2546,7 +2546,7 @@ Rogers AJ, Tooley J, Thakkar V, Torres J, Xu J, Bhatia NK, Tung J, Alhusseini M,
 <div class="hidebibtex">
 <label for="AlbertJRogers_2020_11_17_MachineLearning">[show citation]</label>
 </div></div></td></tr><tr>
-<td>203</td>
+<td>204</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JoachimABehar_2020_11_10_Editorialon">
 <div class="citation">
@@ -2570,7 +2570,7 @@ Behar JA, Liu C, Zigel Y, Laguna P, Clifford GD. <a href="http://diec.unizar.es/
 <div class="hidebibtex">
 <label for="JoachimABehar_2020_11_10_Editorialon">[show citation]</label>
 </div></div></td></tr><tr>
-<td>202</td>
+<td>203</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JoachimABehar_2020_11_02_Remotehealth">
 <div class="citation">
@@ -2594,7 +2594,7 @@ Behar JA, Liu C, Kotzen K, Tsutsui K, Corino VD, Singh J, Pimentel MA, Warrick P
 <div class="hidebibtex">
 <label for="JoachimABehar_2020_11_02_Remotehealth">[show citation]</label>
 </div></div></td></tr><tr>
-<td>201</td>
+<td>202</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JuttaJoormann_2020_10_29_Sociodemographicand">
 <div class="citation">
@@ -2616,7 +2616,7 @@ Joormann J, McLean SA, Beaudoin FL, An X, Stevens JS, Zeng D, Neylan TC, Cliffor
 <div class="hidebibtex">
 <label for="JuttaJoormann_2020_10_29_Sociodemographicand">[show citation]</label>
 </div></div></td></tr><tr>
-<td>200</td>
+<td>201</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NasimKatebi_2020_09_04_Unsupervisedhidden">
 <div class="citation">
@@ -2640,7 +2640,7 @@ Katebi N, Marzbanrad F, Stroux L, Valderrama CE, Clifford GD. <a href="https://i
 <div class="hidebibtex">
 <label for="NasimKatebi_2020_09_04_Unsupervisedhidden">[show citation]</label>
 </div></div></td></tr><tr>
-<td>199</td>
+<td>200</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AyseSCakmak_2020_08_Anunbiased">
 <div class="citation">
@@ -2664,7 +2664,7 @@ Cakmak AS, Poian GD, Willats A, Haffar A, Abdulbaki R, Ko Y, Shah AJ, Vaccarino 
 <div class="hidebibtex">
 <label for="AyseSCakmak_2020_08_Anunbiased">[show citation]</label>
 </div></div></td></tr><tr>
-<td>198</td>
+<td>199</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="CamiloEValderrama_2020_08_07_Aproxy">
 <div class="citation">
@@ -2687,7 +2687,7 @@ Valderrama CE, Marzbanrad F, Hall-Clifford R, Rohloff P, Clifford GD. <a href="h
 <div class="hidebibtex">
 <label for="CamiloEValderrama_2020_08_07_Aproxy">[show citation]</label>
 </div></div></td></tr><tr>
-<td>197</td>
+<td>198</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShafaatAliSheikh_2020_08_03_Anopensource">
 <div class="citation">
@@ -2711,7 +2711,7 @@ Sheikh SA, Shah A, Levantsevych O, Soudan M, Alkhalaf J, Rad AB, Inan OT, Cliffo
 <div class="hidebibtex">
 <label for="ShafaatAliSheikh_2020_08_03_Anopensource">[show citation]</label>
 </div></div></td></tr><tr>
-<td>196</td>
+<td>197</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChristianBaumgartner_2020_08_01_Notablepapers">
 <div class="citation">
@@ -2735,7 +2735,7 @@ Baumgartner C, Deserno T, Mavrogiorgou A, Kiourtis A, Perakis K, Pitsios S, Kyri
 <div class="hidebibtex">
 <label for="ChristianBaumgartner_2020_08_01_Notablepapers">[show citation]</label>
 </div></div></td></tr><tr>
-<td>195</td>
+<td>196</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="XingyaoWang_2020_07_20_Temporalframingadaptive">
 <div class="citation">
@@ -2759,7 +2759,7 @@ Wang X, Liu C, Li Y, Cheng X, Li J, Clifford GD. <a href="https://ieeexplore.iee
 <div class="hidebibtex">
 <label for="XingyaoWang_2020_07_20_Temporalframingadaptive">[show citation]</label>
 </div></div></td></tr><tr>
-<td>194</td>
+<td>195</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZifanJiang_2020_07_20_Classifyingmajor">
 <div class="citation">
@@ -2783,7 +2783,7 @@ Jiang Z, Harati S, Crowell A, Mayberg HS, Nemati S, Clifford GD. <a href="https:
 <div class="hidebibtex">
 <label for="ZifanJiang_2020_07_20_Classifyingmajor">[show citation]</label>
 </div></div></td></tr><tr>
-<td>193</td>
+<td>194</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="HermanATaylorJr_2020_07_09_PreventingCardiovascular">
 <div class="citation">
@@ -2807,7 +2807,7 @@ Jr HAT, Francis S, Evans CR, Harvey M, Newton BA, Jones CP, Akintobi TH, Cliffor
 <div class="hidebibtex">
 <label for="HermanATaylorJr_2020_07_09_PreventingCardiovascular">[show citation]</label>
 </div></div></td></tr><tr>
-<td>192</td>
+<td>193</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="IoannisExarchos_2020_05_Supervisedand">
 <div class="citation">
@@ -2831,7 +2831,7 @@ Exarchos I, Rogers AA, Aiani LM, Gross RE, Clifford GD, Pedersen NP, Willie JT. 
 <div class="hidebibtex">
 <label for="IoannisExarchos_2020_05_Supervisedand">[show citation]</label>
 </div></div></td></tr><tr>
-<td>191</td>
+<td>192</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AmitJShah_2020_04_28_Detectingheart">
 <div class="citation">
@@ -2855,7 +2855,7 @@ Shah AJ, Isakadze N, Levantsevych O, Vest A, Clifford G, Nemati S. <a href="http
 <div class="hidebibtex">
 <label for="AmitJShah_2020_04_28_Detectingheart">[show citation]</label>
 </div></div></td></tr><tr>
-<td>190</td>
+<td>191</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RafiUHaque_2020_04_27_Deepconvolutional">
 <div class="citation">
@@ -2879,7 +2879,7 @@ Haque RU, Pongos AL, Manzanares CM, Lah JJ, Levey AI, Clifford GD. <a href="http
 <div class="hidebibtex">
 <label for="RafiUHaque_2020_04_27_Deepconvolutional">[show citation]</label>
 </div></div></td></tr><tr>
-<td>189</td>
+<td>190</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RheaVidrine_2020_03_25_Designimplementation">
 <div class="citation">
@@ -2903,7 +2903,7 @@ Vidrine R, Zackoff M, Paff Z, Seger B, Pfeiffer S, Hagedorn P, Stalets E, Despon
 <div class="hidebibtex">
 <label for="RheaVidrine_2020_03_25_Designimplementation">[show citation]</label>
 </div></div></td></tr><tr>
-<td>188</td>
+<td>189</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RichardGNetemeyer_2020_03_Healthliteracy">
 <div class="citation">
@@ -2927,7 +2927,7 @@ Netemeyer RG, Dobolyi DG, Abbasi A, Clifford G, Taylor H. <a href="https://onlin
 <div class="hidebibtex">
 <label for="RichardGNetemeyer_2020_03_Healthliteracy">[show citation]</label>
 </div></div></td></tr><tr>
-<td>187</td>
+<td>188</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="CamiloEValderrama_2020_03_05_Estimatingbirth">
 <div class="citation">
@@ -2951,7 +2951,7 @@ Valderrama CE, Marzbanrad F, Juarez M, Hall-Clifford R, Rohloff P, Clifford GD. 
 <div class="hidebibtex">
 <label for="CamiloEValderrama_2020_03_05_Estimatingbirth">[show citation]</label>
 </div></div></td></tr><tr>
-<td>186</td>
+<td>187</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="BenjaminISiegel_2020_02_Useof">
 <div class="citation">
@@ -2975,7 +2975,7 @@ Siegel BI, Cakmak A, Reinertsen E, Benoit M, Figueroa J, Clifford GD, Phan HC. <
 <div class="hidebibtex">
 <label for="BenjaminISiegel_2020_02_Useof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>185</td>
+<td>186</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MatthewAReyna_2020_02_EarlyPrediction">
 <div class="citation">
@@ -2999,7 +2999,7 @@ Reyna MA, Josef CS, Jeter R, Shashikumar SP, Westover B, Nemati S, Clifford GD, 
 <div class="hidebibtex">
 <label for="MatthewAReyna_2020_02_EarlyPrediction">[show citation]</label>
 </div></div></td></tr><tr>
-<td>184</td>
+<td>185</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SamuelAMcLean_2020_02_TheAURORA">
 <div class="citation">
@@ -3023,7 +3023,7 @@ McLean SA, Ressler K, Koenen KC, Neylan T, Germine L, Jovanovic T, Clifford GD, 
 <div class="hidebibtex">
 <label for="SamuelAMcLean_2020_02_TheAURORA">[show citation]</label>
 </div></div></td></tr><tr>
-<td>183</td>
+<td>184</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="FaizanAhmad_2020_02_05_Adeep">
 <div class="citation">
@@ -3047,7 +3047,7 @@ Ahmad F, Abbasi A, Li J, Dobolyi DG, Netemeyer RG, Clifford GD, Chen H. <a href=
 <div class="hidebibtex">
 <label for="FaizanAhmad_2020_02_05_Adeep">[show citation]</label>
 </div></div></td></tr><tr>
-<td>182</td>
+<td>183</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MichelJuarez_2020_01_01_Workingwith">
 <div class="citation">
@@ -3070,7 +3070,7 @@ Juarez M, Juarez Y, Coyote E, Nguyen T, Shaw C, Hall-Clifford R, Clifford G, Roh
 <div class="hidebibtex">
 <label for="MichelJuarez_2020_01_01_Workingwith">[show citation]</label>
 </div></div></td></tr><tr>
-<td>181</td>
+<td>182</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AyseSCakmak_2019_11_19_Passivesmartphone">
 <div class="citation">
@@ -3094,7 +3094,7 @@ Cakmak AS, Lanier HJ, Reinertsen E, Harzand A, Zafari AM, Hammoud MA, Alrohaiban
 <div class="hidebibtex">
 <label for="AyseSCakmak_2019_11_19_Passivesmartphone">[show citation]</label>
 </div></div></td></tr><tr>
-<td>180</td>
+<td>181</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MichelJuarez_2019_09_Investigatingbarriers">
 <div class="citation">
@@ -3118,7 +3118,7 @@ Juarez M, Martinez B, Hall-Clifford R, Clifford GD, Rohloff P. <a href="https://
 <div class="hidebibtex">
 <label for="MichelJuarez_2019_09_Investigatingbarriers">[show citation]</label>
 </div></div></td></tr><tr>
-<td>179</td>
+<td>180</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MargaretheEGoetz_2019_08_27_Rationaleand">
 <div class="citation">
@@ -3142,7 +3142,7 @@ Goetz ME, Hanfelt JJ, John SE, Bergquist SH, Loring DW, Quyyumi A, Clifford GD, 
 <div class="hidebibtex">
 <label for="MargaretheEGoetz_2019_08_27_Rationaleand">[show citation]</label>
 </div></div></td></tr><tr>
-<td>178</td>
+<td>179</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JoachimABehar_2019_08_01_Wearablesand">
 <div class="citation">
@@ -3166,7 +3166,7 @@ Behar JA, Oster J, Vos MD, Clifford GD. <a href="https://scholar.archive.org/wor
 <div class="hidebibtex">
 <label for="JoachimABehar_2019_08_01_Wearablesand">[show citation]</label>
 </div></div></td></tr><tr>
-<td>177</td>
+<td>178</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GiuliaDaPoian_2019_07_02_Alowcomplexity">
 <div class="citation">
@@ -3190,7 +3190,7 @@ Poian GD, Letizia NA, Rinaldo R, Clifford GD. <a href="https://iopscience.iop.or
 <div class="hidebibtex">
 <label for="GiuliaDaPoian_2019_07_02_Alowcomplexity">[show citation]</label>
 </div></div></td></tr><tr>
-<td>176</td>
+<td>177</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="QichenLi_2019_06_03_Ventricularectopic">
 <div class="citation">
@@ -3214,7 +3214,7 @@ Li Q, Liu C, Li Q, Shashikumar SP, Nemati S, Shen Z, Clifford GD. <a href="https
 <div class="hidebibtex">
 <label for="QichenLi_2019_06_03_Ventricularectopic">[show citation]</label>
 </div></div></td></tr><tr>
-<td>175</td>
+<td>176</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JoachimABehar_2019_05_01_Feasibilityof">
 <div class="citation">
@@ -3237,7 +3237,7 @@ Behar JA, Palmius N, Li Q, Garbuio S, Rizzatti FP, Bittencourt L, Tufik S, Cliff
 <div class="hidebibtex">
 <label for="JoachimABehar_2019_05_01_Feasibilityof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>174</td>
+<td>175</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="DavidPeiris_2019_03_26_SMARThealthIndia">
 <div class="citation">
@@ -3261,7 +3261,7 @@ Peiris D, Praveen D, Mogulluru K, Ameer MA, Raghu A, Li Q, Heritier S, MacMahon 
 <div class="hidebibtex">
 <label for="DavidPeiris_2019_03_26_SMARThealthIndia">[show citation]</label>
 </div></div></td></tr><tr>
-<td>173</td>
+<td>174</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RafiUHaque_2019_03_01_VisMETa">
 <div class="citation">
@@ -3285,7 +3285,7 @@ Haque RU, Manzanares CM, Brown LN, Pongos AL, Lah JJ, Clifford GD, Levey AI. <a 
 <div class="hidebibtex">
 <label for="RafiUHaque_2019_03_01_VisMETa">[show citation]</label>
 </div></div></td></tr><tr>
-<td>172</td>
+<td>173</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="CamiloEValderrama_2019_02_25_Anopen">
 <div class="citation">
@@ -3309,7 +3309,7 @@ Valderrama CE, Stroux L, Katebi N, Paljug E, Hall-Clifford R, Rohloff P, Marzban
 <div class="hidebibtex">
 <label for="CamiloEValderrama_2019_02_25_Anopen">[show citation]</label>
 </div></div></td></tr><tr>
-<td>171</td>
+<td>172</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RajCDedhia_2019_01_Hypoglossalnerve">
 <div class="citation">
@@ -3333,7 +3333,7 @@ Dedhia RC, Shah AJ, Bliwise DL, Quyyumi AA, Strollo PJ, Li Q, Poian GD, Clifford
 <div class="hidebibtex">
 <label for="RajCDedhia_2019_01_Hypoglossalnerve">[show citation]</label>
 </div></div></td></tr><tr>
-<td>170</td>
+<td>171</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="QiaoLi_2018_12_21_Deeplearning">
 <div class="citation">
@@ -3357,7 +3357,7 @@ Li Q, Li Q, Liu C, Shashikumar SP, Nemati S, Clifford GD. <a href="https://iopsc
 <div class="hidebibtex">
 <label for="QiaoLi_2018_12_21_Deeplearning">[show citation]</label>
 </div></div></td></tr><tr>
-<td>169</td>
+<td>170</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="BorisMartinez_2018_12_mHealthintervention">
 <div class="citation">
@@ -3381,7 +3381,7 @@ Martinez B, Ixen EC, Hall-Clifford R, Juarez M, Miller AC, Francis A, Valderrama
 <div class="hidebibtex">
 <label for="BorisMartinez_2018_12_mHealthintervention">[show citation]</label>
 </div></div></td></tr><tr>
-<td>168</td>
+<td>169</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="DevarsettyPraveen_2018_12_Cardiovasculardisease">
 <div class="citation">
@@ -3405,7 +3405,7 @@ Praveen D, Peiris D, MacMahon S, Mogulluru K, Raghu A, Rodgers A, Chilappagari S
 <div class="hidebibtex">
 <label for="DevarsettyPraveen_2018_12_Cardiovasculardisease">[show citation]</label>
 </div></div></td></tr><tr>
-<td>167</td>
+<td>168</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RobertGMannino_2018_12_04_Smartphoneapp">
 <div class="citation">
@@ -3429,7 +3429,7 @@ Mannino RG, Myers DR, Tyburski EA, Caruso C, Boudreaux J, Leong T, Clifford G, L
 <div class="hidebibtex">
 <label for="RobertGMannino_2018_12_04_Smartphoneapp">[show citation]</label>
 </div></div></td></tr><tr>
-<td>166</td>
+<td>167</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="FelixChang_2018_11_11_Preservingthe">
 <div class="citation">
@@ -3450,7 +3450,7 @@ Chang F, Stanley M, Nemati S, Zia J, Clifford G, Buchman T, Kirk A, Elster E. <a
 <div class="hidebibtex">
 <label for="FelixChang_2018_11_11_Preservingthe">[show citation]</label>
 </div></div></td></tr><tr>
-<td>165</td>
+<td>166</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="HermanATaylor_2018_11_01_Cardiovasculardisease">
 <div class="citation">
@@ -3474,7 +3474,7 @@ Taylor HA, Henderson F, Abbasi A, Clifford G. <a href="https://pdf.sciencedirect
 <div class="hidebibtex">
 <label for="HermanATaylor_2018_11_01_Cardiovasculardisease">[show citation]</label>
 </div></div></td></tr><tr>
-<td>164</td>
+<td>165</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ErikReinertsen_2018_10_25_Multiscalenetwork">
 <div class="citation">
@@ -3498,7 +3498,7 @@ Reinertsen E, Shashikumar SP, Shah AJ, Nemati S, Clifford GD. <a href="https://i
 <div class="hidebibtex">
 <label for="ErikReinertsen_2018_10_25_Multiscalenetwork">[show citation]</label>
 </div></div></td></tr><tr>
-<td>163</td>
+<td>164</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AdrianaNVest_2018_10_12_Anopen">
 <div class="citation">
@@ -3522,7 +3522,7 @@ Vest AN, Poian GD, Li Q, Liu C, Nemati S, Shah AJ, Clifford GD. <a href="https:/
 <div class="hidebibtex">
 <label for="AdrianaNVest_2018_10_12_Anopen">[show citation]</label>
 </div></div></td></tr><tr>
-<td>162</td>
+<td>163</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="FaezehMarzbanrad_2018_08_14_Cardiotocographyand">
 <div class="citation">
@@ -3546,7 +3546,7 @@ Marzbanrad F, Stroux L, Clifford GD. <a href="https://www.ncbi.nlm.nih.gov/pmc/a
 <div class="hidebibtex">
 <label for="FaezehMarzbanrad_2018_08_14_Cardiotocographyand">[show citation]</label>
 </div></div></td></tr><tr>
-<td>161</td>
+<td>162</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChengyuLiu_2018_07_05_Acomparison">
 <div class="citation">
@@ -3570,7 +3570,7 @@ Liu C, Oster J, Reinertsen E, Li Q, Zhao L, Nemati S, Clifford GD. <a href="http
 <div class="hidebibtex">
 <label for="ChengyuLiu_2018_07_05_Acomparison">[show citation]</label>
 </div></div></td></tr><tr>
-<td>160</td>
+<td>161</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="TingtingZhu_2018_06_26_Bayesianfusion">
 <div class="citation">
@@ -3594,7 +3594,7 @@ Zhu T, Johnson AE, Yang Y, Clifford GD, Clifton DA. <a href="https://iopscience.
 <div class="hidebibtex">
 <label for="TingtingZhu_2018_06_26_Bayesianfusion">[show citation]</label>
 </div></div></td></tr><tr>
-<td>159</td>
+<td>160</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="TingtingZhu_2018_06_05_UnsupervisedBayesian">
 <div class="citation">
@@ -3618,7 +3618,7 @@ Zhu T, Pimentel MA, Clifford GD, Clifton DA. <a href="https://drive.google.com/f
 <div class="hidebibtex">
 <label for="TingtingZhu_2018_06_05_UnsupervisedBayesian">[show citation]</label>
 </div></div></td></tr><tr>
-<td>158</td>
+<td>159</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ErikReinertsen_2018_05_15_Areview">
 <div class="citation">
@@ -3642,7 +3642,7 @@ Reinertsen E, Clifford GD. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PM
 <div class="hidebibtex">
 <label for="ErikReinertsen_2018_05_15_Areview">[show citation]</label>
 </div></div></td></tr><tr>
-<td>157</td>
+<td>158</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShamimNemati_2018_04_01_AnInterpretable">
 <div class="citation">
@@ -3666,7 +3666,7 @@ Nemati S, Holder A, Razmi F, Stanley MD, Clifford GD, Buchman TG. <a href="https
 <div class="hidebibtex">
 <label for="ShamimNemati_2018_04_01_AnInterpretable">[show citation]</label>
 </div></div></td></tr><tr>
-<td>156</td>
+<td>157</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChengyuLiu_2018_Focuson">
 <div class="citation">
@@ -3686,7 +3686,7 @@ Liu C, Lehman L, Moody B, Li Q, Clifford G. <a href="https://iopscience.iop.org/
 <div class="hidebibtex">
 <label for="ChengyuLiu_2018_Focuson">[show citation]</label>
 </div></div></td></tr><tr>
-<td>155</td>
+<td>156</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="CarmeloVelardo_2017_12_Digitalhealth">
 <div class="citation">
@@ -3710,7 +3710,7 @@ Velardo C, Shah SA, Gibson O, Clifford G, Heneghan C, Rutter H, Farmer A, Tarass
 <div class="hidebibtex">
 <label for="CarmeloVelardo_2017_12_Digitalhealth">[show citation]</label>
 </div></div></td></tr><tr>
-<td>154</td>
+<td>155</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SupreethPShashikumar_2017_11_29_Multiscalenetwork">
 <div class="citation">
@@ -3734,7 +3734,7 @@ Shashikumar SP, Li Q, Clifford GD, Nemati S. <a href="https://iopscience.iop.org
 <div class="hidebibtex">
 <label for="SupreethPShashikumar_2017_11_29_Multiscalenetwork">[show citation]</label>
 </div></div></td></tr><tr>
-<td>153</td>
+<td>154</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AdrianaNVest_2017_11_01_Benchmarkingheart">
 <div class="citation">
@@ -3758,7 +3758,7 @@ Vest AN, Li Q, Liu C, Nemati S, Shah A, Clifford GD. <a href="https://www.scienc
 <div class="hidebibtex">
 <label for="AdrianaNVest_2017_11_01_Benchmarkingheart">[show citation]</label>
 </div></div></td></tr><tr>
-<td>152</td>
+<td>153</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SupreethPShashikumar_2017_11_01_Earlysepsis">
 <div class="citation">
@@ -3782,7 +3782,7 @@ Shashikumar SP, Stanley MD, Sadiq I, Li Q, Holder A, Clifford GD, Nemati S. <a h
 <div class="hidebibtex">
 <label for="SupreethPShashikumar_2017_11_01_Earlysepsis">[show citation]</label>
 </div></div></td></tr><tr>
-<td>151</td>
+<td>152</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LisaStroux_2017_11_01_Dopplerbasedfetal">
 <div class="citation">
@@ -3805,7 +3805,7 @@ Stroux L, Redman CW, Georgieva A, Payne SJ, Clifford GD. <a href="https://obgyn.
 <div class="hidebibtex">
 <label for="LisaStroux_2017_11_01_Dopplerbasedfetal">[show citation]</label>
 </div></div></td></tr><tr>
-<td>150</td>
+<td>151</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2017_11_01_Combiningmultiple">
 <div class="citation">
@@ -3829,7 +3829,7 @@ Clifford GD. <a href="https://scholar.google.com/scholar?cluster=985834274494665
 <div class="hidebibtex">
 <label for="GariDClifford_2017_11_01_Combiningmultiple">[show citation]</label>
 </div></div></td></tr><tr>
-<td>149</td>
+<td>150</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RachelHallClifford_2017_10_15_Sustainabletechnology">
 <div class="citation">
@@ -3851,7 +3851,7 @@ Clifford RH, Roche S, Fathima S, Palmius N, Hollingworth K, Kennedy J, Merida J,
 <div class="hidebibtex">
 <label for="RachelHallClifford_2017_10_15_Sustainabletechnology">[show citation]</label>
 </div></div></td></tr><tr>
-<td>148</td>
+<td>149</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LisaMuirhead_2017_10_01_Criticalquestions">
 <div class="citation">
@@ -3875,7 +3875,7 @@ Muirhead L, Hall P, Jones-Taylor C, Clifford GD, Felton-Williams T, Williams K. 
 <div class="hidebibtex">
 <label for="LisaMuirhead_2017_10_01_Criticalquestions">[show citation]</label>
 </div></div></td></tr><tr>
-<td>147</td>
+<td>148</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GiuliaDaPoian_2017_09_14_Matchedfiltering">
 <div class="citation">
@@ -3899,7 +3899,7 @@ Poian GD, Rozell CJ, Bernardini R, Rinaldo R, Clifford GD. <a href="https://ieee
 <div class="hidebibtex">
 <label for="GiuliaDaPoian_2017_09_14_Matchedfiltering">[show citation]</label>
 </div></div></td></tr><tr>
-<td>146</td>
+<td>147</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChengyuLiu_2017_08_01_Performanceof">
 <div class="citation">
@@ -3923,7 +3923,7 @@ Liu C, Springer D, Clifford GD. <a href="https://iopscience.iop.org/article/10.1
 <div class="hidebibtex">
 <label for="ChengyuLiu_2017_08_01_Performanceof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>145</td>
+<td>146</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="BradleyMWhitaker_2017_07_31_Combiningsparse">
 <div class="citation">
@@ -3947,7 +3947,7 @@ Whitaker BM, Suresha PB, Liu C, Clifford GD, Anderson DV. <a href="https://drive
 <div class="hidebibtex">
 <label for="BradleyMWhitaker_2017_07_31_Combiningsparse">[show citation]</label>
 </div></div></td></tr><tr>
-<td>144</td>
+<td>145</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="CamiloEValderrama_2017_07_18_Templatebasedquality">
 <div class="citation">
@@ -3970,7 +3970,7 @@ Valderrama CE, Marzbanrad F, Stroux L, Clifford GD. <a href="https://www.frontie
 <div class="hidebibtex">
 <label for="CamiloEValderrama_2017_07_18_Templatebasedquality">[show citation]</label>
 </div></div></td></tr><tr>
-<td>143</td>
+<td>144</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GiuliaDaPoian_2017_06_27_Atrialfibrillation">
 <div class="citation">
@@ -3994,7 +3994,7 @@ Poian GD, Liu C, Bernardini R, Rinaldo R, Clifford GD. <a href="https://iopscien
 <div class="hidebibtex">
 <label for="GiuliaDaPoian_2017_06_27_Atrialfibrillation">[show citation]</label>
 </div></div></td></tr><tr>
-<td>142</td>
+<td>143</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ErikReinertsen_2017_06_27_Continuousassessment">
 <div class="citation">
@@ -4018,7 +4018,7 @@ Reinertsen E, Osipov M, Liu C, Kane JM, Petrides G, Clifford GD. <a href="https:
 <div class="hidebibtex">
 <label for="ErikReinertsen_2017_06_27_Continuousassessment">[show citation]</label>
 </div></div></td></tr><tr>
-<td>141</td>
+<td>142</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JulienOster_2017_06_22_Acquisitionof">
 <div class="citation">
@@ -4042,7 +4042,7 @@ Oster J, Clifford GD. <a href="https://iopscience.iop.org/article/10.1088/1361-6
 <div class="hidebibtex">
 <label for="JulienOster_2017_06_22_Acquisitionof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>140</td>
+<td>141</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="HermanATaylor_2017_06_01_HypertensionDisparities">
 <div class="citation">
@@ -4066,7 +4066,7 @@ Taylor HA, Clifford GD, Powers ME. <a href="https://jamanetwork.com/journals/jam
 <div class="hidebibtex">
 <label for="HermanATaylor_2017_06_01_HypertensionDisparities">[show citation]</label>
 </div></div></td></tr><tr>
-<td>139</td>
+<td>140</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="FaezehMarzbanrad_2017_05_17_Assessmentof">
 <div class="citation">
@@ -4089,7 +4089,7 @@ Marzbanrad F, Khandoker AH, Kimura Y, Palaniswami M, Clifford GD. <a href="https
 <div class="hidebibtex">
 <label for="FaezehMarzbanrad_2017_05_17_Assessmentof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>138</td>
+<td>139</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ErikReinertsen_2017_05_09_Heartratebased">
 <div class="citation">
@@ -4113,7 +4113,7 @@ Reinertsen E, Nemati S, Vest AN, Vaccarino V, Lampert R, Shah AJ, Clifford GD. <
 <div class="hidebibtex">
 <label for="ErikReinertsen_2017_05_09_Heartratebased">[show citation]</label>
 </div></div></td></tr><tr>
-<td>137</td>
+<td>138</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="DirkHoyer_2017_04_18_Monitoringfetal">
 <div class="citation">
@@ -4137,7 +4137,7 @@ Hoyer D, <span class="bibtex-protected">Ż</span>ebrowski J, Cysarz D, Gon<span 
 <div class="hidebibtex">
 <label for="DirkHoyer_2017_04_18_Monitoringfetal">[show citation]</label>
 </div></div></td></tr><tr>
-<td>136</td>
+<td>137</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AdamMahdi_2017_Amodel">
 <div class="citation">
@@ -4159,7 +4159,7 @@ Mahdi A, Clifford GD, Payne SJ. <a href="https://users.ox.ac.uk/~engs1301/papers
 <div class="hidebibtex">
 <label for="AdamMahdi_2017_Amodel">[show citation]</label>
 </div></div></td></tr><tr>
-<td>135</td>
+<td>136</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="BorisMartinez_2017_Agiledevelopment">
 <div class="citation">
@@ -4182,7 +4182,7 @@ Martinez B, Hall-Clifford R, Coyote E, Stroux L, Valderrama CE, Aaron C, Francis
 <div class="hidebibtex">
 <label for="BorisMartinez_2017_Agiledevelopment">[show citation]</label>
 </div></div></td></tr><tr>
-<td>134</td>
+<td>135</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2017_Recentadvances">
 <div class="citation">
@@ -4205,7 +4205,7 @@ Clifford GD, Liu C, Moody BE, Roig JM, Schmidt SE, Li Q, Silva I, Mark RG. <a hr
 <div class="hidebibtex">
 <label for="GariDClifford_2017_Recentadvances">[show citation]</label>
 </div></div></td></tr><tr>
-<td>133</td>
+<td>134</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AMahdi_2017_02_08_Amodel">
 <div class="citation">
@@ -4229,7 +4229,7 @@ Mahdi A, Clifford G, Payne S. <a href="https://iopscience.iop.org/article/10.108
 <div class="hidebibtex">
 <label for="AMahdi_2017_02_08_Amodel">[show citation]</label>
 </div></div></td></tr><tr>
-<td>132</td>
+<td>133</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChengyuLiu_2016_11_21_Anopen">
 <div class="citation">
@@ -4253,7 +4253,7 @@ Liu C, Springer D, Li Q, Moody B, Juan RA, Chorro FJ, Castells F, Roig JM, Silva
 <div class="hidebibtex">
 <label for="ChengyuLiu_2016_11_21_Anopen">[show citation]</label>
 </div></div></td></tr><tr>
-<td>131</td>
+<td>132</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="DavidBSpringer_2016_11_16_Automatedsignal">
 <div class="citation">
@@ -4277,7 +4277,7 @@ Springer DB, Brennan T, Ntusi N, Abdelrahman HY, Z<span class="bibtex-protected"
 <div class="hidebibtex">
 <label for="DavidBSpringer_2016_11_16_Automatedsignal">[show citation]</label>
 </div></div></td></tr><tr>
-<td>130</td>
+<td>131</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LisaStroux_2016_11_16_AnmHealth">
 <div class="citation">
@@ -4301,7 +4301,7 @@ Stroux L, Martinez B, Ixen EC, King N, Hall-Clifford R, Rohloff P, Clifford GD. 
 <div class="hidebibtex">
 <label for="LisaStroux_2016_11_16_AnmHealth">[show citation]</label>
 </div></div></td></tr><tr>
-<td>129</td>
+<td>130</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2016_11_16_Ehealthin">
 <div class="citation">
@@ -4325,7 +4325,7 @@ Clifford GD. <a href="https://drive.google.com/file/d/1pMEJABVIE_6RT7WPguRKVxrOg
 <div class="hidebibtex">
 <label for="GariDClifford_2016_11_16_Ehealthin">[show citation]</label>
 </div></div></td></tr><tr>
-<td>128</td>
+<td>129</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ATsanas_2016_11_15_Dailylongitudinal">
 <div class="citation">
@@ -4348,7 +4348,7 @@ Tsanas A, Saunders K, Bilderbeck A, Palmius N, Osipov M, Clifford G, Goodwin G, 
 <div class="hidebibtex">
 <label for="ATsanas_2016_11_15_Dailylongitudinal">[show citation]</label>
 </div></div></td></tr><tr>
-<td>127</td>
+<td>128</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NinoIsakadze_2016_11_11_Developmentand">
 <div class="citation">
@@ -4372,7 +4372,7 @@ Isakadze N, Levantsevych O, Clifford G, Nemati S, Shah A. <a href="https://www.a
 <div class="hidebibtex">
 <label for="NinoIsakadze_2016_11_11_Developmentand">[show citation]</label>
 </div></div></td></tr><tr>
-<td>126</td>
+<td>127</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="TingtingZhu_2016_10_28_ABayesian">
 <div class="citation">
@@ -4395,7 +4395,7 @@ Zhu T, Clifford GD, Clifton DA. <a href="http://ndl.ethernet.edu.et/bitstream/12
 <div class="hidebibtex">
 <label for="TingtingZhu_2016_10_28_ABayesian">[show citation]</label>
 </div></div></td></tr><tr>
-<td>125</td>
+<td>126</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JoachimBehar_2016_08_02_Evaluationof">
 <div class="citation">
@@ -4419,7 +4419,7 @@ Behar J, Zhu T, Oster J, Niksch A, Mah DY, Chun T, Greenberg J, Tanner C, Harrop
 <div class="hidebibtex">
 <label for="JoachimBehar_2016_08_02_Evaluationof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>124</td>
+<td>125</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2016_07_25_Falsealarm">
 <div class="citation">
@@ -4443,7 +4443,7 @@ Clifford GD, Silva I, Moody B, Li Q, Kella D, Chahin A, Kooistra T, Perry D, Mar
 <div class="hidebibtex">
 <label for="GariDClifford_2016_07_25_Falsealarm">[show citation]</label>
 </div></div></td></tr><tr>
-<td>123</td>
+<td>124</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="CathalBreen_2016_05_01_Theevaluation">
 <div class="citation">
@@ -4467,7 +4467,7 @@ Breen C, Zhu T, Bond R, Finlay D, Clifford G. <a href="https://www.sciencedirect
 <div class="hidebibtex">
 <label for="CathalBreen_2016_05_01_Theevaluation">[show citation]</label>
 </div></div></td></tr><tr>
-<td>122</td>
+<td>123</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="FernandoAndreotti_2016_04_12_Anopensource">
 <div class="citation">
@@ -4491,7 +4491,7 @@ Andreotti F, Behar J, Zaunseder S, Oster J, Clifford GD. <a href="https://iopsci
 <div class="hidebibtex">
 <label for="FernandoAndreotti_2016_04_12_Anopensource">[show citation]</label>
 </div></div></td></tr><tr>
-<td>121</td>
+<td>122</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JoachimBehar_2016_04_12_Apractical">
 <div class="citation">
@@ -4515,7 +4515,7 @@ Behar J, Andreotti F, Zaunseder S, Oster J, Clifford GD. <a href="https://iopsci
 <div class="hidebibtex">
 <label for="JoachimBehar_2016_04_12_Apractical">[show citation]</label>
 </div></div></td></tr><tr>
-<td>120</td>
+<td>121</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2016_03_04_Theuse">
 <div class="citation">
@@ -4538,7 +4538,7 @@ Clifford GD. <a href="https://www.tandfonline.com/doi/abs/10.2147/IEH.S60808">Th
 <div class="hidebibtex">
 <label for="GariDClifford_2016_03_04_Theuse">[show citation]</label>
 </div></div></td></tr><tr>
-<td>119</td>
+<td>120</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChengyuLiu_2016_03_04_Classificationof">
 <div class="citation">
@@ -4558,7 +4558,7 @@ Liu C, Springer D, Moody B, Silva I, Johnson A, Samieinasab M, Sameni R, Mark R,
 <div class="hidebibtex">
 <label for="ChengyuLiu_2016_03_04_Classificationof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>118</td>
+<td>119</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AlistairEWJohnson_2016_01_25_Machinelearning">
 <div class="citation">
@@ -4582,7 +4582,7 @@ Johnson AE, Ghassemi MM, Nemati S, Niehaus KE, Clifton DA, Clifford GD. <a href=
 <div class="hidebibtex">
 <label for="AlistairEWJohnson_2016_01_25_Machinelearning">[show citation]</label>
 </div></div></td></tr><tr>
-<td>117</td>
+<td>118</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="TingtingZhu_2015_12_Fusingcontinuousvalued">
 <div class="citation">
@@ -4605,7 +4605,7 @@ Zhu T, Dunkley N, Behar J, Clifton DA, Clifford GD. <a href="https://drive.googl
 <div class="hidebibtex">
 <label for="TingtingZhu_2015_12_Fusingcontinuousvalued">[show citation]</label>
 </div></div></td></tr><tr>
-<td>116</td>
+<td>117</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ArvindRaghu_2015_12_Engineeringa">
 <div class="citation">
@@ -4629,7 +4629,7 @@ Raghu A, Praveen D, Peiris D, Tarassenko L, Clifford G. <a href="https://bmcmedi
 <div class="hidebibtex">
 <label for="ArvindRaghu_2015_12_Engineeringa">[show citation]</label>
 </div></div></td></tr><tr>
-<td>115</td>
+<td>116</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AaronPeace_2015_11_01_Usingcomputerised">
 <div class="citation">
@@ -4653,7 +4653,7 @@ Peace A, Ramsewak A, Cairns A, Finlay D, Guldenring D, Clifford G, Bond R. <a hr
 <div class="hidebibtex">
 <label for="AaronPeace_2015_11_01_Usingcomputerised">[show citation]</label>
 </div></div></td></tr><tr>
-<td>114</td>
+<td>115</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JulienOster_2015_11_01_Impactof">
 <div class="citation">
@@ -4677,7 +4677,7 @@ Oster J, Clifford GD. <a href="https://www.sciencedirect.com/science/article/pii
 <div class="hidebibtex">
 <label for="JulienOster_2015_11_01_Impactof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>113</td>
+<td>114</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JulienOster_2015_10_03_Comparisonof">
 <div class="citation">
@@ -4701,7 +4701,7 @@ Oster J, Llinares R, Payne S, Tse ZTH, Schmidt EJ, Clifford GD. <a href="https:/
 <div class="hidebibtex">
 <label for="JulienOster_2015_10_03_Comparisonof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>112</td>
+<td>113</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MaximOsipov_2015_09_03_Objectiveidentification">
 <div class="citation">
@@ -4725,7 +4725,7 @@ Osipov M, Behzadi Y, Kane JM, Petrides G, Clifford GD. <a href="https://www.tand
 <div class="hidebibtex">
 <label for="MaximOsipov_2015_09_03_Objectiveidentification">[show citation]</label>
 </div></div></td></tr><tr>
-<td>111</td>
+<td>112</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="DavidBSpringer_2015_09_01_LogisticregressionHSMMbased">
 <div class="citation">
@@ -4749,7 +4749,7 @@ Springer DB, Tarassenko L, Clifford GD. <a href="https://ieeexplore.ieee.org/abs
 <div class="hidebibtex">
 <label for="DavidBSpringer_2015_09_01_LogisticregressionHSMMbased">[show citation]</label>
 </div></div></td></tr><tr>
-<td>110</td>
+<td>111</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AoifeRoebuck_2015_08_27_Comparisonof">
 <div class="citation">
@@ -4772,7 +4772,7 @@ Roebuck A, Clifford GD. <a href="https://www.frontiersin.org/articles/10.3389/fb
 <div class="hidebibtex">
 <label for="AoifeRoebuck_2015_08_27_Comparisonof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>109</td>
+<td>110</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ArvindRaghu_2015_08_19_Implicationsof">
 <div class="citation">
@@ -4796,7 +4796,7 @@ Raghu A, Praveen D, Peiris D, Tarassenko L, Clifford G. <a href="https://journal
 <div class="hidebibtex">
 <label for="ArvindRaghu_2015_08_19_Implicationsof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>108</td>
+<td>109</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MarcoAFPimentel_2015_07_28_Heartbeat">
 <div class="citation">
@@ -4820,7 +4820,7 @@ Pimentel MA, Santos MD, Springer DB, Clifford GD. <a href="https://iopscience.io
 <div class="hidebibtex">
 <label for="MarcoAFPimentel_2015_07_28_Heartbeat">[show citation]</label>
 </div></div></td></tr><tr>
-<td>107</td>
+<td>108</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AlistairEWJohnson_2015_07_28_Multimodalheart">
 <div class="citation">
@@ -4844,7 +4844,7 @@ Johnson AE, Behar J, Andreotti F, Clifford GD, Oster J. <a href="https://iopscie
 <div class="hidebibtex">
 <label for="AlistairEWJohnson_2015_07_28_Multimodalheart">[show citation]</label>
 </div></div></td></tr><tr>
-<td>106</td>
+<td>107</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="IkaroSilva_2015_07_28_Robustdetection">
 <div class="citation">
@@ -4868,7 +4868,7 @@ Silva I, Moody B, Behar J, Johnson A, Oster J, Clifford GD, Moody GB. <a href="h
 <div class="hidebibtex">
 <label for="IkaroSilva_2015_07_28_Robustdetection">[show citation]</label>
 </div></div></td></tr><tr>
-<td>105</td>
+<td>106</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AthanasiosTsanas_2015_04_08_Stageindependentsingle">
 <div class="citation">
@@ -4891,7 +4891,7 @@ Tsanas A, Clifford GD. <a href="https://www.frontiersin.org/articles/10.3389/fnh
 <div class="hidebibtex">
 <label for="AthanasiosTsanas_2015_04_08_Stageindependentsingle">[show citation]</label>
 </div></div></td></tr><tr>
-<td>104</td>
+<td>105</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2015_02_ReducingFalse">
 <div class="citation">
@@ -4913,7 +4913,7 @@ Clifford GD, Silva I, Moody B, Mark R. <a href="https://physionet.org/content/ch
 <div class="hidebibtex">
 <label for="GariDClifford_2015_02_ReducingFalse">[show citation]</label>
 </div></div></td></tr><tr>
-<td>103</td>
+<td>104</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JulienOster_2015_02_10_SemisupervisedECG">
 <div class="citation">
@@ -4934,7 +4934,7 @@ Oster J, Behar J, Sayadi O, Nemati S, Johnson A, Clifford G. <a href="https://ie
 <div class="hidebibtex">
 <label for="JulienOster_2015_02_10_SemisupervisedECG">[show citation]</label>
 </div></div></td></tr><tr>
-<td>102</td>
+<td>103</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RRBond_2015_01_01_Novelapproach">
 <div class="citation">
@@ -4958,7 +4958,7 @@ Bond R, Kligfield P, Zhu T, Finlay D, Drew B, Guldenring D, Breen C, Clifford G,
 <div class="hidebibtex">
 <label for="RRBond_2015_01_01_Novelapproach">[show citation]</label>
 </div></div></td></tr><tr>
-<td>101</td>
+<td>102</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="DevarsettyPraveen_2014_12_08_SMARTHealthIndia">
 <div class="citation">
@@ -4982,7 +4982,7 @@ Praveen D, Patel A, Raghu A, Clifford GD, Maulik PK, Abdul AM, Mogulluru K, Tara
 <div class="hidebibtex">
 <label for="DevarsettyPraveen_2014_12_08_SMARTHealthIndia">[show citation]</label>
 </div></div></td></tr><tr>
-<td>100</td>
+<td>101</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="QiaoLi_2014_12_01_Amachine">
 <div class="citation">
@@ -5006,7 +5006,7 @@ Li Q, Rajagopalan C, Clifford GD. <a href="https://www.sciencedirect.com/science
 <div class="hidebibtex">
 <label for="QiaoLi_2014_12_01_Amachine">[show citation]</label>
 </div></div></td></tr><tr>
-<td>99</td>
+<td>100</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="YoshihisaTateishi_2014_12_01_DepressedHeart">
 <div class="citation">
@@ -5030,7 +5030,7 @@ Tateishi Y, Clifford G, Hopkins M, Thomas T. <a href="https://journals.lww.com/c
 <div class="hidebibtex">
 <label for="YoshihisaTateishi_2014_12_01_DepressedHeart">[show citation]</label>
 </div></div></td></tr><tr>
-<td>98</td>
+<td>99</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RRBond_2014_11_01_Assessingcomputerized">
 <div class="citation">
@@ -5054,7 +5054,7 @@ Bond R, Zhu T, Finlay D, Drew B, Kligfield P, Guldenring D, Breen C, Gallagher A
 <div class="hidebibtex">
 <label for="RRBond_2014_11_01_Assessingcomputerized">[show citation]</label>
 </div></div></td></tr><tr>
-<td>97</td>
+<td>98</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="IanAClark_2014_11_01_Firststeps">
 <div class="citation">
@@ -5077,7 +5077,7 @@ Clark IA, Niehaus KE, Duff EP, Simplicio MCD, Clifford GD, Smith SM, Mackay CE, 
 <div class="hidebibtex">
 <label for="IanAClark_2014_11_01_Firststeps">[show citation]</label>
 </div></div></td></tr><tr>
-<td>96</td>
+<td>97</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2014_09_23_Outof">
 <div class="citation">
@@ -5101,7 +5101,7 @@ Clifford GD, Gederi E. <a href="https://ieeexplore.ieee.org/abstract/document/69
 <div class="hidebibtex">
 <label for="GariDClifford_2014_09_23_Outof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>95</td>
+<td>96</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2014_09_20_Outof">
 <div class="citation">
@@ -5125,7 +5125,7 @@ Clifford GD, Gederi E. <a href="https://ieeexplore.ieee.org/abstract/document/69
 <div class="hidebibtex">
 <label for="GariDClifford_2014_09_20_Outof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>94</td>
+<td>95</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ElnazGederi_2014_09_15_Modelbasedestimation">
 <div class="citation">
@@ -5148,7 +5148,7 @@ Gederi E, Nemati S, Edwards BA, Clifford GD, Malhotra A, Wellman A. <a href="htt
 <div class="hidebibtex">
 <label for="ElnazGederi_2014_09_15_Modelbasedestimation">[show citation]</label>
 </div></div></td></tr><tr>
-<td>93</td>
+<td>94</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2014_07_28_Noninvasivefetal">
 <div class="citation">
@@ -5172,7 +5172,7 @@ Clifford GD, Silva I, Behar J, Moody GB. <a href="https://iopscience.iop.org/art
 <div class="hidebibtex">
 <label for="GariDClifford_2014_07_28_Noninvasivefetal">[show citation]</label>
 </div></div></td></tr><tr>
-<td>92</td>
+<td>93</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JoachimBehar_2014_07_28_Combiningand">
 <div class="citation">
@@ -5196,7 +5196,7 @@ Behar J, Oster J, Clifford GD. <a href="https://iopscience.iop.org/article/10.10
 <div class="hidebibtex">
 <label for="JoachimBehar_2014_07_28_Combiningand">[show citation]</label>
 </div></div></td></tr><tr>
-<td>91</td>
+<td>92</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JoachimBehar_2014_07_28_AnECG">
 <div class="citation">
@@ -5220,7 +5220,7 @@ Behar J, Andreotti F, Zaunseder S, Li Q, Oster J, Clifford GD. <a href="https://
 <div class="hidebibtex">
 <label for="JoachimBehar_2014_07_28_AnECG">[show citation]</label>
 </div></div></td></tr><tr>
-<td>90</td>
+<td>91</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JoachimBehar_2014_06_Acomparison">
 <div class="citation">
@@ -5243,7 +5243,7 @@ Behar J, Johnson A, Clifford GD, Oster J. <a href="https://link.springer.com/art
 <div class="hidebibtex">
 <label for="JoachimBehar_2014_06_Acomparison">[show citation]</label>
 </div></div></td></tr><tr>
-<td>89</td>
+<td>90</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AthanasiosTsanas_2014_05_01_Robustfundamental">
 <div class="citation">
@@ -5267,7 +5267,7 @@ Tsanas A, Za<span class="bibtex-protected">ñ</span>artu M, Little MA, Fox C, Ra
 <div class="hidebibtex">
 <label for="AthanasiosTsanas_2014_05_01_Robustfundamental">[show citation]</label>
 </div></div></td></tr><tr>
-<td>88</td>
+<td>89</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="TingtingZhu_2014_04_CrowdSourcedAnnotation">
 <div class="citation">
@@ -5290,7 +5290,7 @@ Zhu T, Johnson AE, Behar J, Clifford GD. <a href="https://drive.google.com/file/
 <div class="hidebibtex">
 <label for="TingtingZhu_2014_04_CrowdSourcedAnnotation">[show citation]</label>
 </div></div></td></tr><tr>
-<td>87</td>
+<td>88</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AndrewJESeely_2014_04_Doheart">
 <div class="citation">
@@ -5314,7 +5314,7 @@ Seely AJ, Bravi A, Herry C, Green G, Longtin A, Ramsay T, Fergusson D, McIntyre 
 <div class="hidebibtex">
 <label for="AndrewJESeely_2014_04_Doheart">[show citation]</label>
 </div></div></td></tr><tr>
-<td>86</td>
+<td>87</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZionTszHoTse_2014_03_A15">
 <div class="citation">
@@ -5337,7 +5337,7 @@ Tse ZTH, Dumoulin CL, Clifford GD, Schweitzer J, Qin L, Oster J, Jerosch<span cl
 <div class="hidebibtex">
 <label for="ZionTszHoTse_2014_03_A15">[show citation]</label>
 </div></div></td></tr><tr>
-<td>85</td>
+<td>86</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZionTszHoTse_2014_03_15tesla">
 <div class="citation">
@@ -5361,7 +5361,7 @@ Tse ZTH, Dumoulin CL, Clifford GD, Schweitzer J, Qin L, Oster J, Jerosch-Herold 
 <div class="hidebibtex">
 <label for="ZionTszHoTse_2014_03_15tesla">[show citation]</label>
 </div></div></td></tr><tr>
-<td>84</td>
+<td>85</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JoachimBehar_2014_02_24_SleepApan">
 <div class="citation">
@@ -5385,7 +5385,7 @@ Behar J, Roebuck A, Shahid M, Daly J, Hallack A, Palmius N, Stradling J, Cliffor
 <div class="hidebibtex">
 <label for="JoachimBehar_2014_02_24_SleepApan">[show citation]</label>
 </div></div></td></tr><tr>
-<td>83</td>
+<td>84</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JoachimBehar_2014_01_01_576Evaluation">
 <div class="citation">
@@ -5409,7 +5409,7 @@ Behar J, Wolfberg A, Zhu T, Oster J, Niksch A, Mah D, Chun T, Greenberg J, Tanne
 <div class="hidebibtex">
 <label for="JoachimBehar_2014_01_01_576Evaluation">[show citation]</label>
 </div></div></td></tr><tr>
-<td>82</td>
+<td>83</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JohannesWKrug_2013_12_ECGbasedgating">
 <div class="citation">
@@ -5433,7 +5433,7 @@ Krug JW, Rose G, Clifford GD, Oster J. <a href="https://jcmr-online.biomedcentra
 <div class="hidebibtex">
 <label for="JohannesWKrug_2013_12_ECGbasedgating">[show citation]</label>
 </div></div></td></tr><tr>
-<td>81</td>
+<td>82</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ARoebuck_2013_12_17_Areview">
 <div class="citation">
@@ -5457,7 +5457,7 @@ Roebuck A, Monasterio V, Gederi E, Osipov M, Behar J, Malhotra A, Penzel T, Clif
 <div class="hidebibtex">
 <label for="ARoebuck_2013_12_17_Areview">[show citation]</label>
 </div></div></td></tr><tr>
-<td>80</td>
+<td>81</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LionelTarassenko_2013_11_20_Mhealthfor">
 <div class="citation">
@@ -5479,7 +5479,7 @@ Tarassenko L, Velardo C, Shah A, Gibson O, Clifford G, Heneghan C, Rutter H, Far
 <div class="hidebibtex">
 <label for="LionelTarassenko_2013_11_20_Mhealthfor">[show citation]</label>
 </div></div></td></tr><tr>
-<td>79</td>
+<td>80</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="DevarsettyPraveen_2013_09_25_Amultifaceted">
 <div class="citation">
@@ -5502,7 +5502,7 @@ Praveen D, Patel A, McMahon S, Prabhakaran D, Clifford GD, Maulik PK, Joshi R, J
 <div class="hidebibtex">
 <label for="DevarsettyPraveen_2013_09_25_Amultifaceted">[show citation]</label>
 </div></div></td></tr><tr>
-<td>78</td>
+<td>79</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="QiaoLi_2013_07_26_Ventricularfibrillation">
 <div class="citation">
@@ -5526,11 +5526,11 @@ Li Q, Rajagopalan C, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/
 <div class="hidebibtex">
 <label for="QiaoLi_2013_07_26_Ventricularfibrillation">[show citation]</label>
 </div></div></td></tr><tr>
-<td>77</td>
+<td>78</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AlistairEWJohnson_2013_07_01_Anew">
 <div class="citation">
-Johnson AE, Kramer AA, Clifford GD. <a href="https://journals.lww.com/ccmjournal/fulltext/2013/07000/A_New_Severity_of_Illness_Scale_Using_a_Subset_of.15.aspx">A new severity of illness scale using a subset of acute physiology and chronic health evaluation data elements shows comparable predictive accuracy</a>. Critical care medicine 2013 July 1; 41 (7): pp. 1711-1718.
+Johnson AE, Kramer AA, Clifford GD. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-iYklRbDN0WFRiREU/view?usp=sharing&resourcekey=0-u-t-ueCbqNWbYiDi_xe8Fw">A new severity of illness scale using a subset of acute physiology and chronic health evaluation data elements shows comparable predictive accuracy</a>. Critical care medicine 2013 July 1; 41 (7): pp. 1711-1718.
 </div>
 <div class="bibtex_source"><pre>@article{AlistairEWJohnson_2013_07_01_Anew,
     author = "Johnson, Alistair EW and Kramer, Andrew A and Clifford, Gari D",
@@ -5538,7 +5538,7 @@ Johnson AE, Kramer AA, Clifford GD. <a href="https://journals.lww.com/ccmjournal
     date = "2013-07-01",
     issue = "7",
     journal = "Critical care medicine",
-    url = "https://journals.lww.com/ccmjournal/fulltext/2013/07000/A\_New\_Severity\_of\_Illness\_Scale\_Using\_a\_Subset\_of.15.aspx",
+    url = "https://drive.google.com/file/d/0B5wjNvhEV8-iYklRbDN0WFRiREU/view?usp=sharing\&resourcekey=0-u-t-ueCbqNWbYiDi\_xe8Fw",
     pages = "1711-1718",
     volume = "41",
     note = "Publisher: LWW"
@@ -5549,6 +5549,30 @@ Johnson AE, Kramer AA, Clifford GD. <a href="https://journals.lww.com/ccmjournal
 </div>
 <div class="hidebibtex">
 <label for="AlistairEWJohnson_2013_07_01_Anew">[show citation]</label>
+</div></div></td></tr><tr>
+<td>77</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="JoachimBehar_2013_06_17_Areview">
+<div class="citation">
+Behar J, Roebuck A, Domingos JS, Gederi E, Clifford GD. <a href="https://iopscience.iop.org/article/10.1088/0967-3334/34/7/R29/pdf?casa_token=-eaGtWP-10QAAAAA:C9uFDPIhTITABRD_XQn4w3HolRnkRpwijcm-FlCEClpghIgaGErkldWthj1miViXqEbXlYg7czwVUUZEngvjSAabh2c">A review of current sleep screening applications for smartphones</a>. Physiological Measurement 2013 June 17; 34 (7): p. R29.
+</div>
+<div class="bibtex_source"><pre>@article{JoachimBehar_2013_06_17_Areview,
+    author = "Behar, Joachim and Roebuck, Aoife and Domingos, Joao S and Gederi, Elnaz and Clifford, Gari D",
+    title = "A review of current sleep screening applications for smartphones",
+    journal = "Physiological Measurement",
+    date = "2013-06-17",
+    issue = "7",
+    url = "https://iopscience.iop.org/article/10.1088/0967-3334/34/7/R29/pdf?casa\_token=-eaGtWP-10QAAAAA:C9uFDPIhTITABRD\_XQn4w3HolRnkRpwijcm-FlCEClpghIgaGErkldWthj1miViXqEbXlYg7czwVUUZEngvjSAabh2c",
+    pages = "R29",
+    volume = "34",
+    note = "Publisher: IOP Publishing"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="JoachimBehar_2013_06_17_Areview">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="JoachimBehar_2013_06_17_Areview">[show citation]</label>
 </div></div></td></tr><tr>
 <td>76</td>
 <td><div class="citation_container">
@@ -5599,28 +5623,6 @@ Johnson AE, Clifford GD. <a href="https://www.infona.pl/resource/bwmeta1.element
 </div></div></td></tr><tr>
 <td>74</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="AlistairEWJohnson_2013_SupplementalDigital">
-<div class="citation">
-Johnson AE, Kramer AA, Clifford GD. Supplemental Digital Content A new severity of illness scale using a subset of APACHE data elements shows comparable predictive accuracy. Critical Care Medicine 2013; 41 (7).
-</div>
-<div class="bibtex_source"><pre>@article{AlistairEWJohnson_2013_SupplementalDigital,
-    author = "Johnson, Alistair EW and Kramer, Andrew A and Clifford, Gari D",
-    title = "Supplemental Digital Content A new severity of illness scale using a subset of APACHE data elements shows comparable predictive accuracy",
-    date = "2013",
-    issue = "7",
-    journal = "Critical Care Medicine",
-    volume = "41",
-    note = "Publisher: LWW"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="AlistairEWJohnson_2013_SupplementalDigital">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="AlistairEWJohnson_2013_SupplementalDigital">[show citation]</label>
-</div></div></td></tr><tr>
-<td>73</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LouisMayaud_2013_Predictivepower">
 <div class="citation">
 Mayaud L, Tarassenko L, Annane D, Clifford G. <a href="https://www.infona.pl/resource/bwmeta1.element.elsevier-85f17738-b11a-36d5-ab07-418b175b60e1">Predictive power of heart rate complexity to estimate severity in severe sepsis patients</a>. Journal of Critical Care 2013; 6 (28): p. e37.
@@ -5642,7 +5644,7 @@ Mayaud L, Tarassenko L, Annane D, Clifford G. <a href="https://www.infona.pl/res
 <div class="hidebibtex">
 <label for="LouisMayaud_2013_Predictivepower">[show citation]</label>
 </div></div></td></tr><tr>
-<td>72</td>
+<td>73</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JulienOster_2013_NonlinearBayesian">
 <div class="citation">
@@ -5664,7 +5666,7 @@ Oster J, Geist M, Tse Z, Schmidt EJ, Pietquin O, Clifford GD. <a href="https://a
 <div class="hidebibtex">
 <label for="JulienOster_2013_NonlinearBayesian">[show citation]</label>
 </div></div></td></tr><tr>
-<td>71</td>
+<td>72</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JWKrug_2013_01_Limitationsof">
 <div class="citation">
@@ -5688,7 +5690,7 @@ Krug J, Rose G, Stucht D, Clifford G, Oster J. <a href="https://jcmr-online.biom
 <div class="hidebibtex">
 <label for="JWKrug_2013_01_Limitationsof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>70</td>
+<td>71</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JoachimBehar_2013_01_15_ECGSignal">
 <div class="citation">
@@ -5712,7 +5714,7 @@ Behar J, Oster J, Li Q, Clifford GD. <a href="https://ieeexplore.ieee.org/abstra
 <div class="hidebibtex">
 <label for="JoachimBehar_2013_01_15_ECGSignal">[show citation]</label>
 </div></div></td></tr><tr>
-<td>69</td>
+<td>70</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="QiaoLi_2012_09_06_Signalquality">
 <div class="citation">
@@ -5736,7 +5738,7 @@ Li Q, Clifford GD. <a href="https://www.sciencedirect.com/science/article/pii/S0
 <div class="hidebibtex">
 <label for="QiaoLi_2012_09_06_Signalquality">[show citation]</label>
 </div></div></td></tr><tr>
-<td>68</td>
+<td>69</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2012_09_01_Signalquality">
 <div class="citation">
@@ -5760,7 +5762,7 @@ Clifford GD, Moody GB. <a href="https://iopscience.iop.org/article/10.1088/0967-
 <div class="hidebibtex">
 <label for="GariDClifford_2012_09_01_Signalquality">[show citation]</label>
 </div></div></td></tr><tr>
-<td>67</td>
+<td>68</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="VioletaMonasterio_2012_08_17_Robustclassification">
 <div class="citation">
@@ -5784,7 +5786,7 @@ Monasterio V, Burgess F, Clifford GD. <a href="https://iopscience.iop.org/articl
 <div class="hidebibtex">
 <label for="VioletaMonasterio_2012_08_17_Robustclassification">[show citation]</label>
 </div></div></td></tr><tr>
-<td>66</td>
+<td>67</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="QiaoLi_2012_08_17_Dynamictime">
 <div class="citation">
@@ -5808,7 +5810,7 @@ Li Q, Clifford GD. <a href="https://iopscience.iop.org/article/10.1088/0967-3334
 <div class="hidebibtex">
 <label for="QiaoLi_2012_08_17_Dynamictime">[show citation]</label>
 </div></div></td></tr><tr>
-<td>65</td>
+<td>66</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GDClifford_2012_08_17_Signalquality">
 <div class="citation">
@@ -5832,7 +5834,7 @@ Clifford G, Behar J, Li Q, Rezek I. <a href="https://iopscience.iop.org/article/
 <div class="hidebibtex">
 <label for="GDClifford_2012_08_17_Signalquality">[show citation]</label>
 </div></div></td></tr><tr>
-<td>64</td>
+<td>65</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JulienOster_2012_07_02_Filteringof">
 <div class="citation">
@@ -5853,7 +5855,7 @@ Oster J, Geist M, Pietquin O, Clifford GD. <a href="https://www.robots.ox.ac.uk/
 <div class="hidebibtex">
 <label for="JulienOster_2012_07_02_Filteringof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>63</td>
+<td>64</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ARoebuck_2012_05_18_MultiscaleEntropy">
 <div class="citation">
@@ -5875,7 +5877,7 @@ Roebuck A, Clifford G. <a href="https://www.atsjournals.org/doi/pdf/10.1164/ajrc
 <div class="hidebibtex">
 <label for="ARoebuck_2012_05_18_MultiscaleEntropy">[show citation]</label>
 </div></div></td></tr><tr>
-<td>62</td>
+<td>63</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RaymundoCassaniGonzlez_2012_ISCESymposiumRobert">
 <div class="citation">
@@ -5897,7 +5899,7 @@ Gonz<span class="bibtex-protected">á</span>lez RC, Engels EB, Dub<span class="b
 <div class="hidebibtex">
 <label for="RaymundoCassaniGonzlez_2012_ISCESymposiumRobert">[show citation]</label>
 </div></div></td></tr><tr>
-<td>61</td>
+<td>62</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JulienOster_2012_RealisticMHD">
 <div class="citation">
@@ -5918,7 +5920,7 @@ Oster J, Linares R, Tse Z, Schmidt E, Clifford G. <a href="https://archive.ismrm
 <div class="hidebibtex">
 <label for="JulienOster_2012_RealisticMHD">[show citation]</label>
 </div></div></td></tr><tr>
-<td>60</td>
+<td>61</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZionTse_2012_02_01_CardiacMRI">
 <div class="citation">
@@ -5941,7 +5943,7 @@ Tse Z, Dumoulin C, Clifford G, Oster J, Jerosch-Herold M, Kwong R, Stevenson W, 
 <div class="hidebibtex">
 <label for="ZionTse_2012_02_01_CardiacMRI">[show citation]</label>
 </div></div></td></tr><tr>
-<td>59</td>
+<td>60</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2012_01_WirelessTechnology">
 <div class="citation">
@@ -5965,7 +5967,7 @@ Clifford GD, Clifton D. <a href="https://www.annualreviews.org/doi/abs/10.1146/a
 <div class="hidebibtex">
 <label for="GariDClifford_2012_01_WirelessTechnology">[show citation]</label>
 </div></div></td></tr><tr>
-<td>58</td>
+<td>59</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZionTszHoTse_2011_12_RealECGextraction">
 <div class="citation">
@@ -5988,7 +5990,7 @@ Tse ZTH, Dumoulin CL, Clifford G, Jerosch-Herold M, Kacher D, Kwong R, Stevenson
 <div class="hidebibtex">
 <label for="ZionTszHoTse_2011_12_RealECGextraction">[show citation]</label>
 </div></div></td></tr><tr>
-<td>57</td>
+<td>58</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZionTszHoTse_2011_12_01_ImprovedRwave">
 <div class="citation">
@@ -6011,7 +6013,7 @@ Tse ZTH, Dumoulin CL, Clifford G, Jerosch-Herold M, Kacher D, Kwong R, Stevenson
 <div class="hidebibtex">
 <label for="ZionTszHoTse_2011_12_01_ImprovedRwave">[show citation]</label>
 </div></div></td></tr><tr>
-<td>56</td>
+<td>57</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LisaMCampana_2011_08_15_Apossible">
 <div class="citation">
@@ -6035,7 +6037,7 @@ Campana LM, Clifford GD, Trinder J, Pittman SD, Malhotra A. <a href="https://jcs
 <div class="hidebibtex">
 <label for="LisaMCampana_2011_08_15_Apossible">[show citation]</label>
 </div></div></td></tr><tr>
-<td>55</td>
+<td>56</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariClifford_2011_07_Clinicallyaccurate">
 <div class="citation">
@@ -6059,7 +6061,7 @@ Clifford G, Sameni R, Ward J, Robinson J, Wolfberg AJ. <a href="https://www.scie
 <div class="hidebibtex">
 <label for="GariClifford_2011_07_Clinicallyaccurate">[show citation]</label>
 </div></div></td></tr><tr>
-<td>54</td>
+<td>55</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MohammedSaeed_2011_05_MultiparameterIntelligent">
 <div class="citation">
@@ -6083,7 +6085,7 @@ Saeed M, Villarroel M, Reisner AT, Clifford G, Lehman L, Moody G, Heldt T, Kyaw 
 <div class="hidebibtex">
 <label for="MohammedSaeed_2011_05_MultiparameterIntelligent">[show citation]</label>
 </div></div></td></tr><tr>
-<td>53</td>
+<td>54</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShamimNemati_2011_05_Anonparametric">
 <div class="citation">
@@ -6107,7 +6109,7 @@ Nemati S, Abdala O, Bazin V, Yim-Yeh S, Malhotra A, Clifford G. <a href="https:/
 <div class="hidebibtex">
 <label for="ShamimNemati_2011_05_Anonparametric">[show citation]</label>
 </div></div></td></tr><tr>
-<td>52</td>
+<td>53</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="CalebWHug_2011_05_Clinicianblood">
 <div class="citation">
@@ -6131,7 +6133,7 @@ Hug CW, Clifford GD, Reisner AT. <a href="https://www.ncbi.nlm.nih.gov/pmc/artic
 <div class="hidebibtex">
 <label for="CalebWHug_2011_05_Clinicianblood">[show citation]</label>
 </div></div></td></tr><tr>
-<td>51</td>
+<td>52</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShamimNemati_2011_03_01_Twavealternans">
 <div class="citation">
@@ -6155,7 +6157,7 @@ Nemati S, Malhotra A, Clifford GD. <a href="https://www.sciencedirect.com/scienc
 <div class="hidebibtex">
 <label for="ShamimNemati_2011_03_01_Twavealternans">[show citation]</label>
 </div></div></td></tr><tr>
-<td>50</td>
+<td>51</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShamimNemati_2011_Nonparametricnonstationary">
 <div class="citation">
@@ -6178,7 +6180,7 @@ Nemati S, Malhotra A, Clifford G. <a href="https://www.infona.pl/resource/bwmeta
 <div class="hidebibtex">
 <label for="ShamimNemati_2011_Nonparametricnonstationary">[show citation]</label>
 </div></div></td></tr><tr>
-<td>49</td>
+<td>50</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZTse_2011_Systemfor">
 <div class="citation">
@@ -6200,7 +6202,7 @@ Tse Z, Dumoulin CL, Clifford G, Jerosch-Herold M, Kacher D, Kwong R, Stevenson W
 <div class="hidebibtex">
 <label for="ZTse_2011_Systemfor">[show citation]</label>
 </div></div></td></tr><tr>
-<td>48</td>
+<td>49</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="QiaoLi_2011_Signalquality">
 <div class="citation">
@@ -6222,7 +6224,7 @@ Li Q, Clifford G. <a href="https://cinc.org/2011/program/73.pdf">Signal quality 
 <div class="hidebibtex">
 <label for="QiaoLi_2011_Signalquality">[show citation]</label>
 </div></div></td></tr><tr>
-<td>47</td>
+<td>48</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MohammedSaeed_2011_MIMICIIClinical">
 <div class="citation">
@@ -6244,7 +6246,7 @@ Saeed M, Villarroel M, Reisner A, Clifford G, Lehman L, Moody G, Heldt T, Kyaw T
 <div class="hidebibtex">
 <label for="MohammedSaeed_2011_MIMICIIClinical">[show citation]</label>
 </div></div></td></tr><tr>
-<td>46</td>
+<td>47</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="CDumoulin_2011_01_01_RealECGextraction">
 <div class="citation">
@@ -6267,7 +6269,7 @@ Dumoulin C, Clifford G, Jerosch-Herold M, Kacher D, Kwong R, Stevenson W, Schmid
 <div class="hidebibtex">
 <label for="CDumoulin_2011_01_01_RealECGextraction">[show citation]</label>
 </div></div></td></tr><tr>
-<td>45</td>
+<td>46</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShamimNemati_2010_12_Datafusion">
 <div class="citation">
@@ -6290,7 +6292,7 @@ Nemati S, Malhotra A, Clifford GD. <a href="https://link.springer.com/content/pd
 <div class="hidebibtex">
 <label for="ShamimNemati_2010_12_Datafusion">[show citation]</label>
 </div></div></td></tr><tr>
-<td>44</td>
+<td>45</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="VioletaMonasterio_2010_08_31_Comparisonof">
 <div class="citation">
@@ -6312,7 +6314,7 @@ Monasterio V, Clifford GD, Mart<span class="bibtex-protected">ı</span>nez JP. <
 <div class="hidebibtex">
 <label for="VioletaMonasterio_2010_08_31_Comparisonof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>43</td>
+<td>44</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="OmidSayadi_2010_08_18_SyntheticECG">
 <div class="citation">
@@ -6336,7 +6338,7 @@ Sayadi O, Shamsollahi MB, Clifford GD. <a href="https://iopscience.iop.org/artic
 <div class="hidebibtex">
 <label for="OmidSayadi_2010_08_18_SyntheticECG">[show citation]</label>
 </div></div></td></tr><tr>
-<td>42</td>
+<td>43</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="VioletaMonasterio_2010_08_01_Amultilead">
 <div class="citation">
@@ -6360,7 +6362,7 @@ Monasterio V, Clifford GD, Laguna P, Martinez JP. <a href="https://link.springer
 <div class="hidebibtex">
 <label for="VioletaMonasterio_2010_08_01_Amultilead">[show citation]</label>
 </div></div></td></tr><tr>
-<td>41</td>
+<td>42</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LisaMarieCampana_2010_06_Phaserectifiedsignal">
 <div class="citation">
@@ -6384,7 +6386,7 @@ Campana LM, Owens RL, Clifford GD, Pittman SD, Malhotra A. <a href="https://jour
 <div class="hidebibtex">
 <label for="LisaMarieCampana_2010_06_Phaserectifiedsignal">[show citation]</label>
 </div></div></td></tr><tr>
-<td>40</td>
+<td>41</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShamimNemati_2010_06_ResearchArticle">
 <div class="citation">
@@ -6404,7 +6406,7 @@ Nemati S, Malhotra A, Clifford GD. Data fusion for improved respiration rate est
 <div class="hidebibtex">
 <label for="ShamimNemati_2010_06_ResearchArticle">[show citation]</label>
 </div></div></td></tr><tr>
-<td>39</td>
+<td>40</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2010_03_22_Anartificial">
 <div class="citation">
@@ -6428,7 +6430,7 @@ Clifford GD, Nemati S, Sameni R. <a href="https://iopscience.iop.org/article/10.
 <div class="hidebibtex">
 <label for="GariDClifford_2010_03_22_Anartificial">[show citation]</label>
 </div></div></td></tr><tr>
-<td>38</td>
+<td>39</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZTse_2010_MRIcompatible12lead">
 <div class="citation">
@@ -6448,6 +6450,29 @@ Tse Z, Dumoulin C, Clifford G, Jerosch-Herald M, Kacher D, Kwong R, Stevenson W,
 </div>
 <div class="hidebibtex">
 <label for="ZTse_2010_MRIcompatible12lead">[show citation]</label>
+</div></div></td></tr><tr>
+<td>38</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="RezaSameni_2010_01_01_Areview">
+<div class="citation">
+Sameni R, Clifford GD. <a href="https://drive.google.com/file/d/1p6ORz4TQYwWcb4fSCG0aD9YClQkrsZSl/view?usp=sharing">A review of fetal ECG signal processing; issues and promising directions</a>. 2010 January 1.
+</div>
+<div class="bibtex_source"><pre>@misc{RezaSameni_2010_01_01_Areview,
+    author = "Sameni, Reza and Clifford, Gari D",
+    title = "A review of fetal ECG signal processing; issues and promising directions",
+    journal = "The Open Pacing, Electrophysiology \& Therapy Journal",
+    date = "2010-01-01",
+    url = "https://drive.google.com/file/d/1p6ORz4TQYwWcb4fSCG0aD9YClQkrsZSl/view?usp=sharing",
+    pages = "4",
+    volume = "3",
+    note = "Publisher: NIH Public Access"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="RezaSameni_2010_01_01_Areview">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="RezaSameni_2010_01_01_Areview">[show citation]</label>
 </div></div></td></tr><tr>
 <td>37</td>
 <td><div class="citation_container">
@@ -7309,7 +7334,7 @@ Clifford G. <a href="https://scholar.google.com/scholar?cluster=1308584897038135
 
 <table>
 <tr>
-<td>115</td>
+<td>120</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="HLehmanLiwei_2023_11_02_VTaCA">
 <div class="citation">
@@ -7329,7 +7354,7 @@ Li-wei HL, Moody BE, Deep H, Wu F, Saeed H, McCullum L, Perry D, Struja T, Li Q,
 <div class="hidebibtex">
 <label for="HLehmanLiwei_2023_11_02_VTaCA">[show citation]</label>
 </div></div></td></tr><tr>
-<td>114</td>
+<td>119</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MatthewAReyna_2023_10_PredictingNeurological">
 <div class="citation">
@@ -7352,7 +7377,7 @@ Reyna MA, Amorim E, Sameni R, Weigle J, Elola A, Rad AB, Seyedi S, Kwon H, Zheng
 <div class="hidebibtex">
 <label for="MatthewAReyna_2023_10_PredictingNeurological">[show citation]</label>
 </div></div></td></tr><tr>
-<td>113</td>
+<td>118</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LucasMcCullum_2022_09_PhysioTagAn">
 <div class="citation">
@@ -7375,7 +7400,7 @@ McCullum L, Saeed H, Moody B, Perry D, Gottlieb E, Pollard T, Frigola XB, Li Q, 
 <div class="hidebibtex">
 <label for="LucasMcCullum_2022_09_PhysioTagAn">[show citation]</label>
 </div></div></td></tr><tr>
-<td>112</td>
+<td>117</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MatthewAReyna_2022_09_04_Heartmurmur">
 <div class="citation">
@@ -7398,7 +7423,7 @@ Reyna MA, Kiarashi Y, Elola A, Oliveira J, Renna F, Gu A, Alday EAP, Sadr N, Sha
 <div class="hidebibtex">
 <label for="MatthewAReyna_2022_09_04_Heartmurmur">[show citation]</label>
 </div></div></td></tr><tr>
-<td>111</td>
+<td>116</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LauraStraus_2022_06_01_TWENTYFOURHOUR">
 <div class="citation">
@@ -7421,7 +7446,7 @@ Straus L, An X, Cakmak A, Clifford G, Neylan T, McLean S. <a href="https://schol
 <div class="hidebibtex">
 <label for="LauraStraus_2022_06_01_TWENTYFOURHOUR">[show citation]</label>
 </div></div></td></tr><tr>
-<td>110</td>
+<td>115</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MatthewAReyna_2021_09_13_Willtwo">
 <div class="citation">
@@ -7444,7 +7469,7 @@ Reyna MA, Sadr N, Alday EAP, Gu A, Shah AJ, Robichaux C, Rad AB, Elola A, Seyedi
 <div class="hidebibtex">
 <label for="MatthewAReyna_2021_09_13_Willtwo">[show citation]</label>
 </div></div></td></tr><tr>
-<td>109</td>
+<td>114</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SalmanSeyedi_2021_02_08_AnAnalysis">
 <div class="citation">
@@ -7464,7 +7489,7 @@ Seyedi S, Xiong L, Nemati S, Clifford GD. <a href="https://arxiv.org/abs/2101.12
 <div class="hidebibtex">
 <label for="SalmanSeyedi_2021_02_08_AnAnalysis">[show citation]</label>
 </div></div></td></tr><tr>
-<td>108</td>
+<td>113</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AyseSCakmak_2020_12_12_UsingConvolutional">
 <div class="citation">
@@ -7484,7 +7509,7 @@ Cakmak AS, Thigpen N, Honke G, Alday EP, Rad AB, Adaimi R, Chang CJ, Li Q, Gupta
 <div class="hidebibtex">
 <label for="AyseSCakmak_2020_12_12_UsingConvolutional">[show citation]</label>
 </div></div></td></tr><tr>
-<td>107</td>
+<td>112</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NasimKatebi_2020_12_12_DeepSequence">
 <div class="citation">
@@ -7504,7 +7529,7 @@ Katebi N, Sameni R, Clifford GD. <a href="https://arxiv.org/abs/2012.00553">Deep
 <div class="hidebibtex">
 <label for="NasimKatebi_2020_12_12_DeepSequence">[show citation]</label>
 </div></div></td></tr><tr>
-<td>106</td>
+<td>111</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SamanehNasiri_2020_09_18_Attentiveadversarial">
 <div class="citation">
@@ -7526,7 +7551,7 @@ Nasiri S, Clifford GD. <a href="https://proceedings.mlr.press/v126/nasiri20a.htm
 <div class="hidebibtex">
 <label for="SamanehNasiri_2020_09_18_Attentiveadversarial">[show citation]</label>
 </div></div></td></tr><tr>
-<td>105</td>
+<td>110</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MatthewAReyna_2020_09_13_Classificationof">
 <div class="citation">
@@ -7548,7 +7573,7 @@ Reyna MA, Alday EAP, Gu A, Liu C, Seyedi S, Rad AB, Elola A, Li Q, Sharma A, Cli
 <div class="hidebibtex">
 <label for="MatthewAReyna_2020_09_13_Classificationof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>104</td>
+<td>109</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SamanehNasiri_2020_06_12_ImportanceWeighting">
 <div class="citation">
@@ -7569,7 +7594,7 @@ Nasiri S, Clifford GD. <a href="https://openreview.net/forum?id=rGh-L5qYqvl">Imp
 <div class="hidebibtex">
 <label for="SamanehNasiri_2020_06_12_ImportanceWeighting">[show citation]</label>
 </div></div></td></tr><tr>
-<td>103</td>
+<td>108</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MatthewAReyna_2019_09_08_Earlyprediction">
 <div class="citation">
@@ -7591,7 +7616,7 @@ Reyna MA, Josef C, Seyedi S, Jeter R, Shashikumar SP, Westover MB, Sharma A, Nem
 <div class="hidebibtex">
 <label for="MatthewAReyna_2019_09_08_Earlyprediction">[show citation]</label>
 </div></div></td></tr><tr>
-<td>102</td>
+<td>107</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="PradyumnaByappanahalliSuresha_2019_05_19_ObstructiveSleep">
 <div class="citation">
@@ -7613,7 +7638,7 @@ Suresha PB, Cakmak AS, Poian GD, Shah AJ, Vaccarino V, Bliwise D, Clifford GD. <
 <div class="hidebibtex">
 <label for="PradyumnaByappanahalliSuresha_2019_05_19_ObstructiveSleep">[show citation]</label>
 </div></div></td></tr><tr>
-<td>101</td>
+<td>106</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AyseCakmak_2018_12_10_Personalizedheart">
 <div class="citation">
@@ -7633,7 +7658,7 @@ Cakmak A, Reinertsen E, Taylor H, Shah A, Clifford GD. <a href="https://ieeexplo
 <div class="hidebibtex">
 <label for="AyseCakmak_2018_12_10_Personalizedheart">[show citation]</label>
 </div></div></td></tr><tr>
-<td>100</td>
+<td>105</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JamesJLah_2018_10_01_ASearch">
 <div class="citation">
@@ -7656,7 +7681,7 @@ Lah JJ, Goetz ME, John S, Lewis LM, Lomba C, Bergquist SH, Clifford GD, Goldstei
 <div class="hidebibtex">
 <label for="JamesJLah_2018_10_01_ASearch">[show citation]</label>
 </div></div></td></tr><tr>
-<td>99</td>
+<td>104</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SupreethPShashikumar_2018_08_19_Detectionof">
 <div class="citation">
@@ -7676,7 +7701,7 @@ Shashikumar SP, Shah AJ, Clifford GD, Nemati S. <a href="https://dl.acm.org/doi/
 <div class="hidebibtex">
 <label for="SupreethPShashikumar_2018_08_19_Detectionof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>98</td>
+<td>103</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MohammadMGhassemi_2018_YouSnooze">
 <div class="citation">
@@ -7698,7 +7723,7 @@ Ghassemi MM, Moody BE, Li-wei HL, Song C, Li Q, Sun H, Westover MB, Clifford GD.
 <div class="hidebibtex">
 <label for="MohammadMGhassemi_2018_YouSnooze">[show citation]</label>
 </div></div></td></tr><tr>
-<td>97</td>
+<td>102</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SamanehNasiriGhoshehBolagh_2017_12_01_SubjectSelection">
 <div class="citation">
@@ -7719,7 +7744,7 @@ Bolagh SNG, Clifford GD. <a href="https://arxiv.org/abs/1712.00465">Subject sele
 <div class="hidebibtex">
 <label for="SamanehNasiriGhoshehBolagh_2017_12_01_SubjectSelection">[show citation]</label>
 </div></div></td></tr><tr>
-<td>96</td>
+<td>101</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2017_09_24_AFclassification">
 <div class="citation">
@@ -7741,7 +7766,7 @@ Clifford GD, Liu C, Moody B, Li-wei HL, Silva I, Li Q, Johnson A, Mark RG. <a hr
 <div class="hidebibtex">
 <label for="GariDClifford_2017_09_24_AFclassification">[show citation]</label>
 </div></div></td></tr><tr>
-<td>95</td>
+<td>100</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChengyuLiu_2017_09_24_Multisourcefeatures">
 <div class="citation">
@@ -7763,7 +7788,7 @@ Liu C, Li Q, Suresh PB, Vest A, Clifford GD. <a href="https://ieeexplore.ieee.or
 <div class="hidebibtex">
 <label for="ChengyuLiu_2017_09_24_Multisourcefeatures">[show citation]</label>
 </div></div></td></tr><tr>
-<td>94</td>
+<td>99</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JoachimABehar_2017_09_24_Sleepquestionnaires">
 <div class="citation">
@@ -7785,7 +7810,7 @@ Behar JA, Palmius N, Daly J, Li Q, Rizzatti FG, Bittencourt L, Clifford GD. <a h
 <div class="hidebibtex">
 <label for="JoachimABehar_2017_09_24_Sleepquestionnaires">[show citation]</label>
 </div></div></td></tr><tr>
-<td>93</td>
+<td>98</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="FaezehMarzbanrad_2017_09_24_Analyzingfetal">
 <div class="citation">
@@ -7807,7 +7832,7 @@ Marzbanrad F, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/documen
 <div class="hidebibtex">
 <label for="FaezehMarzbanrad_2017_09_24_Analyzingfetal">[show citation]</label>
 </div></div></td></tr><tr>
-<td>92</td>
+<td>97</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AmitJShah_2017_05_01_Associationof">
 <div class="citation">
@@ -7831,7 +7856,7 @@ Shah AJ, Fang S, Pimple P, Lewis T, Goldberg J, Bliwise D, Alonso A, Clifford GD
 <div class="hidebibtex">
 <label for="AmitJShah_2017_05_01_Associationof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>91</td>
+<td>96</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RCDedhia_2017_04_01_Impactof">
 <div class="citation">
@@ -7854,7 +7879,7 @@ Dedhia R, Bliwise D, Quyyumi A, Strollo P, Li Q, Clifford G. <a href="https://se
 <div class="hidebibtex">
 <label for="RCDedhia_2017_04_01_Impactof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>90</td>
+<td>95</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChengyuLiu_2017_CombiningMultisource">
 <div class="citation">
@@ -7874,7 +7899,7 @@ Liu C, Li Q, Suresha PB, Clifford GD. <a href="https://scholar.google.com/schola
 <div class="hidebibtex">
 <label for="ChengyuLiu_2017_CombiningMultisource">[show citation]</label>
 </div></div></td></tr><tr>
-<td>89</td>
+<td>94</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SupreethPrajwalShashikumar_2017_02_16_Adeep">
 <div class="citation">
@@ -7896,7 +7921,7 @@ Shashikumar SP, Shah AJ, Li Q, Clifford GD, Nemati S. <a href="https://ieeexplor
 <div class="hidebibtex">
 <label for="SupreethPrajwalShashikumar_2017_02_16_Adeep">[show citation]</label>
 </div></div></td></tr><tr>
-<td>88</td>
+<td>93</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChengyuLiu_2016_09_11_Evaluationof">
 <div class="citation">
@@ -7918,7 +7943,7 @@ Liu C, Li Q, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document
 <div class="hidebibtex">
 <label for="ChengyuLiu_2016_09_11_Evaluationof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>87</td>
+<td>92</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2016_09_11_Classificationof">
 <div class="citation">
@@ -7940,7 +7965,7 @@ Clifford GD, Liu C, Moody B, Springer D, Silva I, Li Q, Mark RG. <a href="https:
 <div class="hidebibtex">
 <label for="GariDClifford_2016_09_11_Classificationof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>86</td>
+<td>91</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="FaezehMarzbanrad_2016_09_11_Estimatingfetal">
 <div class="citation">
@@ -7962,7 +7987,7 @@ Marzbanrad F, Khandoker AH, Kimura Y, Palaniswami M, Clifford GD. <a href="https
 <div class="hidebibtex">
 <label for="FaezehMarzbanrad_2016_09_11_Estimatingfetal">[show citation]</label>
 </div></div></td></tr><tr>
-<td>85</td>
+<td>90</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShamimNemati_2016_08_16_Monitoringand">
 <div class="citation">
@@ -7984,7 +8009,7 @@ Nemati S, Ghassemi MM, Ambai V, Isakadze N, Levantsevych O, Shah A, Clifford GD.
 <div class="hidebibtex">
 <label for="ShamimNemati_2016_08_16_Monitoringand">[show citation]</label>
 </div></div></td></tr><tr>
-<td>84</td>
+<td>89</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShamimNemati_2016_08_16_Optimalmedication">
 <div class="citation">
@@ -8006,7 +8031,7 @@ Nemati S, Ghassemi MM, Clifford GD. <a href="https://ieeexplore.ieee.org/abstrac
 <div class="hidebibtex">
 <label for="ShamimNemati_2016_08_16_Optimalmedication">[show citation]</label>
 </div></div></td></tr><tr>
-<td>83</td>
+<td>88</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2015_09_06_ThePhysioNetcomputing">
 <div class="citation">
@@ -8028,7 +8053,7 @@ Clifford GD, Silva I, Moody B, Li Q, Kella D, Shahin A, Kooistra T, Perry D, Mar
 <div class="hidebibtex">
 <label for="GariDClifford_2015_09_06_ThePhysioNetcomputing">[show citation]</label>
 </div></div></td></tr><tr>
-<td>82</td>
+<td>87</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="TingtingZhu_2015_08_25_Bayesianfusion">
 <div class="citation">
@@ -8050,7 +8075,7 @@ Zhu T, Pimentel MA, Clifford GD, Clifton DA. <a href="https://ieeexplore.ieee.or
 <div class="hidebibtex">
 <label for="TingtingZhu_2015_08_25_Bayesianfusion">[show citation]</label>
 </div></div></td></tr><tr>
-<td>81</td>
+<td>86</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ACBilderbeck_2015_06_01_Dailyand">
 <div class="citation">
@@ -8073,7 +8098,7 @@ Bilderbeck A, Saunders K, Clifford G, Tsanas A, Osipov M, Harrison P, Harmer C, 
 <div class="hidebibtex">
 <label for="ACBilderbeck_2015_06_01_Dailyand">[show citation]</label>
 </div></div></td></tr><tr>
-<td>80</td>
+<td>85</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="KSaunders_2015_06_01_Acceptabilityand">
 <div class="citation">
@@ -8096,7 +8121,7 @@ Saunders K, Bilderbeck A, Panchal P, Brett D, Clifford G, Harmer C, Nobre A, Har
 <div class="hidebibtex">
 <label for="KSaunders_2015_06_01_Acceptabilityand">[show citation]</label>
 </div></div></td></tr><tr>
-<td>79</td>
+<td>84</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="FAndreotti_2015_Evaluationof">
 <div class="citation">
@@ -8117,7 +8142,7 @@ Andreotti F, Behar J, Zaunseder S, Clifford G, Oster J. <a href="https://www.can
 <div class="hidebibtex">
 <label for="FAndreotti_2015_Evaluationof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>78</td>
+<td>83</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2014_10_10_Ascalable">
 <div class="citation">
@@ -8139,7 +8164,7 @@ Clifford GD, Arteta C, Zhu T, Pimentel MA, Santos M, Domingos J, Maraci M, Behar
 <div class="hidebibtex">
 <label for="GariDClifford_2014_10_10_Ascalable">[show citation]</label>
 </div></div></td></tr><tr>
-<td>77</td>
+<td>82</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NPalmius_2014_09_Amultisensor">
 <div class="citation">
@@ -8160,6 +8185,116 @@ Palmius N, Osipov M, Bilderbeck A, Goodwin G, Saunders K, Tsanas A, Clifford G. 
 </div>
 <div class="hidebibtex">
 <label for="NPalmius_2014_09_Amultisensor">[show citation]</label>
+</div></div></td></tr><tr>
+<td>81</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="TPapastylianou_2014_01_01_Smarthandpumps">
+<div class="citation">
+Papastylianou T, Behar J, Guazzi A, Jorge J, Laranjeira S, Maraci M, Clifford G, Hope R, Thomson P. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-iT0N5MERaY3gybEU/view?usp=sharing&resourcekey=0-7UZDaQzRikrxbRMiMB3B4g">Smart handpumps: technical aspects of a one-year field trial in rural Kenya</a>. Appropriate Healthcare Technologies for Low Resource Setting (AHT 2014) 2014 September; pp. 9-9.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{TPapastylianou_2014_01_01_Smarthandpumps,
+    author = "Papastylianou, T and Behar, J and Guazzi, A and Jorge, J and Laranjeira, S and Maraci, MA and Clifford, GD and Hope, RA and Thomson, P",
+    title = "Smart handpumps: technical aspects of a one-year field trial in rural Kenya",
+    date = "2014-09",
+    booktitle = "Appropriate Healthcare Technologies for Low Resource Setting (AHT 2014)",
+    url = "https://drive.google.com/file/d/0B5wjNvhEV8-iT0N5MERaY3gybEU/view?usp=sharing\&resourcekey=0-7UZDaQzRikrxbRMiMB3B4g",
+    pages = "9-9",
+    note = "Publisher: IET Digital Library"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="TPapastylianou_2014_01_01_Smarthandpumps">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="TPapastylianou_2014_01_01_Smarthandpumps">[show citation]</label>
+</div></div></td></tr><tr>
+<td>80</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="MAFPimentel_2014_01_01_A5">
+<div class="citation">
+Pimentel M, Santos M, Maraci M, Arteta C, Domingos J, Clifton D, Clifford G. <a href="https://www.robots.ox.ac.uk/~davidc/pubs/aht2014_bp.pdf">A $5 smart blood pressure system</a>. Appropriate Healthcare Technologies for Low Resource Setting (AHT 2014) 2014 September; pp. 24-24.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{MAFPimentel_2014_01_01_A5,
+    author = "Pimentel, MAF and Santos, MD and Maraci, MA and Arteta, C and Domingos, JS and Clifton, DA and Clifford, GD",
+    title = "A {$}5 smart blood pressure system",
+    date = "2014-09",
+    booktitle = "Appropriate Healthcare Technologies for Low Resource Setting (AHT 2014)",
+    url = "https://www.robots.ox.ac.uk/\textasciitilde davidc/pubs/aht2014\_bp.pdf",
+    pages = "24-24",
+    note = "Publisher: IET Digital Library"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="MAFPimentel_2014_01_01_A5">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="MAFPimentel_2014_01_01_A5">[show citation]</label>
+</div></div></td></tr><tr>
+<td>79</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="LStroux_2014_01_01_Alowcost">
+<div class="citation">
+Stroux L, King N, Fathima S, Hall-Clifford R, Rohloff P, Clifford G. <a href="https://drive.google.com/file/d/1nmB47H_MZO-VOOwXUjL9ihcrkrkN2hTo/view?usp=sharing">A low-cost perinatal monitoring system for use in rural Guatemala</a>. Appropriate Healthcare Technologies for Low Resource Setting (AHT 2014) 2014 September; pp. 17-17.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{LStroux_2014_01_01_Alowcost,
+    author = "Stroux, L and King, NE and Fathima, S and Hall-Clifford, R and Rohloff, P and Clifford, GD",
+    title = "A low-cost perinatal monitoring system for use in rural Guatemala",
+    date = "2014-09",
+    booktitle = "Appropriate Healthcare Technologies for Low Resource Setting (AHT 2014)",
+    url = "https://drive.google.com/file/d/1nmB47H\_MZO-VOOwXUjL9ihcrkrkN2hTo/view?usp=sharing",
+    pages = "17-17",
+    note = "Publisher: IET Digital Library"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="LStroux_2014_01_01_Alowcost">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="LStroux_2014_01_01_Alowcost">[show citation]</label>
+</div></div></td></tr><tr>
+<td>78</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="DavidBSpringer_2014_01_01_Mobilephonebased">
+<div class="citation">
+Springer DB, Z<span class="bibtex-protected">ü</span>hlke L, Mayosi B, Tarassenko L, Clifford G. <a href="https://drive.google.com/file/d/0B5SqSlPcubSuVTZ4M3RZQjhVZTA/view?usp=sharing&resourcekey=0-KHkG4ZVuDNGhV5MMBB5bFw">Mobile phone-based rheumatic heart disease diagnosis</a>. Appropriate Healthcare Technologies for Low Resource Setting (AHT 2014) 2014 September; pp. 1-1.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{DavidBSpringer_2014_01_01_Mobilephonebased,
+    author = {Springer, David B and Z{\"u}hlke, LJ and Mayosi, BM and Tarassenko, L and Clifford, GD},
+    title = "Mobile phone-based rheumatic heart disease diagnosis",
+    date = "2014-09",
+    booktitle = "Appropriate Healthcare Technologies for Low Resource Setting (AHT 2014)",
+    url = "https://drive.google.com/file/d/0B5SqSlPcubSuVTZ4M3RZQjhVZTA/view?usp=sharing\&resourcekey=0-KHkG4ZVuDNGhV5MMBB5bFw",
+    pages = "1-1",
+    note = "Publisher: IET Digital Library"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="DavidBSpringer_2014_01_01_Mobilephonebased">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="DavidBSpringer_2014_01_01_Mobilephonebased">[show citation]</label>
+</div></div></td></tr><tr>
+<td>77</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="SanaFFathima_2014_01_01_Sanitationrelateddisease">
+<div class="citation">
+Fathima SF, Palmius N, Clifton D, Rohloff P, Clifford G, Hall-Clifford R. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-ibzN5bFVkeko5Qms/view?usp=sharing&resourcekey=0-8taEjUabK5TgJ4PwW3Qcqg">Sanitation-related disease surveillance using community health promoters and mobile phone technology</a>. Appropriate Healthcare Technologies for Low Resource Setting (AHT 2014) 2014 September; pp. 3-3.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{SanaFFathima_2014_01_01_Sanitationrelateddisease,
+    author = "Fathima, Sana F and Palmius, N and Clifton, D and Rohloff, P and Clifford, GD and Hall-Clifford, R",
+    title = "Sanitation-related disease surveillance using community health promoters and mobile phone technology",
+    date = "2014-09",
+    booktitle = "Appropriate Healthcare Technologies for Low Resource Setting (AHT 2014)",
+    url = "https://drive.google.com/file/d/0B5wjNvhEV8-ibzN5bFVkeko5Qms/view?usp=sharing\&resourcekey=0-8taEjUabK5TgJ4PwW3Qcqg",
+    pages = "3-3",
+    note = "Publisher: IET Digital Library"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="SanaFFathima_2014_01_01_Sanitationrelateddisease">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="SanaFFathima_2014_01_01_Sanitationrelateddisease">[show citation]</label>
 </div></div></td></tr><tr>
 <td>76</td>
 <td><div class="citation_container">
@@ -11091,7 +11226,7 @@ Clifford GD. Statistical Conformal Field Theory and Information Loss in the Reno
 
 <table>
 <tr>
-<td>34</td>
+<td>26</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="XingyaoWang_2021_06_ParoxysmalAtrial">
 <div class="citation">
@@ -11111,7 +11246,7 @@ Wang X, Ma C, Zhang X, Gao H, Clifford G, Liu C. <a href="https://www.physionet.
 <div class="hidebibtex">
 <label for="XingyaoWang_2021_06_ParoxysmalAtrial">[show citation]</label>
 </div></div></td></tr><tr>
-<td>33</td>
+<td>25</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AhmedAbbasi_2018_08_01_MakeFairness">
 <div class="citation">
@@ -11132,7 +11267,7 @@ Abbasi A, Li J, Clifford G, Taylor H. <a href="https://scholar.google.com/schola
 <div class="hidebibtex">
 <label for="AhmedAbbasi_2018_08_01_MakeFairness">[show citation]</label>
 </div></div></td></tr><tr>
-<td>32</td>
+<td>24</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShriBHAnilKumar_2018_07_17_Theteam">
 <div class="citation">
@@ -11151,7 +11286,7 @@ Kumar SBA, Buchman T, Clifford G, Nemati S, Li Q, Arar B, Stanley M, Holder A, K
 <div class="hidebibtex">
 <label for="ShriBHAnilKumar_2018_07_17_Theteam">[show citation]</label>
 </div></div></td></tr><tr>
-<td>31</td>
+<td>23</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2018_FromWearables">
 <div class="citation">
@@ -11171,7 +11306,7 @@ Clifford GD. <a href="https://hip.emory.edu/_includes/documents/sections/symposi
 <div class="hidebibtex">
 <label for="GariDClifford_2018_FromWearables">[show citation]</label>
 </div></div></td></tr><tr>
-<td>30</td>
+<td>22</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GiuliaDaPoian_2017_03_23_Exploitingsparsity">
 <div class="citation">
@@ -11191,7 +11326,7 @@ Poian GD. <a href="https://air.uniud.it/retrieve/e27ce0c5-623c-055e-e053-6605fe0
 <div class="hidebibtex">
 <label for="GiuliaDaPoian_2017_03_23_Exploitingsparsity">[show citation]</label>
 </div></div></td></tr><tr>
-<td>29</td>
+<td>21</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="TTZhu_2015_05_27_Theframework">
 <div class="citation">
@@ -11210,7 +11345,7 @@ Zhu T, Dunkley N, Behar J, Clifton D, Clifford G, Pimentel M. <a href="https://w
 <div class="hidebibtex">
 <label for="TTZhu_2015_05_27_Theframework">[show citation]</label>
 </div></div></td></tr><tr>
-<td>28</td>
+<td>20</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GlennSteeleJr_2015_04_02_USHealthcare">
 <div class="citation">
@@ -11229,17 +11364,17 @@ Jr GS, Erskine A, Clifford G, Braunstein M, Simpson DR. <a href="https://www.hip
 <div class="hidebibtex">
 <label for="GlennSteeleJr_2015_04_02_USHealthcare">[show citation]</label>
 </div></div></td></tr><tr>
-<td>27</td>
+<td>19</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShannonFischer_2014_09_IEEEpULse">
 <div class="citation">
-Fischer S, Grifantini K, Clifford GD, Gederi E, Heneghan C, Hirshkowitz M, Jan<span class="bibtex-protected">é</span> R, Ward SLD, Amin R, Arens R, Chen Z, Davis S, Gutmark E, Superfine R, Wong B, Zdanski C, Khoo MC, Nayak KS, Fleck RJ, Nemati S, Orr J, Malhotra A, Tucker L. <a href="https://ieeexplore.ieee.org/abstract/document/6908138/">IEEEpULse</a>. 2014 September.
+Fischer S, Grifantini K, Clifford GD, Gederi E, Heneghan C, Hirshkowitz M, Jan<span class="bibtex-protected">é</span> R, Ward SLD, Amin R, Arens R, Chen Z, Davis S, Gutmark E, Superfine R, Wong B, Zdanski C, Khoo MC, Nayak KS, Fleck RJ, Nemati S, Orr J, Malhotra A, Tucker L. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6908138">IEEEpULse</a>. 2014 September.
 </div>
 <div class="bibtex_source"><pre>@misc{ShannonFischer_2014_09_IEEEpULse,
     author = "Fischer, Shannon and Grifantini, Kristina and Clifford, Gari D and Gederi, Elnaz and Heneghan, Conor and Hirshkowitz, Max and Jan{\'e}, Raimon and Ward, Sally L Davidson and Amin, Raouf and Arens, Raanan and Chen, Zhongping and Davis, Stephanie and Gutmark, Ephraim and Superfine, Richard and Wong, Brian and Zdanski, Carlton and Khoo, Michael CK and Nayak, Krishna S and Fleck, Robert J and Nemati, Shamim and Orr, Jeremy and Malhotra, Atul and Tucker, Lindsay",
     title = "IEEEpULse",
     date = "2014-09",
-    url = "https://ieeexplore.ieee.org/abstract/document/6908138/"
+    url = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=6908138"
 }
 </pre>
 </div><div class="showbibtex">
@@ -11248,17 +11383,17 @@ Fischer S, Grifantini K, Clifford GD, Gederi E, Heneghan C, Hirshkowitz M, Jan<s
 <div class="hidebibtex">
 <label for="ShannonFischer_2014_09_IEEEpULse">[show citation]</label>
 </div></div></td></tr><tr>
-<td>26</td>
+<td>18</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MaximOsipov_2014_08_14_Towardsautomated">
 <div class="citation">
-Osipov M, Clifford GD. <a href="https://arxiv.org/abs/1908.06013">Towards automated symptoms assessment in mental health</a>. 2014 August 14.
+Osipov M, Clifford GD. <a href="https://arxiv.org/pdf/1908.06013.pdf">Towards automated symptoms assessment in mental health</a>. 2014 August 14.
 </div>
 <div class="bibtex_source"><pre>@misc{MaximOsipov_2014_08_14_Towardsautomated,
     author = "Osipov, Maxim and Clifford, Gari D.",
     title = "Towards automated symptoms assessment in mental health",
     date = "2014-08-14",
-    url = "https://arxiv.org/abs/1908.06013"
+    url = "https://arxiv.org/pdf/1908.06013.pdf"
 }
 </pre>
 </div><div class="showbibtex">
@@ -11267,135 +11402,7 @@ Osipov M, Clifford GD. <a href="https://arxiv.org/abs/1908.06013">Towards automa
 <div class="hidebibtex">
 <label for="MaximOsipov_2014_08_14_Towardsautomated">[show citation]</label>
 </div></div></td></tr><tr>
-<td>25</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="TPapastylianou_2014_01_01_Smarthandpumps">
-<div class="citation">
-Papastylianou T, Behar J, Guazzi A, Jorge J, Laranjeira S, Maraci M, Clifford G, Hope R, Thomson P. <a href="https://digital-library.theiet.org/content/conferences/10.1049/cp.2014.0769">Smart handpumps: technical aspects of a one-year field trial in rural Kenya</a>. 2014 January 1.
-</div>
-<div class="bibtex_source"><pre>@misc{TPapastylianou_2014_01_01_Smarthandpumps,
-    author = "Papastylianou, T and Behar, J and Guazzi, A and Jorge, J and Laranjeira, S and Maraci, MA and Clifford, GD and Hope, RA and Thomson, P",
-    title = "Smart handpumps: technical aspects of a one-year field trial in rural Kenya",
-    date = "2014-01-01",
-    url = "https://digital-library.theiet.org/content/conferences/10.1049/cp.2014.0769",
-    pages = "9-9",
-    note = "Publisher: IET Digital Library"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="TPapastylianou_2014_01_01_Smarthandpumps">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="TPapastylianou_2014_01_01_Smarthandpumps">[show citation]</label>
-</div></div></td></tr><tr>
-<td>24</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="MAFPimentel_2014_01_01_A5">
-<div class="citation">
-Pimentel M, Santos M, Maraci M, Arteta C, Domingos J, Clifton D, Clifford G. <a href="https://digital-library.theiet.org/content/conferences/10.1049/cp.2014.0784">A \$5 smart blood pressure system</a>. 2014 January 1.
-</div>
-<div class="bibtex_source"><pre>@misc{MAFPimentel_2014_01_01_A5,
-    author = "Pimentel, MAF and Santos, MD and Maraci, MA and Arteta, C and Domingos, JS and Clifton, DA and Clifford, GD",
-    title = "A {\$}5 smart blood pressure system",
-    date = "2014-01-01",
-    url = "https://digital-library.theiet.org/content/conferences/10.1049/cp.2014.0784",
-    pages = "24-24",
-    note = "Publisher: IET Digital Library"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="MAFPimentel_2014_01_01_A5">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="MAFPimentel_2014_01_01_A5">[show citation]</label>
-</div></div></td></tr><tr>
-<td>23</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="LStroux_2014_01_01_Alowcost">
-<div class="citation">
-Stroux L, King N, Fathima S, Hall-Clifford R, Rohloff P, Clifford G. <a href="https://digital-library.theiet.org/content/conferences/10.1049/cp.2014.0777">A low-cost perinatal monitoring system for use in rural Guatemala</a>. 2014 January 1.
-</div>
-<div class="bibtex_source"><pre>@misc{LStroux_2014_01_01_Alowcost,
-    author = "Stroux, L and King, NE and Fathima, S and Hall-Clifford, R and Rohloff, P and Clifford, GD",
-    title = "A low-cost perinatal monitoring system for use in rural Guatemala",
-    date = "2014-01-01",
-    url = "https://digital-library.theiet.org/content/conferences/10.1049/cp.2014.0777",
-    pages = "17-17",
-    note = "Publisher: IET Digital Library"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="LStroux_2014_01_01_Alowcost">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="LStroux_2014_01_01_Alowcost">[show citation]</label>
-</div></div></td></tr><tr>
-<td>22</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="DavidBSpringer_2014_01_01_Mobilephonebased">
-<div class="citation">
-Springer DB, Z<span class="bibtex-protected">ü</span>hlke L, Mayosi B, Tarassenko L, Clifford G. <a href="https://digital-library.theiet.org/content/conferences/10.1049/cp.2014.0761">Mobile phone-based rheumatic heart disease diagnosis</a>. 2014 January 1.
-</div>
-<div class="bibtex_source"><pre>@misc{DavidBSpringer_2014_01_01_Mobilephonebased,
-    author = {Springer, David B and Z{\"u}hlke, LJ and Mayosi, BM and Tarassenko, L and Clifford, GD},
-    title = "Mobile phone-based rheumatic heart disease diagnosis",
-    date = "2014-01-01",
-    url = "https://digital-library.theiet.org/content/conferences/10.1049/cp.2014.0761",
-    pages = "1-1",
-    note = "Publisher: IET Digital Library"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="DavidBSpringer_2014_01_01_Mobilephonebased">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="DavidBSpringer_2014_01_01_Mobilephonebased">[show citation]</label>
-</div></div></td></tr><tr>
-<td>21</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="SanaFFathima_2014_01_01_Sanitationrelateddisease">
-<div class="citation">
-Fathima SF, Palmius N, Clifton D, Rohloff P, Clifford G, Hall-Clifford R. <a href="https://digital-library.theiet.org/content/conferences/10.1049/cp.2014.0763">Sanitation-related disease surveillance using community health promoters and mobile phone technology</a>. 2014 January 1.
-</div>
-<div class="bibtex_source"><pre>@misc{SanaFFathima_2014_01_01_Sanitationrelateddisease,
-    author = "Fathima, Sana F and Palmius, N and Clifton, D and Rohloff, P and Clifford, GD and Hall-Clifford, R",
-    title = "Sanitation-related disease surveillance using community health promoters and mobile phone technology",
-    date = "2014-01-01",
-    url = "https://digital-library.theiet.org/content/conferences/10.1049/cp.2014.0763",
-    pages = "3-3",
-    note = "Publisher: IET Digital Library"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="SanaFFathima_2014_01_01_Sanitationrelateddisease">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="SanaFFathima_2014_01_01_Sanitationrelateddisease">[show citation]</label>
-</div></div></td></tr><tr>
-<td>20</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="JoachimBehar_2013_06_17_Areview">
-<div class="citation">
-Behar J, Roebuck A, Domingos JS, Gederi E, Clifford GD. <a href="https://iopscience.iop.org/article/10.1088/0967-3334/34/7/R29/meta">A review of current sleep screening applications for smartphones</a>. 2013 June 17.
-</div>
-<div class="bibtex_source"><pre>@misc{JoachimBehar_2013_06_17_Areview,
-    author = "Behar, Joachim and Roebuck, Aoife and Domingos, Joao S and Gederi, Elnaz and Clifford, Gari D",
-    title = "A review of current sleep screening applications for smartphones",
-    date = "2013-06-17",
-    issue = "7",
-    url = "https://iopscience.iop.org/article/10.1088/0967-3334/34/7/R29/meta",
-    pages = "R29",
-    volume = "34",
-    note = "Publisher: IOP Publishing"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="JoachimBehar_2013_06_17_Areview">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="JoachimBehar_2013_06_17_Areview">[show citation]</label>
-</div></div></td></tr><tr>
-<td>19</td>
+<td>17</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LouisMayaud_2012_10_11_GeneticAlgorithm">
 <div class="citation">
@@ -11414,27 +11421,7 @@ Mayaud L, Tarassenko L, Clifford GD. <a href="https://www.researchgate.net/profi
 <div class="hidebibtex">
 <label for="LouisMayaud_2012_10_11_GeneticAlgorithm">[show citation]</label>
 </div></div></td></tr><tr>
-<td>18</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="AlistairJohnson_2012_ANew">
-<div class="citation">
-Johnson A, Kramer AA, Clifford GD. <a href="https://drive.google.com/file/d/14Wjpe2l7cTSSgwKZROMtOcAB6PBr-9M_/view">A New Severity of Illness Scale Using a Subset of APACHE Data Elements Shows Comparable Predictive Accuracy</a>. 2012.
-</div>
-<div class="bibtex_source"><pre>@misc{AlistairJohnson_2012_ANew,
-    author = "Johnson, Alistair and Kramer, Andrew A and Clifford, Gari D",
-    title = "A New Severity of Illness Scale Using a Subset of APACHE Data Elements Shows Comparable Predictive Accuracy",
-    date = "2012",
-    url = "https://drive.google.com/file/d/14Wjpe2l7cTSSgwKZROMtOcAB6PBr-9M\_/view",
-    note = "Publisher: IET"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="AlistairJohnson_2012_ANew">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="AlistairJohnson_2012_ANew">[show citation]</label>
-</div></div></td></tr><tr>
-<td>17</td>
+<td>16</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="KatherineLKuan_2010_Aframework">
 <div class="citation">
@@ -11453,17 +11440,17 @@ Kuan KL, Szolovits P, Clifford GD. <a href="https://dspace.mit.edu/handle/1721.1
 <div class="hidebibtex">
 <label for="KatherineLKuan_2010_Aframework">[show citation]</label>
 </div></div></td></tr><tr>
-<td>16</td>
+<td>15</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GClifford_2010_Userguide">
 <div class="citation">
-Clifford G, Scott D, Villarroel M. <a href="https://ora.ox.ac.uk/objects/uuid:d0245430-4c4a-42b6-830e-ebb1eef9b4e1">User guide and documentation for the MIMIC II database (version 2, release 1)</a>. 2010.
+Clifford G, Scott D, Villarroel M. <a href="https://ora.ox.ac.uk/objects/uuid:d0245430-4c4a-42b6-830e-ebb1eef9b4e1/files/mbc75092cc87a491fdb2b772e6f6fdb0b">User guide and documentation for the MIMIC II database (version 2, release 1)</a>. 2010.
 </div>
 <div class="bibtex_source"><pre>@misc{GClifford_2010_Userguide,
     author = "Clifford, G and Scott, D and Villarroel, Mauricio",
     title = "User guide and documentation for the MIMIC II database (version 2, release 1)",
     date = "2010",
-    url = "https://ora.ox.ac.uk/objects/uuid:d0245430-4c4a-42b6-830e-ebb1eef9b4e1"
+    url = "https://ora.ox.ac.uk/objects/uuid:d0245430-4c4a-42b6-830e-ebb1eef9b4e1/files/mbc75092cc87a491fdb2b772e6f6fdb0b"
 }
 </pre>
 </div><div class="showbibtex">
@@ -11471,28 +11458,6 @@ Clifford G, Scott D, Villarroel M. <a href="https://ora.ox.ac.uk/objects/uuid:d0
 </div>
 <div class="hidebibtex">
 <label for="GClifford_2010_Userguide">[show citation]</label>
-</div></div></td></tr><tr>
-<td>15</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="RezaSameni_2010_01_01_Areview">
-<div class="citation">
-Sameni R, Clifford GD. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3100207/">A review of fetal ECG signal processing; issues and promising directions</a>. 2010 January 1.
-</div>
-<div class="bibtex_source"><pre>@misc{RezaSameni_2010_01_01_Areview,
-    author = "Sameni, Reza and Clifford, Gari D",
-    title = "A review of fetal ECG signal processing; issues and promising directions",
-    date = "2010-01-01",
-    url = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3100207/",
-    pages = "4",
-    volume = "3",
-    note = "Publisher: NIH Public Access"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="RezaSameni_2010_01_01_Areview">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="RezaSameni_2010_01_01_Areview">[show citation]</label>
 </div></div></td></tr><tr>
 <td>14</td>
 <td><div class="citation_container">
