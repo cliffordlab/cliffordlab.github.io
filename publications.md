@@ -39,12 +39,14 @@ Hegde C, Kiarashi Y, Rodriguez AD, Levey AI, Doiron M, Kwon H, Clifford GD. <a h
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZifanJiang_2024_01_10_MultimodalMental">
 <div class="citation">
-Jiang Z, Seyedi S, Griner E, Abbasi A, Rad AB, Kwon H, Cotes RO, Clifford GD. <a href="https://drive.google.com/file/d/1tuDULPyl2V0MwrEhg-YfgSwVyW4TSsSN/view?usp=sharing">Multimodal Mental Health Digital Biomarker Analysis from Remote Interviews using Facial, Vocal, Linguistic, and Cardiovascular Patterns</a>. IEEE Journal of Biomedical and Health Informatics 2024 January 10.
+Jiang Z, Seyedi S, Griner E, Abbasi A, Rad AB, Kwon H, Cotes RO, Clifford GD. <a href="https://drive.google.com/file/d/1tuDULPyl2V0MwrEhg-YfgSwVyW4TSsSN/view?usp=sharing">Multimodal Mental Health Digital Biomarker Analysis from Remote Interviews using Facial, Vocal, Linguistic, and Cardiovascular Patterns</a>. IEEE Journal of Biomedical and Health Informatics 2024 January 10; pp. 1-13. DOI: <a href="https://doi.org/10.1109/JBHI.2024.3352075">10.1109/JBHI.2024.3352075</a>.
 </div>
 <div class="bibtex_source"><pre>@article{ZifanJiang_2024_01_10_MultimodalMental,
     author = "Jiang, Zifan and Seyedi, Salman and Griner, Emily and Abbasi, Ahmed and Rad, Ali Bahrami and Kwon, Hyeokhyen and Cotes, Robert O and Clifford, Gari D",
     title = "Multimodal Mental Health Digital Biomarker Analysis from Remote Interviews using Facial, Vocal, Linguistic, and Cardiovascular Patterns",
     date = "2024-01-10",
+    pages = "1-13",
+    doi = "10.1109/JBHI.2024.3352075",
     journal = "IEEE Journal of Biomedical and Health Informatics",
     url = "https://drive.google.com/file/d/1tuDULPyl2V0MwrEhg-YfgSwVyW4TSsSN/view?usp=sharing",
     note = "Publisher: IEEE"
@@ -60,14 +62,14 @@ Jiang Z, Seyedi S, Griner E, Abbasi A, Rad AB, Kwon H, Cotes RO, Clifford GD. <a
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SamuelHWaters_2023_12_22_PhysicsInformedTransfer">
 <div class="citation">
-Waters SH, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/10372087/">Physics-Informed Transfer Learning to Enhance Sleep Staging</a>. IEEE Transactions on Biomedical Engineering 2023 December 22.
+Waters SH, Clifford GD. <a href="https://drive.google.com/file/d/10oAZPDfvd5dVbxB2MWsqtt98SnVp-86E/">Physics-Informed Transfer Learning to Enhance Sleep Staging</a>. IEEE Transactions on Biomedical Engineering 2023 December 22.
 </div>
 <div class="bibtex_source"><pre>@article{SamuelHWaters_2023_12_22_PhysicsInformedTransfer,
     author = "Waters, Samuel H and Clifford, Gari D",
     title = "Physics-Informed Transfer Learning to Enhance Sleep Staging",
     date = "2023-12-22",
     journal = "IEEE Transactions on Biomedical Engineering",
-    url = "https://ieeexplore.ieee.org/abstract/document/10372087/",
+    url = "https://drive.google.com/file/d/10oAZPDfvd5dVbxB2MWsqtt98SnVp-86E/",
     note = "Publisher: IEEE"
 }
 </pre>
@@ -173,15 +175,17 @@ Zeamer AL, Salive M, An X, Beaudoin FL, House SL, Stevens JS, Zeng D, Neylan TC,
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LiamButler_2023_11_08_AGeneralizable">
 <div class="citation">
-Butler L, Karabayir I, Kitzman DW, Alonso A, Tison GH, Chen LY, Chang PP, Clifford G, Soliman EZ, Akbilgic O. <a href="https://drive.google.com/file/d/1VqmVJSKMSTfZDFvACwdfdlYAv5bxKmE0/view?usp=sharing">A Generalizable ECG-based Artificial Intelligence Model for 10-Year Heart Failure Risk Prediction</a>. Cardiovascular Digital Health Journal 2023 November 8.
+Butler L, Karabayir I, Kitzman DW, Alonso A, Tison GH, Chen LY, Chang PP, Clifford G, Soliman EZ, Akbilgic O. <a href="https://drive.google.com/file/d/1VqmVJSKMSTfZDFvACwdfdlYAv5bxKmE0/view?usp=sharing">A Generalizable ECG-based Artificial Intelligence Model for 10-Year Heart Failure Risk Prediction</a>. Cardiovascular Digital Health Journal 2023 November 8; 4 (6): pp. 183-190.
 </div>
 <div class="bibtex_source"><pre>@article{LiamButler_2023_11_08_AGeneralizable,
     author = "Butler, Liam and Karabayir, Ibrahim and Kitzman, Dalane W and Alonso, Alvaro and Tison, Geoffrey H and Chen, Lin Y and Chang, Patricia P and Clifford, Gari and Soliman, Elsayed Z and Akbilgic, Oguz",
     title = "A Generalizable ECG-based Artificial Intelligence Model for 10-Year Heart Failure Risk Prediction",
     date = "2023-11-08",
     journal = "Cardiovascular Digital Health Journal",
-    url = "https://drive.google.com/file/d/1VqmVJSKMSTfZDFvACwdfdlYAv5bxKmE0/view?usp=sharing",
-    note = "Publisher: Elsevier"
+    volume = "4",
+    issue = "6",
+    pages = "183-190",
+    url = "https://drive.google.com/file/d/1VqmVJSKMSTfZDFvACwdfdlYAv5bxKmE0/view?usp=sharing"
 }
 </pre>
 </div><div class="showbibtex">
