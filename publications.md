@@ -15,12 +15,15 @@ permalink: /publications
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChaitraHegde_2024_01_16_IndoorGroup">
 <div class="citation">
-Hegde C, Kiarashi Y, Rodriguez AD, Levey AI, Doiron M, Kwon H, Clifford GD. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10400779">Indoor Group Identification and Localization Using Privacy-Preserving Edge Computing Distributed Camera Network</a>. IEEE Journal of Indoor and Seamless Positioning and Navigation 2024 January 16.
+Hegde C, Kiarashi Y, Rodriguez AD, Levey AI, Doiron M, Kwon H, Clifford GD. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10400779">Indoor Group Identification and Localization Using Privacy-Preserving Edge Computing Distributed Camera Network</a>. IEEE Journal of Indoor and Seamless Positioning and Navigation 2024 January 16; 2: pp. 51-60.
 </div>
 <div class="bibtex_source"><pre>@article{ChaitraHegde_2024_01_16_IndoorGroup,
     author = "Hegde, Chaitra and Kiarashi, Yashar and Rodriguez, Amy D and Levey, Allan I and Doiron, Matthew and Kwon, Hyeokhyen and Clifford, Gari D",
     title = "Indoor Group Identification and Localization Using Privacy-Preserving Edge Computing Distributed Camera Network",
     date = "2024-01-16",
+    volume = "2",
+    number = "",
+    pages = "51-60",
     journal = "IEEE Journal of Indoor and Seamless Positioning and Navigation",
     url = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=10400779",
     note = "Publisher: IEEE"
@@ -791,27 +794,6 @@ Straus LD, An X, Ji Y, McLean SA, Neylan TC, Cakmak AS, Richards A, Clifford GD,
 </div></div></td></tr><tr>
 <td>279</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="NasimKatebi_2023_02_20_HierarchicalAttentive">
-<div class="citation">
-Katebi N, Sameni R, Rohloff P, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/10049087/">Hierarchical Attentive Network for Gestational Age Estimation in Low-Resource Settings</a>. IEEE Journal of Biomedical and Health Informatics 2023 February 20.
-</div>
-<div class="bibtex_source"><pre>@article{NasimKatebi_2023_02_20_HierarchicalAttentive,
-    author = "Katebi, Nasim and Sameni, Reza and Rohloff, Peter and Clifford, Gari D",
-    title = "Hierarchical Attentive Network for Gestational Age Estimation in Low-Resource Settings",
-    date = "2023-02-20",
-    journal = "IEEE Journal of Biomedical and Health Informatics",
-    url = "https://ieeexplore.ieee.org/abstract/document/10049087/",
-    note = "Publisher: IEEE"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="NasimKatebi_2023_02_20_HierarchicalAttentive">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="NasimKatebi_2023_02_20_HierarchicalAttentive">[show citation]</label>
-</div></div></td></tr><tr>
-<td>278</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShafaatAliSheikh_2023_Impedancecardiogram">
 <div class="citation">
 Sheikh SA, Shah AJ, Bremner JD, Vaccarino V, Inan OT, Clifford GD, Rad AB. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.14488">Impedance cardiogram based exploration of cardiac mechanisms in post-traumatic stress disorder during trauma recall</a>. Psychophysiology 2023; p. e14488.
@@ -831,7 +813,7 @@ Sheikh SA, Shah AJ, Bremner JD, Vaccarino V, Inan OT, Clifford GD, Rad AB. <a hr
 <div class="hidebibtex">
 <label for="ShafaatAliSheikh_2023_Impedancecardiogram">[show citation]</label>
 </div></div></td></tr><tr>
-<td>277</td>
+<td>278</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="HNZiobrowski_2023_Childhoodadversities">
 <div class="citation">
@@ -854,7 +836,7 @@ Ziobrowski H, Holt-Gosselin B, Petukhova M, King A, Lee S, House S, Beaudoin F, 
 <div class="hidebibtex">
 <label for="HNZiobrowski_2023_Childhoodadversities">[show citation]</label>
 </div></div></td></tr><tr>
-<td>276</td>
+<td>277</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ErickAPerezAlday_2023_02_Associationof">
 <div class="citation">
@@ -876,6 +858,27 @@ Alday EAP, Poian GD, Levantsevych O, Murrah N, Shallenberger L, Alkhalaf M, Haff
 </div>
 <div class="hidebibtex">
 <label for="ErickAPerezAlday_2023_02_Associationof">[show citation]</label>
+</div></div></td></tr><tr>
+<td>276</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="NasimKatebi_2023_02_20_HierarchicalAttentive">
+<div class="citation">
+Katebi N, Sameni R, Rohloff P, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/10049087/">Hierarchical Attentive Network for Gestational Age Estimation in Low-Resource Settings</a>. IEEE Journal of Biomedical and Health Informatics 2023 February 20.
+</div>
+<div class="bibtex_source"><pre>@article{NasimKatebi_2023_02_20_HierarchicalAttentive,
+    author = "Katebi, Nasim and Sameni, Reza and Rohloff, Peter and Clifford, Gari D",
+    title = "Hierarchical Attentive Network for Gestational Age Estimation in Low-Resource Settings",
+    date = "2023-02-20",
+    journal = "IEEE Journal of Biomedical and Health Informatics",
+    url = "https://ieeexplore.ieee.org/abstract/document/10049087/",
+    note = "Publisher: IEEE"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="NasimKatebi_2023_02_20_HierarchicalAttentive">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="NasimKatebi_2023_02_20_HierarchicalAttentive">[show citation]</label>
 </div></div></td></tr><tr>
 <td>275</td>
 <td><div class="citation_container">
