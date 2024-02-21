@@ -11,7 +11,31 @@ permalink: /publications
 
 <table>
 <tr>
-<td>307</td>
+<td>303</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="CeciliaAHinojosa_2023_06_13_Associationsof">
+<div class="citation">
+Hinojosa CA, Liew A, An X, Stevens JS, Basu A, Rooij SJ, House SL, Beaudoin FL, Zeng D, Neylan TC, Clifford GD, Jovanovic T, Linnstaedt SD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Musey PI, Hendry PL, Sheikh S, Jones CW, Punches BE, Kurz MC, Swor RA, Hudak LA, Pascual JL, Seamon MJ, Datner EM, Chang AM, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, Sergot P, Sanchez LD, Bruce SE, Miller MW, Pietrzak RH, Joormann J, Pizzagalli DA, Sheridan JF, Harte SE, Elliott JM, Kessler RC, Koenen KC, McLean SA, Ressler KJ, Fani N. <a href="https://drive.google.com/file/d/10DVtEhgPSrFV4RVFXmBq0FEzN2hPk4Ve/view?usp=sharing">Associations of alcohol and cannabis use with change in posttraumatic stress disorder and depression symptoms over time in recently trauma-exposed individuals</a>. Psychological medicine 2024 January; 54 (2): pp. 338-349.
+</div>
+<div class="bibtex_source"><pre>@article{CeciliaAHinojosa_2023_06_13_Associationsof,
+    author = "Hinojosa, Cecilia A and Liew, Amanda and An, Xinming and Stevens, Jennifer S and Basu, Archana and van Rooij, Sanne JH and House, Stacey L and Beaudoin, Francesca L and Zeng, Donglin and Neylan, Thomas C and Clifford, Gari D and Jovanovic, Tanja and Linnstaedt, Sarah D and Germine, Laura T and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Musey, Paul I and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Kurz, Michael C and Swor, Robert A and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Datner, Elizabeth M and Chang, Anna M and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and Sergot, Paulina and Sanchez, Leon D and Bruce, Steven E and Miller, Mark W and Pietrzak, Robert H and Joormann, Jutta and Pizzagalli, Diego A and Sheridan, John F and Harte, Steven E and Elliott, James M and Kessler, Ronald C and Koenen, Karestan C and McLean, Samuel A and Ressler, Kerry J and Fani, Negar",
+    title = "Associations of alcohol and cannabis use with change in posttraumatic stress disorder and depression symptoms over time in recently trauma-exposed individuals",
+    date = "2024-01",
+    issue = "2",
+    volume = "54",
+    pages = "338-349",
+    journal = "Psychological medicine",
+    url = "https://drive.google.com/file/d/10DVtEhgPSrFV4RVFXmBq0FEzN2hPk4Ve/view?usp=sharing",
+    note = "Publisher: Cambridge University Press"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="CeciliaAHinojosa_2023_06_13_Associationsof">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="CeciliaAHinojosa_2023_06_13_Associationsof">[show citation]</label>
+</div></div></td></tr><tr>
+<td>302</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChaitraHegde_2024_01_16_IndoorGroup">
 <div class="citation">
@@ -35,7 +59,7 @@ Hegde C, Kiarashi Y, Rodriguez AD, Levey AI, Doiron M, Kwon H, Clifford GD. <a h
 <div class="hidebibtex">
 <label for="ChaitraHegde_2024_01_16_IndoorGroup">[show citation]</label>
 </div></div></td></tr><tr>
-<td>306</td>
+<td>301</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZifanJiang_2024_01_10_MultimodalMental">
 <div class="citation">
@@ -58,7 +82,7 @@ Jiang Z, Seyedi S, Griner E, Abbasi A, Rad AB, Kwon H, Cotes RO, Clifford GD. <a
 <div class="hidebibtex">
 <label for="ZifanJiang_2024_01_10_MultimodalMental">[show citation]</label>
 </div></div></td></tr><tr>
-<td>305</td>
+<td>300</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SamuelHWaters_2023_12_22_PhysicsInformedTransfer">
 <div class="citation">
@@ -79,7 +103,7 @@ Waters SH, Clifford GD. <a href="https://drive.google.com/file/d/10oAZPDfvd5dVbx
 <div class="hidebibtex">
 <label for="SamuelHWaters_2023_12_22_PhysicsInformedTransfer">[show citation]</label>
 </div></div></td></tr><tr>
-<td>304</td>
+<td>299</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LisetteCorbin_2023_12_01_Acomparison">
 <div class="citation">
@@ -102,7 +126,7 @@ Corbin L, Griner E, Seyedi S, Jiang Z, Roberts K, Boazak M, Rad AB, Clifford GD,
 <div class="hidebibtex">
 <label for="LisetteCorbin_2023_12_01_Acomparison">[show citation]</label>
 </div></div></td></tr><tr>
-<td>303</td>
+<td>298</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="YasharKiarashi_2023_11_30_GraphTrilateration">
 <div class="citation">
@@ -126,7 +150,7 @@ Kiarashi Y, Saghafi S, Das B, Hegde C, Madala VSK, Nakum A, Singh R, Tweedy R, D
 <div class="hidebibtex">
 <label for="YasharKiarashi_2023_11_30_GraphTrilateration">[show citation]</label>
 </div></div></td></tr><tr>
-<td>302</td>
+<td>297</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="HyeokhyenKwon_2023_11_28_AFeasibility">
 <div class="citation">
@@ -147,7 +171,7 @@ Kwon H, Hegde C, Kiarashi Y, Madala VSK, Singh R, Nakum A, Tweedy R, Tonetto LM,
 <div class="hidebibtex">
 <label for="HyeokhyenKwon_2023_11_28_AFeasibility">[show citation]</label>
 </div></div></td></tr><tr>
-<td>301</td>
+<td>296</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AbigailLZeamer_2023_11_18_Associationbetween">
 <div class="citation">
@@ -171,7 +195,7 @@ Zeamer AL, Salive M, An X, Beaudoin FL, House SL, Stevens JS, Zeng D, Neylan TC,
 <div class="hidebibtex">
 <label for="AbigailLZeamer_2023_11_18_Associationbetween">[show citation]</label>
 </div></div></td></tr><tr>
-<td>300</td>
+<td>295</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LiamButler_2023_11_08_AGeneralizable">
 <div class="citation">
@@ -194,7 +218,7 @@ Butler L, Karabayir I, Kitzman DW, Alonso A, Tison GH, Chen LY, Chang PP, Cliffo
 <div class="hidebibtex">
 <label for="LiamButler_2023_11_08_AGeneralizable">[show citation]</label>
 </div></div></td></tr><tr>
-<td>299</td>
+<td>294</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SalmanSeyedi_2023_10_31_UsingHIPAA">
 <div class="citation">
@@ -217,7 +241,7 @@ Seyedi S, Griner E, Corbin L, Jiang Z, Roberts K, Iacobelli L, Milloy A, Boazak 
 <div class="hidebibtex">
 <label for="SalmanSeyedi_2023_10_31_UsingHIPAA">[show citation]</label>
 </div></div></td></tr><tr>
-<td>298</td>
+<td>293</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="EdilbertoAmorim_2023_10_19_TheInternational">
 <div class="citation">
@@ -241,7 +265,7 @@ Amorim E, Zheng W, Ghassemi MM, Aghaeeaval M, Kandhare P, Karukonda V, Lee JW, H
 <div class="hidebibtex">
 <label for="EdilbertoAmorim_2023_10_19_TheInternational">[show citation]</label>
 </div></div></td></tr><tr>
-<td>297</td>
+<td>292</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NJabinGong_2023_10_09_ClassifyingTremor">
 <div class="citation">
@@ -265,7 +289,7 @@ Gong NJ, Clifford GD, Esper CD, Factor SA, McKay JL, Kwon H. <a href="https://dr
 <div class="hidebibtex">
 <label for="NJabinGong_2023_10_09_ClassifyingTremor">[show citation]</label>
 </div></div></td></tr><tr>
-<td>296</td>
+<td>291</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="EKateWebb_2023_09_05_NeighborhoodDisadvantage">
 <div class="citation">
@@ -289,7 +313,7 @@ Webb EK, Ely TD, Rowland GE, Lebois LA, Rooij SJ, Bruce SE, Jovanovic T, House S
 <div class="hidebibtex">
 <label for="EKateWebb_2023_09_05_NeighborhoodDisadvantage">[show citation]</label>
 </div></div></td></tr><tr>
-<td>295</td>
+<td>290</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="PeterHCharlton_2023_07_26_The2023">
 <div class="citation">
@@ -312,7 +336,7 @@ Charlton PH, Allen J, Bailon R, Baker S, Behar JA, Chen F, Clifford GD, Clifton 
 <div class="hidebibtex">
 <label for="PeterHCharlton_2023_07_26_The2023">[show citation]</label>
 </div></div></td></tr><tr>
-<td>294</td>
+<td>289</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MohsenSalari_2023_07_10_Combiningcrowdsourcing">
 <div class="citation">
@@ -336,7 +360,7 @@ Salari M, Kramer MR, Reyna MA, Taylor HA, Clifford GD. <a href="https://drive.go
 <div class="hidebibtex">
 <label for="MohsenSalari_2023_07_10_Combiningcrowdsourcing">[show citation]</label>
 </div></div></td></tr><tr>
-<td>293</td>
+<td>288</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ArefEinizade_2023_07_01_ProductGraphSleepNetSleep">
 <div class="citation">
@@ -359,29 +383,7 @@ Einizade A, Nasiri S, Sardouie SH, Clifford GD. <a href="https://drive.google.co
 <div class="hidebibtex">
 <label for="ArefEinizade_2023_07_01_ProductGraphSleepNetSleep">[show citation]</label>
 </div></div></td></tr><tr>
-<td>292</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="CeciliaAHinojosa_2023_06_13_Associationsof">
-<div class="citation">
-Hinojosa CA, Liew A, An X, Stevens JS, Basu A, Rooij SJ, House SL, Beaudoin FL, Zeng D, Neylan TC, Clifford GD, Jovanovic T, Linnstaedt SD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Musey PI, Hendry PL, Sheikh S, Jones CW, Punches BE, Kurz MC, Swor RA, Hudak LA, Pascual JL, Seamon MJ, Datner EM, Chang AM, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, Sergot P, Sanchez LD, Bruce SE, Miller MW, Pietrzak RH, Joormann J, Pizzagalli DA, Sheridan JF, Harte SE, Elliott JM, Kessler RC, Koenen KC, McLean SA, Ressler KJ, Fani N. <a href="https://drive.google.com/file/d/10DVtEhgPSrFV4RVFXmBq0FEzN2hPk4Ve/view?usp=sharing">Associations of alcohol and cannabis use with change in posttraumatic stress disorder and depression symptoms over time in recently trauma-exposed individuals</a>. Psychological medicine 2023 June 13; pp. 1-12.
-</div>
-<div class="bibtex_source"><pre>@article{CeciliaAHinojosa_2023_06_13_Associationsof,
-    author = "Hinojosa, Cecilia A and Liew, Amanda and An, Xinming and Stevens, Jennifer S and Basu, Archana and van Rooij, Sanne JH and House, Stacey L and Beaudoin, Francesca L and Zeng, Donglin and Neylan, Thomas C and Clifford, Gari D and Jovanovic, Tanja and Linnstaedt, Sarah D and Germine, Laura T and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Musey, Paul I and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Kurz, Michael C and Swor, Robert A and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Datner, Elizabeth M and Chang, Anna M and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and Sergot, Paulina and Sanchez, Leon D and Bruce, Steven E and Miller, Mark W and Pietrzak, Robert H and Joormann, Jutta and Pizzagalli, Diego A and Sheridan, John F and Harte, Steven E and Elliott, James M and Kessler, Ronald C and Koenen, Karestan C and McLean, Samuel A and Ressler, Kerry J and Fani, Negar",
-    title = "Associations of alcohol and cannabis use with change in posttraumatic stress disorder and depression symptoms over time in recently trauma-exposed individuals",
-    date = "2023-06-13",
-    journal = "Psychological medicine",
-    url = "https://drive.google.com/file/d/10DVtEhgPSrFV4RVFXmBq0FEzN2hPk4Ve/view?usp=sharing",
-    pages = "1-12",
-    note = "Publisher: Cambridge University Press"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="CeciliaAHinojosa_2023_06_13_Associationsof">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="CeciliaAHinojosa_2023_06_13_Associationsof">[show citation]</label>
-</div></div></td></tr><tr>
-<td>291</td>
+<td>287</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChenglinNiu_2023_05_31_HRnVCalcA">
 <div class="citation">
@@ -404,18 +406,21 @@ Niu C, Guo D, Ong MEH, Koh ZX, Marie-Alix GAL, Ho AFW, Lin Z, Liu C, Clifford GD
 <div class="hidebibtex">
 <label for="ChenglinNiu_2023_05_31_HRnVCalcA">[show citation]</label>
 </div></div></td></tr><tr>
-<td>290</td>
+<td>286</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AndoniElola_2023_05_10_BeyondHeart">
 <div class="citation">
-Elola A, Aramendi E, Oliveira J, Renna F, Coimbra MT, Reyna MA, Sameni R, Clifford GD, Rad AB. <a href="https://ieeexplore.ieee.org/abstract/document/10122565/">Beyond Heart Murmur Detection: Automatic Murmur Grading from Phonocardiogram</a>. IEEE Journal of Biomedical and Health Informatics 2023 May 10.
+Elola A, Aramendi E, Oliveira J, Renna F, Coimbra MT, Reyna MA, Sameni R, Clifford GD, Rad AB. <a href="https://arxiv.org/pdf/2209.13385.pdf">Beyond Heart Murmur Detection: Automatic Murmur Grading from Phonocardiogram</a>. IEEE Journal of Biomedical and Health Informatics 2023 May 10; 27 (8): pp. 3856-3866.
 </div>
 <div class="bibtex_source"><pre>@article{AndoniElola_2023_05_10_BeyondHeart,
     author = "Elola, Andoni and Aramendi, Elisabete and Oliveira, Jorge and Renna, Francesco and Coimbra, Miguel T and Reyna, Matthew A and Sameni, Reza and Clifford, Gari D and Rad, Ali Bahrami",
     title = "Beyond Heart Murmur Detection: Automatic Murmur Grading from Phonocardiogram",
     date = "2023-05-10",
+    issue = "8",
+    volume = "27",
+    pages = "3856-3866",
     journal = "IEEE Journal of Biomedical and Health Informatics",
-    url = "https://ieeexplore.ieee.org/abstract/document/10122565/",
+    url = "https://arxiv.org/pdf/2209.13385.pdf",
     note = "Publisher: IEEE"
 }
 </pre>
@@ -424,100 +429,6 @@ Elola A, Aramendi E, Oliveira J, Renna F, Coimbra MT, Reyna MA, Sameni R, Cliffo
 </div>
 <div class="hidebibtex">
 <label for="AndoniElola_2023_05_10_BeyondHeart">[show citation]</label>
-</div></div></td></tr><tr>
-<td>289</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="JoelXue_2023_05_01_ECGQT">
-<div class="citation">
-Xue J, Parekh A, Kirsch M, Yuan R, Treiman D, Albert D, Clifford G. <a href="https://scholar.google.com/scholar?cluster=3198075493777453487&hl=en&oi=scholarr">ECG QT interval estimation with a transfer deep learning model</a>. Journal of Electrocardiology 2023 May 1; 78: pp. 19-20.
-</div>
-<div class="bibtex_source"><pre>@article{JoelXue_2023_05_01_ECGQT,
-    author = "Xue, Joel and Parekh, Aarya and Kirsch, Miguel and Yuan, Reena and Treiman, Daniel and Albert, David and Clifford, Gari",
-    title = "ECG QT interval estimation with a transfer deep learning model",
-    date = "2023-05-01",
-    journal = "Journal of Electrocardiology",
-    url = "https://scholar.google.com/scholar?cluster=3198075493777453487\&hl=en\&oi=scholarr",
-    pages = "19-20",
-    volume = "78",
-    note = "Publisher: Churchill Livingstone"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="JoelXue_2023_05_01_ECGQT">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="JoelXue_2023_05_01_ECGQT">[show citation]</label>
-</div></div></td></tr><tr>
-<td>288</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="JoelXue_2023_05_01_EstimatingECG">
-<div class="citation">
-Xue J, Parekh A, Kirsch M, Yuan R, Treiman D, Albert D, Clifford G. <a href="https://scholar.google.com/scholar?cluster=15280168410809888439&hl=en&oi=scholarr">Estimating ECG intervals from a deep learning morphology model</a>. Journal of Electrocardiology 2023 May 1; 78: pp. 28-30.
-</div>
-<div class="bibtex_source"><pre>@article{JoelXue_2023_05_01_EstimatingECG,
-    author = "Xue, Joel and Parekh, Aarya and Kirsch, Miguel and Yuan, Reena and Treiman, Daniel and Albert, David and Clifford, Gari",
-    title = "Estimating ECG intervals from a deep learning morphology model",
-    date = "2023-05-01",
-    journal = "Journal of Electrocardiology",
-    url = "https://scholar.google.com/scholar?cluster=15280168410809888439\&hl=en\&oi=scholarr",
-    pages = "28-30",
-    volume = "78",
-    note = "Publisher: Churchill Livingstone"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="JoelXue_2023_05_01_EstimatingECG">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="JoelXue_2023_05_01_EstimatingECG">[show citation]</label>
-</div></div></td></tr><tr>
-<td>287</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="NaijiGong_2023_04_25_PhenotypingMotorsubtypes">
-<div class="citation">
-Gong N, Kwon H, Clifford G, Esper C, Factor S, McKay J. <a href="https://n.neurology.org/content/100/17_Supplement_2/4306.abstract">Phenotyping Motor-subtypes of Parkinsonism from Full-body Kinematics using Machine Learning (P6-11.007)</a>. Neurology 2023 April 25; 100 (17 Supplement 2). DOI: <a href="https://doi.org/10.1212/WNL.0000000000203887">10.1212/WNL.0000000000203887</a>.
-</div>
-<div class="bibtex_source"><pre>@article{NaijiGong_2023_04_25_PhenotypingMotorsubtypes,
-    author = "Gong, Naiji and Kwon, Hyeokhyen and Clifford, Gari and Esper, Christine and Factor, Stewart and McKay, Johnathan",
-    title = "Phenotyping Motor-subtypes of Parkinsonism from Full-body Kinematics using Machine Learning (P6-11.007)",
-    date = "2023-04-25",
-    issue = "17 Supplement 2",
-    journal = "Neurology",
-    url = "https://n.neurology.org/content/100/17\_Supplement\_2/4306.abstract",
-    volume = "100",
-    note = "Publisher: Wolters Kluwer Health, Inc. on behalf of the American Academy of Neurology",
-    doi = "10.1212/WNL.0000000000203887"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="NaijiGong_2023_04_25_PhenotypingMotorsubtypes">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="NaijiGong_2023_04_25_PhenotypingMotorsubtypes">[show citation]</label>
-</div></div></td></tr><tr>
-<td>286</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="HyeokhyenKwon_2023_04_25_DataDrivenDiscovery">
-<div class="citation">
-Kwon H, Clifford G, Esper C, Factor S, McKay J. <a href="https://n.neurology.org/content/100/17_Supplement_2/4272.abstract">Data-Driven Discovery of Novel Motor Biomarkers for Freezing-of-Gait in Parkinsonism from Full-body Kinematics using Artificial Intelligence (P6-11.001)</a>. Neurology 2023 April 25; 100 (17 Supplement 2). DOI: <a href="https://doi.org/10.1212/WNL.0000000000203857">10.1212/WNL.0000000000203857</a>.
-</div>
-<div class="bibtex_source"><pre>@article{HyeokhyenKwon_2023_04_25_DataDrivenDiscovery,
-    author = "Kwon, Hyeokhyen and Clifford, Gari and Esper, Christine and Factor, Stewart and McKay, Johnathan",
-    title = "Data-Driven Discovery of Novel Motor Biomarkers for Freezing-of-Gait in Parkinsonism from Full-body Kinematics using Artificial Intelligence (P6-11.001)",
-    date = "2023-04-25",
-    issue = "17 Supplement 2",
-    url = "https://n.neurology.org/content/100/17\_Supplement\_2/4272.abstract",
-    volume = "100",
-    journal = "Neurology",
-    doi = "10.1212/WNL.0000000000203857",
-    note = "Publisher: Wolters Kluwer Health, Inc. on behalf of the American Academy of Neurology"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="HyeokhyenKwon_2023_04_25_DataDrivenDiscovery">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="HyeokhyenKwon_2023_04_25_DataDrivenDiscovery">[show citation]</label>
 </div></div></td></tr><tr>
 <td>285</td>
 <td><div class="citation_container">
@@ -7201,7 +7112,7 @@ Clifford G. <a href="https://scholar.google.com/scholar?cluster=1308584897038135
 
 <table>
 <tr>
-<td>127</td>
+<td>131</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RayanAAnsari_2023_11_06_Interpretationof">
 <div class="citation">
@@ -7225,7 +7136,7 @@ Ansari RA, bhatia , Tooley J, Thakkar V, Torres J, Tung J, Alhusseini M, Clopton
 <div class="hidebibtex">
 <label for="RayanAAnsari_2023_11_06_Interpretationof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>126</td>
+<td>130</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RayanAAnsari_2023_11_06_Performanceof">
 <div class="citation">
@@ -7249,7 +7160,7 @@ Ansari RA, bhatia , Tooley J, Thakkar V, XU J, Torres J, Tung J, Alhusseini M, C
 <div class="hidebibtex">
 <label for="RayanAAnsari_2023_11_06_Performanceof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>125</td>
+<td>129</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AlbertJRogers_2023_11_06_EnhancedIdentification">
 <div class="citation">
@@ -7273,7 +7184,7 @@ Rogers AJ, bhatia , Tooley J, Thakkar V, XU J, Ansari R, Torres J, Tung J, Alhus
 <div class="hidebibtex">
 <label for="AlbertJRogers_2023_11_06_EnhancedIdentification">[show citation]</label>
 </div></div></td></tr><tr>
-<td>124</td>
+<td>128</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AlbertJRogers_2023_11_06_Impactof">
 <div class="citation">
@@ -7297,7 +7208,7 @@ Rogers AJ, Bhatia NK, Tooley J, Thakkar V, XU J, Ansari R, Torres J, Tung J, Alh
 <div class="hidebibtex">
 <label for="AlbertJRogers_2023_11_06_Impactof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>123</td>
+<td>127</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="HLehmanLiwei_2023_11_02_VTaCA">
 <div class="citation">
@@ -7317,7 +7228,7 @@ Li-wei HL, Moody BE, Deep H, Wu F, Saeed H, McCullum L, Perry D, Struja T, Li Q,
 <div class="hidebibtex">
 <label for="HLehmanLiwei_2023_11_02_VTaCA">[show citation]</label>
 </div></div></td></tr><tr>
-<td>122</td>
+<td>126</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MatthewAReyna_2023_10_PredictingNeurological">
 <div class="citation">
@@ -7340,7 +7251,55 @@ Reyna MA, Amorim E, Sameni R, Weigle J, Elola A, Rad AB, Seyedi S, Kwon H, Zheng
 <div class="hidebibtex">
 <label for="MatthewAReyna_2023_10_PredictingNeurological">[show citation]</label>
 </div></div></td></tr><tr>
-<td>121</td>
+<td>125</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="NaijiGong_2023_04_25_PhenotypingMotorsubtypes">
+<div class="citation">
+Gong N, Kwon H, Clifford G, Esper C, Factor S, McKay J. <a href="https://drive.google.com/file/d/1zSUDgz4ruzHdt5quSoZ1rqv2CBZbJIeY/view?usp=sharing">Phenotyping Motor-subtypes of Parkinsonism from Full-body Kinematics using Machine Learning (P6-11.007)</a>. American Academy of Neurology 2023 Annual Meeting 2023 April 22; 100 (17 Supplement 2). DOI: <a href="https://doi.org/10.1212/WNL.0000000000203887">10.1212/WNL.0000000000203887</a>.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{NaijiGong_2023_04_25_PhenotypingMotorsubtypes,
+    author = "Gong, Naiji and Kwon, Hyeokhyen and Clifford, Gari and Esper, Christine and Factor, Stewart and McKay, Johnathan",
+    title = "Phenotyping Motor-subtypes of Parkinsonism from Full-body Kinematics using Machine Learning (P6-11.007)",
+    date = "2023-04-22",
+    issue = "17 Supplement 2",
+    booktitle = "American Academy of Neurology 2023 Annual Meeting",
+    url = "https://drive.google.com/file/d/1zSUDgz4ruzHdt5quSoZ1rqv2CBZbJIeY/view?usp=sharing",
+    volume = "100",
+    note = "Publisher: Wolters Kluwer Health, Inc. on behalf of the American Academy of Neurology",
+    doi = "10.1212/WNL.0000000000203887"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="NaijiGong_2023_04_25_PhenotypingMotorsubtypes">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="NaijiGong_2023_04_25_PhenotypingMotorsubtypes">[show citation]</label>
+</div></div></td></tr><tr>
+<td>124</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="HyeokhyenKwon_2023_04_25_DataDrivenDiscovery">
+<div class="citation">
+Kwon H, Clifford G, Esper C, Factor S, McKay J. <a href="https://drive.google.com/file/d/1ZooB9QSosS1YrP6vbyajylR_MkzrsEIH/view?usp=sharing">Data-Driven Discovery of Novel Motor Biomarkers for Freezing-of-Gait in Parkinsonism from Full-body Kinematics using Artificial Intelligence (P6-11.001)</a>. American Academy of Neurology 2023 Annual Meeting 2023 April 22; 100 (17 Supplement 2). DOI: <a href="https://doi.org/10.1212/WNL.0000000000203857">10.1212/WNL.0000000000203857</a>.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{HyeokhyenKwon_2023_04_25_DataDrivenDiscovery,
+    author = "Kwon, Hyeokhyen and Clifford, Gari and Esper, Christine and Factor, Stewart and McKay, Johnathan",
+    title = "Data-Driven Discovery of Novel Motor Biomarkers for Freezing-of-Gait in Parkinsonism from Full-body Kinematics using Artificial Intelligence (P6-11.001)",
+    date = "2023-04-22",
+    issue = "17 Supplement 2",
+    url = "https://drive.google.com/file/d/1ZooB9QSosS1YrP6vbyajylR\_MkzrsEIH/view?usp=sharing",
+    volume = "100",
+    booktitle = "American Academy of Neurology 2023 Annual Meeting",
+    doi = "10.1212/WNL.0000000000203857",
+    note = "Publisher: Wolters Kluwer Health, Inc. on behalf of the American Academy of Neurology"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="HyeokhyenKwon_2023_04_25_DataDrivenDiscovery">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="HyeokhyenKwon_2023_04_25_DataDrivenDiscovery">[show citation]</label>
+</div></div></td></tr><tr>
+<td>123</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AliBahramiRad_2023_05_01_Analgorithmic">
 <div class="citation">
@@ -7363,7 +7322,7 @@ Rad AB, Kirsch M, Li Q, Xue J, Sameni R, Albert D, Clifford GD. <a href="https:/
 <div class="hidebibtex">
 <label for="AliBahramiRad_2023_05_01_Analgorithmic">[show citation]</label>
 </div></div></td></tr><tr>
-<td>120</td>
+<td>122</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AliBahramiRad_2023_05_01_Promisingmachine">
 <div class="citation">
@@ -7385,6 +7344,52 @@ Rad AB, Clifford GD. <a href="https://drive.google.com/file/d/1cqwmxlUITtjCMxNP2
 </div>
 <div class="hidebibtex">
 <label for="AliBahramiRad_2023_05_01_Promisingmachine">[show citation]</label>
+</div></div></td></tr><tr>
+<td>121</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="JoelXue_2023_05_01_ECGQT">
+<div class="citation">
+Xue J, Parekh A, Kirsch M, Yuan R, Treiman D, Albert D, Clifford G. <a href="https://drive.google.com/file/d/1MaWSqKKWbsyRASukMGL2lBeFR-t3gFnI/view?usp=sharing">ECG QT interval estimation with a transfer deep learning model</a>. International Society for Computerized Electrocardiology 2023 March 29; 78: pp. 19-20.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{JoelXue_2023_05_01_ECGQT,
+    author = "Xue, Joel and Parekh, Aarya and Kirsch, Miguel and Yuan, Reena and Treiman, Daniel and Albert, David and Clifford, Gari",
+    title = "ECG QT interval estimation with a transfer deep learning model",
+    date = "2023-03-29",
+    booktitle = "International Society for Computerized Electrocardiology",
+    url = "https://drive.google.com/file/d/1MaWSqKKWbsyRASukMGL2lBeFR-t3gFnI/view?usp=sharing",
+    pages = "19-20",
+    volume = "78",
+    note = "Publisher: Churchill Livingstone"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="JoelXue_2023_05_01_ECGQT">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="JoelXue_2023_05_01_ECGQT">[show citation]</label>
+</div></div></td></tr><tr>
+<td>120</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="JoelXue_2023_05_01_EstimatingECG">
+<div class="citation">
+Xue J, Parekh A, Kirsch M, Yuan R, Treiman D, Albert D, Clifford G. <a href="https://drive.google.com/file/d/1uth7W1qvddhzcFrB-37wTNWFZWsQoHIU/view?usp=sharing">Estimating ECG intervals from a deep learning morphology model</a>. International Society for Computerized Electrocardiology 2023 March 29; 78: pp. 28-30.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{JoelXue_2023_05_01_EstimatingECG,
+    author = "Xue, Joel and Parekh, Aarya and Kirsch, Miguel and Yuan, Reena and Treiman, Daniel and Albert, David and Clifford, Gari",
+    title = "Estimating ECG intervals from a deep learning morphology model",
+    date = "2023-03-29",
+    booktitle = "International Society for Computerized Electrocardiology",
+    url = "https://drive.google.com/file/d/1uth7W1qvddhzcFrB-37wTNWFZWsQoHIU/view?usp=sharing",
+    pages = "28-30",
+    volume = "78",
+    note = "Publisher: Churchill Livingstone"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="JoelXue_2023_05_01_EstimatingECG">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="JoelXue_2023_05_01_EstimatingECG">[show citation]</label>
 </div></div></td></tr><tr>
 <td>119</td>
 <td><div class="citation_container">
