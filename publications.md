@@ -11,7 +11,7 @@ permalink: /publications
 
 <table>
 <tr>
-<td>313</td>
+<td>307</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChaitraHegde_2024_01_16_IndoorGroup">
 <div class="citation">
@@ -35,7 +35,7 @@ Hegde C, Kiarashi Y, Rodriguez AD, Levey AI, Doiron M, Kwon H, Clifford GD. <a h
 <div class="hidebibtex">
 <label for="ChaitraHegde_2024_01_16_IndoorGroup">[show citation]</label>
 </div></div></td></tr><tr>
-<td>312</td>
+<td>306</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZifanJiang_2024_01_10_MultimodalMental">
 <div class="citation">
@@ -58,7 +58,7 @@ Jiang Z, Seyedi S, Griner E, Abbasi A, Rad AB, Kwon H, Cotes RO, Clifford GD. <a
 <div class="hidebibtex">
 <label for="ZifanJiang_2024_01_10_MultimodalMental">[show citation]</label>
 </div></div></td></tr><tr>
-<td>311</td>
+<td>305</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SamuelHWaters_2023_12_22_PhysicsInformedTransfer">
 <div class="citation">
@@ -79,7 +79,7 @@ Waters SH, Clifford GD. <a href="https://drive.google.com/file/d/10oAZPDfvd5dVbx
 <div class="hidebibtex">
 <label for="SamuelHWaters_2023_12_22_PhysicsInformedTransfer">[show citation]</label>
 </div></div></td></tr><tr>
-<td>310</td>
+<td>304</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LisetteCorbin_2023_12_01_Acomparison">
 <div class="citation">
@@ -102,7 +102,7 @@ Corbin L, Griner E, Seyedi S, Jiang Z, Roberts K, Boazak M, Rad AB, Clifford GD,
 <div class="hidebibtex">
 <label for="LisetteCorbin_2023_12_01_Acomparison">[show citation]</label>
 </div></div></td></tr><tr>
-<td>309</td>
+<td>303</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="YasharKiarashi_2023_11_30_GraphTrilateration">
 <div class="citation">
@@ -126,7 +126,7 @@ Kiarashi Y, Saghafi S, Das B, Hegde C, Madala VSK, Nakum A, Singh R, Tweedy R, D
 <div class="hidebibtex">
 <label for="YasharKiarashi_2023_11_30_GraphTrilateration">[show citation]</label>
 </div></div></td></tr><tr>
-<td>308</td>
+<td>302</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="HyeokhyenKwon_2023_11_28_AFeasibility">
 <div class="citation">
@@ -147,14 +147,14 @@ Kwon H, Hegde C, Kiarashi Y, Madala VSK, Singh R, Nakum A, Tweedy R, Tonetto LM,
 <div class="hidebibtex">
 <label for="HyeokhyenKwon_2023_11_28_AFeasibility">[show citation]</label>
 </div></div></td></tr><tr>
-<td>307</td>
+<td>301</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AbigailLZeamer_2023_11_18_Associationbetween">
 <div class="citation">
-Zeamer AL, Salive M, An X, Beaudoin FL, House SL, Stevens JS, Zeng D, Neylan TC, Clifford GD, Linnstaedt SD, Rauch SL, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Hudak LA, Pascual JL, Seamon MJ, Harris E, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O<span class="bibtex-protected">\textquoteright </span>Neil BJ, Sergot P, Sanchez LD, Bruce SE, Kessler RC, Koenen KC, McLean SA, Bucci V, Haran JP. <a href="https://drive.google.com/file/d/19YkNdSmRk5Qtj3xaCJnISD7HobBtCMRN/view?usp=sharing">Association between microbiome and the development of adverse posttraumatic neuropsychiatric sequelae after traumatic stress exposure</a>. Translational Psychiatry 2023 November 18; 13 (1): p. 354.
+Zeamer AL, Salive M, An X, Beaudoin FL, House SL, Stevens JS, Zeng D, Neylan TC, Clifford GD, Linnstaedt SD, Rauch SL, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Hudak LA, Pascual JL, Seamon MJ, Harris E, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Bruce SE, Kessler RC, Koenen KC, McLean SA, Bucci V, Haran JP. <a href="https://drive.google.com/file/d/19YkNdSmRk5Qtj3xaCJnISD7HobBtCMRN/view?usp=sharing">Association between microbiome and the development of adverse posttraumatic neuropsychiatric sequelae after traumatic stress exposure</a>. Translational Psychiatry 2023 November 18; 13 (1): p. 354.
 </div>
 <div class="bibtex_source"><pre>@article{AbigailLZeamer_2023_11_18_Associationbetween,
-    author = "Zeamer, Abigail L and Salive, Marie-Claire and An, Xinming and Beaudoin, Francesca L and House, Stacey L and Stevens, Jennifer S and Zeng, Donglin and Neylan, Thomas C and Clifford, Gari D and Linnstaedt, Sarah D and Rauch, Scott L and Storrow, Alan B and Lewandowski, Christopher and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Harris, Erica and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and O{\textquoteright}Neil, Brian J and Sergot, Paulina and Sanchez, Leon D and Bruce, Steven E and Kessler, Ronald C and Koenen, Karestan C and McLean, Samuel A and Bucci, Vanni and Haran, John P",
+    author = "Zeamer, Abigail L and Salive, Marie-Claire and An, Xinming and Beaudoin, Francesca L and House, Stacey L and Stevens, Jennifer S and Zeng, Donglin and Neylan, Thomas C and Clifford, Gari D and Linnstaedt, Sarah D and Rauch, Scott L and Storrow, Alan B and Lewandowski, Christopher and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Harris, Erica and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J. and Sergot, Paulina and Sanchez, Leon D and Bruce, Steven E and Kessler, Ronald C and Koenen, Karestan C and McLean, Samuel A and Bucci, Vanni and Haran, John P",
     title = "Association between microbiome and the development of adverse posttraumatic neuropsychiatric sequelae after traumatic stress exposure",
     date = "2023-11-18",
     issue = "1",
@@ -171,7 +171,7 @@ Zeamer AL, Salive M, An X, Beaudoin FL, House SL, Stevens JS, Zeng D, Neylan TC,
 <div class="hidebibtex">
 <label for="AbigailLZeamer_2023_11_18_Associationbetween">[show citation]</label>
 </div></div></td></tr><tr>
-<td>306</td>
+<td>300</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LiamButler_2023_11_08_AGeneralizable">
 <div class="citation">
@@ -194,103 +194,7 @@ Butler L, Karabayir I, Kitzman DW, Alonso A, Tison GH, Chen LY, Chang PP, Cliffo
 <div class="hidebibtex">
 <label for="LiamButler_2023_11_08_AGeneralizable">[show citation]</label>
 </div></div></td></tr><tr>
-<td>305</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="RayanAAnsari_2023_11_06_Interpretationof">
-<div class="citation">
-Ansari RA, bhatia , Tooley J, Thakkar V, Torres J, Tung J, Alhusseini M, Clopton PL, Sameni R, Clifford G, Ashley EA, Perez MV, Zaharia M, Narayan SM, Rogers AJ. <a href="https://www.ahajournals.org/doi/abs/10.1161/circ.148.suppl_1.19210">Interpretation of Deep Learning Model That Identifies Regional Myocardial Dysfunction From the Surface Ecg</a>. Circulation 2023 November 6; 148 (Suppl_1): pp. A19210-A19210.
-</div>
-<div class="bibtex_source"><pre>@article{RayanAAnsari_2023_11_06_Interpretationof,
-    author = "Ansari, Rayan A and neal bhatia and Tooley, James and Thakkar, Vyom and Torres, Jessica and Tung, Jagteshwar and Alhusseini, Mahmood and Clopton, Paul L and Sameni, Reza and Clifford, Gari and Ashley, Euan A and Perez, Marco V and Zaharia, Matei and Narayan, Sanjiv M and Rogers, Albert J",
-    title = "Interpretation of Deep Learning Model That Identifies Regional Myocardial Dysfunction From the Surface Ecg",
-    date = "2023-11-06",
-    issue = "Suppl{\\_}1",
-    journal = "Circulation",
-    url = "https://www.ahajournals.org/doi/abs/10.1161/circ.148.suppl\_1.19210",
-    pages = "A19210-A19210",
-    volume = "148",
-    note = "Publisher: Lippincott Williams {\\&} Wilkins"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="RayanAAnsari_2023_11_06_Interpretationof">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="RayanAAnsari_2023_11_06_Interpretationof">[show citation]</label>
-</div></div></td></tr><tr>
-<td>304</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="RayanAAnsari_2023_11_06_Performanceof">
-<div class="citation">
-Ansari RA, bhatia , Tooley J, Thakkar V, XU J, Torres J, Tung J, Alhusseini M, Clopton PL, Sameni R, Clifford G, Ashley EA, Perez MV, Zaharia M, Narayan SM, Rogers AJ. <a href="https://www.ahajournals.org/doi/abs/10.1161/circ.148.suppl_1.17934">Performance of an Electrocardiographic Deep Learning Model for Detecting Wall Motion Abnormalities: An Analysis of Impact From Cardiovascular Comorbidities and Race in an External Validation Study</a>. Circulation 2023 November 6; 148 (Suppl_1): pp. A17934-A17934.
-</div>
-<div class="bibtex_source"><pre>@article{RayanAAnsari_2023_11_06_Performanceof,
-    author = "Ansari, Rayan A and neal bhatia and Tooley, James and Thakkar, Vyom and XU, JUSTIN and Torres, Jessica and Tung, Jagteshwar and Alhusseini, Mahmood and Clopton, Paul L and Sameni, Reza and Clifford, Gari and Ashley, Euan A and Perez, Marco V and Zaharia, Matei and Narayan, Sanjiv M and Rogers, Albert J",
-    title = "Performance of an Electrocardiographic Deep Learning Model for Detecting Wall Motion Abnormalities: An Analysis of Impact From Cardiovascular Comorbidities and Race in an External Validation Study",
-    date = "2023-11-06",
-    issue = "Suppl{\\_}1",
-    journal = "Circulation",
-    url = "https://www.ahajournals.org/doi/abs/10.1161/circ.148.suppl\_1.17934",
-    pages = "A17934-A17934",
-    volume = "148",
-    note = "Publisher: Lippincott Williams {\\&} Wilkins"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="RayanAAnsari_2023_11_06_Performanceof">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="RayanAAnsari_2023_11_06_Performanceof">[show citation]</label>
-</div></div></td></tr><tr>
-<td>303</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="AlbertJRogers_2023_11_06_EnhancedIdentification">
-<div class="citation">
-Rogers AJ, bhatia , Tooley J, Thakkar V, XU J, Ansari R, Torres J, Tung J, Alhusseini M, Clopton PL, Sameni R, Clifford G, Ashley EA, Perez MV, Zaharia M, Narayan SM. <a href="https://www.ahajournals.org/doi/abs/10.1161/circ.148.suppl_1.17420">Enhanced Identification of Cardiac Wall Motion Abnormalities: An Externally Validated Deep Neural Network Approach Outperforms Expert and Quantitative Analysis of Electrocardiograms</a>. Circulation 2023 November 6; 148 (Suppl_1): pp. A17420-A17420.
-</div>
-<div class="bibtex_source"><pre>@article{AlbertJRogers_2023_11_06_EnhancedIdentification,
-    author = "Rogers, Albert J and neal bhatia and Tooley, James and Thakkar, Vyom and XU, JUSTIN and Ansari, Rayan and Torres, Jessica and Tung, Jagteshwar and Alhusseini, Mahmood and Clopton, Paul L and Sameni, Reza and Clifford, Gari and Ashley, Euan A and Perez, Marco V and Zaharia, Matei and Narayan, Sanjiv M",
-    title = "Enhanced Identification of Cardiac Wall Motion Abnormalities: An Externally Validated Deep Neural Network Approach Outperforms Expert and Quantitative Analysis of Electrocardiograms",
-    date = "2023-11-06",
-    issue = "Suppl{\\_}1",
-    journal = "Circulation",
-    url = "https://www.ahajournals.org/doi/abs/10.1161/circ.148.suppl\_1.17420",
-    pages = "A17420-A17420",
-    volume = "148",
-    note = "Publisher: Lippincott Williams {\\&} Wilkins"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="AlbertJRogers_2023_11_06_EnhancedIdentification">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="AlbertJRogers_2023_11_06_EnhancedIdentification">[show citation]</label>
-</div></div></td></tr><tr>
-<td>302</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="AlbertJRogers_2023_11_06_Impactof">
-<div class="citation">
-Rogers AJ, Bhatia NK, Tooley J, Thakkar V, XU J, Ansari R, Torres J, Tung J, Alhusseini M, Clopton PL, Sameni R, Clifford G, Ashley EA, Perez MV, Zaharia M, Narayan SM. <a href="https://www.ahajournals.org/doi/abs/10.1161/circ.148.suppl_1.18102">Impact of Regional Cardiac Wall Motion Abnormalities on Ejection Fraction and Mortality: Large Data Enabled by Natural Language Processing</a>. Circulation 2023 November 6; 148 (Suppl_1): pp. A18102-A18102.
-</div>
-<div class="bibtex_source"><pre>@article{AlbertJRogers_2023_11_06_Impactof,
-    author = "Rogers, Albert J and Bhatia, Neal K and Tooley, James and Thakkar, Vyom and XU, JUSTIN and Ansari, Rayan and Torres, Jessica and Tung, Jagteshwar and Alhusseini, Mahmood and Clopton, Paul L and Sameni, Reza and Clifford, Gari and Ashley, Euan A and Perez, Marco V and Zaharia, Matei and Narayan, Sanjiv M",
-    title = "Impact of Regional Cardiac Wall Motion Abnormalities on Ejection Fraction and Mortality: Large Data Enabled by Natural Language Processing",
-    date = "2023-11-06",
-    issue = "Suppl{\\_}1",
-    journal = "Circulation",
-    url = "https://www.ahajournals.org/doi/abs/10.1161/circ.148.suppl\_1.18102",
-    pages = "A18102-A18102",
-    volume = "148",
-    note = "Publisher: Lippincott Williams {\\&} Wilkins"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="AlbertJRogers_2023_11_06_Impactof">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="AlbertJRogers_2023_11_06_Impactof">[show citation]</label>
-</div></div></td></tr><tr>
-<td>301</td>
+<td>299</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SalmanSeyedi_2023_10_31_UsingHIPAA">
 <div class="citation">
@@ -313,11 +217,11 @@ Seyedi S, Griner E, Corbin L, Jiang Z, Roberts K, Iacobelli L, Milloy A, Boazak 
 <div class="hidebibtex">
 <label for="SalmanSeyedi_2023_10_31_UsingHIPAA">[show citation]</label>
 </div></div></td></tr><tr>
-<td>300</td>
+<td>298</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="EdilbertoAmorim_2023_10_19_TheInternational">
 <div class="citation">
-Amorim E, Zheng W, Ghassemi MM, Aghaeeaval M, Kandhare P, Karukonda V, Lee JW, Herman ST, Sivaraju A, Gaspard N, Hofmeijer J, Putten MJ, Sameni R, Reyna MA, Clifford GD, Westover MB. <a href="https://drive.google.com/file/d/1-AZJtMfH3aCiYUV0O-I5GDWTgEms4SwH/view?usp=sharing">The International Cardiac Arrest Research Consortium Electroencephalography Database</a>. Critical Care Medicine 2023 October 19; p. 10.1097.
+Amorim E, Zheng W, Ghassemi MM, Aghaeeaval M, Kandhare P, Karukonda V, Lee JW, Herman ST, Sivaraju A, Gaspard N, Hofmeijer J, Putten MJ, Sameni R, Reyna MA, Clifford GD, Westover MB. <a href="https://drive.google.com/file/d/1-AZJtMfH3aCiYUV0O-I5GDWTgEms4SwH/view?usp=sharing">The International Cardiac Arrest Research Consortium Electroencephalography Database</a>. Critical Care Medicine 2023 October 19; 51 (12): pp. 1802-1811.
 </div>
 <div class="bibtex_source"><pre>@article{EdilbertoAmorim_2023_10_19_TheInternational,
     author = "Amorim, Edilberto and Zheng, Wei-Long and Ghassemi, Mohammad M and Aghaeeaval, Mahsa and Kandhare, Pravinkumar and Karukonda, Vishnu and Lee, Jong Woo and Herman, Susan T and Sivaraju, Adithya and Gaspard, Nicolas and Hofmeijer, Jeannette and van Putten, Michel JAM and Sameni, Reza and Reyna, Matthew A and Clifford, Gari D and Westover, M Brandon",
@@ -325,7 +229,9 @@ Amorim E, Zheng W, Ghassemi MM, Aghaeeaval M, Kandhare P, Karukonda V, Lee JW, H
     date = "2023-10-19",
     journal = "Critical Care Medicine",
     url = "https://drive.google.com/file/d/1-AZJtMfH3aCiYUV0O-I5GDWTgEms4SwH/view?usp=sharing",
-    pages = "10.1097",
+    pages = "1802-1811",
+    volume = "51",
+    issue = "12",
     note = "Publisher: LWW"
 }
 </pre>
@@ -335,7 +241,7 @@ Amorim E, Zheng W, Ghassemi MM, Aghaeeaval M, Kandhare P, Karukonda V, Lee JW, H
 <div class="hidebibtex">
 <label for="EdilbertoAmorim_2023_10_19_TheInternational">[show citation]</label>
 </div></div></td></tr><tr>
-<td>299</td>
+<td>297</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NJabinGong_2023_10_09_ClassifyingTremor">
 <div class="citation">
@@ -359,7 +265,7 @@ Gong NJ, Clifford GD, Esper CD, Factor SA, McKay JL, Kwon H. <a href="https://dr
 <div class="hidebibtex">
 <label for="NJabinGong_2023_10_09_ClassifyingTremor">[show citation]</label>
 </div></div></td></tr><tr>
-<td>298</td>
+<td>296</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="EKateWebb_2023_09_05_NeighborhoodDisadvantage">
 <div class="citation">
@@ -383,7 +289,7 @@ Webb EK, Ely TD, Rowland GE, Lebois LA, Rooij SJ, Bruce SE, Jovanovic T, House S
 <div class="hidebibtex">
 <label for="EKateWebb_2023_09_05_NeighborhoodDisadvantage">[show citation]</label>
 </div></div></td></tr><tr>
-<td>297</td>
+<td>295</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="PeterHCharlton_2023_07_26_The2023">
 <div class="citation">
@@ -406,7 +312,7 @@ Charlton PH, Allen J, Bailon R, Baker S, Behar JA, Chen F, Clifford GD, Clifton 
 <div class="hidebibtex">
 <label for="PeterHCharlton_2023_07_26_The2023">[show citation]</label>
 </div></div></td></tr><tr>
-<td>296</td>
+<td>294</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MohsenSalari_2023_07_10_Combiningcrowdsourcing">
 <div class="citation">
@@ -430,7 +336,7 @@ Salari M, Kramer MR, Reyna MA, Taylor HA, Clifford GD. <a href="https://drive.go
 <div class="hidebibtex">
 <label for="MohsenSalari_2023_07_10_Combiningcrowdsourcing">[show citation]</label>
 </div></div></td></tr><tr>
-<td>295</td>
+<td>293</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ArefEinizade_2023_07_01_ProductGraphSleepNetSleep">
 <div class="citation">
@@ -453,7 +359,7 @@ Einizade A, Nasiri S, Sardouie SH, Clifford GD. <a href="https://drive.google.co
 <div class="hidebibtex">
 <label for="ArefEinizade_2023_07_01_ProductGraphSleepNetSleep">[show citation]</label>
 </div></div></td></tr><tr>
-<td>294</td>
+<td>292</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="CeciliaAHinojosa_2023_06_13_Associationsof">
 <div class="citation">
@@ -475,7 +381,7 @@ Hinojosa CA, Liew A, An X, Stevens JS, Basu A, Rooij SJ, House SL, Beaudoin FL, 
 <div class="hidebibtex">
 <label for="CeciliaAHinojosa_2023_06_13_Associationsof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>293</td>
+<td>291</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChenglinNiu_2023_05_31_HRnVCalcA">
 <div class="citation">
@@ -498,7 +404,7 @@ Niu C, Guo D, Ong MEH, Koh ZX, Marie-Alix GAL, Ho AFW, Lin Z, Liu C, Clifford GD
 <div class="hidebibtex">
 <label for="ChenglinNiu_2023_05_31_HRnVCalcA">[show citation]</label>
 </div></div></td></tr><tr>
-<td>292</td>
+<td>290</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AndoniElola_2023_05_10_BeyondHeart">
 <div class="citation">
@@ -519,30 +425,7 @@ Elola A, Aramendi E, Oliveira J, Renna F, Coimbra MT, Reyna MA, Sameni R, Cliffo
 <div class="hidebibtex">
 <label for="AndoniElola_2023_05_10_BeyondHeart">[show citation]</label>
 </div></div></td></tr><tr>
-<td>291</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="AliBahramiRad_2023_05_01_Analgorithmic">
-<div class="citation">
-Rad AB, Kirsch M, Li Q, Xue J, Sameni R, Albert D, Clifford GD. <a href="https://scholar.google.com/scholar?cluster=1547915942993764982&hl=en&oi=scholarr">An algorithmic crowdsourcing approach for atrial fibrillation detection on Apple Watch ECG data</a>. Journal of Electrocardiology 2023 May 1; 78: p. 30.
-</div>
-<div class="bibtex_source"><pre>@article{AliBahramiRad_2023_05_01_Analgorithmic,
-    author = "Rad, Ali Bahrami and Kirsch, Miguel and Li, Qiao and Xue, Joel and Sameni, Reza and Albert, David and Clifford, Gari D",
-    title = "An algorithmic crowdsourcing approach for atrial fibrillation detection on Apple Watch ECG data",
-    date = "2023-05-01",
-    journal = "Journal of Electrocardiology",
-    url = "https://scholar.google.com/scholar?cluster=1547915942993764982\&hl=en\&oi=scholarr",
-    pages = "30",
-    volume = "78",
-    note = "Publisher: Churchill Livingstone"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="AliBahramiRad_2023_05_01_Analgorithmic">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="AliBahramiRad_2023_05_01_Analgorithmic">[show citation]</label>
-</div></div></td></tr><tr>
-<td>290</td>
+<td>289</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JoelXue_2023_05_01_ECGQT">
 <div class="citation">
@@ -564,29 +447,6 @@ Xue J, Parekh A, Kirsch M, Yuan R, Treiman D, Albert D, Clifford G. <a href="htt
 </div>
 <div class="hidebibtex">
 <label for="JoelXue_2023_05_01_ECGQT">[show citation]</label>
-</div></div></td></tr><tr>
-<td>289</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="AliBahramiRad_2023_05_01_Promisingmachine">
-<div class="citation">
-Rad AB, Clifford GD. <a href="https://scholar.google.com/scholar?cluster=7068386283518784531&hl=en&oi=scholarr">Promising machine learning techniques for the electrocardiogram, and key barriers to progress</a>. Journal of Electrocardiology 2023 May 1; 78: p. 16.
-</div>
-<div class="bibtex_source"><pre>@article{AliBahramiRad_2023_05_01_Promisingmachine,
-    author = "Rad, Ali Bahrami and Clifford, Gari D",
-    title = "Promising machine learning techniques for the electrocardiogram, and key barriers to progress",
-    date = "2023-05-01",
-    journal = "Journal of Electrocardiology",
-    url = "https://scholar.google.com/scholar?cluster=7068386283518784531\&hl=en\&oi=scholarr",
-    pages = "16",
-    volume = "78",
-    note = "Publisher: Churchill Livingstone"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="AliBahramiRad_2023_05_01_Promisingmachine">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="AliBahramiRad_2023_05_01_Promisingmachine">[show citation]</label>
 </div></div></td></tr><tr>
 <td>288</td>
 <td><div class="citation_container">
@@ -865,27 +725,6 @@ Alday EAP, Poian GD, Levantsevych O, Murrah N, Shallenberger L, Alkhalaf M, Haff
 </div></div></td></tr><tr>
 <td>276</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="NasimKatebi_2023_02_20_HierarchicalAttentive">
-<div class="citation">
-Katebi N, Sameni R, Rohloff P, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/10049087/">Hierarchical Attentive Network for Gestational Age Estimation in Low-Resource Settings</a>. IEEE Journal of Biomedical and Health Informatics 2023 February 20.
-</div>
-<div class="bibtex_source"><pre>@article{NasimKatebi_2023_02_20_HierarchicalAttentive,
-    author = "Katebi, Nasim and Sameni, Reza and Rohloff, Peter and Clifford, Gari D",
-    title = "Hierarchical Attentive Network for Gestational Age Estimation in Low-Resource Settings",
-    date = "2023-02-20",
-    journal = "IEEE Journal of Biomedical and Health Informatics",
-    url = "https://ieeexplore.ieee.org/abstract/document/10049087/",
-    note = "Publisher: IEEE"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="NasimKatebi_2023_02_20_HierarchicalAttentive">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="NasimKatebi_2023_02_20_HierarchicalAttentive">[show citation]</label>
-</div></div></td></tr><tr>
-<td>275</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="EdilbertoAmorim_2023_02_ICAREInternational">
 <div class="citation">
 Amorim E, Zheng W, Lee JW, Herman S, Ghassemi M, Sivaraju A, Gaspard N, Hofmeijer J, Putten MJ, Reyna M, Clifford GD, Westover B. <a href="https://www.medrxiv.org/content/10.1101/2023.08.28.23294672v1">I-CARE: International Cardiac Arrest REsearch consortium Database</a>. Critical Care Medicine 2023 February; (1.0).
@@ -904,6 +743,27 @@ Amorim E, Zheng W, Lee JW, Herman S, Ghassemi M, Sivaraju A, Gaspard N, Hofmeije
 </div>
 <div class="hidebibtex">
 <label for="EdilbertoAmorim_2023_02_ICAREInternational">[show citation]</label>
+</div></div></td></tr><tr>
+<td>275</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="NasimKatebi_2023_02_20_HierarchicalAttentive">
+<div class="citation">
+Katebi N, Sameni R, Rohloff P, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/10049087/">Hierarchical Attentive Network for Gestational Age Estimation in Low-Resource Settings</a>. IEEE Journal of Biomedical and Health Informatics 2023 February 20.
+</div>
+<div class="bibtex_source"><pre>@article{NasimKatebi_2023_02_20_HierarchicalAttentive,
+    author = "Katebi, Nasim and Sameni, Reza and Rohloff, Peter and Clifford, Gari D",
+    title = "Hierarchical Attentive Network for Gestational Age Estimation in Low-Resource Settings",
+    date = "2023-02-20",
+    journal = "IEEE Journal of Biomedical and Health Informatics",
+    url = "https://ieeexplore.ieee.org/abstract/document/10049087/",
+    note = "Publisher: IEEE"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="NasimKatebi_2023_02_20_HierarchicalAttentive">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="NasimKatebi_2023_02_20_HierarchicalAttentive">[show citation]</label>
 </div></div></td></tr><tr>
 <td>274</td>
 <td><div class="citation_container">
@@ -1730,6 +1590,29 @@ Hegde C, Rad AB, Sameni R, Clifford GD. <a href="https://ieeexplore.ieee.org/abs
 </div></div></td></tr><tr>
 <td>239</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="JuttaJoormann_2022_01_Priorhistories">
+<div class="citation">
+Joormann J, Ziobrowski HN, King AJ, Gildea SM, Lee S, Sampson NA, House SL, Beaudoin FL, An X, Stevens JS, Zeng D, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Bollen KA, Rauch SL, Haran JP, Storrow AB, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, McGrath ME, Hudak LA, Pascual JL, Seamon MJ, Chang AM, Pearson C, Peak DA, Domeier RM, Rathlev NK, O'Neil BJ, Sanchez LD, Bruce SE, Miller MW, Pietrzak RH, Barch DM, Pizzagalli DA, Harte SE, Elliott JM, Koenen KC, McLean SA, Kessler RC. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/da.23223">Prior histories of posttraumatic stress disorder and major depression and their onset and course in the three months after a motor vehicle collision in the AURORA study</a>. Depression and anxiety 2022 January; 39 (1): pp. 56-70.
+</div>
+<div class="bibtex_source"><pre>@article{JuttaJoormann_2022_01_Priorhistories,
+    author = "Joormann, Jutta and Ziobrowski, Hannah N and King, Andrew J and Gildea, Sarah M and Lee, Sue and Sampson, Nancy A and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Stevens, Jennifer S and Zeng, Donglin and Neylan, Thomas C and Clifford, Gari D and Linnstaedt, Sarah D and Germine, Laura T and Bollen, Kenneth A and Rauch, Scott L and Haran, John P and Storrow, Alan B and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and McGrath, Meghan E and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Chang, Anna M and Pearson, Claire and Peak, David A and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sanchez, Leon D and Bruce, Steven E and Miller, Mark W and Pietrzak, Robert H and Barch, Deanna M and Pizzagalli, Diego A and Harte, Steven E and Elliott, James M and Koenen, Karestan C and McLean, Samuel A and Kessler, Ronald C",
+    title = "Prior histories of posttraumatic stress disorder and major depression and their onset and course in the three months after a motor vehicle collision in the AURORA study",
+    date = "2022-01",
+    issue = "1",
+    journal = "Depression and anxiety",
+    url = "https://onlinelibrary.wiley.com/doi/abs/10.1002/da.23223",
+    pages = "56-70",
+    volume = "39"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="JuttaJoormann_2022_01_Priorhistories">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="JuttaJoormann_2022_01_Priorhistories">[show citation]</label>
+</div></div></td></tr><tr>
+<td>238</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZifanJiang_2022_01_21_Automatedanalysis">
 <div class="citation">
 Jiang Z, Seyedi S, Haque RU, Pongos AL, Vickers KL, Manzanares CM, Lah JJ, Levey AI, Clifford GD. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262527">Automated analysis of facial emotions in subjects with cognitive impairment</a>. Plos one 2022 January 21; 17 (1): p. e0262527.
@@ -1751,29 +1634,6 @@ Jiang Z, Seyedi S, Haque RU, Pongos AL, Vickers KL, Manzanares CM, Lah JJ, Levey
 </div>
 <div class="hidebibtex">
 <label for="ZifanJiang_2022_01_21_Automatedanalysis">[show citation]</label>
-</div></div></td></tr><tr>
-<td>238</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="JuttaJoormann_2022_01_Priorhistories">
-<div class="citation">
-Joormann J, Ziobrowski HN, King AJ, Gildea SM, Lee S, Sampson NA, House SL, Beaudoin FL, An X, Stevens JS, Zeng D, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Bollen KA, Rauch SL, Haran JP, Storrow AB, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, McGrath ME, Hudak LA, Pascual JL, Seamon MJ, Chang AM, Pearson C, Peak DA, Domeier RM, Rathlev NK, O'Neil BJ, Sanchez LD, Bruce SE, Miller MW, Pietrzak RH, Barch DM, Pizzagalli DA, Harte SE, Elliott JM, Koenen KC, McLean SA, Kessler RC. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/da.23223">Prior histories of posttraumatic stress disorder and major depression and their onset and course in the three months after a motor vehicle collision in the AURORA study</a>. Depression and anxiety 2022 January; 39 (1): pp. 56-70.
-</div>
-<div class="bibtex_source"><pre>@article{JuttaJoormann_2022_01_Priorhistories,
-    author = "Joormann, Jutta and Ziobrowski, Hannah N and King, Andrew J and Gildea, Sarah M and Lee, Sue and Sampson, Nancy A and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Stevens, Jennifer S and Zeng, Donglin and Neylan, Thomas C and Clifford, Gari D and Linnstaedt, Sarah D and Germine, Laura T and Bollen, Kenneth A and Rauch, Scott L and Haran, John P and Storrow, Alan B and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and McGrath, Meghan E and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Chang, Anna M and Pearson, Claire and Peak, David A and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sanchez, Leon D and Bruce, Steven E and Miller, Mark W and Pietrzak, Robert H and Barch, Deanna M and Pizzagalli, Diego A and Harte, Steven E and Elliott, James M and Koenen, Karestan C and McLean, Samuel A and Kessler, Ronald C",
-    title = "Prior histories of posttraumatic stress disorder and major depression and their onset and course in the three months after a motor vehicle collision in the AURORA study",
-    date = "2022-01",
-    issue = "1",
-    journal = "Depression and anxiety",
-    url = "https://onlinelibrary.wiley.com/doi/abs/10.1002/da.23223",
-    pages = "56-70",
-    volume = "39"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="JuttaJoormann_2022_01_Priorhistories">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="JuttaJoormann_2022_01_Priorhistories">[show citation]</label>
 </div></div></td></tr><tr>
 <td>237</td>
 <td><div class="citation_container">
@@ -2180,29 +2040,6 @@ Nasiri S, Clifford GD. <a href="https://academic.oup.com/sleep/article-abstract/
 </div></div></td></tr><tr>
 <td>220</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="SamruddhiSKulkarni_2021_05_21_CNNbasedLCD">
-<div class="citation">
-Kulkarni SS, Katebi N, Valderrama CE, Rohloff P, Clifford GD. <a href="https://www.frontiersin.org/articles/10.3389/frai.2021.543176/full">CNN-based LCD transcription of blood pressure from a mobile phone camera</a>. Frontiers in Artificial Intelligence 2021 May 21; 4: p. 543176.
-</div>
-<div class="bibtex_source"><pre>@article{SamruddhiSKulkarni_2021_05_21_CNNbasedLCD,
-    author = "Kulkarni, Samruddhi S and Katebi, Nasim and Valderrama, Camilo E and Rohloff, Peter and Clifford, Gari D",
-    title = "CNN-based LCD transcription of blood pressure from a mobile phone camera",
-    date = "2021-05-21",
-    journal = "Frontiers in Artificial Intelligence",
-    url = "https://www.frontiersin.org/articles/10.3389/frai.2021.543176/full",
-    pages = "543176",
-    volume = "4",
-    note = "Publisher: Frontiers Media SA"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="SamruddhiSKulkarni_2021_05_21_CNNbasedLCD">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="SamruddhiSKulkarni_2021_05_21_CNNbasedLCD">[show citation]</label>
-</div></div></td></tr><tr>
-<td>219</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="FrancescaLBeaudoin_2021_05_Painafter">
 <div class="citation">
 Beaudoin FL, Kessler R, Hwang I, Lee S, Sampson N, An X, Ressler K, Koenen K, McLean S, Group AS, Stevens J, Zeng D, Neylan T, Clifford G, Linnstaedt S, Rauch S, House S, Lewandowski C, Hendry P, Sheikh S, Jr PM, Storrow A, Haran J, Jones C, Punches B, Lyons M, Swor R, McGrath M, Mohiuddin K, Chang A, Peak D, Pearson C, Domeier R, Merchant R, Sanchez L, Rathlev N, Bruce S, Pietrzak R, Joormann J, Barch D, Pizzagalli D, Sheridan J, Harte S, Elliott J. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejp.1733">Pain after a motor vehicle crash: The role of socio-demographics, crash characteristics and peri-traumatic stress symptoms</a>. European journal of pain 2021 May; 25 (5): pp. 1119-1136.
@@ -2223,6 +2060,29 @@ Beaudoin FL, Kessler R, Hwang I, Lee S, Sampson N, An X, Ressler K, Koenen K, Mc
 </div>
 <div class="hidebibtex">
 <label for="FrancescaLBeaudoin_2021_05_Painafter">[show citation]</label>
+</div></div></td></tr><tr>
+<td>219</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="SamruddhiSKulkarni_2021_05_21_CNNbasedLCD">
+<div class="citation">
+Kulkarni SS, Katebi N, Valderrama CE, Rohloff P, Clifford GD. <a href="https://www.frontiersin.org/articles/10.3389/frai.2021.543176/full">CNN-based LCD transcription of blood pressure from a mobile phone camera</a>. Frontiers in Artificial Intelligence 2021 May 21; 4: p. 543176.
+</div>
+<div class="bibtex_source"><pre>@article{SamruddhiSKulkarni_2021_05_21_CNNbasedLCD,
+    author = "Kulkarni, Samruddhi S and Katebi, Nasim and Valderrama, Camilo E and Rohloff, Peter and Clifford, Gari D",
+    title = "CNN-based LCD transcription of blood pressure from a mobile phone camera",
+    date = "2021-05-21",
+    journal = "Frontiers in Artificial Intelligence",
+    url = "https://www.frontiersin.org/articles/10.3389/frai.2021.543176/full",
+    pages = "543176",
+    volume = "4",
+    note = "Publisher: Frontiers Media SA"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="SamruddhiSKulkarni_2021_05_21_CNNbasedLCD">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="SamruddhiSKulkarni_2021_05_21_CNNbasedLCD">[show citation]</label>
 </div></div></td></tr><tr>
 <td>218</td>
 <td><div class="citation_container">
@@ -3342,30 +3202,6 @@ Dedhia RC, Shah AJ, Bliwise DL, Quyyumi AA, Strollo PJ, Li Q, Poian GD, Clifford
 </div></div></td></tr><tr>
 <td>171</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="QiaoLi_2018_12_21_Deeplearning">
-<div class="citation">
-Li Q, Li Q, Liu C, Shashikumar SP, Nemati S, Clifford GD. <a href="https://iopscience.iop.org/article/10.1088/1361-6579/aaf339/meta">Deep learning in the cross-time frequency domain for sleep staging from a single-lead electrocardiogram</a>. Physiological Measurement 2018 December 21; 39 (12): p. 124005.
-</div>
-<div class="bibtex_source"><pre>@article{QiaoLi_2018_12_21_Deeplearning,
-    author = "Li, Qiao and Li, Qichen and Liu, Chengyu and Shashikumar, Supreeth P and Nemati, Shamim and Clifford, Gari D",
-    title = "Deep learning in the cross-time frequency domain for sleep staging from a single-lead electrocardiogram",
-    date = "2018-12-21",
-    issue = "12",
-    journal = "Physiological Measurement",
-    url = "https://iopscience.iop.org/article/10.1088/1361-6579/aaf339/meta",
-    pages = "124005",
-    volume = "39",
-    note = "Publisher: IOP Publishing"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="QiaoLi_2018_12_21_Deeplearning">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="QiaoLi_2018_12_21_Deeplearning">[show citation]</label>
-</div></div></td></tr><tr>
-<td>170</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="BorisMartinez_2018_12_mHealthintervention">
 <div class="citation">
 Martinez B, Ixen EC, Hall-Clifford R, Juarez M, Miller AC, Francis A, Valderrama CE, Stroux L, Clifford GD, Rohloff P. <a href="https://link.springer.com/article/10.1186/s12978-018-0554-z">mHealth intervention to improve the continuum of maternal and perinatal care in rural Guatemala: a pragmatic, randomized controlled feasibility trial</a>. Reproductive Health 2018 December; 15 (1): pp. 1-12.
@@ -3388,7 +3224,7 @@ Martinez B, Ixen EC, Hall-Clifford R, Juarez M, Miller AC, Francis A, Valderrama
 <div class="hidebibtex">
 <label for="BorisMartinez_2018_12_mHealthintervention">[show citation]</label>
 </div></div></td></tr><tr>
-<td>169</td>
+<td>170</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="DevarsettyPraveen_2018_12_Cardiovasculardisease">
 <div class="citation">
@@ -3411,6 +3247,30 @@ Praveen D, Peiris D, MacMahon S, Mogulluru K, Raghu A, Rodgers A, Chilappagari S
 </div>
 <div class="hidebibtex">
 <label for="DevarsettyPraveen_2018_12_Cardiovasculardisease">[show citation]</label>
+</div></div></td></tr><tr>
+<td>169</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="QiaoLi_2018_12_21_Deeplearning">
+<div class="citation">
+Li Q, Li Q, Liu C, Shashikumar SP, Nemati S, Clifford GD. <a href="https://iopscience.iop.org/article/10.1088/1361-6579/aaf339/meta">Deep learning in the cross-time frequency domain for sleep staging from a single-lead electrocardiogram</a>. Physiological Measurement 2018 December 21; 39 (12): p. 124005.
+</div>
+<div class="bibtex_source"><pre>@article{QiaoLi_2018_12_21_Deeplearning,
+    author = "Li, Qiao and Li, Qichen and Liu, Chengyu and Shashikumar, Supreeth P and Nemati, Shamim and Clifford, Gari D",
+    title = "Deep learning in the cross-time frequency domain for sleep staging from a single-lead electrocardiogram",
+    date = "2018-12-21",
+    issue = "12",
+    journal = "Physiological Measurement",
+    url = "https://iopscience.iop.org/article/10.1088/1361-6579/aaf339/meta",
+    pages = "124005",
+    volume = "39",
+    note = "Publisher: IOP Publishing"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="QiaoLi_2018_12_21_Deeplearning">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="QiaoLi_2018_12_21_Deeplearning">[show citation]</label>
 </div></div></td></tr><tr>
 <td>168</td>
 <td><div class="citation_container">
@@ -7341,7 +7201,103 @@ Clifford G. <a href="https://scholar.google.com/scholar?cluster=1308584897038135
 
 <table>
 <tr>
-<td>121</td>
+<td>127</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="RayanAAnsari_2023_11_06_Interpretationof">
+<div class="citation">
+Ansari RA, bhatia , Tooley J, Thakkar V, Torres J, Tung J, Alhusseini M, Clopton PL, Sameni R, Clifford G, Ashley EA, Perez MV, Zaharia M, Narayan SM, Rogers AJ. <a href="https://drive.google.com/file/d/1RXNuHQqpGk2gDVrKny3U8KF6Zukprwup/view?usp=sharing">Interpretation of Deep Learning Model That Identifies Regional Myocardial Dysfunction From the Surface ECG</a>. The American Heart Association Scientific Sessions 2023 (AHA23) 2023 November 6; 148 (Suppl_1): pp. A19210-A19210.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{RayanAAnsari_2023_11_06_Interpretationof,
+    author = "Ansari, Rayan A and neal bhatia and Tooley, James and Thakkar, Vyom and Torres, Jessica and Tung, Jagteshwar and Alhusseini, Mahmood and Clopton, Paul L and Sameni, Reza and Clifford, Gari and Ashley, Euan A and Perez, Marco V and Zaharia, Matei and Narayan, Sanjiv M and Rogers, Albert J",
+    title = "Interpretation of Deep Learning Model That Identifies Regional Myocardial Dysfunction From the Surface ECG",
+    date = "2023-11-06",
+    issue = "Suppl{\\_}1",
+    booktitle = "The American Heart Association Scientific Sessions 2023 (AHA23)",
+    url = "https://drive.google.com/file/d/1RXNuHQqpGk2gDVrKny3U8KF6Zukprwup/view?usp=sharing",
+    pages = "A19210-A19210",
+    volume = "148",
+    note = "Publisher: Lippincott Williams {\\&} Wilkins"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="RayanAAnsari_2023_11_06_Interpretationof">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="RayanAAnsari_2023_11_06_Interpretationof">[show citation]</label>
+</div></div></td></tr><tr>
+<td>126</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="RayanAAnsari_2023_11_06_Performanceof">
+<div class="citation">
+Ansari RA, bhatia , Tooley J, Thakkar V, XU J, Torres J, Tung J, Alhusseini M, Clopton PL, Sameni R, Clifford G, Ashley EA, Perez MV, Zaharia M, Narayan SM, Rogers AJ. <a href="https://drive.google.com/file/d/1ZWN5Pqne09Fpa08TKF7QmTzbKfEE33ji/view?usp=sharing">Performance of an Electrocardiographic Deep Learning Model for Detecting Wall Motion Abnormalities: An Analysis of Impact From Cardiovascular Comorbidities and Race in an External Validation Study</a>. The American Heart Association Scientific Sessions 2023 (AHA23) 2023 November 6; 148 (Suppl_1): pp. A17934-A17934.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{RayanAAnsari_2023_11_06_Performanceof,
+    author = "Ansari, Rayan A and neal bhatia and Tooley, James and Thakkar, Vyom and XU, JUSTIN and Torres, Jessica and Tung, Jagteshwar and Alhusseini, Mahmood and Clopton, Paul L and Sameni, Reza and Clifford, Gari and Ashley, Euan A and Perez, Marco V and Zaharia, Matei and Narayan, Sanjiv M and Rogers, Albert J",
+    title = "Performance of an Electrocardiographic Deep Learning Model for Detecting Wall Motion Abnormalities: An Analysis of Impact From Cardiovascular Comorbidities and Race in an External Validation Study",
+    date = "2023-11-06",
+    issue = "Suppl{\\_}1",
+    booktitle = "The American Heart Association Scientific Sessions 2023 (AHA23)",
+    url = "https://drive.google.com/file/d/1ZWN5Pqne09Fpa08TKF7QmTzbKfEE33ji/view?usp=sharing",
+    pages = "A17934-A17934",
+    volume = "148",
+    note = "Publisher: Lippincott Williams {\\&} Wilkins"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="RayanAAnsari_2023_11_06_Performanceof">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="RayanAAnsari_2023_11_06_Performanceof">[show citation]</label>
+</div></div></td></tr><tr>
+<td>125</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="AlbertJRogers_2023_11_06_EnhancedIdentification">
+<div class="citation">
+Rogers AJ, bhatia , Tooley J, Thakkar V, XU J, Ansari R, Torres J, Tung J, Alhusseini M, Clopton PL, Sameni R, Clifford G, Ashley EA, Perez MV, Zaharia M, Narayan SM. <a href="https://drive.google.com/file/d/15ci2eR046PTlnmdXGBMVimTqGmXBno1g/view?usp=sharing">Enhanced Identification of Cardiac Wall Motion Abnormalities: An Externally Validated Deep Neural Network Approach Outperforms Expert and Quantitative Analysis of Electrocardiograms</a>. The American Heart Association Scientific Sessions 2023 (AHA23) 2023 November 6; 148 (Suppl_1): pp. A17420-A17420.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{AlbertJRogers_2023_11_06_EnhancedIdentification,
+    author = "Rogers, Albert J and neal bhatia and Tooley, James and Thakkar, Vyom and XU, JUSTIN and Ansari, Rayan and Torres, Jessica and Tung, Jagteshwar and Alhusseini, Mahmood and Clopton, Paul L and Sameni, Reza and Clifford, Gari and Ashley, Euan A and Perez, Marco V and Zaharia, Matei and Narayan, Sanjiv M",
+    title = "Enhanced Identification of Cardiac Wall Motion Abnormalities: An Externally Validated Deep Neural Network Approach Outperforms Expert and Quantitative Analysis of Electrocardiograms",
+    date = "2023-11-06",
+    issue = "Suppl{\\_}1",
+    booktitle = "The American Heart Association Scientific Sessions 2023 (AHA23)",
+    url = "https://drive.google.com/file/d/15ci2eR046PTlnmdXGBMVimTqGmXBno1g/view?usp=sharing",
+    pages = "A17420-A17420",
+    volume = "148",
+    note = "Publisher: Lippincott Williams {\\&} Wilkins"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="AlbertJRogers_2023_11_06_EnhancedIdentification">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="AlbertJRogers_2023_11_06_EnhancedIdentification">[show citation]</label>
+</div></div></td></tr><tr>
+<td>124</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="AlbertJRogers_2023_11_06_Impactof">
+<div class="citation">
+Rogers AJ, Bhatia NK, Tooley J, Thakkar V, XU J, Ansari R, Torres J, Tung J, Alhusseini M, Clopton PL, Sameni R, Clifford G, Ashley EA, Perez MV, Zaharia M, Narayan SM. <a href="https://drive.google.com/file/d/1hkzAyfQDb_QR4VIm1aIqczUNOcclJGF9/view?usp=sharing">Impact of Regional Cardiac Wall Motion Abnormalities on Ejection Fraction and Mortality: Large Data Enabled by Natural Language Processing</a>. The American Heart Association Scientific Sessions 2023 (AHA23) 2023 November 6; 148 (Suppl_1): pp. A18102-A18102.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{AlbertJRogers_2023_11_06_Impactof,
+    author = "Rogers, Albert J and Bhatia, Neal K and Tooley, James and Thakkar, Vyom and XU, JUSTIN and Ansari, Rayan and Torres, Jessica and Tung, Jagteshwar and Alhusseini, Mahmood and Clopton, Paul L and Sameni, Reza and Clifford, Gari and Ashley, Euan A and Perez, Marco V and Zaharia, Matei and Narayan, Sanjiv M",
+    title = "Impact of Regional Cardiac Wall Motion Abnormalities on Ejection Fraction and Mortality: Large Data Enabled by Natural Language Processing",
+    date = "2023-11-06",
+    issue = "Suppl{\\_}1",
+    booktitle = "The American Heart Association Scientific Sessions 2023 (AHA23)",
+    url = "https://drive.google.com/file/d/1hkzAyfQDb\_QR4VIm1aIqczUNOcclJGF9/view?usp=sharing",
+    pages = "A18102-A18102",
+    volume = "148",
+    note = "Publisher: Lippincott Williams {\\&} Wilkins"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="AlbertJRogers_2023_11_06_Impactof">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="AlbertJRogers_2023_11_06_Impactof">[show citation]</label>
+</div></div></td></tr><tr>
+<td>123</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="HLehmanLiwei_2023_11_02_VTaCA">
 <div class="citation">
@@ -7361,7 +7317,7 @@ Li-wei HL, Moody BE, Deep H, Wu F, Saeed H, McCullum L, Perry D, Struja T, Li Q,
 <div class="hidebibtex">
 <label for="HLehmanLiwei_2023_11_02_VTaCA">[show citation]</label>
 </div></div></td></tr><tr>
-<td>120</td>
+<td>122</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MatthewAReyna_2023_10_PredictingNeurological">
 <div class="citation">
@@ -7383,6 +7339,52 @@ Reyna MA, Amorim E, Sameni R, Weigle J, Elola A, Rad AB, Seyedi S, Kwon H, Zheng
 </div>
 <div class="hidebibtex">
 <label for="MatthewAReyna_2023_10_PredictingNeurological">[show citation]</label>
+</div></div></td></tr><tr>
+<td>121</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="AliBahramiRad_2023_05_01_Analgorithmic">
+<div class="citation">
+Rad AB, Kirsch M, Li Q, Xue J, Sameni R, Albert D, Clifford GD. <a href="https://drive.google.com/file/d/1f4M5k6gCVEQ_-U0RDjTfXRVD_O8Dn08x/view?usp=sharing">An algorithmic crowdsourcing approach for atrial fibrillation detection on Apple Watch ECG data</a>. International Society for Computerized Electrocardiology 2023 March 29; 78: p. 30.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{AliBahramiRad_2023_05_01_Analgorithmic,
+    author = "Rad, Ali Bahrami and Kirsch, Miguel and Li, Qiao and Xue, Joel and Sameni, Reza and Albert, David and Clifford, Gari D",
+    title = "An algorithmic crowdsourcing approach for atrial fibrillation detection on Apple Watch ECG data",
+    date = "2023-03-29",
+    booktitle = "International Society for Computerized Electrocardiology",
+    url = "https://drive.google.com/file/d/1f4M5k6gCVEQ\_-U0RDjTfXRVD\_O8Dn08x/view?usp=sharing",
+    pages = "30",
+    volume = "78",
+    note = "Publisher: Churchill Livingstone"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="AliBahramiRad_2023_05_01_Analgorithmic">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="AliBahramiRad_2023_05_01_Analgorithmic">[show citation]</label>
+</div></div></td></tr><tr>
+<td>120</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="AliBahramiRad_2023_05_01_Promisingmachine">
+<div class="citation">
+Rad AB, Clifford GD. <a href="https://drive.google.com/file/d/1cqwmxlUITtjCMxNP2VXnfOEJOkDlF_xv/view?usp=sharing">Promising machine learning techniques for the electrocardiogram, and key barriers to progress</a>. International Society for Computerized Electrocardiology 2023 March 29; 78: p. 16.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{AliBahramiRad_2023_05_01_Promisingmachine,
+    author = "Rad, Ali Bahrami and Clifford, Gari D",
+    title = "Promising machine learning techniques for the electrocardiogram, and key barriers to progress",
+    date = "2023-03-29",
+    booktitle = "International Society for Computerized Electrocardiology",
+    url = "https://drive.google.com/file/d/1cqwmxlUITtjCMxNP2VXnfOEJOkDlF\_xv/view?usp=sharing",
+    pages = "16",
+    volume = "78",
+    note = "Publisher: Churchill Livingstone"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="AliBahramiRad_2023_05_01_Promisingmachine">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="AliBahramiRad_2023_05_01_Promisingmachine">[show citation]</label>
 </div></div></td></tr><tr>
 <td>119</td>
 <td><div class="citation_container">
