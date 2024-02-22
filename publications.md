@@ -154,12 +154,15 @@ Kiarashi Y, Saghafi S, Das B, Hegde C, Madala VSK, Nakum A, Singh R, Tweedy R, D
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="HyeokhyenKwon_2023_11_28_AFeasibility">
 <div class="citation">
-Kwon H, Hegde C, Kiarashi Y, Madala VSK, Singh R, Nakum A, Tweedy R, Tonetto LM, Zimring CM, Doiron M, Rodriguez AD, Levey AI, Clifford GD. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10329418">A Feasibility Study on Indoor Localization and Multi-person Tracking Using Sparsely Distributed Camera Network with Edge Computing</a>. IEEE Journal of Indoor and Seamless Positioning and Navigation 2023 November 28.
+Kwon H, Hegde C, Kiarashi Y, Madala VSK, Singh R, Nakum A, Tweedy R, Tonetto LM, Zimring CM, Doiron M, Rodriguez AD, Levey AI, Clifford GD. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10329418">A Feasibility Study on Indoor Localization and Multi-person Tracking Using Sparsely Distributed Camera Network with Edge Computing</a>. IEEE Journal of Indoor and Seamless Positioning and Navigation 2023 November 28; 1: pp. 187-198. DOI: <a href="https://doi.org/10.1109/JISPIN.2023.3337189">10.1109/JISPIN.2023.3337189</a>.
 </div>
 <div class="bibtex_source"><pre>@article{HyeokhyenKwon_2023_11_28_AFeasibility,
     author = "Kwon, Hyeokhyen and Hegde, Chaitra and Kiarashi, Yashar and Madala, Venkata Siva Krishna and Singh, Ratan and Nakum, ArjunSinh and Tweedy, Robert and Tonetto, Leandro Miletto and Zimring, Craig M and Doiron, Matthew and Rodriguez, Amy D and Levey, Allan I and Clifford, Gari D",
     title = "A Feasibility Study on Indoor Localization and Multi-person Tracking Using Sparsely Distributed Camera Network with Edge Computing",
     date = "2023-11-28",
+    volume = "1",
+    pages = "187-198",
+    doi = "10.1109/JISPIN.2023.3337189",
     journal = "IEEE Journal of Indoor and Seamless Positioning and Navigation",
     url = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=10329418",
     note = "Publisher: IEEE"
@@ -8799,6 +8802,27 @@ Praveen D, Patel A, Raghu A, Clifford G, Maulik P, Ameer MA, Tarrasenko L, Peiri
 </div></div></td></tr><tr>
 <td>54</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="IkaroSilva_2013_09_NoninvasiveFetal">
+<div class="citation">
+Silva I, Behar J, Sameni R, Zhu T, Oster J, Clifford GD, Moody GB. <a href="https://ieeexplore.ieee.org/abstract/document/6712433/">Noninvasive fetal ECG: the PhysioNet/computing in cardiology challenge 2013</a>. Computing in Cardiology 2013 September.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{IkaroSilva_2013_09_NoninvasiveFetal,
+    author = "Silva, Ikaro and Behar, Joachim and Sameni, Reza and Zhu, Tingting and Oster, Julien and Clifford, Gari D and Moody, George B",
+    title = "Noninvasive fetal ECG: the PhysioNet/computing in cardiology challenge 2013",
+    date = "2013-09",
+    booktitle = "Computing in Cardiology",
+    url = "https://ieeexplore.ieee.org/abstract/document/6712433/",
+    publisher = "IEEE"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="IkaroSilva_2013_09_NoninvasiveFetal">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="IkaroSilva_2013_09_NoninvasiveFetal">[show citation]</label>
+</div></div></td></tr><tr>
+<td>53</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AlistairEWJohnson_2013_09_22_Improvedrespiration">
 <div class="citation">
 Johnson AE, Cholleti SR, Buchman TG, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/6713496/">Improved respiration rate estimation using a Kalman filter and wavelet cross-coherence</a>. Computing in Cardiology 2013 2013 September 22; pp. 791-794.
@@ -8819,7 +8843,7 @@ Johnson AE, Cholleti SR, Buchman TG, Clifford GD. <a href="https://ieeexplore.ie
 <div class="hidebibtex">
 <label for="AlistairEWJohnson_2013_09_22_Improvedrespiration">[show citation]</label>
 </div></div></td></tr><tr>
-<td>53</td>
+<td>52</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JulienOster_2013_09_22_Opensource">
 <div class="citation">
@@ -8841,7 +8865,7 @@ Oster J, Behar J, Colloca R, Li Q, Li Q, Clifford GD. <a href="https://ieeexplor
 <div class="hidebibtex">
 <label for="JulienOster_2013_09_22_Opensource">[show citation]</label>
 </div></div></td></tr><tr>
-<td>52</td>
+<td>51</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="TingtingZhu_2013_09_22_Bayesianvoting">
 <div class="citation">
@@ -8863,7 +8887,7 @@ Zhu T, Johnson AE, Behar J, Clifford GD. <a href="https://ieeexplore.ieee.org/ab
 <div class="hidebibtex">
 <label for="TingtingZhu_2013_09_22_Bayesianvoting">[show citation]</label>
 </div></div></td></tr><tr>
-<td>51</td>
+<td>50</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JulienOster_2013_09_22_Anartificial">
 <div class="citation">
@@ -8885,7 +8909,7 @@ Oster J, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/671
 <div class="hidebibtex">
 <label for="JulienOster_2013_09_22_Anartificial">[show citation]</label>
 </div></div></td></tr><tr>
-<td>50</td>
+<td>49</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RobertaColloca_2013_09_22_Asupport">
 <div class="citation">
@@ -8907,7 +8931,7 @@ Colloca R, Johnson AE, Mainardi L, Clifford GD. <a href="https://ieeexplore.ieee
 <div class="hidebibtex">
 <label for="RobertaColloca_2013_09_22_Asupport">[show citation]</label>
 </div></div></td></tr><tr>
-<td>49</td>
+<td>48</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JoachimBehar_2013_09_22_NoninvasiveFECG">
 <div class="citation">
@@ -8928,27 +8952,6 @@ Behar J, Oster J, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/doc
 </div>
 <div class="hidebibtex">
 <label for="JoachimBehar_2013_09_22_NoninvasiveFECG">[show citation]</label>
-</div></div></td></tr><tr>
-<td>48</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="IkaroSilva_2013_09_NoninvasiveFetal">
-<div class="citation">
-Silva I, Behar J, Sameni R, Zhu T, Oster J, Clifford GD, Moody GB. <a href="https://ieeexplore.ieee.org/abstract/document/6712433/">Noninvasive fetal ECG: the PhysioNet/computing in cardiology challenge 2013</a>. Computing in Cardiology 2013 September.
-</div>
-<div class="bibtex_source"><pre>@inproceedings{IkaroSilva_2013_09_NoninvasiveFetal,
-    author = "Silva, Ikaro and Behar, Joachim and Sameni, Reza and Zhu, Tingting and Oster, Julien and Clifford, Gari D and Moody, George B",
-    title = "Noninvasive fetal ECG: the PhysioNet/computing in cardiology challenge 2013",
-    date = "2013-09",
-    booktitle = "Computing in Cardiology",
-    url = "https://ieeexplore.ieee.org/abstract/document/6712433/",
-    publisher = "IEEE"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="IkaroSilva_2013_09_NoninvasiveFetal">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="IkaroSilva_2013_09_NoninvasiveFetal">[show citation]</label>
 </div></div></td></tr><tr>
 <td>47</td>
 <td><div class="citation_container">
