@@ -1715,6 +1715,30 @@ Aendel MA, Chute CG, Bennett TD, Eichmann DA, Guinney J, Kibbe WA, Payne PRO, Pf
 </div></div></td></tr><tr>
 <td>227</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="GillSchierhout_2021_07_01_Whydo">
+<div class="citation">
+Schierhout G, Praveen D, Patel B, Li Q, Mogulluru K, Ameer MA, Patel A, Clifford GD, Joshi R, Heritier S, Maulik P, Peiris D. <a href="https://gh.bmj.com/content/bmjgh/6/Suppl_5/e005003.full.pdf">Why do strategies to strengthen primary health care succeed in some places and fail in others? Exploring local variation in the effectiveness of a community health worker managed digital health intervention in rural India</a>. BMJ Global Health 2021 July; 6 (Suppl 5): p. e005003.
+</div>
+<div class="bibtex_source"><pre>@article{GillSchierhout_2021_07_01_Whydo,
+    author = "Schierhout, Gill and Praveen, Devarsetty and Patel, Bindu and Li, Qiang and Mogulluru, Kishor and Ameer, Mohammed Abdul and Patel, Anushka and Clifford, Gari D and Joshi, Rohina and Heritier, Stephane and Maulik, Pallab and Peiris, David",
+    title = "Why do strategies to strengthen primary health care succeed in some places and fail in others? Exploring local variation in the effectiveness of a community health worker managed digital health intervention in rural India",
+    date = "2021-07",
+    issue = "Suppl 5",
+    journal = "BMJ Global Health",
+    url = "https://gh.bmj.com/content/bmjgh/6/Suppl\_5/e005003.full.pdf",
+    pages = "e005003",
+    volume = "6",
+    note = "Publisher: BMJ Specialist Journals"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="GillSchierhout_2021_07_01_Whydo">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="GillSchierhout_2021_07_01_Whydo">[show citation]</label>
+</div></div></td></tr><tr>
+<td>226</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SamuelAMcLean_2021_07_CorrectionThe">
 <div class="citation">
 McLean SA, Ressler K, Koenen KC, Neylan T, Germine L, Jovanovic T, Clifford GD, Zeng D, An X, Linnstaedt S, Beaudoin F, House S, Bollen KA, Musey P, Hendry P, Jones CW, Lewandowski C, Swor R, Datner E, Mohiuddin K, Stevens JS, Storrow A, Kurz MC, McGrath ME, Fermann GJ, Hudak LA, Gentile N, Chang AM, Peak DA, Pascual JL, Seamon MJ, Sergot P, Peacock WF, Diercks D, Sanchez LD, Rathlev N, Domeier R, Haran JP, Pearson C, Murty VP, Insel TR, Dagum P, Onnela J, Bruce SE, Gaynes BN, Joormann J, Miller MW, Pietrzak RH, Buysse DJ, Pizzagalli DA, Rauch SL, Harte SE, Young LJ, Barch DM, Lebois LA, Rooij SJ, Luna B, Smoller JW, Dougherty RF, Pace TW, Binder E, Sheridan JF, Elliott JM, Basu A, Fromer M, Parlikar T, Zaslavsky AM, Kessler R. <a href="https://drive.google.com/file/d/1ycuQpwhQxjYgxq66yl_fa8glFYZHJT_m/view?usp=sharing">Correction: The AURORA Study: a longitudinal, multimodal library of brain biology and function after traumatic stress exposure</a>. Molecular Psychiatry 2021 July; 26 (7): p. 3658.
@@ -1737,55 +1761,7 @@ McLean SA, Ressler K, Koenen KC, Neylan T, Germine L, Jovanovic T, Clifford GD, 
 <div class="hidebibtex">
 <label for="SamuelAMcLean_2021_07_CorrectionThe">[show citation]</label>
 </div></div></td></tr><tr>
-<td>226</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="GillSchierhout_2021_07_01_Whydo">
-<div class="citation">
-Schierhout G, Praveen D, Patel B, Li Q, Mogulluru K, Ameer MA, Patel A, Clifford GD, Joshi R, Heritier S, Maulik P, Peiris D. <a href="https://gh.bmj.com/content/6/suppl_5/e005003.abstract">Why do strategies to strengthen primary health care succeed in some places and fail in others? Exploring local variation in the effectiveness of a community health worker managed digital health intervention in rural India</a>. BMJ Global Health 2021 July 1; 6 (Suppl 5): p. e005003.
-</div>
-<div class="bibtex_source"><pre>@article{GillSchierhout_2021_07_01_Whydo,
-    author = "Schierhout, Gill and Praveen, Devarsetty and Patel, Bindu and Li, Qiang and Mogulluru, Kishor and Ameer, Mohammed Abdul and Patel, Anushka and Clifford, Gari D and Joshi, Rohina and Heritier, Stephane and Maulik, Pallab and Peiris, David",
-    title = "Why do strategies to strengthen primary health care succeed in some places and fail in others? Exploring local variation in the effectiveness of a community health worker managed digital health intervention in rural India",
-    date = "2021-07-01",
-    issue = "Suppl 5",
-    journal = "BMJ Global Health",
-    url = "https://gh.bmj.com/content/6/suppl\_5/e005003.abstract",
-    pages = "e005003",
-    volume = "6",
-    note = "Publisher: BMJ Specialist Journals"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="GillSchierhout_2021_07_01_Whydo">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="GillSchierhout_2021_07_01_Whydo">[show citation]</label>
-</div></div></td></tr><tr>
 <td>225</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="NathanielGHarnett_2021_06_Prognosticneuroimaging">
-<div class="citation">
-Harnett NG, Rooij SJ, Ely TD, Lebois LA, Murty VP, Jovanovic T, Hill SB, Dumornay NM, Merker JB, Bruce SE, House SL, Beaudoin FL, An X, Zeng D, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Bollen KA, Rauch SL, Lewandowski C, Hendry PL, Sheikh S, Storrow AB, Jr PIM, Haran JP, Jones CW, Punches BE, Swor RA, McGrath ME, Pascual JL, Seamon MJ, Mohiuddin K, Chang AM, Pearson C, Peak DA, Domeier RM, Rathlev NK, Sanchez LD, Pietrzak RH, Joormann J, Barch DM, Pizzagalli DA, Sheridan JF, Harte SE, Elliott JM, Kessler RC, Koenen KC, Mclean S, Ressler KJ, Stevens JS. <a href="https://www.nature.com/articles/s41386-020-00946-8">Prognostic neuroimaging biomarkers of trauma-related psychopathology: resting-state fMRI shortly after trauma predicts future PTSD and depression symptoms in the AURORA study</a>. Neuropsychopharmacology 2021 June; 46 (7): pp. 1263-1271.
-</div>
-<div class="bibtex_source"><pre>@article{NathanielGHarnett_2021_06_Prognosticneuroimaging,
-    author = "Harnett, Nathaniel G and van Rooij, Sanne JH and Ely, Timothy D and Lebois, Lauren AM and Murty, Vishnu P and Jovanovic, Tanja and Hill, Sarah B and Dumornay, Nathalie M and Merker, Julia B and Bruce, Steve E and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Zeng, Donglin and Neylan, Thomas C and Clifford, Gari D and Linnstaedt, Sarah D and Germine, Laura T and Bollen, Kenneth A and Rauch, Scott L and Lewandowski, Christopher and Hendry, Phyllis L and Sheikh, Sophia and Storrow, Alan B and Jr, Paul I Musey and Haran, John P and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and McGrath, Meghan E and Pascual, Jose L and Seamon, Mark J and Mohiuddin, Kamran and Chang, Anna M and Pearson, Claire and Peak, David A and Domeier, Robert M and Rathlev, Niels K and Sanchez, Leon D and Pietrzak, Robert H and Joormann, Jutta and Barch, Deanna M and Pizzagalli, Diego A and Sheridan, John F and Harte, Steven E and Elliott, James M and Kessler, Ronald C and Koenen, Karestan C and Mclean, Samuel and Ressler, Kerry J and Stevens, Jennifer S",
-    title = "Prognostic neuroimaging biomarkers of trauma-related psychopathology: resting-state fMRI shortly after trauma predicts future PTSD and depression symptoms in the AURORA study",
-    date = "2021-06",
-    issue = "7",
-    journal = "Neuropsychopharmacology",
-    url = "https://www.nature.com/articles/s41386-020-00946-8",
-    pages = "1263-1271",
-    volume = "46",
-    note = "Publisher: Springer International Publishing"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="NathanielGHarnett_2021_06_Prognosticneuroimaging">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="NathanielGHarnett_2021_06_Prognosticneuroimaging">[show citation]</label>
-</div></div></td></tr><tr>
-<td>224</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SamanehNasiri_2021_05_26_BoostingAutomated">
 <div class="citation">
@@ -1809,7 +1785,7 @@ Nasiri S, Clifford GD. <a href="https://academic.oup.com/sleep/article-abstract/
 <div class="hidebibtex">
 <label for="SamanehNasiri_2021_05_26_BoostingAutomated">[show citation]</label>
 </div></div></td></tr><tr>
-<td>223</td>
+<td>224</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SamruddhiSKulkarni_2021_05_21_CNNbasedLCD">
 <div class="citation">
@@ -1832,7 +1808,7 @@ Kulkarni SS, Katebi N, Valderrama CE, Rohloff P, Clifford GD. <a href="https://w
 <div class="hidebibtex">
 <label for="SamruddhiSKulkarni_2021_05_21_CNNbasedLCD">[show citation]</label>
 </div></div></td></tr><tr>
-<td>222</td>
+<td>223</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="QiaoLi_2021_05_13_Transferlearning">
 <div class="citation">
@@ -1856,7 +1832,7 @@ Li Q, Li Q, Cakmak AS, Poian GD, Bliwise DL, Vaccarino V, Shah AJ, Clifford GD. 
 <div class="hidebibtex">
 <label for="QiaoLi_2021_05_13_Transferlearning">[show citation]</label>
 </div></div></td></tr><tr>
-<td>221</td>
+<td>222</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="FrancescaLBeaudoin_2021_05_Painafter">
 <div class="citation">
@@ -1879,7 +1855,7 @@ Beaudoin FL, Kessler R, Hwang I, Lee S, Sampson N, An X, Ressler K, Koenen K, Mc
 <div class="hidebibtex">
 <label for="FrancescaLBeaudoin_2021_05_Painafter">[show citation]</label>
 </div></div></td></tr><tr>
-<td>220</td>
+<td>221</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AzadeTabaie_2021_05_01_Predictingpresumed">
 <div class="citation">
@@ -1902,7 +1878,7 @@ Tabaie A, Orenstein EW, Nemati S, Basu RK, Kandaswamy S, Clifford GD, Kamaleswar
 <div class="hidebibtex">
 <label for="AzadeTabaie_2021_05_01_Predictingpresumed">[show citation]</label>
 </div></div></td></tr><tr>
-<td>219</td>
+<td>220</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="EvelinaSterina_2021_05_01_Effectsof">
 <div class="citation">
@@ -1926,7 +1902,7 @@ Sterina E, Neylan T, Clifford G, Ressler K, Michopolous V, Stevens JS. <a href="
 <div class="hidebibtex">
 <label for="EvelinaSterina_2021_05_01_Effectsof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>218</td>
+<td>219</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MohsenSalari_2021_04_10_Fooddesert">
 <div class="citation">
@@ -1946,7 +1922,7 @@ Salari M, Reyna M, Kramer MD, Taylor HA, Clifford GD. <a href="https://papers.ss
 <div class="hidebibtex">
 <label for="MohsenSalari_2021_04_10_Fooddesert">[show citation]</label>
 </div></div></td></tr><tr>
-<td>217</td>
+<td>218</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ThomasCNeylan_2021_03_01_Priorsleep">
 <div class="citation">
@@ -1970,7 +1946,7 @@ Neylan TC, Kessler RC, Ressler KJ, Clifford G, Beaudoin FL, An X, Stevens JS, Ze
 <div class="hidebibtex">
 <label for="ThomasCNeylan_2021_03_01_Priorsleep">[show citation]</label>
 </div></div></td></tr><tr>
-<td>216</td>
+<td>217</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SamanehNasiri_2021_02_22_Generalizableseizure">
 <div class="citation">
@@ -1993,7 +1969,7 @@ Nasiri S, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/93
 <div class="hidebibtex">
 <label for="SamanehNasiri_2021_02_22_Generalizableseizure">[show citation]</label>
 </div></div></td></tr><tr>
-<td>215</td>
+<td>216</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="IsmailSadiq_2021_02_01_Breathingrate">
 <div class="citation">
@@ -2017,7 +1993,7 @@ Sadiq I, Perez-Alday EA, Shah AJ, Clifford GD. <a href="https://iopscience.iop.o
 <div class="hidebibtex">
 <label for="IsmailSadiq_2021_02_01_Breathingrate">[show citation]</label>
 </div></div></td></tr><tr>
-<td>214</td>
+<td>215</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AyseSCakmak_2021_01_22_Classificationand">
 <div class="citation">
@@ -2040,6 +2016,30 @@ Cakmak AS, Alday EAP, Poian GD, Rad AB, Metzler TJ, Neylan TC, House SL, Beaudoi
 </div>
 <div class="hidebibtex">
 <label for="AyseSCakmak_2021_01_22_Classificationand">[show citation]</label>
+</div></div></td></tr><tr>
+<td>214</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="NathanielGHarnett_2021_06_Prognosticneuroimaging">
+<div class="citation">
+Harnett NG, Rooij SJ, Ely TD, Lebois LA, Murty VP, Jovanovic T, Hill SB, Dumornay NM, Merker JB, Bruce SE, House SL, Beaudoin FL, An X, Zeng D, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Bollen KA, Rauch SL, Lewandowski C, Hendry PL, Sheikh S, Storrow AB, Jr PIM, Haran JP, Jones CW, Punches BE, Swor RA, McGrath ME, Pascual JL, Seamon MJ, Mohiuddin K, Chang AM, Pearson C, Peak DA, Domeier RM, Rathlev NK, Sanchez LD, Pietrzak RH, Joormann J, Barch DM, Pizzagalli DA, Sheridan JF, Harte SE, Elliott JM, Kessler RC, Koenen KC, Mclean S, Ressler KJ, Stevens JS. <a href="https://www.nature.com/articles/s41386-020-00946-8.pdf">Prognostic neuroimaging biomarkers of trauma-related psychopathology: resting-state fMRI shortly after trauma predicts future PTSD and depression symptoms in the AURORA study</a>. Neuropsychopharmacology 2021 January 21; 46 (7): pp. 1263-1271.
+</div>
+<div class="bibtex_source"><pre>@article{NathanielGHarnett_2021_06_Prognosticneuroimaging,
+    author = "Harnett, Nathaniel G and van Rooij, Sanne JH and Ely, Timothy D and Lebois, Lauren AM and Murty, Vishnu P and Jovanovic, Tanja and Hill, Sarah B and Dumornay, Nathalie M and Merker, Julia B and Bruce, Steve E and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Zeng, Donglin and Neylan, Thomas C and Clifford, Gari D and Linnstaedt, Sarah D and Germine, Laura T and Bollen, Kenneth A and Rauch, Scott L and Lewandowski, Christopher and Hendry, Phyllis L and Sheikh, Sophia and Storrow, Alan B and Jr, Paul I Musey and Haran, John P and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and McGrath, Meghan E and Pascual, Jose L and Seamon, Mark J and Mohiuddin, Kamran and Chang, Anna M and Pearson, Claire and Peak, David A and Domeier, Robert M and Rathlev, Niels K and Sanchez, Leon D and Pietrzak, Robert H and Joormann, Jutta and Barch, Deanna M and Pizzagalli, Diego A and Sheridan, John F and Harte, Steven E and Elliott, James M and Kessler, Ronald C and Koenen, Karestan C and Mclean, Samuel and Ressler, Kerry J and Stevens, Jennifer S",
+    title = "Prognostic neuroimaging biomarkers of trauma-related psychopathology: resting-state fMRI shortly after trauma predicts future PTSD and depression symptoms in the AURORA study",
+    date = "2021-01-21",
+    issue = "7",
+    journal = "Neuropsychopharmacology",
+    url = "https://www.nature.com/articles/s41386-020-00946-8.pdf",
+    pages = "1263-1271",
+    volume = "46",
+    note = "Publisher: Springer International Publishing"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="NathanielGHarnett_2021_06_Prognosticneuroimaging">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="NathanielGHarnett_2021_06_Prognosticneuroimaging">[show citation]</label>
 </div></div></td></tr><tr>
 <td>213</td>
 <td><div class="citation_container">
