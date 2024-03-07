@@ -2026,7 +2026,7 @@ Harnett NG, Rooij SJ, Ely TD, Lebois LA, Murty VP, Jovanovic T, Hill SB, Dumorna
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ErickAPerezAlday_2020_12_29_Classificationof">
 <div class="citation">
-Alday EAP, Gu A, Shah AJ, Robichaux C, Wong AI, Liu C, Liu F, Rad AB, Elola A, Seyedi S, Li Q, Sharma A, Clifford GD, Reyna MA. <a href="https://iopscience.iop.org/article/10.1088/1361-6579/abc960/pdf?casa_token=tpPs6YgTdvoAAAAA:PcTvl6-EkNgjYX8pqxVPH4m8DevOIkHZ0a7jJgIYyORtc00AmLw41HFz9Ln3Ct-Ekn2Og2TdEp7QnTwQOWPVOgEm5Yk">Classification of 12-lead ecgs: the physionet/computing in cardiology challenge 2020</a>. Physiological Measurement 2020 December 29; 41 (12): p. 124003.
+Alday EAP, Gu A, Shah AJ, Robichaux C, Wong AI, Liu C, Liu F, Rad AB, Elola A, Seyedi S, Li Q, Sharma A, Clifford GD, Reyna MA. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8015789/pdf/nihms-1683846.pdf">Classification of 12-lead ecgs: the physionet/computing in cardiology challenge 2020</a>. Physiological Measurement 2020 December 29; 41 (12): p. 124003.
 </div>
 <div class="bibtex_source"><pre>@article{ErickAPerezAlday_2020_12_29_Classificationof,
     author = "Alday, Erick A Perez and Gu, Annie and Shah, Amit J and Robichaux, Chad and Wong, An-Kwok Ian and Liu, Chengyu and Liu, Feifei and Rad, Ali Bahrami and Elola, Andoni and Seyedi, Salman and Li, Qiao and Sharma, Ashish and Clifford, Gari D and Reyna, Matthew A",
@@ -2034,7 +2034,7 @@ Alday EAP, Gu A, Shah AJ, Robichaux C, Wong AI, Liu C, Liu F, Rad AB, Elola A, S
     date = "2020-12-29",
     issue = "12",
     journal = "Physiological Measurement",
-    url = "https://iopscience.iop.org/article/10.1088/1361-6579/abc960/pdf?casa\_token=tpPs6YgTdvoAAAAA:PcTvl6-EkNgjYX8pqxVPH4m8DevOIkHZ0a7jJgIYyORtc00AmLw41HFz9Ln3Ct-Ekn2Og2TdEp7QnTwQOWPVOgEm5Yk",
+    url = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8015789/pdf/nihms-1683846.pdf",
     pages = "124003",
     volume = "41",
     note = "Publisher: IOP Publishing"
