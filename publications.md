@@ -3128,6 +3128,30 @@ Zhu T, Johnson AE, Yang Y, Clifford GD, Clifton DA. <a href="https://iopscience.
 </div></div></td></tr><tr>
 <td>158</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="GiuliaDaPoian_2017_09_14_Matchedfiltering">
+<div class="citation">
+Poian GD, Rozell CJ, Bernardini R, Rinaldo R, Clifford GD. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-iN2lGNmdNbWNXZDhLbVdhbnowWEE1MlRCZWdF/view?usp=sharing&resourcekey=0-raeE1iDI7LjfxWcMbUZsFA">Matched filtering for heart rate estimation on compressive sensing ECG measurements</a>. IEEE Transactions on Biomedical Engineering 2018 June; 65 (6): pp. 1349-1358.
+</div>
+<div class="bibtex_source"><pre>@article{GiuliaDaPoian_2017_09_14_Matchedfiltering,
+    author = "Poian, Giulia Da and Rozell, Christopher J and Bernardini, Riccardo and Rinaldo, Roberto and Clifford, Gari D",
+    title = "Matched filtering for heart rate estimation on compressive sensing ECG measurements",
+    date = "2018-06",
+    issue = "6",
+    journal = "IEEE Transactions on Biomedical Engineering",
+    url = "https://drive.google.com/file/d/0B5wjNvhEV8-iN2lGNmdNbWNXZDhLbVdhbnowWEE1MlRCZWdF/view?usp=sharing\&resourcekey=0-raeE1iDI7LjfxWcMbUZsFA",
+    pages = "1349-1358",
+    volume = "65",
+    note = "Publisher: IEEE"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="GiuliaDaPoian_2017_09_14_Matchedfiltering">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="GiuliaDaPoian_2017_09_14_Matchedfiltering">[show citation]</label>
+</div></div></td></tr><tr>
+<td>157</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ErikReinertsen_2018_05_15_Areview">
 <div class="citation">
 Reinertsen E, Clifford GD. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5995114/pdf/nihms969639.pdf">A review of physiological and behavioral monitoring with digital sensors for neuropsychiatric illnesses</a>. Physiological Measurement 2018 May 15; 39 (5): p. 05TR01.
@@ -3150,7 +3174,7 @@ Reinertsen E, Clifford GD. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PM
 <div class="hidebibtex">
 <label for="ErikReinertsen_2018_05_15_Areview">[show citation]</label>
 </div></div></td></tr><tr>
-<td>157</td>
+<td>156</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShamimNemati_2018_04_01_AnInterpretable">
 <div class="citation">
@@ -3174,7 +3198,7 @@ Nemati S, Holder A, Razmi F, Stanley MD, Clifford GD, Buchman TG. <a href="https
 <div class="hidebibtex">
 <label for="ShamimNemati_2018_04_01_AnInterpretable">[show citation]</label>
 </div></div></td></tr><tr>
-<td>156</td>
+<td>155</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SupreethPShashikumar_2017_11_29_Multiscalenetwork">
 <div class="citation">
@@ -3198,7 +3222,7 @@ Shashikumar SP, Li Q, Clifford GD, Nemati S. <a href="https://iopscience.iop.org
 <div class="hidebibtex">
 <label for="SupreethPShashikumar_2017_11_29_Multiscalenetwork">[show citation]</label>
 </div></div></td></tr><tr>
-<td>155</td>
+<td>154</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AdrianaNVest_2017_11_01_Benchmarkingheart">
 <div class="citation">
@@ -3222,7 +3246,7 @@ Vest AN, Li Q, Liu C, Nemati S, Shah A, Clifford GD. <a href="https://drive.goog
 <div class="hidebibtex">
 <label for="AdrianaNVest_2017_11_01_Benchmarkingheart">[show citation]</label>
 </div></div></td></tr><tr>
-<td>154</td>
+<td>153</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SupreethPShashikumar_2017_11_01_Earlysepsis">
 <div class="citation">
@@ -3246,7 +3270,7 @@ Shashikumar SP, Stanley MD, Sadiq I, Li Q, Holder A, Clifford GD, Nemati S. <a h
 <div class="hidebibtex">
 <label for="SupreethPShashikumar_2017_11_01_Earlysepsis">[show citation]</label>
 </div></div></td></tr><tr>
-<td>153</td>
+<td>152</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LisaStroux_2017_11_01_Dopplerbasedfetal">
 <div class="citation">
@@ -3269,7 +3293,7 @@ Stroux L, Redman CW, Georgieva A, Payne SJ, Clifford GD. <a href="https://drive.
 <div class="hidebibtex">
 <label for="LisaStroux_2017_11_01_Dopplerbasedfetal">[show citation]</label>
 </div></div></td></tr><tr>
-<td>152</td>
+<td>151</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RachelHallClifford_2017_10_15_Sustainabletechnology">
 <div class="citation">
@@ -3291,7 +3315,7 @@ Clifford RH, Roche S, Fathima S, Palmius N, Hollingworth K, Kennedy J, Merida J,
 <div class="hidebibtex">
 <label for="RachelHallClifford_2017_10_15_Sustainabletechnology">[show citation]</label>
 </div></div></td></tr><tr>
-<td>151</td>
+<td>150</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LisaMuirhead_2017_10_01_Criticalquestions">
 <div class="citation">
@@ -3315,35 +3339,11 @@ Muirhead L, Hall P, Jones-Taylor C, Clifford GD, Felton-Williams T, Williams K. 
 <div class="hidebibtex">
 <label for="LisaMuirhead_2017_10_01_Criticalquestions">[show citation]</label>
 </div></div></td></tr><tr>
-<td>150</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="GiuliaDaPoian_2017_09_14_Matchedfiltering">
-<div class="citation">
-Poian GD, Rozell CJ, Bernardini R, Rinaldo R, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/8038020/">Matched filtering for heart rate estimation on compressive sensing ECG measurements</a>. IEEE Transactions on Biomedical Engineering 2017 September 14; 65 (6): pp. 1349-1358.
-</div>
-<div class="bibtex_source"><pre>@article{GiuliaDaPoian_2017_09_14_Matchedfiltering,
-    author = "Poian, Giulia Da and Rozell, Christopher J and Bernardini, Riccardo and Rinaldo, Roberto and Clifford, Gari D",
-    title = "Matched filtering for heart rate estimation on compressive sensing ECG measurements",
-    date = "2017-09-14",
-    issue = "6",
-    journal = "IEEE Transactions on Biomedical Engineering",
-    url = "https://ieeexplore.ieee.org/abstract/document/8038020/",
-    pages = "1349-1358",
-    volume = "65",
-    note = "Publisher: IEEE"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="GiuliaDaPoian_2017_09_14_Matchedfiltering">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="GiuliaDaPoian_2017_09_14_Matchedfiltering">[show citation]</label>
-</div></div></td></tr><tr>
 <td>149</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChengyuLiu_2017_08_01_Performanceof">
 <div class="citation">
-Liu C, Springer D, Clifford GD. <a href="https://iopscience.iop.org/article/10.1088/1361-6579/aa6e9f/meta">Performance of an open-source heart sound segmentation algorithm on eight independent databases</a>. Physiological Measurement 2017 August 1; 38 (8): p. 1730.
+Liu C, Springer D, Clifford GD. <a href="https://iopscience.iop.org/article/10.1088/1361-6579/aa6e9f/pdf">Performance of an open-source heart sound segmentation algorithm on eight independent databases</a>. Physiological Measurement 2017 August 1; 38 (8): pp. 1730-1745.
 </div>
 <div class="bibtex_source"><pre>@article{ChengyuLiu_2017_08_01_Performanceof,
     author = "Liu, Chengyu and Springer, David and Clifford, Gari D",
@@ -3351,8 +3351,8 @@ Liu C, Springer D, Clifford GD. <a href="https://iopscience.iop.org/article/10.1
     date = "2017-08-01",
     issue = "8",
     journal = "Physiological Measurement",
-    url = "https://iopscience.iop.org/article/10.1088/1361-6579/aa6e9f/meta",
-    pages = "1730",
+    url = "https://iopscience.iop.org/article/10.1088/1361-6579/aa6e9f/pdf",
+    pages = "1730-1745",
     volume = "38",
     note = "Publisher: IOP Publishing"
 }
@@ -3391,16 +3391,17 @@ Whitaker BM, Suresha PB, Liu C, Clifford GD, Anderson DV. <a href="https://drive
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="CamiloEValderrama_2017_07_18_Templatebasedquality">
 <div class="citation">
-Valderrama CE, Marzbanrad F, Stroux L, Clifford GD. <a href="https://www.frontiersin.org/articles/10.3389/fphys.2017.00511/full">Template-based quality assessment of the Doppler ultrasound signal for fetal monitoring</a>. Frontiers in Physiology 2017 July 18; 8: p. 511.
+Valderrama CE, Marzbanrad F, Stroux L, Clifford GD. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-ic0pxRmhiS1BKbGs/view?usp=sharing&resourcekey=0-2BTUEGNNWoKYWneAkfSUrA">Template-based quality assessment of the Doppler ultrasound signal for fetal monitoring</a>. Frontiers in Physiology 2017 July 18; 8: p. 511. DOI: <a href="https://doi.org/10.3389/fphys.2017.00511">10.3389/fphys.2017.00511</a>.
 </div>
 <div class="bibtex_source"><pre>@article{CamiloEValderrama_2017_07_18_Templatebasedquality,
     author = "Valderrama, Camilo E and Marzbanrad, Faezeh and Stroux, Lisa and Clifford, Gari D",
     title = "Template-based quality assessment of the Doppler ultrasound signal for fetal monitoring",
     date = "2017-07-18",
     journal = "Frontiers in Physiology",
-    url = "https://www.frontiersin.org/articles/10.3389/fphys.2017.00511/full",
+    url = "https://drive.google.com/file/d/0B5wjNvhEV8-ic0pxRmhiS1BKbGs/view?usp=sharing\&resourcekey=0-2BTUEGNNWoKYWneAkfSUrA",
     pages = "511",
     volume = "8",
+    doi = "10.3389/fphys.2017.00511",
     note = "Publisher: Frontiers"
 }
 </pre>
@@ -3414,7 +3415,7 @@ Valderrama CE, Marzbanrad F, Stroux L, Clifford GD. <a href="https://www.frontie
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GiuliaDaPoian_2017_06_27_Atrialfibrillation">
 <div class="citation">
-Poian GD, Liu C, Bernardini R, Rinaldo R, Clifford GD. <a href="https://iopscience.iop.org/article/10.1088/1361-6579/aa7652/meta">Atrial fibrillation detection on compressed sensed ECG</a>. Physiological Measurement 2017 June 27; 38 (7): p. 1405.
+Poian GD, Liu C, Bernardini R, Rinaldo R, Clifford GD. <a href="https://iopscience.iop.org/article/10.1088/1361-6579/aa7652/pdf">Atrial fibrillation detection on compressed sensed ECG</a>. Physiological Measurement 2017 June 27; 38 (7): pp. 1405-1425.
 </div>
 <div class="bibtex_source"><pre>@article{GiuliaDaPoian_2017_06_27_Atrialfibrillation,
     author = "Poian, Giulia Da and Liu, Chengyu and Bernardini, Riccardo and Rinaldo, Roberto and Clifford, Gari D",
@@ -3422,8 +3423,8 @@ Poian GD, Liu C, Bernardini R, Rinaldo R, Clifford GD. <a href="https://iopscien
     date = "2017-06-27",
     issue = "7",
     journal = "Physiological Measurement",
-    url = "https://iopscience.iop.org/article/10.1088/1361-6579/aa7652/meta",
-    pages = "1405",
+    url = "https://iopscience.iop.org/article/10.1088/1361-6579/aa7652/pdf",
+    pages = "1405-1425",
     volume = "38",
     note = "Publisher: IOP Publishing"
 }
