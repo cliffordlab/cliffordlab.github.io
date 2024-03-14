@@ -11,32 +11,11 @@ permalink: /publications
 
 <table>
 <tr>
-<td>289</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="LiweiLehman_2024_02_13_VTaCA">
-<div class="citation">
-Lehman L, Moody B, Deep H, Wu F, Saeed H, McCullum L, Perry D, Struja T, Li Q, Clifford G, Mark R. <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/7a53bf4e02022aad32a4019d41b3b476-Abstract-Datasets_and_Benchmarks.html">VTaC: A Benchmark Dataset of Ventricular Tachycardia Alarms from ICU Monitors</a>. Advances in Neural Information Processing Systems 2024 February 13; 36.
-</div>
-<div class="bibtex_source"><pre>@article{LiweiLehman_2024_02_13_VTaCA,
-    author = "Lehman, Li-wei and Moody, Benjamin and Deep, Harsh and Wu, Feng and Saeed, Hasan and McCullum, Lucas and Perry, Diane and Struja, Tristan and Li, Qiao and Clifford, Gari and Mark, Roger",
-    title = "VTaC: A Benchmark Dataset of Ventricular Tachycardia Alarms from ICU Monitors",
-    date = "2024-02-13",
-    journal = "Advances in Neural Information Processing Systems",
-    url = "https://proceedings.neurips.cc/paper\_files/paper/2023/hash/7a53bf4e02022aad32a4019d41b3b476-Abstract-Datasets\_and\_Benchmarks.html",
-    volume = "36"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="LiweiLehman_2024_02_13_VTaCA">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="LiweiLehman_2024_02_13_VTaCA">[show citation]</label>
-</div></div></td></tr><tr>
 <td>288</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="McGregorJoyner_2024_02_07_Usinga">
 <div class="citation">
-Joyner M, Hsu S, Martin S, Dwyer J, Chen DF, Sameni R, Waters SH, Borodin K, Clifford GD, Levey AI, Hixson J, Winkel D, Berent J. <a href="https://link.springer.com/article/10.1186/s42234-023-00135-0">Using a standalone ear-EEG device for focal-onset seizure detection</a>. Bioelectronic Medicine 2024 February 7; 10 (1): p. 4.
+Joyner M, Hsu S, Martin S, Dwyer J, Chen DF, Sameni R, Waters SH, Borodin K, Clifford GD, Levey AI, Hixson J, Winkel D, Berent J. <a href="https://drive.google.com/file/d/1n9HOB80wO_3C28DWyYslk_n827ECqGww/view?usp=sharing">Using a standalone ear-EEG device for focal-onset seizure detection</a>. Bioelectronic Medicine 2024 February 7; 10 (1): p. 4.
 </div>
 <div class="bibtex_source"><pre>@article{McGregorJoyner_2024_02_07_Usinga,
     author = "Joyner, McGregor and Hsu, Sheng-Hsiou and Martin, Stephanie and Dwyer, Jennifer and Chen, Denise Fay and Sameni, Reza and Waters, Samuel H and Borodin, Konstantin and Clifford, Gari D and Levey, Allan I and Hixson, John and Winkel, Daniel and Berent, Jonathan",
@@ -44,7 +23,7 @@ Joyner M, Hsu S, Martin S, Dwyer J, Chen DF, Sameni R, Waters SH, Borodin K, Cli
     date = "2024-02-07",
     issue = "1",
     journal = "Bioelectronic Medicine",
-    url = "https://link.springer.com/article/10.1186/s42234-023-00135-0",
+    url = "https://drive.google.com/file/d/1n9HOB80wO\_3C28DWyYslk\_n827ECqGww/view?usp=sharing",
     pages = "4",
     volume = "10",
     note = "Publisher: BioMed Central"
@@ -60,14 +39,15 @@ Joyner M, Hsu S, Martin S, Dwyer J, Chen DF, Sameni R, Waters SH, Borodin K, Cli
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChengDing_2024_02_01_LearningFrom">
 <div class="citation">
-Ding C, Guo Z, Rudin C, Xiao R, Shah A, Do DH, Lee RJ, Clifford G, Nahab FB, Hu X. <a href="https://ieeexplore.ieee.org/abstract/document/10418255/">Learning From Alarms: A Robust Learning Approach for Accurate Photoplethysmography-Based Atrial Fibrillation Detection using Eight Million Samples Labeled with Imprecise Arrhythmia Alarms</a>. IEEE Journal of Biomedical and Health Informatics 2024 February 1.
+Ding C, Guo Z, Rudin C, Xiao R, Shah A, Do DH, Lee RJ, Clifford G, Nahab FB, Hu X. <a href="https://drive.google.com/file/d/1YmiQ5NlX7QMSj5Eqcwtmun3Q3UgUg6oE/view?usp=sharing">Learning From Alarms: A Robust Learning Approach for Accurate Photoplethysmography-Based Atrial Fibrillation Detection using Eight Million Samples Labeled with Imprecise Arrhythmia Alarms</a>. IEEE Journal of Biomedical and Health Informatics 2024 February 1. DOI: <a href="https://doi.org/10.1109/JBHI.2024.3360952">10.1109/JBHI.2024.3360952</a>.
 </div>
 <div class="bibtex_source"><pre>@article{ChengDing_2024_02_01_LearningFrom,
     author = "Ding, Cheng and Guo, Zhicheng and Rudin, Cynthia and Xiao, Ran and Shah, Amit and Do, Duc H and Lee, Randall J and Clifford, Gari and Nahab, Fadi B and Hu, Xiao",
     title = "Learning From Alarms: A Robust Learning Approach for Accurate Photoplethysmography-Based Atrial Fibrillation Detection using Eight Million Samples Labeled with Imprecise Arrhythmia Alarms",
     date = "2024-02-01",
     journal = "IEEE Journal of Biomedical and Health Informatics",
-    url = "https://ieeexplore.ieee.org/abstract/document/10418255/",
+    url = "https://drive.google.com/file/d/1YmiQ5NlX7QMSj5Eqcwtmun3Q3UgUg6oE/view?usp=sharing",
+    doi = "10.1109/JBHI.2024.3360952",
     note = "Publisher: IEEE"
 }
 </pre>
@@ -81,7 +61,7 @@ Ding C, Guo Z, Rudin C, Xiao R, Shah A, Do DH, Lee RJ, Clifford G, Nahab FB, Hu 
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChaitraHegde_2024_01_16_IndoorGroup">
 <div class="citation">
-Hegde C, Kiarashi Y, Rodriguez AD, Levey AI, Doiron M, Kwon H, Clifford GD. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10400779">Indoor Group Identification and Localization Using Privacy-Preserving Edge Computing Distributed Camera Network</a>. IEEE Journal of Indoor and Seamless Positioning and Navigation 2024 January 16; 2: pp. 51-60.
+Hegde C, Kiarashi Y, Rodriguez AD, Levey AI, Doiron M, Kwon H, Clifford GD. <a href="https://drive.google.com/file/d/1bEl9866gnLYNRCbbJjQ8MMobdSNS3s8t/view?usp=sharing">Indoor Group Identification and Localization Using Privacy-Preserving Edge Computing Distributed Camera Network</a>. IEEE Journal of Indoor and Seamless Positioning and Navigation 2024 January 16; 2: pp. 51-60. DOI: <a href="https://doi.org/10.1109/jispin.2024.3354248">10.1109/jispin.2024.3354248</a>.
 </div>
 <div class="bibtex_source"><pre>@article{ChaitraHegde_2024_01_16_IndoorGroup,
     author = "Hegde, Chaitra and Kiarashi, Yashar and Rodriguez, Amy D and Levey, Allan I and Doiron, Matthew and Kwon, Hyeokhyen and Clifford, Gari D",
@@ -91,7 +71,8 @@ Hegde C, Kiarashi Y, Rodriguez AD, Levey AI, Doiron M, Kwon H, Clifford GD. <a h
     number = "",
     pages = "51-60",
     journal = "IEEE Journal of Indoor and Seamless Positioning and Navigation",
-    url = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=10400779",
+    url = "https://drive.google.com/file/d/1bEl9866gnLYNRCbbJjQ8MMobdSNS3s8t/view?usp=sharing",
+    doi = "10.1109/jispin.2024.3354248",
     note = "Publisher: IEEE"
 }
 </pre>
@@ -220,7 +201,7 @@ Kiarashi Y, Saghafi S, Das B, Hegde C, Madala VSK, Nakum A, Singh R, Tweedy R, D
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="HyeokhyenKwon_2023_11_28_AFeasibility">
 <div class="citation">
-Kwon H, Hegde C, Kiarashi Y, Madala VSK, Singh R, Nakum A, Tweedy R, Tonetto LM, Zimring CM, Doiron M, Rodriguez AD, Levey AI, Clifford GD. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10329418">A Feasibility Study on Indoor Localization and Multi-person Tracking Using Sparsely Distributed Camera Network with Edge Computing</a>. IEEE Journal of Indoor and Seamless Positioning and Navigation 2023 November 28; 1: pp. 187-198. DOI: <a href="https://doi.org/10.1109/JISPIN.2023.3337189">10.1109/JISPIN.2023.3337189</a>.
+Kwon H, Hegde C, Kiarashi Y, Madala VSK, Singh R, Nakum A, Tweedy R, Tonetto LM, Zimring CM, Doiron M, Rodriguez AD, Levey AI, Clifford GD. <a href="https://drive.google.com/file/d/1PqqkceZVSpi1XzTCBCfSbfRbMdJBA3Po/view?usp=sharing">A Feasibility Study on Indoor Localization and Multi-person Tracking Using Sparsely Distributed Camera Network with Edge Computing</a>. IEEE Journal of Indoor and Seamless Positioning and Navigation 2023 November 28; 1: pp. 187-198. DOI: <a href="https://doi.org/10.1109/JISPIN.2023.3337189">10.1109/JISPIN.2023.3337189</a>.
 </div>
 <div class="bibtex_source"><pre>@article{HyeokhyenKwon_2023_11_28_AFeasibility,
     author = "Kwon, Hyeokhyen and Hegde, Chaitra and Kiarashi, Yashar and Madala, Venkata Siva Krishna and Singh, Ratan and Nakum, ArjunSinh and Tweedy, Robert and Tonetto, Leandro Miletto and Zimring, Craig M and Doiron, Matthew and Rodriguez, Amy D and Levey, Allan I and Clifford, Gari D",
@@ -230,7 +211,7 @@ Kwon H, Hegde C, Kiarashi Y, Madala VSK, Singh R, Nakum A, Tweedy R, Tonetto LM,
     pages = "187-198",
     doi = "10.1109/JISPIN.2023.3337189",
     journal = "IEEE Journal of Indoor and Seamless Positioning and Navigation",
-    url = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=10329418",
+    url = "https://drive.google.com/file/d/1PqqkceZVSpi1XzTCBCfSbfRbMdJBA3Po/view?usp=sharing",
     note = "Publisher: IEEE"
 }
 </pre>
@@ -6823,6 +6804,28 @@ Clifford G. <a href="https://scholar.google.com/scholar?cluster=1308584897038135
 
 <table>
 <tr>
+<td>147</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="LiweiLehman_2024_02_13_VTaCA">
+<div class="citation">
+Lehman L, Moody B, Deep H, Wu F, Saeed H, McCullum L, Perry D, Struja T, Li Q, Clifford G, Mark R. <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/7a53bf4e02022aad32a4019d41b3b476-Paper-Datasets_and_Benchmarks.pdf">VTaC: A Benchmark Dataset of Ventricular Tachycardia Alarms from ICU Monitors</a>. Neural Information Processing Systems (NeurIPS) 2023, New Orleans, Louisiana, USA 2023 December 10; 36: pp. 38827-38843.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{LiweiLehman_2024_02_13_VTaCA,
+    author = "Lehman, Li-wei and Moody, Benjamin and Deep, Harsh and Wu, Feng and Saeed, Hasan and McCullum, Lucas and Perry, Diane and Struja, Tristan and Li, Qiao and Clifford, Gari and Mark, Roger",
+    title = "VTaC: A Benchmark Dataset of Ventricular Tachycardia Alarms from ICU Monitors",
+    date = "2023-12-10",
+    booktitle = "Neural Information Processing Systems (NeurIPS) 2023, New Orleans, Louisiana, USA",
+    url = "https://proceedings.neurips.cc/paper\_files/paper/2023/file/7a53bf4e02022aad32a4019d41b3b476-Paper-Datasets\_and\_Benchmarks.pdf",
+    volume = "36",
+    pages = "38827-38843"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="LiweiLehman_2024_02_13_VTaCA">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="LiweiLehman_2024_02_13_VTaCA">[show citation]</label>
+</div></div></td></tr><tr>
 <td>146</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RayanAAnsari_2023_11_06_Interpretationof">
