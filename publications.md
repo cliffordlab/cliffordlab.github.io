@@ -59,6 +59,30 @@ Ding C, Guo Z, Rudin C, Xiao R, Shah A, Do DH, Lee RJ, Clifford G, Nahab FB, Hu 
 </div></div></td></tr><tr>
 <td>282</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="CeciliaAHinojosa_2023_06_13_Associationsof">
+<div class="citation">
+Hinojosa CA, Liew A, An X, Stevens JS, Basu A, Rooij SJ, House SL, Beaudoin FL, Zeng D, Neylan TC, Clifford GD, Jovanovic T, Linnstaedt SD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Musey PI, Hendry PL, Sheikh S, Jones CW, Punches BE, Kurz MC, Swor RA, Hudak LA, Pascual JL, Seamon MJ, Datner EM, Chang AM, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, Sergot P, Sanchez LD, Bruce SE, Miller MW, Pietrzak RH, Joormann J, Pizzagalli DA, Sheridan JF, Harte SE, Elliott JM, Kessler RC, Koenen KC, McLean SA, Ressler KJ, Fani N. <a href="https://drive.google.com/file/d/10DVtEhgPSrFV4RVFXmBq0FEzN2hPk4Ve/view?usp=sharing">Associations of alcohol and cannabis use with change in posttraumatic stress disorder and depression symptoms over time in recently trauma-exposed individuals</a>. Psychological Medicine 2024 January; 54 (2): pp. 338-349.
+</div>
+<div class="bibtex_source"><pre>@article{CeciliaAHinojosa_2023_06_13_Associationsof,
+    author = "Hinojosa, Cecilia A and Liew, Amanda and An, Xinming and Stevens, Jennifer S and Basu, Archana and van Rooij, Sanne JH and House, Stacey L and Beaudoin, Francesca L and Zeng, Donglin and Neylan, Thomas C and Clifford, Gari D and Jovanovic, Tanja and Linnstaedt, Sarah D and Germine, Laura T and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Musey, Paul I and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Kurz, Michael C and Swor, Robert A and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Datner, Elizabeth M and Chang, Anna M and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and Sergot, Paulina and Sanchez, Leon D and Bruce, Steven E and Miller, Mark W and Pietrzak, Robert H and Joormann, Jutta and Pizzagalli, Diego A and Sheridan, John F and Harte, Steven E and Elliott, James M and Kessler, Ronald C and Koenen, Karestan C and McLean, Samuel A and Ressler, Kerry J and Fani, Negar",
+    title = "Associations of alcohol and cannabis use with change in posttraumatic stress disorder and depression symptoms over time in recently trauma-exposed individuals",
+    date = "2024-01",
+    issue = "2",
+    volume = "54",
+    pages = "338-349",
+    journal = "Psychological Medicine",
+    url = "https://drive.google.com/file/d/10DVtEhgPSrFV4RVFXmBq0FEzN2hPk4Ve/view?usp=sharing",
+    note = "Publisher: Cambridge University Press"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="CeciliaAHinojosa_2023_06_13_Associationsof">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="CeciliaAHinojosa_2023_06_13_Associationsof">[show citation]</label>
+</div></div></td></tr><tr>
+<td>281</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChaitraHegde_2024_01_16_IndoorGroup">
 <div class="citation">
 Hegde C, Kiarashi Y, Rodriguez AD, Levey AI, Doiron M, Kwon H, Clifford GD. <a href="https://drive.google.com/file/d/1bEl9866gnLYNRCbbJjQ8MMobdSNS3s8t/view?usp=sharing">Indoor Group Identification and Localization Using Privacy-Preserving Edge Computing Distributed Camera Network</a>. IEEE Journal of Indoor and Seamless Positioning and Navigation 2024 January 16; 2: pp. 51-60. DOI: <a href="https://doi.org/10.1109/jispin.2024.3354248">10.1109/jispin.2024.3354248</a>.
@@ -81,30 +105,6 @@ Hegde C, Kiarashi Y, Rodriguez AD, Levey AI, Doiron M, Kwon H, Clifford GD. <a h
 </div>
 <div class="hidebibtex">
 <label for="ChaitraHegde_2024_01_16_IndoorGroup">[show citation]</label>
-</div></div></td></tr><tr>
-<td>281</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="CeciliaAHinojosa_2023_06_13_Associationsof">
-<div class="citation">
-Hinojosa CA, Liew A, An X, Stevens JS, Basu A, Rooij SJ, House SL, Beaudoin FL, Zeng D, Neylan TC, Clifford GD, Jovanovic T, Linnstaedt SD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Musey PI, Hendry PL, Sheikh S, Jones CW, Punches BE, Kurz MC, Swor RA, Hudak LA, Pascual JL, Seamon MJ, Datner EM, Chang AM, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, Sergot P, Sanchez LD, Bruce SE, Miller MW, Pietrzak RH, Joormann J, Pizzagalli DA, Sheridan JF, Harte SE, Elliott JM, Kessler RC, Koenen KC, McLean SA, Ressler KJ, Fani N. <a href="https://drive.google.com/file/d/10DVtEhgPSrFV4RVFXmBq0FEzN2hPk4Ve/view?usp=sharing">Associations of alcohol and cannabis use with change in posttraumatic stress disorder and depression symptoms over time in recently trauma-exposed individuals</a>. Psychological Medicine 2024 January; 54 (2): pp. 338-349.
-</div>
-<div class="bibtex_source"><pre>@article{CeciliaAHinojosa_2023_06_13_Associationsof,
-    author = "Hinojosa, Cecilia A and Liew, Amanda and An, Xinming and Stevens, Jennifer S and Basu, Archana and van Rooij, Sanne JH and House, Stacey L and Beaudoin, Francesca L and Zeng, Donglin and Neylan, Thomas C and Clifford, Gari D and Jovanovic, Tanja and Linnstaedt, Sarah D and Germine, Laura T and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Musey, Paul I and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Kurz, Michael C and Swor, Robert A and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Datner, Elizabeth M and Chang, Anna M and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and Sergot, Paulina and Sanchez, Leon D and Bruce, Steven E and Miller, Mark W and Pietrzak, Robert H and Joormann, Jutta and Pizzagalli, Diego A and Sheridan, John F and Harte, Steven E and Elliott, James M and Kessler, Ronald C and Koenen, Karestan C and McLean, Samuel A and Ressler, Kerry J and Fani, Negar",
-    title = "Associations of alcohol and cannabis use with change in posttraumatic stress disorder and depression symptoms over time in recently trauma-exposed individuals",
-    date = "2024-01",
-    issue = "2",
-    volume = "54",
-    pages = "338-349",
-    journal = "Psychological Medicine",
-    url = "https://drive.google.com/file/d/10DVtEhgPSrFV4RVFXmBq0FEzN2hPk4Ve/view?usp=sharing",
-    note = "Publisher: Cambridge University Press"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="CeciliaAHinojosa_2023_06_13_Associationsof">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="CeciliaAHinojosa_2023_06_13_Associationsof">[show citation]</label>
 </div></div></td></tr><tr>
 <td>280</td>
 <td><div class="citation_container">
@@ -530,29 +530,6 @@ Xiao R, Ding C, Hu X, Clifford GD, Wright DW, Shah AJ, Al-Zaiti S, Z<span class=
 </div></div></td></tr><tr>
 <td>262</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="SamanthaAWong_2023_03_17_Internalcapsule">
-<div class="citation">
-Wong SA, Lebois LA, Ely TD, Rooij SJ, Bruce SE, Murty VP, Jovanovic T, House SL, Beaudoin FL, An X, Zeng D, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Bollen KA, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Kurz MC, Swor RA, Hudak LA, Pascual JL, Seamon MJ, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Miller MW, Pietrzak RH, Joormann J, Barch DM, Pizzagalli DA, Harte SE, Elliott JM, Kessler RC, Koenen KC, McLean SA, Ressler KJ, Stevens JS, Harnett NG. <a href="https://drive.google.com/file/d/1412SXSo1KtA-Fbrd16XA24AnU1wNtEsy/view?usp=sharing">Internal capsule microstructure mediates the relationship between childhood maltreatment and PTSD following adulthood trauma exposure</a>. Molecular psychiatry 2023 March 17; pp. 1-10. DOI: <a href="https://doi.org/10.1038/s41380-023-02012-3">10.1038/s41380-023-02012-3</a>.
-</div>
-<div class="bibtex_source"><pre>@article{SamanthaAWong_2023_03_17_Internalcapsule,
-    author = "Wong, Samantha A and Lebois, Lauren AM and Ely, Timothy D and van Rooij, Sanne JH and Bruce, Steven E and Murty, Vishnu P and Jovanovic, Tanja and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Zeng, Donglin and Neylan, Thomas C and Clifford, Gari D and Linnstaedt, Sarah D and Germine, Laura T and Bollen, Kenneth A and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Kurz, Michael C and Swor, Robert A and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sergot, Paulina and Sanchez, Leon D and Miller, Mark W and Pietrzak, Robert H and Joormann, Jutta and Barch, Deanna M and Pizzagalli, Diego A and Harte, Steven E and Elliott, James M and Kessler, Ronald C and Koenen, Karestan C and McLean, Samuel A and Ressler, Kerry J and Stevens, Jennifer S and Harnett, Nathaniel G",
-    title = "Internal capsule microstructure mediates the relationship between childhood maltreatment and PTSD following adulthood trauma exposure",
-    date = "2023-03-17",
-    pages = "1-10",
-    journal = "Molecular psychiatry",
-    url = "https://drive.google.com/file/d/1412SXSo1KtA-Fbrd16XA24AnU1wNtEsy/view?usp=sharing",
-    doi = "10.1038/s41380-023-02012-3",
-    note = "Publisher: Nature Publishing Group UK"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="SamanthaAWong_2023_03_17_Internalcapsule">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="SamanthaAWong_2023_03_17_Internalcapsule">[show citation]</label>
-</div></div></td></tr><tr>
-<td>261</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShafaatAliSheikh_2023_Impedancecardiogram">
 <div class="citation">
 Sheikh SA, Shah AJ, Bremner JD, Vaccarino V, Inan OT, Clifford GD, Rad AB. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.14488">Impedance cardiogram based exploration of cardiac mechanisms in post-traumatic stress disorder during trauma recall</a>. Psychophysiology 2023; p. e14488. DOI: <a href="https://doi.org/10.1111/psyp.14488">10.1111/psyp.14488</a>.
@@ -573,7 +550,7 @@ Sheikh SA, Shah AJ, Bremner JD, Vaccarino V, Inan OT, Clifford GD, Rad AB. <a hr
 <div class="hidebibtex">
 <label for="ShafaatAliSheikh_2023_Impedancecardiogram">[show citation]</label>
 </div></div></td></tr><tr>
-<td>260</td>
+<td>261</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="HNZiobrowski_2023_Childhoodadversities">
 <div class="citation">
@@ -597,7 +574,7 @@ Ziobrowski H, Holt-Gosselin B, Petukhova M, King A, Lee S, House S, Beaudoin F, 
 <div class="hidebibtex">
 <label for="HNZiobrowski_2023_Childhoodadversities">[show citation]</label>
 </div></div></td></tr><tr>
-<td>259</td>
+<td>260</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShafaatAliSheikh_2023_03_Associationbetween">
 <div class="citation">
@@ -619,6 +596,29 @@ Sheikh SA, Alday EAP, Rad AB, Levantsevych O, Alkhalaf M, Soudan M, Abdulbaki R,
 </div>
 <div class="hidebibtex">
 <label for="ShafaatAliSheikh_2023_03_Associationbetween">[show citation]</label>
+</div></div></td></tr><tr>
+<td>259</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="SamanthaAWong_2023_03_17_Internalcapsule">
+<div class="citation">
+Wong SA, Lebois LA, Ely TD, Rooij SJ, Bruce SE, Murty VP, Jovanovic T, House SL, Beaudoin FL, An X, Zeng D, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Bollen KA, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Kurz MC, Swor RA, Hudak LA, Pascual JL, Seamon MJ, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Miller MW, Pietrzak RH, Joormann J, Barch DM, Pizzagalli DA, Harte SE, Elliott JM, Kessler RC, Koenen KC, McLean SA, Ressler KJ, Stevens JS, Harnett NG. <a href="https://drive.google.com/file/d/1412SXSo1KtA-Fbrd16XA24AnU1wNtEsy/view?usp=sharing">Internal capsule microstructure mediates the relationship between childhood maltreatment and PTSD following adulthood trauma exposure</a>. Molecular psychiatry 2023 March 17; pp. 1-10. DOI: <a href="https://doi.org/10.1038/s41380-023-02012-3">10.1038/s41380-023-02012-3</a>.
+</div>
+<div class="bibtex_source"><pre>@article{SamanthaAWong_2023_03_17_Internalcapsule,
+    author = "Wong, Samantha A and Lebois, Lauren AM and Ely, Timothy D and van Rooij, Sanne JH and Bruce, Steven E and Murty, Vishnu P and Jovanovic, Tanja and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Zeng, Donglin and Neylan, Thomas C and Clifford, Gari D and Linnstaedt, Sarah D and Germine, Laura T and Bollen, Kenneth A and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Kurz, Michael C and Swor, Robert A and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sergot, Paulina and Sanchez, Leon D and Miller, Mark W and Pietrzak, Robert H and Joormann, Jutta and Barch, Deanna M and Pizzagalli, Diego A and Harte, Steven E and Elliott, James M and Kessler, Ronald C and Koenen, Karestan C and McLean, Samuel A and Ressler, Kerry J and Stevens, Jennifer S and Harnett, Nathaniel G",
+    title = "Internal capsule microstructure mediates the relationship between childhood maltreatment and PTSD following adulthood trauma exposure",
+    date = "2023-03-17",
+    pages = "1-10",
+    journal = "Molecular psychiatry",
+    url = "https://drive.google.com/file/d/1412SXSo1KtA-Fbrd16XA24AnU1wNtEsy/view?usp=sharing",
+    doi = "10.1038/s41380-023-02012-3",
+    note = "Publisher: Nature Publishing Group UK"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="SamanthaAWong_2023_03_17_Internalcapsule">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="SamanthaAWong_2023_03_17_Internalcapsule">[show citation]</label>
 </div></div></td></tr><tr>
 <td>258</td>
 <td><div class="citation_container">
@@ -718,6 +718,29 @@ Katebi N, Sameni R, Rohloff P, Clifford GD. <a href="https://drive.google.com/fi
 </div></div></td></tr><tr>
 <td>254</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="ErickAPerezAlday_2023_02_Associationof">
+<div class="citation">
+Alday EAP, Poian GD, Levantsevych O, Murrah N, Shallenberger L, Alkhalaf M, Haffar A, Kaseer B, Ko Y, Goldberg J, Smith N, Lampert R, Bremner JD, Clifford GD, Vaccarino V, Shah AJ. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.14167">Association of Autonomic Activation with traumatic reminder challenges in posttraumatic stress disorder: A co-twin control study</a>. Psychophysiology 2023 February; 60 (2): p. e14167.
+</div>
+<div class="bibtex_source"><pre>@article{ErickAPerezAlday_2023_02_Associationof,
+    author = "Alday, Erick A Perez and Poian, Giulia Da and Levantsevych, Oleksiy and Murrah, Nancy and Shallenberger, Lucy and Alkhalaf, Mhmtjamil and Haffar, Ammer and Kaseer, Belal and Ko, Yi{-}An and Goldberg, Jack and Smith, Nicholas and Lampert, Rachel and Bremner, J Douglas and Clifford, Gari D and Vaccarino, Viola and Shah, Amit J",
+    title = "Association of Autonomic Activation with traumatic reminder challenges in posttraumatic stress disorder: A co{-}twin control study",
+    date = "2023-02",
+    issue = "2",
+    journal = "Psychophysiology",
+    url = "https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.14167",
+    pages = "e14167",
+    volume = "60"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="ErickAPerezAlday_2023_02_Associationof">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="ErickAPerezAlday_2023_02_Associationof">[show citation]</label>
+</div></div></td></tr><tr>
+<td>253</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GraceERowland_2023_02_16_PriorSexual">
 <div class="citation">
 Rowland GE, Roeckner A, Ely TD, Lebois LA, Rooij SJ, Bruce SE, Jovanovic T, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Kurz MC, Gentile NT, Hudak LA, Pascual JL, Seamon MJ, Harris E, Pearson C, Merchant RC, Domeier RM, Rathlev NK, Sergot P, Sanchez LD, Miller MW, Pietrzak RH, Joormann J, Pizzagalli DA, Sheridan JF, Smoller JW, Harte SE, Elliott JM, Kessler RC, Koenen KC, McLean SA, Ressler KJ, Stevens JS, Harnett NG. <a href="https://drive.google.com/file/d/1gK3nnLQVl9jUXcLUsEAuN2mVrnNlRcxu/view?usp=sharing">Prior Sexual Trauma Exposure Impacts Posttraumatic Dysfunction and Neural Circuitry Following a Recent Traumatic Event in the AURORA Study</a>. Biological Psychiatry Global Open Science 2023 February 16; 3 (4): pp. 705-715.
@@ -739,29 +762,6 @@ Rowland GE, Roeckner A, Ely TD, Lebois LA, Rooij SJ, Bruce SE, Jovanovic T, Hous
 </div>
 <div class="hidebibtex">
 <label for="GraceERowland_2023_02_16_PriorSexual">[show citation]</label>
-</div></div></td></tr><tr>
-<td>253</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="ErickAPerezAlday_2023_02_Associationof">
-<div class="citation">
-Alday EAP, Poian GD, Levantsevych O, Murrah N, Shallenberger L, Alkhalaf M, Haffar A, Kaseer B, Ko Y, Goldberg J, Smith N, Lampert R, Bremner JD, Clifford GD, Vaccarino V, Shah AJ. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.14167">Association of Autonomic Activation with traumatic reminder challenges in posttraumatic stress disorder: A co-twin control study</a>. Psychophysiology 2023 February; 60 (2): p. e14167.
-</div>
-<div class="bibtex_source"><pre>@article{ErickAPerezAlday_2023_02_Associationof,
-    author = "Alday, Erick A Perez and Poian, Giulia Da and Levantsevych, Oleksiy and Murrah, Nancy and Shallenberger, Lucy and Alkhalaf, Mhmtjamil and Haffar, Ammer and Kaseer, Belal and Ko, Yi{-}An and Goldberg, Jack and Smith, Nicholas and Lampert, Rachel and Bremner, J Douglas and Clifford, Gari D and Vaccarino, Viola and Shah, Amit J",
-    title = "Association of Autonomic Activation with traumatic reminder challenges in posttraumatic stress disorder: A co{-}twin control study",
-    date = "2023-02",
-    issue = "2",
-    journal = "Psychophysiology",
-    url = "https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.14167",
-    pages = "e14167",
-    volume = "60"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="ErickAPerezAlday_2023_02_Associationof">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="ErickAPerezAlday_2023_02_Associationof">[show citation]</label>
 </div></div></td></tr><tr>
 <td>252</td>
 <td><div class="citation_container">
@@ -1529,30 +1529,6 @@ Clifford G, Nguyen T, Shaw C, Newton B, Francis S, Salari M, Evans C, Jones C, A
 </div></div></td></tr><tr>
 <td>220</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="AliBahramiRad_2021_11_16_Atrialfibrillation">
-<div class="citation">
-Rad AB, Galloway C, Treiman D, Xue J, Li Q, Sameni R, Albert D, Clifford GD. <a href="https://drive.google.com/file/d/1TFRm0b4uTImvtRCeb-t-ybLpeCHj4WMj">Atrial fibrillation detection in outpatient electrocardiogram monitoring: An algorithmic crowdsourcing approach</a>. PLos One 2021 November 16; 16 (11): p. e0259916.
-</div>
-<div class="bibtex_source"><pre>@article{AliBahramiRad_2021_11_16_Atrialfibrillation,
-    author = "Rad, Ali Bahrami and Galloway, Conner and Treiman, Daniel and Xue, Joel and Li, Qiao and Sameni, Reza and Albert, Dave and Clifford, Gari D",
-    title = "Atrial fibrillation detection in outpatient electrocardiogram monitoring: An algorithmic crowdsourcing approach",
-    date = "2021-11-16",
-    issue = "11",
-    journal = "PLos One",
-    url = "https://drive.google.com/file/d/1TFRm0b4uTImvtRCeb-t-ybLpeCHj4WMj",
-    pages = "e0259916",
-    volume = "16",
-    note = "Publisher: Public Library of Science"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="AliBahramiRad_2021_11_16_Atrialfibrillation">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="AliBahramiRad_2021_11_16_Atrialfibrillation">[show citation]</label>
-</div></div></td></tr><tr>
-<td>219</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JenniferSStevens_2021_11_Brainbasedbiotypes">
 <div class="citation">
 Stevens JS, Harnett NG, Lebois LA, Rooij SJV, Ely TD, Roeckner A, Vincent N, Beaudoin FL, An X, Zeng D, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Rauch SL, Lewandowski C, Storrow AB, Hendry PL, Sheikh S, Jr PIM, Haran JP, Jones CW, Punches BE, Lyons MS, Kurz MC, McGrath ME, Pascual JL, Datner EM, Chang AM, Pearson C, Peak DA, Domeier RM, O'Neil BJ, Rathlev NK, Sanchez LD, Pietrzak RH, Joormann J, Barch DM, Pizzagalli DA, Sheridan JF, Luna B, Harte SE, Elliott JM, Murty VP, Jovanovic T, Bruce SE, House SL, Kessler RC, Koenen KC, McLean SA, Ressler KJ. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9069566/pdf/nihms-1798569.pdf">Brain-based biotypes of psychiatric vulnerability in the acute aftermath of trauma</a>. American Journal of Psychiatry 2021 November; 178 (11): pp. 1037-1049.
@@ -1574,6 +1550,30 @@ Stevens JS, Harnett NG, Lebois LA, Rooij SJV, Ely TD, Roeckner A, Vincent N, Bea
 </div>
 <div class="hidebibtex">
 <label for="JenniferSStevens_2021_11_Brainbasedbiotypes">[show citation]</label>
+</div></div></td></tr><tr>
+<td>219</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="AliBahramiRad_2021_11_16_Atrialfibrillation">
+<div class="citation">
+Rad AB, Galloway C, Treiman D, Xue J, Li Q, Sameni R, Albert D, Clifford GD. <a href="https://drive.google.com/file/d/1TFRm0b4uTImvtRCeb-t-ybLpeCHj4WMj">Atrial fibrillation detection in outpatient electrocardiogram monitoring: An algorithmic crowdsourcing approach</a>. PLos One 2021 November 16; 16 (11): p. e0259916.
+</div>
+<div class="bibtex_source"><pre>@article{AliBahramiRad_2021_11_16_Atrialfibrillation,
+    author = "Rad, Ali Bahrami and Galloway, Conner and Treiman, Daniel and Xue, Joel and Li, Qiao and Sameni, Reza and Albert, Dave and Clifford, Gari D",
+    title = "Atrial fibrillation detection in outpatient electrocardiogram monitoring: An algorithmic crowdsourcing approach",
+    date = "2021-11-16",
+    issue = "11",
+    journal = "PLos One",
+    url = "https://drive.google.com/file/d/1TFRm0b4uTImvtRCeb-t-ybLpeCHj4WMj",
+    pages = "e0259916",
+    volume = "16",
+    note = "Publisher: Public Library of Science"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="AliBahramiRad_2021_11_16_Atrialfibrillation">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="AliBahramiRad_2021_11_16_Atrialfibrillation">[show citation]</label>
 </div></div></td></tr><tr>
 <td>218</td>
 <td><div class="citation_container">
@@ -4772,30 +4772,6 @@ Behar J, Wolfberg A, Zhu T, Oster J, Niksch A, Mah D, Chun T, Greenberg J, Tanne
 </div></div></td></tr><tr>
 <td>84</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="ARoebuck_2013_12_17_Areview">
-<div class="citation">
-Roebuck A, Monasterio V, Gederi E, Osipov M, Behar J, Malhotra A, Penzel T, Clifford G. <a href="https://iopscience.iop.org/article/10.1088/0967-3334/35/1/R1/meta">A review of signals used in sleep analysis</a>. Physiological measurement 2013 December 17; 35 (1): p. R1.
-</div>
-<div class="bibtex_source"><pre>@article{ARoebuck_2013_12_17_Areview,
-    author = "Roebuck, A and Monasterio, V and Gederi, E and Osipov, M and Behar, J and Malhotra, A and Penzel, T and Clifford, GD",
-    title = "A review of signals used in sleep analysis",
-    date = "2013-12-17",
-    issue = "1",
-    journal = "Physiological measurement",
-    url = "https://iopscience.iop.org/article/10.1088/0967-3334/35/1/R1/meta",
-    pages = "R1",
-    volume = "35",
-    note = "Publisher: IOP Publishing"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="ARoebuck_2013_12_17_Areview">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="ARoebuck_2013_12_17_Areview">[show citation]</label>
-</div></div></td></tr><tr>
-<td>83</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JohannesWKrug_2013_12_ECGbasedgating">
 <div class="citation">
 Krug JW, Rose G, Clifford GD, Oster J. <a href="https://jcmr-online.biomedcentral.com/articles/10.1186/1532-429X-15-104">ECG-based gating in ultra high field cardiovascular magnetic resonance using an independent component analysis approach</a>. Journal of Cardiovascular Magnetic Resonance 2013 December; 15 (1): pp. 1-13.
@@ -4817,6 +4793,30 @@ Krug JW, Rose G, Clifford GD, Oster J. <a href="https://jcmr-online.biomedcentra
 </div>
 <div class="hidebibtex">
 <label for="JohannesWKrug_2013_12_ECGbasedgating">[show citation]</label>
+</div></div></td></tr><tr>
+<td>83</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="ARoebuck_2013_12_17_Areview">
+<div class="citation">
+Roebuck A, Monasterio V, Gederi E, Osipov M, Behar J, Malhotra A, Penzel T, Clifford G. <a href="https://iopscience.iop.org/article/10.1088/0967-3334/35/1/R1/meta">A review of signals used in sleep analysis</a>. Physiological measurement 2013 December 17; 35 (1): p. R1.
+</div>
+<div class="bibtex_source"><pre>@article{ARoebuck_2013_12_17_Areview,
+    author = "Roebuck, A and Monasterio, V and Gederi, E and Osipov, M and Behar, J and Malhotra, A and Penzel, T and Clifford, GD",
+    title = "A review of signals used in sleep analysis",
+    date = "2013-12-17",
+    issue = "1",
+    journal = "Physiological measurement",
+    url = "https://iopscience.iop.org/article/10.1088/0967-3334/35/1/R1/meta",
+    pages = "R1",
+    volume = "35",
+    note = "Publisher: IOP Publishing"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="ARoebuck_2013_12_17_Areview">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="ARoebuck_2013_12_17_Areview">[show citation]</label>
 </div></div></td></tr><tr>
 <td>82</td>
 <td><div class="citation_container">
@@ -6719,7 +6719,7 @@ Clifford G. <a href="https://scholar.google.com/scholar?cluster=1308584897038135
 
 <table>
 <tr>
-<td>148</td>
+<td>149</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LiweiLehman_2024_02_13_VTaCA">
 <div class="citation">
@@ -6740,6 +6740,26 @@ Lehman L, Moody B, Deep H, Wu F, Saeed H, McCullum L, Perry D, Struja T, Li Q, C
 </div>
 <div class="hidebibtex">
 <label for="LiweiLehman_2024_02_13_VTaCA">[show citation]</label>
+</div></div></td></tr><tr>
+<td>148</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="MohsenMotieShirazi_2023_11_15_PointofCareRealTime">
+<div class="citation">
+Motie-Shirazi M, Sameni R, Rohloff P, Katebi N, Clifford GD. <a href="https://drive.google.com/file/d/1l4NLSguVhoVeH-TrNlHpvvEMxqiMKQH1/view?usp=sharing">Point-of-Care Real-Time Signal Quality for Fetal Doppler Ultrasound Using a Deep Learning Approach</a>. Conference on Machine Learning for Health (ML4H) 2023 - Finding Track, 1-11, New Orleans 2023 December 10.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{MohsenMotieShirazi_2023_11_15_PointofCareRealTime,
+    author = "Motie-Shirazi, Mohsen and Sameni, Reza and Rohloff, Peter and Katebi, Nasim and Clifford, Gari D",
+    title = "Point-of-Care Real-Time Signal Quality for Fetal Doppler Ultrasound Using a Deep Learning Approach",
+    date = "2023-12-10",
+    booktitle = "Conference on Machine Learning for Health (ML4H) 2023 - Finding Track, 1-11, New Orleans",
+    url = "https://drive.google.com/file/d/1l4NLSguVhoVeH-TrNlHpvvEMxqiMKQH1/view?usp=sharing"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="MohsenMotieShirazi_2023_11_15_PointofCareRealTime">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="MohsenMotieShirazi_2023_11_15_PointofCareRealTime">[show citation]</label>
 </div></div></td></tr><tr>
 <td>147</td>
 <td><div class="citation_container">
@@ -8191,50 +8211,6 @@ Clifford GD, Arteta C, Zhu T, Pimentel MA, Santos M, Domingos J, Maraci M, Behar
 </div></div></td></tr><tr>
 <td>83</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="TZhu_2014_09_17_Anintelligent">
-<div class="citation">
-Zhu T, Osipov M, Papastylianou T, Oster J, Clifton D, Clifford G. <a href="https://ieeexplore.ieee.org/abstract/document/7083597/">An intelligent cardiac health monitoring and review system</a>. Appropriate Healthcare Technologies for Low Resource Settings (AHT 2014) 2014 September 17; pp. 1-4.
-</div>
-<div class="bibtex_source"><pre>@inproceedings{TZhu_2014_09_17_Anintelligent,
-    author = "Zhu, T and Osipov, M and Papastylianou, T and Oster, J and Clifton, DA and Clifford, GD",
-    title = "An intelligent cardiac health monitoring and review system",
-    date = "2014-09-17",
-    booktitle = "Appropriate Healthcare Technologies for Low Resource Settings (AHT 2014)",
-    url = "https://ieeexplore.ieee.org/abstract/document/7083597/",
-    pages = "1-4",
-    publisher = "IET"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="TZhu_2014_09_17_Anintelligent">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="TZhu_2014_09_17_Anintelligent">[show citation]</label>
-</div></div></td></tr><tr>
-<td>82</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="JDaly_2014_09_17_SleepCareobstructive">
-<div class="citation">
-Daly J, Roebuck A, Palmius N, Morys M, Gilfriche P, Behar J, Clifford G. <a href="https://ieeexplore.ieee.org/abstract/document/7083577/">SleepCare: obstructive sleep apnoea screening using mobile health technology</a>. Appropriate Healthcare Technologies for Low Resource Settings (AHT 2014) 2014 September 17; pp. 1-4.
-</div>
-<div class="bibtex_source"><pre>@inproceedings{JDaly_2014_09_17_SleepCareobstructive,
-    author = "Daly, J and Roebuck, A and Palmius, N and Morys, M and Gilfriche, P and Behar, J and Clifford, GD",
-    title = "SleepCare: obstructive sleep apnoea screening using mobile health technology",
-    date = "2014-09-17",
-    booktitle = "Appropriate Healthcare Technologies for Low Resource Settings (AHT 2014)",
-    url = "https://ieeexplore.ieee.org/abstract/document/7083577/",
-    pages = "1-4",
-    publisher = "IET"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="JDaly_2014_09_17_SleepCareobstructive">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="JDaly_2014_09_17_SleepCareobstructive">[show citation]</label>
-</div></div></td></tr><tr>
-<td>81</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NPalmius_2014_09_Amultisensor">
 <div class="citation">
 Palmius N, Osipov M, Bilderbeck A, Goodwin G, Saunders K, Tsanas A, Clifford G. <a href="https://digital-library.theiet.org/content/conferences/10.1049/cp.2014.0764">A multi-sensor monitoring system for objective mental health management in resource constrained environments</a>. AHT 2014 September; pp. 4-4.
@@ -8255,7 +8231,7 @@ Palmius N, Osipov M, Bilderbeck A, Goodwin G, Saunders K, Tsanas A, Clifford G. 
 <div class="hidebibtex">
 <label for="NPalmius_2014_09_Amultisensor">[show citation]</label>
 </div></div></td></tr><tr>
-<td>80</td>
+<td>82</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="TPapastylianou_2014_01_01_Smarthandpumps">
 <div class="citation">
@@ -8277,7 +8253,7 @@ Papastylianou T, Behar J, Guazzi A, Jorge J, Laranjeira S, Maraci M, Clifford G,
 <div class="hidebibtex">
 <label for="TPapastylianou_2014_01_01_Smarthandpumps">[show citation]</label>
 </div></div></td></tr><tr>
-<td>79</td>
+<td>81</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MAFPimentel_2014_01_01_A5">
 <div class="citation">
@@ -8299,7 +8275,7 @@ Pimentel M, Santos M, Maraci M, Arteta C, Domingos J, Clifton D, Clifford G. <a 
 <div class="hidebibtex">
 <label for="MAFPimentel_2014_01_01_A5">[show citation]</label>
 </div></div></td></tr><tr>
-<td>78</td>
+<td>80</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LStroux_2014_01_01_Alowcost">
 <div class="citation">
@@ -8321,7 +8297,7 @@ Stroux L, King N, Fathima S, Hall-Clifford R, Rohloff P, Clifford G. <a href="ht
 <div class="hidebibtex">
 <label for="LStroux_2014_01_01_Alowcost">[show citation]</label>
 </div></div></td></tr><tr>
-<td>77</td>
+<td>79</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="DavidBSpringer_2014_01_01_Mobilephonebased">
 <div class="citation">
@@ -8343,7 +8319,7 @@ Springer DB, Z<span class="bibtex-protected">ü</span>hlke L, Mayosi B, Tarassen
 <div class="hidebibtex">
 <label for="DavidBSpringer_2014_01_01_Mobilephonebased">[show citation]</label>
 </div></div></td></tr><tr>
-<td>76</td>
+<td>78</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SanaFFathima_2014_01_01_Sanitationrelateddisease">
 <div class="citation">
@@ -8364,6 +8340,50 @@ Fathima SF, Palmius N, Clifton D, Rohloff P, Clifford G, Hall-Clifford R. <a hre
 </div>
 <div class="hidebibtex">
 <label for="SanaFFathima_2014_01_01_Sanitationrelateddisease">[show citation]</label>
+</div></div></td></tr><tr>
+<td>77</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="TZhu_2014_09_17_Anintelligent">
+<div class="citation">
+Zhu T, Osipov M, Papastylianou T, Oster J, Clifton D, Clifford G. <a href="https://ieeexplore.ieee.org/abstract/document/7083597/">An intelligent cardiac health monitoring and review system</a>. Appropriate Healthcare Technologies for Low Resource Settings (AHT 2014) 2014 September 17; pp. 1-4.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{TZhu_2014_09_17_Anintelligent,
+    author = "Zhu, T and Osipov, M and Papastylianou, T and Oster, J and Clifton, DA and Clifford, GD",
+    title = "An intelligent cardiac health monitoring and review system",
+    date = "2014-09-17",
+    booktitle = "Appropriate Healthcare Technologies for Low Resource Settings (AHT 2014)",
+    url = "https://ieeexplore.ieee.org/abstract/document/7083597/",
+    pages = "1-4",
+    publisher = "IET"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="TZhu_2014_09_17_Anintelligent">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="TZhu_2014_09_17_Anintelligent">[show citation]</label>
+</div></div></td></tr><tr>
+<td>76</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="JDaly_2014_09_17_SleepCareobstructive">
+<div class="citation">
+Daly J, Roebuck A, Palmius N, Morys M, Gilfriche P, Behar J, Clifford G. <a href="https://ieeexplore.ieee.org/abstract/document/7083577/">SleepCare: obstructive sleep apnoea screening using mobile health technology</a>. Appropriate Healthcare Technologies for Low Resource Settings (AHT 2014) 2014 September 17; pp. 1-4.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{JDaly_2014_09_17_SleepCareobstructive,
+    author = "Daly, J and Roebuck, A and Palmius, N and Morys, M and Gilfriche, P and Behar, J and Clifford, GD",
+    title = "SleepCare: obstructive sleep apnoea screening using mobile health technology",
+    date = "2014-09-17",
+    booktitle = "Appropriate Healthcare Technologies for Low Resource Settings (AHT 2014)",
+    url = "https://ieeexplore.ieee.org/abstract/document/7083577/",
+    pages = "1-4",
+    publisher = "IET"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="JDaly_2014_09_17_SleepCareobstructive">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="JDaly_2014_09_17_SleepCareobstructive">[show citation]</label>
 </div></div></td></tr><tr>
 <td>75</td>
 <td><div class="citation_container">
@@ -9997,7 +10017,7 @@ Clifford G, Tarassenko L, Townsend N. <a href="https://ieeexplore.ieee.org/abstr
 
 <table>
 <tr>
-<td>29</td>
+<td>28</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="YasharKiarashi_2024_PredictingAdverse">
 <div class="citation">
@@ -10017,26 +10037,6 @@ Kiarashi Y, Suresha PB, Rad AB, Reyna M, Anderson C, Foster J, Lantz J, Villavic
 </div>
 <div class="hidebibtex">
 <label for="YasharKiarashi_2024_PredictingAdverse">[show citation]</label>
-</div></div></td></tr><tr>
-<td>28</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="MohsenMotieShirazi_2023_11_15_PointofCareRealTime">
-<div class="citation">
-Motie-Shirazi M, Sameni R, Rohloff P, Katebi N, Clifford GD. <a href="https://arxiv.org/abs/2312.09433">Point-of-Care Real-Time Signal Quality for Fetal Doppler Ultrasound Using a Deep Learning Approach</a>. arXiv preprint arXiv:2312.09433 2023 November 15.
-</div>
-<div class="bibtex_source"><pre>@article{MohsenMotieShirazi_2023_11_15_PointofCareRealTime,
-    author = "Motie-Shirazi, Mohsen and Sameni, Reza and Rohloff, Peter and Katebi, Nasim and Clifford, Gari D",
-    title = "Point-of-Care Real-Time Signal Quality for Fetal Doppler Ultrasound Using a Deep Learning Approach",
-    date = "2023-11-15",
-    journal = "arXiv preprint arXiv:2312.09433",
-    url = "https://arxiv.org/abs/2312.09433"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="MohsenMotieShirazi_2023_11_15_PointofCareRealTime">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="MohsenMotieShirazi_2023_11_15_PointofCareRealTime">[show citation]</label>
 </div></div></td></tr><tr>
 <td>27</td>
 <td><div class="citation_container">
