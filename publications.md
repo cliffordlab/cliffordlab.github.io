@@ -694,6 +694,29 @@ Straus LD, An X, Ji Y, McLean SA, Neylan TC, Cakmak AS, Richards A, Clifford GD,
 </div></div></td></tr><tr>
 <td>255</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="ErickAPerezAlday_2023_02_Associationof">
+<div class="citation">
+Alday EAP, Poian GD, Levantsevych O, Murrah N, Shallenberger L, Alkhalaf M, Haffar A, Kaseer B, Ko Y, Goldberg J, Smith N, Lampert R, Bremner JD, Clifford GD, Vaccarino V, Shah AJ. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.14167">Association of Autonomic Activation with traumatic reminder challenges in posttraumatic stress disorder: A co-twin control study</a>. Psychophysiology 2023 February; 60 (2): p. e14167.
+</div>
+<div class="bibtex_source"><pre>@article{ErickAPerezAlday_2023_02_Associationof,
+    author = "Alday, Erick A Perez and Poian, Giulia Da and Levantsevych, Oleksiy and Murrah, Nancy and Shallenberger, Lucy and Alkhalaf, Mhmtjamil and Haffar, Ammer and Kaseer, Belal and Ko, Yi{-}An and Goldberg, Jack and Smith, Nicholas and Lampert, Rachel and Bremner, J Douglas and Clifford, Gari D and Vaccarino, Viola and Shah, Amit J",
+    title = "Association of Autonomic Activation with traumatic reminder challenges in posttraumatic stress disorder: A co{-}twin control study",
+    date = "2023-02",
+    issue = "2",
+    journal = "Psychophysiology",
+    url = "https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.14167",
+    pages = "e14167",
+    volume = "60"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="ErickAPerezAlday_2023_02_Associationof">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="ErickAPerezAlday_2023_02_Associationof">[show citation]</label>
+</div></div></td></tr><tr>
+<td>254</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NasimKatebi_2023_02_20_HierarchicalAttentive">
 <div class="citation">
 Katebi N, Sameni R, Rohloff P, Clifford GD. <a href="https://drive.google.com/file/d/1T4VeCmlT98gS-RR9_5qvX5cxe0fVLynV/view?usp=sharing">Hierarchical Attentive Network for Gestational Age Estimation in Low-Resource Settings</a>. IEEE Journal of Biomedical and Health Informatics 2023 February 20; 27 (5): pp. 2501-2511.
@@ -715,29 +738,6 @@ Katebi N, Sameni R, Rohloff P, Clifford GD. <a href="https://drive.google.com/fi
 </div>
 <div class="hidebibtex">
 <label for="NasimKatebi_2023_02_20_HierarchicalAttentive">[show citation]</label>
-</div></div></td></tr><tr>
-<td>254</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="ErickAPerezAlday_2023_02_Associationof">
-<div class="citation">
-Alday EAP, Poian GD, Levantsevych O, Murrah N, Shallenberger L, Alkhalaf M, Haffar A, Kaseer B, Ko Y, Goldberg J, Smith N, Lampert R, Bremner JD, Clifford GD, Vaccarino V, Shah AJ. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.14167">Association of Autonomic Activation with traumatic reminder challenges in posttraumatic stress disorder: A co-twin control study</a>. Psychophysiology 2023 February; 60 (2): p. e14167.
-</div>
-<div class="bibtex_source"><pre>@article{ErickAPerezAlday_2023_02_Associationof,
-    author = "Alday, Erick A Perez and Poian, Giulia Da and Levantsevych, Oleksiy and Murrah, Nancy and Shallenberger, Lucy and Alkhalaf, Mhmtjamil and Haffar, Ammer and Kaseer, Belal and Ko, Yi{-}An and Goldberg, Jack and Smith, Nicholas and Lampert, Rachel and Bremner, J Douglas and Clifford, Gari D and Vaccarino, Viola and Shah, Amit J",
-    title = "Association of Autonomic Activation with traumatic reminder challenges in posttraumatic stress disorder: A co{-}twin control study",
-    date = "2023-02",
-    issue = "2",
-    journal = "Psychophysiology",
-    url = "https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.14167",
-    pages = "e14167",
-    volume = "60"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="ErickAPerezAlday_2023_02_Associationof">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="ErickAPerezAlday_2023_02_Associationof">[show citation]</label>
 </div></div></td></tr><tr>
 <td>253</td>
 <td><div class="citation_container">
@@ -3182,30 +3182,6 @@ Nemati S, Holder A, Razmi F, Stanley MD, Clifford GD, Buchman TG. <a href="https
 </div></div></td></tr><tr>
 <td>151</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="SupreethPShashikumar_2017_11_29_Multiscalenetwork">
-<div class="citation">
-Shashikumar SP, Li Q, Clifford GD, Nemati S. <a href="https://iopscience.iop.org/article/10.1088/1361-6579/aa9772/pdf">Multiscale network representation of physiological time series for early prediction of sepsis</a>. Physiological Measurement 2017 November 20; 38 (12): pp. 2235-2248.
-</div>
-<div class="bibtex_source"><pre>@article{SupreethPShashikumar_2017_11_29_Multiscalenetwork,
-    author = "Shashikumar, Supreeth P and Li, Qiao and Clifford, Gari D and Nemati, Shamim",
-    title = "Multiscale network representation of physiological time series for early prediction of sepsis",
-    date = "2017-11-20",
-    issue = "12",
-    journal = "Physiological Measurement",
-    url = "https://iopscience.iop.org/article/10.1088/1361-6579/aa9772/pdf",
-    pages = "2235-2248",
-    volume = "38",
-    note = "Publisher: IOP Publishing"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="SupreethPShashikumar_2017_11_29_Multiscalenetwork">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="SupreethPShashikumar_2017_11_29_Multiscalenetwork">[show citation]</label>
-</div></div></td></tr><tr>
-<td>150</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AdrianaNVest_2017_11_01_Benchmarkingheart">
 <div class="citation">
 Vest AN, Li Q, Liu C, Nemati S, Shah A, Clifford GD. <a href="https://drive.google.com/file/d/1QdCLH2MPWq1O2jw0QpqOSKrAMIo-lYzP/view?usp=sharing">Benchmarking heart rate variability toolboxes</a>. Journal of Electrocardiology 2017 November; 50 (6): pp. 744-747.
@@ -3228,7 +3204,7 @@ Vest AN, Li Q, Liu C, Nemati S, Shah A, Clifford GD. <a href="https://drive.goog
 <div class="hidebibtex">
 <label for="AdrianaNVest_2017_11_01_Benchmarkingheart">[show citation]</label>
 </div></div></td></tr><tr>
-<td>149</td>
+<td>150</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SupreethPShashikumar_2017_11_01_Earlysepsis">
 <div class="citation">
@@ -3252,7 +3228,7 @@ Shashikumar SP, Stanley MD, Sadiq I, Li Q, Holder A, Clifford GD, Nemati S. <a h
 <div class="hidebibtex">
 <label for="SupreethPShashikumar_2017_11_01_Earlysepsis">[show citation]</label>
 </div></div></td></tr><tr>
-<td>148</td>
+<td>149</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LisaStroux_2017_11_01_Dopplerbasedfetal">
 <div class="citation">
@@ -3274,6 +3250,30 @@ Stroux L, Redman CW, Georgieva A, Payne SJ, Clifford GD. <a href="https://drive.
 </div>
 <div class="hidebibtex">
 <label for="LisaStroux_2017_11_01_Dopplerbasedfetal">[show citation]</label>
+</div></div></td></tr><tr>
+<td>148</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="SupreethPShashikumar_2017_11_29_Multiscalenetwork">
+<div class="citation">
+Shashikumar SP, Li Q, Clifford GD, Nemati S. <a href="https://iopscience.iop.org/article/10.1088/1361-6579/aa9772/pdf">Multiscale network representation of physiological time series for early prediction of sepsis</a>. Physiological Measurement 2017 November 20; 38 (12): pp. 2235-2248.
+</div>
+<div class="bibtex_source"><pre>@article{SupreethPShashikumar_2017_11_29_Multiscalenetwork,
+    author = "Shashikumar, Supreeth P and Li, Qiao and Clifford, Gari D and Nemati, Shamim",
+    title = "Multiscale network representation of physiological time series for early prediction of sepsis",
+    date = "2017-11-20",
+    issue = "12",
+    journal = "Physiological Measurement",
+    url = "https://iopscience.iop.org/article/10.1088/1361-6579/aa9772/pdf",
+    pages = "2235-2248",
+    volume = "38",
+    note = "Publisher: IOP Publishing"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="SupreethPShashikumar_2017_11_29_Multiscalenetwork">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="SupreethPShashikumar_2017_11_29_Multiscalenetwork">[show citation]</label>
 </div></div></td></tr><tr>
 <td>147</td>
 <td><div class="citation_container">

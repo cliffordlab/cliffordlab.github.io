@@ -3,64 +3,171 @@ title: News
 layout: page
 permalink: /news
 ---
+<details open><summary><font size="6">2024</font></summary>
+<div onclick="">
+	<font size="5">A Software Engineer in Dr. Clifford's lab named finalist in 2024 JWECIC at ISCE</font>
+<br>
+	<em>9 February 2024</em> - Zuzana Koščová has been selected as a finalist for the 2024 <a href="https://www.isce.org/page/younginvestigator">Jos Willems Early Career Investigator Competition (JWECIC)</a> with her work entitled "Prediction of atrial fibrillation from overnight Polysomnograms". Her work focuses on using machine learning and deep learning methods for the early prediction of atrial fibrillation from the ECG channel in polysomnographic recordings. Since atrial fibrillation is one of the most common cardiac arrhythmias and is associated with an increased risk of stroke and heart failure, early prediction of this pathology could help to implement appropriate stroke and heart failure prevention tools.
+<br>
+The competition will take place at <a href="https://www.isce.org/page/annualconference">the International Society of Computerized ECG conference</a> in Braselton, GA in April.
+</div>
+</details>
 
-### Our work on mHealth for mental illness covered in Emory Lab Land article
+<br>
+<details open><summary><font size="6">2023</font></summary>
+<div onclick="">
+	<font size="5">A postdoctoral fellow's paper won the 'Best Thematic Paper Award' at ML4H conference</font>
+<br>
+	<em>December 2023</em> - Dr. Mohsen Shirazi, a postdoctoral fellow in the Clifford Lab, was awarded the Best Thematic Paper Award in "Health Equity and Global Health" for the publication <a href="https://arxiv.org/pdf/2312.09433.pdf">Point-of-Care Real-Time Signal Quality for Fetal Doppler Ultrasound Using a Deep Learning Approach"</a> at the <a href="https://ml4h.cc/2023/index.html">Machine Learning for Health (ML4H) conference 2023</a>.
+<br>
+This research, supervised by Dr. Katebi, Dr. Sameni and Dr. Clifford, and in collaboration with <a href="https://www.wuqukawoq.org/">Wuqu'Kawoq | Maya Health Alliance</a>, contributes to the team's ongoing efforts in fetal health monitoring in low-resource communities, founded by a Google.org Grant and the NIH.
+<br>
+In this study, the team developed a deep learning algorithm to accurately classify the quality of signals captured from an affordable 1D Doppler ultrasound device on an Android phone. This algorithm is in the process of being seamlessly integrated into the existing mobile application, to allow immediate feedback on data quality to midwives—a crucial element for reliable diagnostics.
+</div>
 
-*July 2017* - Imagine someone undergoing treatment by a psychiatrist.
-How do we know the treatment is really working or should be modified? To
-assess whether the patient's condition is objectively improving, the
-doctor could ask him or her to take home a heart rate monitor and wear
-it continuously for 24 hours. An app connected to the monitor could then
-track how much the patient's heart rate varies over time and how much
-the patient moves. [Read the article
-here.](http://www.emoryhealthsciblog.com/big-data-with-heart-for-psychiatric-disorders/)
+<br>
+<div onclick="">
+	<font size="5">New Emory institute harnesses the power of AI to improve health equity and patient outcomes</font>
+<br>
+	<em>7 November 2023</em> - The Emory Empathetic AI for Health Institute, under the <a href="https://aihumanity.emory.edu/">AI.Humanity</a> program, led by Dr. Anant Madabhushi, aims to harness the potential of AI and big data to improve the detection, diagnosis, and treatment of various diseases. It brings together experts such as Drs. Gari Clifford, Judy Gichoya, and Marly van Assen, focusing on AI advancements for diverse patient groups. Emory AI.Humanity seeks to develop accessible and equitable AI tools and collaborate with various institutions to extend its impact globally. <a href="https://news.emory.edu/stories/2023/11/hs_ai.health_institute_launch_11-07-2023/story.html?utm_source=Emory_Report&utm_medium=email&utm_campaign=Emory_Report_EB_110723">Read the article here.</a>
+</div>
 
-### PhD Student Receives Highest Academic Achievement
+<br>
+<div onclick="">
+	<font size="5">safe+natal program receives a $1.8 million grant from Google.org</font>
+<br>
+	<em>12 September 2023</em> - Dr. Gari Clifford and Dr. Rachel Hall-Clifford, who co-founded and have led the <a href="https://safenatal.org/">safe+natal</a> program for the last 10 years, have received a $1.8 million grant from Google.org, together with the <a href="https://www.wuqukawoq.org/maternal-health/">Maya Health Alliance | Wuqu' Kawoq</a>, to use AI to improve maternal-child health in rural Guatemala.  The safe+natal program equips Indigenous midwives with affordable monitoring technology, including smartphones, blood pressure cuffs, and ultrasound devices. This empowers midwives to monitor pregnancies, detect potential issues early, and connect expectant mothers with necessary follow-up care. 
+<br>
+The Google.org grant will expand the program's reach, placing AI tools in the hands of Indigenous Mayan midwives, potentially saving lives at a significant scale. Together with BMI faculty Dr. Nasim Katebi (who developed many of the AI algorithms as part of her PhD thesis) and Dr. Reza Sameni, the team will continue to develop and translate a series of AI-driven innovations into the hands of midwives in remote regions.
+<br>
+This collaboration is part of Google.org's $25 million philanthropic challenge, supporting projects that harness AI to advance progress towards the <a href="https://sdgs.un.org/goals">UN's Sustainable Development Goals</a>. Importantly, all 15 selected projects, including safe+natal, will be open-sourced to encourage further development and collaboration. Dr. Gari Clifford and his team emphasize the significance of community-led technology solutions, marking a substantial step forward in addressing maternal-child health disparities and preventing avoidable deaths in rural Guatemala. <a href="https://med.emory.edu/departments/biomedical-informatics/news-and-events/garis-safa-natal.html">Read the article here.</a>
+</div>
 
-*November 2016* - Pradyumna Suresha, the newest PhD student in our lab,
-was awarded the Institutional Gold Medal for securing highest GPA in
-B.Tech -Electronics and Communication Engineering, batch of 2015-16; as
-well as 1986 Batch Gold Medal for being the student with best academic
-record in the department of ECE, NITK Surathkal India. Congratulations!
+<br>
+<div onclick="">
+	<font size="5">safe+natal program was featured in Health Science Update</font>
+<br>
+	<em>22 May 2023</em> - Dr. Gari Clifford's project, the <a href="https://safenatal.org/">Safe+Natal program</a>, a maternal health initiative in Guatemala that has showcased significant success in enhancing pregnancy outcomes in Maya communities, has been featured in the <a href="https://news.emory.edu/ebulletin/HSUpdate/05-22-2023.html#:~:text=Improving%20maternal%20mortality%20in%20Guatemala">Emory Health Science Update</a>. The project is among the <a href="https://www.leverforchange.org/learning/news/five-finalists-announced-for-10-million-award-to-provide-women-with-safe-access-to-maternal-healthcare/">top five finalists under consideration</a> for a $9 million grant from the MacArthur Foundation’s Lever for Change Maternal & Infant Health Award. <a href="https://news.emory.edu/ebulletin/HSUpdate/05-22-2023.html#:~:text=Improving%20maternal%20mortality%20in%20Guatemala">Read the article here.</a>
+</div>
 
-### Now Hiring
+<br>
+<div onclick="">
+	<font size="5">Dr. Gari Clifford Lab's research was featured in the Emory News Center</font>
+<br>
+	<em>1 March 2023</em> - Dr. Clifford and his lab were featured in Emory News Center in an article titled <a href="https://news.emory.edu/stories/2023/03/hs_machine_learning_rett_syndrome_01-03-2023/story.html?utm_source=Emory_Report&utm_medium=email&utm_campaign=Emory_Report_EB_030823">"New study shows how machine learning can improve care for people with Rett syndrome"</a> for their work published in <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266351">PloS One</a>. Dr. Clifford and his research team used the MC10 Biostamp patch to analyze the movement and cardiac activity of people living with Rett syndrome and found three specific patterns in the movement and heart rate that allowed them to accurately differentiate high-from low-symptom-severity individuals. <a href="https://news.emory.edu/stories/2023/03/hs_machine_learning_rett_syndrome_01-03-2023/story.html?utm_source=Emory_Report&utm_medium=email&utm_campaign=Emory_Report_EB_030823">Read the article here.</a>
+</div>
 
-*October 2016* - We have openings for faculty and research positions in
-machine learning and signal processing applied to biomedical informatics
-and engineering.
+<br>
+<div onclick="">
+	<font size="5">The George B. Moody PhysioNet Challenges were awarded the "Distinguished Achievement Award for Data Reuse</font>
+<br>
+	<em>21 February 2023</em> - The <a href="https://moody-challenge.physionet.org/">George B. Moody PhysioNet Challenges</a> were awarded the "Distinguished Achievement Award for Data Reuse", as a part of the <a href="https://www.faseb.org/data-management-and-sharing/dataworks-prize">DataWorks! Prize</a>. The DataWorks! Prize, launched on May 11, 2022, is a partnership between the NIH Office of Data Science Strategy and the Federation of American Societies for Experimental Biology (FASEB) to highlight the role of data sharing and reuse in scientific discovery while recognizing and rewarding researchers who engage in these practices.
+<br>
+<a href="https://physionet.org/news/post/355">George B. Moody</a> designed and led the Challenges from 2000 to 2015, when ill health prevented him continuing. Prof. Clifford has led the PhysioNet Challenges since 2015 and has been a key contributor to its parent resource, <a href="https://physionet.org/">PhysioNet</a> (The Research Resource for Complex Physiologic Signals), for over two decades. Prof. Reyna has co-led the PhysioNet Challenges since 2019, and has been instrumental in the development of its repeatable science standards. The team plans to use the $50,000 prize to enhance accessibility for the data in the Challenges. 
+<br>
+Each year, the PhysioNet Challenges post novel datasets, and facilitates the development and distribution of open-source code to solve an outstanding problem in health data science, with a specific emphasis on temporal data. The Challenges are designed to maximize scientific repeatability and usability with a carefully designed data science framework. The products of the Challenges are cited thousands of times, and have supported an array of patents and a new generation of medical products. Emphasizing computational efficiency, data and algorithmic equity, and clinical applicability, Clifford and Reyna have innovated methods for sharing and reusing data, and evaluating state-of-the-art approaches to AI in medicine, as reflected in a recently invited <a href="https://jamanetwork.com/journals/jama/article-abstract/2794258">JAMA editorial</a>.
+</div>
 
-[Jobs Here!](http://gdclifford.info/jobs)
+<br>
+<div onclick="">
+	<font size="5">2023 George B. Moody PhysioNet/Challenge Announcement</font>
+<br>
+	<em>February 2023</em> - This years's challenge is on predicting neurological recovery from coma after cardiac arrest using EEG.
+<br>
+The first deadline is April 8th 2023. More rules, links to code and data, and background can be found at the <a href="https://moody-challenge.physionet.org/2023/">2023 George B. Moody PhysioNet Challenge page</a>.
+</div>
 
-### 2016 Cardiology Challenge Winners Announced
+<br>
+<div onclick="">
+	<font size="5">Dr. Clifford spoke at 'Simuvaction' on "AI and Health Disparities on a Global Stage"</font>
+<br>
+	<em>20 January 2023</em> - <a href="https://news.emory.edu/features/2023/01/er_international_simulation_20-01-2023/index.html?utm_source=Emory_Report&utm_medium=email&utm_campaign=Emory_Report_EB_012423">"The best kind of challenging"</a> - Three Emory students join an international simulation to debate AI and health inequities. Dr. Gari Clifford, a chair of the Department of Biomedical Informatics, spoke at the event.
+</div>
 
-*14 Sept 2016* - The winners of this year\'s [PhysioNet/CinC
-Challenge](http://physionet.org/challenge/2016) were announced at the
-[CinC Conference](http://cinc.org/). Congratulations to everyone for a
-tight run race! We enjoyed running this and hope you all submit to the
-upcoming Physiological Measurement Special Issue.
+<br>
+<div onclick="">
+	<font size="5">Dr. Gari Clifford elected as an IEEE Fellow</font>
+<br>
+	<em>1 January 2023</em> - Dr. Gari Clifford has been elected as an <a href="https://www.embs.org/awards/fellow-program/2023-embs-fellows/">IEEE Fellow as of Jan. 1st 2023</a> for contributions to machine-learning applications in cardiovascular time series.
+<br>
+The IEEE, or <a href="https://www.ieee.org//">Institute of Electrical and Electronics Engineers</a> is the world's leading (and largest) association of technical professionals with more than 423,000 members in over 160 countries around the world. Its objectives are the educational and technical advancement of electrical and electronic engineering, telecommunications, computer engineering and similar disciplines. The IEEE Grade of Fellow is the highest level of membership, conferred by the Board of Directors upon a person with an extraordinary record of accomplishments in any of the IEEE fields of interest. The total number of fellows selected in any one year does not exceed one-tenth of one percent of the total voting Institute membership.
+</div>
+</details>
 
-### Emory Exposome
+<details><summary><font size="6">2022</font></summary>
+</details>
+<details><summary><font size="6">2021</font></summary>
+</details>
+<details><summary><font size="6">2020</font></summary>
+</details>
+<details><summary><font size="6">2019</font></summary>
+</details>
+<details><summary><font size="6">2018</font></summary>
+</details>
+<details><summary><font size="6">2017</font></summary>
+<div onclick="">
+	<font size="5">Our work on mHealth for mental illness covered in Emory Lab Land article</font>
+<br>
+	<em>July 2017</em> - Imagine someone undergoing treatment by a psychiatrist. How do we know the treatment is really working or should be modified? To assess whether the patient's condition is objectively improving, the doctor could ask him or her to take home a heart rate monitor and wear it continuously for 24 hours. An app connected to the monitor could then track how much the patient's heart rate varies over time and how much the patient moves. <a href="http://www.emoryhealthsciblog.com/big-data-with-heart-for-psychiatric-disorders">Read the article
+here.</a>
+</div>
+</details>
 
-*28 May 2016* - In support of the Exposome mission, the Clifford Lab
-will be offering live interactive demos to demonstrate some of the
-useful capabilities of the Raspberry Pi, sensor technologies and cloud
-computing. Event takes place June 12 in the plaza level auditorium of
-the Claudia Nance Rollins building.
+<details><summary><font size="6">2016</font></summary>
+<div onclick="">
+	<font size="5">Emory and Morehouse team develops mobile device platform to improve community heath</font>
+<br>
+	<i>December 2016</i> - The team led by Dr. Gari Clifford, PhD, at Emory University and researchers at Morehouse School of Medicine are building an ambitious project to work with teen-aged and young adult minority communities in metro Atlanta to co-create an mHealth (mobile health) platform supported by mobile devices. <a href="https://news.emory.edu/stories/2016/12/clifford_big_data_spokes/index.html">Read the article here</a>.
+</div>
 
-More information can be found at the event\'s website, located here:
-[Emory Hercules](http://emoryhercules.com/), and [Human Exposome
-Project](http://humanexposomeproject.com/).
+<br>
+<div onclick="">
+	<font size="5">PhD Student Receives Highest Academic Achievement</font>
+<br>
+	<i>November 2016</i> - Pradyumna Suresha, the newest PhD student in our lab,
+was awarded the Institutional Gold Medal for securing highest GPA in B.Tech -Electronics and Communication Engineering, batch of 2015-16; as well as 1986 Batch Gold Medal for being the student with best academic record in the department of ECE, NITK Surathkal India. Congratulations!
+</div>
 
-### Chair Promotion
+<br>
+<div onclick="">
+	<font size="5">Now Hiring</font>
+<br>
+	<i>October 2016</i> - We have openings for faculty and research positions in machine learning and signal processing applied to biomedical informatics and engineering.
+<a href="http://gdclifford.info/jobs">Jobs Here!</a>
+</div>
 
-*April 2016* - Dr. Clifford appointed Interim Chair of Emory\'s
-Department of Biomedical Informatics.
+<br>
+<div onclick="">
+	<font size="5">2016 Cardiology Challenge Winners Announced</font>
+<br>
+	<i>14 September 2016</i>  - The winners of this year's <a href="http://physionet.org/challenge/2016">PhysioNet/CinC Challenge</a> were announced at the <a href="http://cinc.org/">CinC Conference</a>. Congratulations to everyone for a tight run race! We enjoyed running this and hope you all submit to the upcoming Physiological Measurement Special Issue.
+</div>
 
-### PhysioNet / Computing in Cardiology Challenge 2016
+<br>
+<div onclick="">
+	<font size="5">Emory Exposome</font>
+<br>
+	<i>28 May 2016</i> - In support of the Exposome mission, the Clifford Lab will be offering live interactive demos to demonstrate some of the useful capabilities of the Raspberry Pi, sensor technologies and cloud computing. Event takes place June 12 in the plaza level auditorium of the Claudia Nance Rollins building.
+<br>
+More information can be found at the event's website, located here: <a href="http://emoryhercules.com/), and [Human Exposome Project](https://emoryhercules.com/news/hercules-host-exposome-course-june-2016/">Emory Hercules</a>.
+</div>
 
-*7 May 2016* - The Official Phase of the PhysioNet/Computing in
-Cardiology Challenge 2016 has begun.
+<br>
+<div onclick="">
+	<font size="5">Chair Promotion</font>
+<br>
+	<i>April 2016</i>- Dr. Clifford appointed Interim Chair of Emory's Department of Biomedical Informatics.
+</div>
 
-*February 2016* - The PhysioNet/Computing in Cardiology Challenge 2016,
-co-organised by the Clifford Lab and the Laboratory for Computational
-Physiology, is now open.
+<br>
+<div onclick="">
+	<font size="5">PhysioNet / Computing in Cardiology Challenge 2016</font>
+<br>
+	<i>7 May 2016</i> - The Official Phase of the PhysioNet/Computing in Cardiology Challenge 2016 has begun.
+</div>
+
+<br>
+<div onclick="">
+	<i>February 2016</I> - The PhysioNet/Computing in Cardiology Challenge 2016, co-organised by the Clifford Lab and the Laboratory for Computational Physiology, is now open.
+</div>
+</details>
