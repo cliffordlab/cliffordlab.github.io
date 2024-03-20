@@ -95,9 +95,70 @@ The IEEE, or <a href="https://www.ieee.org//">Institute of Electrical and Electr
 </details>
 
 <details><summary><font size="6">2022</font></summary>
+<div onclick="">
+	<font size="5">Dr. Gari Clifford helped explain the gulf between AI and clinical practice in JAMA</font>
+<br>
+	<em>July 2022</em> - Dr. Clifford, together with Prof. Matthew Reyna from Emory University and Prof. Nsoesie from Boston University, published an <a href="https://jamanetwork.com/journals/jama/article-abstract/2794258">invited viewpoint</a> in The Journal of the American Medical Association (JAMA) on "Rethinking Algorithm Performance Metrics for Artificial Intelligence in Diagnostic Medicine". The viewpoint focuses on how we often use the wrong optimization targets when applying machine learning to medical data, and how we can address this issue, and is part of the <a href="https://www.moore.org/">Gordon and Betty Moore Foundation's</a> <a href="https://www.moore.org/news">broader series on Diagnostic Excellence</a>. 
+</div>
+
+<br>
+<div onclick="">
+	<font size="5">Dr. Gari Clifford spoke at a symposium</font>
+<br>
+	<em>June 2022</em> - Dr. Clifford was invited to the <a href="https://www.nationalacademies.org/">National Academy of Sciences, Engineering and Medicine</a> to discuss the use of interpretable machine learning in healthcare and its impact on bias and ethics at a symposium on <a href="https://www.nationalacademies.org/event/06-21-2022/interpretable-and-explainable-ai-and-machine-learning">Interpretable and Explainable AI and Machine Learning</a>. 
+</div>
+
+<br>
+<div onclick="">
+	<font size="5">Dr. Gari Clifford is appointed as an external advisor to SleepHuB</font>
+<br>
+	<em>May 2022</em> - Dr. Gari Clifford is appointed as an external advisor to the University of Southern California <a href="https://sleephub.usc.edu/">Center for Sleep Health using Bioengineering (SleepHuB)</a>. SleepHuB is a unique network of clinicians, scientists and engineers who work collaboratively to conceptualize and operationalize translational projects related to sleep.
+</div>
+
+<br>
+<div onclick="">
+	<font size="5">Dr. Gari Clifford Lab's research was featured in the Emory Medicine Magazine</font>
+<br>
+	<em>February 2022</em> - Dr. Clifford and Dr. Hall-Clifford were featured in the Emory Medicine Magazine in an article titled "Every Mother, Every Baby" for their work on <a href="https://codesign.emory.edu/">Co-Design</a> of mHealth and AI-enabled diagnostic systems with the lay midwives of highland Guatemala. <a href="https://emorymedicinemagazine.emory.edu/issues/2022/winter/and-more/every-mother,-every-baby/index.html">Read the article here.</a>
+</div>
 </details>
+
 <details><summary><font size="6">2021</font></summary>
+<div onclick="">
+	<font size="5">Dr. Gari Clifford's research was featured in Amazon Research Awards</font>
+<br>
+	<em>December 2021</em> - Dr. Clifford's interview with <a href="https://www.amazon.science/">Amazon Science</a> on edge machine learning in healthcare was published in Amazon Research Awards, entitled: "Using machine learning to reduce costs, increase accuracy, and improve access in healthcare". <a href="https://www.amazon.science/research-awards/success-stories/using-machine-learning-to-reduce-costs-increase-accuracy-and-improve-access-in-healthcare">Read the article here.</a>
+</div>
+
+<br>
+<div onclick="">
+	<font size="5">Clifford Lab's research was featured in the National Institutes of Health Spotlight</font>
+<br>
+	<em>September 2021</em> - Dr. Clifford and Dr.Hall-Clifford’s <a href="https://codesign.emory.edu/">Co-Design Lab</a> initiative <a href="https://safenatal.org/">Safe+Natal</a> which uses mHealth and AI to assist lay midwives in rural Guatemala was highlighted by the National Institutes of Health Spotlight in an article "Developing Mobile Health Solutions for Women in Guatemala". <a href="https://www.nichd.nih.gov/newsroom/news/091421-mobile_health_solutions"> Read the article here.</a>
+</div>
+
+<br>
+<div onclick="">
+	<font size="5">Dr. Gari Cifford's research was featured in Journal of Physiological Measurement</font>
+<br>
+	<em>September 2021</em> - Drs. Clifford and Reyna presented the annual <a href="https://moody-challenge.physionet.org/">PhysioNet Challenge</a> awards at the <a href="https://cinc.org/">Computing in Cardiology</a> 2021 (remotely) in Brno, Czech Republic. The Challenge focused on <a href="https://moody-challenge.physionet.org/2021/">reduced lead ECG arrhythmia classification</a> and led to over <a href="https://physionet.org/files/challenge-2021/1.0.2/papers/index.html">60 publications</a> and 57 pieces of contributed open-source software. An editorial describing the Challenge and summarizing the contributions was published in the Journal of Physiological Measurement. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9469795/">Read the research here.</a>
+</div>
+
+<br>
+<div onclick="">
+	<font size="5">Clifford Lab's research was highlighted by the Fogarty International Center</font>
+<br>
+	<em>July 2021</em> - Clifford Lab's research on using mHealth and AI to assist lay midwives in rural Guatemala was highlighted by the Fogarty International Center (which partially funded the work), in their Global Health Matters Newsletter (Volume 20, Number 4, July/August 2021), in an article "mHealth app reduces LMIC pregnancy, delivery risks". <a href="https://www.fic.nih.gov/News/GlobalHealthMatters/july-august-2021/Pages/mHealth-app-reduces-LMIC-pregnancy-delivery-risks.aspx">Read the article here.</a>
+</div>	
+
+<br>
+<div onclick="">
+	<font size="5">Dr. Clifford had an interview with the Academic Times</font>
+<br>
+	<em>April 2021</em> - Dr. Clifford's interview with the Academic Times on measuring sleep with wearables in health was published, entitled: "These sleep monitoring innovations could make smartwatches better at tracking our slumber". <a href="https://web.archive.org/web/20210615152555/https://academictimes.com/these-sleep-monitoring-innovations-could-make-smartwatches-better-at-tracking-our-slumber/">Read the article here.</a>
+</div>
 </details>
+
 <details><summary><font size="6">2020</font></summary>
 </details>
 <details><summary><font size="6">2019</font></summary>
