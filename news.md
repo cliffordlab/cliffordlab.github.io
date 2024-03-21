@@ -139,7 +139,7 @@ The IEEE, or <a href="https://www.ieee.org//">Institute of Electrical and Electr
 
 <br>
 <div onclick="">
-	<font size="5">Dr. Gari Cifford's research was featured in Journal of Physiological Measurement</font>
+	<font size="5">An editorial of PhysioNet Challenge 2021 was featured in the Journal of Physiological Measurement</font>
 <br>
 	<em>September 2021</em> - Drs. Clifford and Reyna presented the annual <a href="https://moody-challenge.physionet.org/">PhysioNet Challenge</a> awards at the <a href="https://cinc.org/">Computing in Cardiology</a> 2021 (remotely) in Brno, Czech Republic. The Challenge focused on <a href="https://moody-challenge.physionet.org/2021/">reduced lead ECG arrhythmia classification</a> and led to over <a href="https://physionet.org/files/challenge-2021/1.0.2/papers/index.html">60 publications</a> and 57 pieces of contributed open-source software. An editorial describing the Challenge and summarizing the contributions was published in the Journal of Physiological Measurement. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9469795/">Read the research here.</a>
 </div>
@@ -160,12 +160,86 @@ The IEEE, or <a href="https://www.ieee.org//">Institute of Electrical and Electr
 </details>
 
 <details><summary><font size="6">2020</font></summary>
+<div onclick="">
+	<font size="5">An editorial of PhysioNet Challenge 2020 was featured in the Journal of Physiological Measurement</font>
+<br>
+	<em>September 2020</em> - Dr. Clifford and Reyna presented the annual <a href="https://moody-challenge.physionet.org/">PhysioNet Challenge</a> awards at the <a href="https://cinc.org/">Computing in Cardiology</a> 2020 (remotely) in Rimini, Italy. The Challenge focused on <a href="https://moody-challenge.physionet.org/2020/">Classification of 12-lead ECGs</a> and led to over <a href="https://physionet.org/files/challenge-2020/1.0.1/papers/index.html">61 publications</a> and 67 pieces of contributed open-source software. An editorial describing the Challenge and summarizing the contributions was published in the Journal of Physiological Measurement. <a href="https://physionet.org/files/challenge-2020/1.0.1/papers/index.html">Read the research here.</a>
+</div>
+
+<br>
+<div onclick="">
+	<font size="5">Clifford Lab partners with AliveCor</font>
+<br>
+	<em>6 May 2020</em> - Dr. Gari Clifford and his lap partner with <a href="https://alivecor.com/">AliveCor</a> to develop new cardiovascular insights with deep machine learning. Dr. Clifford will serve as an AliveCor consultant on machine learning and artificial intelligence. <a href="https://alivecor.com/press/press_release/alivecor-partners-with-the-clifford-lab-at-emory-university-and-georgia-institute-of-technology/">Read the article here.</a>
+</div>
+
+<br>
+<div onclick="">
+	<font size="5">Dr. Clifford delivered a keynote speech at the Society for Critical Care Medicine Annual Congress</font>
+<br>
+	<em>16 February 2020</em> - Dr. Gari Clifford presented the Max Harry Weil Memorial Lecture on the future of artificial intelligence in critical care: A Tsunami of Predictions or a Consensus of Opinions at the Society for Critical Care Medicine Annual Congress in Miami. An accompanying editorial can be found <a href="https://arxiv.org/pdf/2007.10502.pdf">here</a>. <a href="https://www.youtube.com/watch?v=Tv9ADevax8M">Watch the presentation here.</a>
+</div>
+
+<br>
+<div onclick="">
+	<font size="5">Clifford Lab's work was highlighted in the Guatemalan national newspaper</font>
+<br>
+	<em>12 January 2020</em> - The Guatemalan national newspaper 'El Periodico' highlights Dr. Gari Clifford's work with their partner NGO, <a href="https://www.wuqukawoq.org/">Wuqu' Kawoq - Maya Health Alliance</a>: "Wuku' Kawoq, tecnología para evitar muertes maternas" (Wuku' Kawoq, technology to prevent maternal deaths) on their front page.
+</div>
 </details>
+
 <details><summary><font size="6">2019</font></summary>
+<div onclick="">
+	<font size="5">An editorial of PhysioNet Challenge 2019 was featured in the Journal of Physiological Measurement</font>
+<br>
+	<em>September 2019</em> - Dr. Clifford and Dr.Reyna presented the annual <a href="https://moody-challenge.physionet.org/">PhysioNet Challenge</a> awards at the <a href="https://cinc.org/">Computing in Cardiology</a> 2019 in Singapore. Focusing on <a href="https://physionet.org/content/challenge-2019/1.0.0/">Early Prediction of Sepsis from Clinical Data</a>, the Challenge leveraged BMI's focused research in this area to share a three-hospital electronic medical record database labeled for sepsis onset. More than <a href="https://physionet.org/files/challenge-2019/1.0.0/papers/index.html">55 papers</a> and <a href="https://physionet.org/static/published-projects/challenge-2019/1.0.0/sources/">91 independent open-source software entries</a>. More information can be found in this summary editorial. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6964870/">Read the editorial here.</a>
+</div>
+
+<br>
+<div onclick="">
+	<font size="5">Clifford Lab's work was highlighted in the Guatemalan national newspaper 'El Periodico'</font>
+<br>
+	<em>20 May 2019</em> - The Guatemalan national newspaper 'El Periodico' highlights Dr. Gari Clifford's work with their partner NGO, <a href="https://www.wuqukawoq.org/">Wuqu' Kawoq - Maya Health Alliance</a>: "Se reduce brecha de mortalida materna en Chimaltenango, Referencias para asistencia hospitalaria aumentan gracias al uso de tecnología” (Maternal mortality gap in Chimaltenango reduced, Referrals for hospital assistance increase thanks to the use of technology).
+</div>
+
+<br>
+<div onclick="">
+	<font size="5">Two new basic science chairs reflect One Emory focus on collaborative research</font>
+<br>
+	<em>25 April 2019</em> - Dr. Clifford, appointed chair of Emory Department of Biomedical Informatics, and Dr. Sundberg, recruited to head the Department of Biochemistry, are key figures in advancing collaborative research efforts within the university's One Emory framework, with Dr. Clifford expanding the department's funding portfolio and leading innovative partnerships in critical care data analysis and machine learning applications in medicine. <a href="https://news.emory.edu/stories/2019/04/sundberg_clifford_science_chairs/index.html">Read the article here.</a>
+</div>
 </details>
+
 <details><summary><font size="6">2018</font></summary>
+<div onclick="">
+	<font size="5">An editorial of PhysioNet Challenge 2018 was featured in the Journal of Physiological Measurement</font>
+<br>
+	<em>September 2018</em> - Dr. Clifford presented the annual <a href="https://moody-challenge.physionet.org/">PhysioNet Challenge</a> awards at the <a href="https://cinc.org/">Computing in Cardiology</a> 2018 in Maastricht, The Netherlands. The Challenge, titled <a href="https://physionet.org/content/challenge-2018/1.0.0/">You Snooze, You Win</a>, focused on classifying arousals from sleep data and led to over <a href="https://physionet.org/files/challenge-2018/1.0.0/papers/index.html">32 publications</a> and <a href="https://physionet.org/static/published-projects/challenge-2018/1.0.0/sources/">18 pieces of contributed open-source software</a>. A focus issue in the topic considered by the Challenge was published in Physiological Measurement. <a href="https://physionet.org/static/published-projects/challenge-2018/1.0.0/sources/">Read the editorial here.</a>
+</div>
+
+<br>
+<div onclick="">
+	<font size="5">Clifford Lab's work was featured in the Guatemalan national newspaper 'Prensa Libre'</font>
+<br>
+	<em>26 August 2018</em> - The Guatemalan national newspaper 'Prensa Libre' highlights Dr. Gari Clifford's work with their partner NGO, <a href="https://www.wuqukawoq.org/">Wuqu' Kawoq - Maya Health Alliance</a>: "App Salva Vidas: La technología llega en auxilia de las comadronas” [App Saves Lives:  The technology arrives to assist midwives].  Aug 26, 2018. pgs. 1, 14-17.  Accompanied by online video, “Una app para control materno en Tecpán, Chimaltenango” (An app for maternal control in Tecpán, Chimaltenango). <a href="https://www.prensalibre.com/PrensaLibreTV/una-app-para-control-materno-en-tecpan-chimaltenango/">Watch the video here.</a>
+</div>
 </details>
+
 <details><summary><font size="6">2017</font></summary>
+<div onclick="">
+	<font size="5">Dr. Clifford had an interview with WSB about Moyo Health</font>
+<br>
+	<em>15 September 2017</em> - Dr. Gari Clifford spoke to WSB-TV2 about a newly developed health care app "Moyo", jointly developed with <a href="https://www.msm.edu/">Morehouse School of Medicine</a> under funding from the National Science Foundation which aims to improve health and provide economic/educational opportunities to under-represented groups. <a href="https://www.wsbtv.com/news/consumer/new-app-aims-to-improve-health-provide-economic-opportunities/614753227/">Watch the interview here.</a>
+</div>
+
+<br>
+<div onclick="">
+	<font size="5">Clifford team's app saves lives of Maya women in Guatemala</font>
+<br>
+	<em>5 September 2017</em> - Dr. Clifford's team's app for improving perinatal outcomes in rural Guatemala, developed under NIH funding from the NICHD and <a href="https://www.fic.nih.gov/">Fogarty International Center</a>, was highlighted by MSNBC in a recent documentary on its use by their partner NGO, <a href="https://www.wuqukawoq.org/">Wuqu' Kawoq - Maya Health Alliance</a>. <a href="https://www.nbcnews.com/globalcitizen/video/app-saves-lives-of-maya-women-in-guatemala-1039437379735">Watch the video here.</a>
+</div>
+
+<br>
 <div onclick="">
 	<font size="5">Our work on mHealth for mental illness covered in Emory Lab Land article</font>
 <br>

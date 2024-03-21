@@ -1458,6 +1458,29 @@ Hegde C, Rad AB, Sameni R, Clifford GD. <a href="https://drive.google.com/file/d
 </div></div></td></tr><tr>
 <td>223</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="JuttaJoormann_2022_01_Priorhistories">
+<div class="citation">
+Joormann J, Ziobrowski HN, King AJ, Gildea SM, Lee S, Sampson NA, House SL, Beaudoin FL, An X, Stevens JS, Zeng D, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Bollen KA, Rauch SL, Haran JP, Storrow AB, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, McGrath ME, Hudak LA, Pascual JL, Seamon MJ, Chang AM, Pearson C, Peak DA, Domeier RM, Rathlev NK, O'Neil BJ, Sanchez LD, Bruce SE, Miller MW, Pietrzak RH, Barch DM, Pizzagalli DA, Harte SE, Elliott JM, Koenen KC, McLean SA, Kessler RC. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8732322/pdf/nihms-1762304.pdf">Prior histories of posttraumatic stress disorder and major depression and their onset and course in the three months after a motor vehicle collision in the AURORA study</a>. Depress and Anxiety 2022 January; 39 (1): pp. 56-70.
+</div>
+<div class="bibtex_source"><pre>@article{JuttaJoormann_2022_01_Priorhistories,
+    author = "Joormann, Jutta and Ziobrowski, Hannah N and King, Andrew J and Gildea, Sarah M and Lee, Sue and Sampson, Nancy A and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Stevens, Jennifer S and Zeng, Donglin and Neylan, Thomas C and Clifford, Gari D and Linnstaedt, Sarah D and Germine, Laura T and Bollen, Kenneth A and Rauch, Scott L and Haran, John P and Storrow, Alan B and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and McGrath, Meghan E and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Chang, Anna M and Pearson, Claire and Peak, David A and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sanchez, Leon D and Bruce, Steven E and Miller, Mark W and Pietrzak, Robert H and Barch, Deanna M and Pizzagalli, Diego A and Harte, Steven E and Elliott, James M and Koenen, Karestan C and McLean, Samuel A and Kessler, Ronald C",
+    title = "Prior histories of posttraumatic stress disorder and major depression and their onset and course in the three months after a motor vehicle collision in the AURORA study",
+    date = "2022-01",
+    issue = "1",
+    journal = "Depress and Anxiety",
+    url = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8732322/pdf/nihms-1762304.pdf",
+    pages = "56-70",
+    volume = "39"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="JuttaJoormann_2022_01_Priorhistories">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="JuttaJoormann_2022_01_Priorhistories">[show citation]</label>
+</div></div></td></tr><tr>
+<td>222</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZifanJiang_2022_01_21_Automatedanalysis">
 <div class="citation">
 Jiang Z, Seyedi S, Haque RU, Pongos AL, Vickers KL, Manzanares CM, Lah JJ, Levey AI, Clifford GD. <a href="https://drive.google.com/file/d/1j3ajG_mAeEWEW7YzY8aGdA0XU1kzHPZg">Automated analysis of facial emotions in subjects with cognitive impairment</a>. PLos One 2022 January 21; 17 (1): p. e0262527.
@@ -1479,29 +1502,6 @@ Jiang Z, Seyedi S, Haque RU, Pongos AL, Vickers KL, Manzanares CM, Lah JJ, Levey
 </div>
 <div class="hidebibtex">
 <label for="ZifanJiang_2022_01_21_Automatedanalysis">[show citation]</label>
-</div></div></td></tr><tr>
-<td>222</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="JuttaJoormann_2022_01_Priorhistories">
-<div class="citation">
-Joormann J, Ziobrowski HN, King AJ, Gildea SM, Lee S, Sampson NA, House SL, Beaudoin FL, An X, Stevens JS, Zeng D, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Bollen KA, Rauch SL, Haran JP, Storrow AB, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, McGrath ME, Hudak LA, Pascual JL, Seamon MJ, Chang AM, Pearson C, Peak DA, Domeier RM, Rathlev NK, O'Neil BJ, Sanchez LD, Bruce SE, Miller MW, Pietrzak RH, Barch DM, Pizzagalli DA, Harte SE, Elliott JM, Koenen KC, McLean SA, Kessler RC. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8732322/pdf/nihms-1762304.pdf">Prior histories of posttraumatic stress disorder and major depression and their onset and course in the three months after a motor vehicle collision in the AURORA study</a>. Depress and Anxiety 2022 January; 39 (1): pp. 56-70.
-</div>
-<div class="bibtex_source"><pre>@article{JuttaJoormann_2022_01_Priorhistories,
-    author = "Joormann, Jutta and Ziobrowski, Hannah N and King, Andrew J and Gildea, Sarah M and Lee, Sue and Sampson, Nancy A and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Stevens, Jennifer S and Zeng, Donglin and Neylan, Thomas C and Clifford, Gari D and Linnstaedt, Sarah D and Germine, Laura T and Bollen, Kenneth A and Rauch, Scott L and Haran, John P and Storrow, Alan B and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and McGrath, Meghan E and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Chang, Anna M and Pearson, Claire and Peak, David A and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sanchez, Leon D and Bruce, Steven E and Miller, Mark W and Pietrzak, Robert H and Barch, Deanna M and Pizzagalli, Diego A and Harte, Steven E and Elliott, James M and Koenen, Karestan C and McLean, Samuel A and Kessler, Ronald C",
-    title = "Prior histories of posttraumatic stress disorder and major depression and their onset and course in the three months after a motor vehicle collision in the AURORA study",
-    date = "2022-01",
-    issue = "1",
-    journal = "Depress and Anxiety",
-    url = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8732322/pdf/nihms-1762304.pdf",
-    pages = "56-70",
-    volume = "39"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="JuttaJoormann_2022_01_Priorhistories">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="JuttaJoormann_2022_01_Priorhistories">[show citation]</label>
 </div></div></td></tr><tr>
 <td>221</td>
 <td><div class="citation_container">
@@ -1673,30 +1673,6 @@ Steuber ER, Seligowski AV, Roeckner AR, Reda M, Lebois LA, Rooij SJ, Murty VP, E
 </div></div></td></tr><tr>
 <td>214</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="AntoniaVSeligowski_2021_11_01_Aprospective">
-<div class="citation">
-Seligowski AV, Steuber ER, Hinrichs R, Reda MH, Wiltshire CN, Wanna CP, Winters SJ, Phillips KA, House SL, Beaudoin FL, An X, Stevens JS, Zeng D, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Bollen KA, Guffanti G, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Kurz MC, Murty VP, McGrath ME, Hudak LA, Pascual JL, Seamon MJ, Datner EM, Chang AM, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sanchez LD, Bruce SE, Miller MW, Pietrzak RH, Joormann J, Barch DM, Pizzagalli DA, Sheridan JF, Luna B, Harte SE, Elliott JM, Koenen KC, Kessler RC, McLean SA, Ressler KJ, Jovanovic T. <a href="https://drive.google.com/file/d/1tKY3ymC0EGOo5F59Wu0H_YIu0zMzpk3B">A prospective examination of sex differences in posttraumatic autonomic functioning</a>. Neurobiology of Stress 2021 August 21; 15: p. 100384. DOI: <a href="https://doi.org/10.1016/j.ynstr.2021.100384">10.1016/j.ynstr.2021.100384</a>.
-</div>
-<div class="bibtex_source"><pre>@article{AntoniaVSeligowski_2021_11_01_Aprospective,
-    author = "Seligowski, Antonia V and Steuber, Elizabeth R and Hinrichs, Rebecca and Reda, Mariam H and Wiltshire, Charis N and Wanna, Cassandra P and Winters, Sterling J and Phillips, Karlye A and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Stevens, Jennifer S and Zeng, Donglin and Neylan, Thomas C and Clifford, Gari D and Linnstaedt, Sarah D and Germine, Laura T and Bollen, Kenneth A and Guffanti, Guia and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Kurz, Michael C and Murty, Vishnu P and McGrath, Meghan E and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Datner, Elizabeth M and Chang, Anna M and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sanchez, Leon D and Bruce, Steven E and Miller, Mark W and Pietrzak, Robert H and Joormann, Jutta and Barch, Deanna M and Pizzagalli, Diego A and Sheridan, John F and Luna, Beatriz and Harte, Steven E and Elliott, James M and Koenen, Karestan C and Kessler, Ronald C and McLean, Samuel A and Ressler, Kerry J and Jovanovic, Tanja",
-    title = "A prospective examination of sex differences in posttraumatic autonomic functioning",
-    date = "2021-08-21",
-    journal = "Neurobiology of Stress",
-    url = "https://drive.google.com/file/d/1tKY3ymC0EGOo5F59Wu0H\_YIu0zMzpk3B",
-    pages = "100384",
-    volume = "15",
-    doi = "10.1016/j.ynstr.2021.100384",
-    note = "Publisher: Elsevier"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="AntoniaVSeligowski_2021_11_01_Aprospective">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="AntoniaVSeligowski_2021_11_01_Aprospective">[show citation]</label>
-</div></div></td></tr><tr>
-<td>213</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MelissaAaendel_2021_08_TheNational">
 <div class="citation">
 Aendel MA, Chute CG, Bennett TD, Eichmann DA, Guinney J, Kibbe WA, Payne PRO, Pfaff ER, Robinson PN, Saltz JH, Spratt H, Suver C, Wilbanks J, Wilcox AB, Williams AE, Wu C, Blacketer C, Bradford RL, Cimino JJ, Clark M, Colmenares EW, Francis PA, Gabriel D, Graves A, Hemadri R, Hong SS, Hripscak G, Jiao D, Klann JG, Kostka K, Lee AM, Lehmann HP, Lingrey L, Miller RT, Morris M, Murphy SN, Natarajan K, Palchuk MB, Sheikh U, Solbrig H, Visweswaran S, Walden A, Walters KM, Weber GM, Zhang XT, Zhu RL, Amor B, Girvin AT, Manna A, Qureshi N, Kurilla MG, Michael SG, Portilla LM, Rutter JL, Austin CP, Gersing KR, N3C Consortium . <a href="https://drive.google.com/file/d/1zwGE2OnCz8MVpKLhNJ_W2dZEwiUstFbg/">The National COVID Cohort Collaborative (N3C): rationale, design, infrastructure, and deployment</a>. Journal of the American Medical Informatics Association 2021 August; 28 (3): pp. 427-443.
@@ -1718,6 +1694,30 @@ Aendel MA, Chute CG, Bennett TD, Eichmann DA, Guinney J, Kibbe WA, Payne PRO, Pf
 </div>
 <div class="hidebibtex">
 <label for="MelissaAaendel_2021_08_TheNational">[show citation]</label>
+</div></div></td></tr><tr>
+<td>213</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="AntoniaVSeligowski_2021_11_01_Aprospective">
+<div class="citation">
+Seligowski AV, Steuber ER, Hinrichs R, Reda MH, Wiltshire CN, Wanna CP, Winters SJ, Phillips KA, House SL, Beaudoin FL, An X, Stevens JS, Zeng D, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Bollen KA, Guffanti G, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Kurz MC, Murty VP, McGrath ME, Hudak LA, Pascual JL, Seamon MJ, Datner EM, Chang AM, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sanchez LD, Bruce SE, Miller MW, Pietrzak RH, Joormann J, Barch DM, Pizzagalli DA, Sheridan JF, Luna B, Harte SE, Elliott JM, Koenen KC, Kessler RC, McLean SA, Ressler KJ, Jovanovic T. <a href="https://drive.google.com/file/d/1tKY3ymC0EGOo5F59Wu0H_YIu0zMzpk3B">A prospective examination of sex differences in posttraumatic autonomic functioning</a>. Neurobiology of Stress 2021 August 21; 15: p. 100384. DOI: <a href="https://doi.org/10.1016/j.ynstr.2021.100384">10.1016/j.ynstr.2021.100384</a>.
+</div>
+<div class="bibtex_source"><pre>@article{AntoniaVSeligowski_2021_11_01_Aprospective,
+    author = "Seligowski, Antonia V and Steuber, Elizabeth R and Hinrichs, Rebecca and Reda, Mariam H and Wiltshire, Charis N and Wanna, Cassandra P and Winters, Sterling J and Phillips, Karlye A and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Stevens, Jennifer S and Zeng, Donglin and Neylan, Thomas C and Clifford, Gari D and Linnstaedt, Sarah D and Germine, Laura T and Bollen, Kenneth A and Guffanti, Guia and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Kurz, Michael C and Murty, Vishnu P and McGrath, Meghan E and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Datner, Elizabeth M and Chang, Anna M and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sanchez, Leon D and Bruce, Steven E and Miller, Mark W and Pietrzak, Robert H and Joormann, Jutta and Barch, Deanna M and Pizzagalli, Diego A and Sheridan, John F and Luna, Beatriz and Harte, Steven E and Elliott, James M and Koenen, Karestan C and Kessler, Ronald C and McLean, Samuel A and Ressler, Kerry J and Jovanovic, Tanja",
+    title = "A prospective examination of sex differences in posttraumatic autonomic functioning",
+    date = "2021-08-21",
+    journal = "Neurobiology of Stress",
+    url = "https://drive.google.com/file/d/1tKY3ymC0EGOo5F59Wu0H\_YIu0zMzpk3B",
+    pages = "100384",
+    volume = "15",
+    doi = "10.1016/j.ynstr.2021.100384",
+    note = "Publisher: Elsevier"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="AntoniaVSeligowski_2021_11_01_Aprospective">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="AntoniaVSeligowski_2021_11_01_Aprospective">[show citation]</label>
 </div></div></td></tr><tr>
 <td>212</td>
 <td><div class="citation_container">
@@ -1793,30 +1793,6 @@ Nasiri S, Clifford GD. <a href="https://drive.google.com/file/d/16wTKigblejR2RT9
 </div></div></td></tr><tr>
 <td>209</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="SamruddhiSKulkarni_2021_05_21_CNNbasedLCD">
-<div class="citation">
-Kulkarni SS, Katebi N, Valderrama CE, Rohloff P, Clifford GD. <a href="https://drive.google.com/file/d/14Z8e5W2tG2h7c_nsIaCNOtEpuc0PtJQe/view?usp=sharing">CNN-based LCD transcription of blood pressure from a mobile phone camera</a>. Frontiers in Artificial Intelligence 2021 May 21; 4: p. 543176. DOI: <a href="https://doi.org/10.3389/frai.2021.543176">10.3389/frai.2021.543176</a>.
-</div>
-<div class="bibtex_source"><pre>@article{SamruddhiSKulkarni_2021_05_21_CNNbasedLCD,
-    author = "Kulkarni, Samruddhi S and Katebi, Nasim and Valderrama, Camilo E and Rohloff, Peter and Clifford, Gari D",
-    title = "CNN-based LCD transcription of blood pressure from a mobile phone camera",
-    date = "2021-05-21",
-    journal = "Frontiers in Artificial Intelligence",
-    url = "https://drive.google.com/file/d/14Z8e5W2tG2h7c\_nsIaCNOtEpuc0PtJQe/view?usp=sharing",
-    pages = "543176",
-    volume = "4",
-    doi = "10.3389/frai.2021.543176",
-    note = "Publisher: Frontiers Media SA"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="SamruddhiSKulkarni_2021_05_21_CNNbasedLCD">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="SamruddhiSKulkarni_2021_05_21_CNNbasedLCD">[show citation]</label>
-</div></div></td></tr><tr>
-<td>208</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AzadeTabaie_2021_05_01_Predictingpresumed">
 <div class="citation">
 Tabaie A, Orenstein EW, Nemati S, Basu RK, Kandaswamy S, Clifford GD, Kamaleswaran R. <a href="https://drive.google.com/file/d/1Ea0FCJaDRbXNRCtjpvI4I2ip46uOeJO2/view?usp=sharing">Predicting presumed serious infection among hospitalized children on central venous lines with machine learning</a>. Computers in Biology and Medicine 2021 May; 132: p. 104289. DOI: <a href="https://doi.org/10.1016/j.compbiomed.2021.104289">10.1016/j.compbiomed.2021.104289</a>.
@@ -1839,7 +1815,7 @@ Tabaie A, Orenstein EW, Nemati S, Basu RK, Kandaswamy S, Clifford GD, Kamaleswar
 <div class="hidebibtex">
 <label for="AzadeTabaie_2021_05_01_Predictingpresumed">[show citation]</label>
 </div></div></td></tr><tr>
-<td>207</td>
+<td>208</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="FrancescaLBeaudoin_2021_05_Painafter">
 <div class="citation">
@@ -1861,6 +1837,30 @@ Beaudoin FL, Kessler R, Hwang I, Lee S, Sampson N, An X, Ressler K, Koenen K, Mc
 </div>
 <div class="hidebibtex">
 <label for="FrancescaLBeaudoin_2021_05_Painafter">[show citation]</label>
+</div></div></td></tr><tr>
+<td>207</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="SamruddhiSKulkarni_2021_05_21_CNNbasedLCD">
+<div class="citation">
+Kulkarni SS, Katebi N, Valderrama CE, Rohloff P, Clifford GD. <a href="https://drive.google.com/file/d/14Z8e5W2tG2h7c_nsIaCNOtEpuc0PtJQe/view?usp=sharing">CNN-based LCD transcription of blood pressure from a mobile phone camera</a>. Frontiers in Artificial Intelligence 2021 May 21; 4: p. 543176. DOI: <a href="https://doi.org/10.3389/frai.2021.543176">10.3389/frai.2021.543176</a>.
+</div>
+<div class="bibtex_source"><pre>@article{SamruddhiSKulkarni_2021_05_21_CNNbasedLCD,
+    author = "Kulkarni, Samruddhi S and Katebi, Nasim and Valderrama, Camilo E and Rohloff, Peter and Clifford, Gari D",
+    title = "CNN-based LCD transcription of blood pressure from a mobile phone camera",
+    date = "2021-05-21",
+    journal = "Frontiers in Artificial Intelligence",
+    url = "https://drive.google.com/file/d/14Z8e5W2tG2h7c\_nsIaCNOtEpuc0PtJQe/view?usp=sharing",
+    pages = "543176",
+    volume = "4",
+    doi = "10.3389/frai.2021.543176",
+    note = "Publisher: Frontiers Media SA"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="SamruddhiSKulkarni_2021_05_21_CNNbasedLCD">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="SamruddhiSKulkarni_2021_05_21_CNNbasedLCD">[show citation]</label>
 </div></div></td></tr><tr>
 <td>206</td>
 <td><div class="citation_container">
@@ -2054,30 +2054,6 @@ Cakmak AS, Alday EAP, Poian GD, Rad AB, Metzler TJ, Neylan TC, House SL, Beaudoi
 </div></div></td></tr><tr>
 <td>198</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="NathanielGHarnett_2021_06_Prognosticneuroimaging">
-<div class="citation">
-Harnett NG, Rooij SJ, Ely TD, Lebois LA, Murty VP, Jovanovic T, Hill SB, Dumornay NM, Merker JB, Bruce SE, House SL, Beaudoin FL, An X, Zeng D, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Bollen KA, Rauch SL, Lewandowski C, Hendry PL, Sheikh S, Storrow AB, Jr PIM, Haran JP, Jones CW, Punches BE, Swor RA, McGrath ME, Pascual JL, Seamon MJ, Mohiuddin K, Chang AM, Pearson C, Peak DA, Domeier RM, Rathlev NK, Sanchez LD, Pietrzak RH, Joormann J, Barch DM, Pizzagalli DA, Sheridan JF, Harte SE, Elliott JM, Kessler RC, Koenen KC, Mclean S, Ressler KJ, Stevens JS. <a href="https://www.nature.com/articles/s41386-020-00946-8.pdf">Prognostic neuroimaging biomarkers of trauma-related psychopathology: resting-state fMRI shortly after trauma predicts future PTSD and depression symptoms in the AURORA study</a>. Neuropsychopharmacology 2021 January 21; 46 (7): pp. 1263-1271.
-</div>
-<div class="bibtex_source"><pre>@article{NathanielGHarnett_2021_06_Prognosticneuroimaging,
-    author = "Harnett, Nathaniel G and van Rooij, Sanne JH and Ely, Timothy D and Lebois, Lauren AM and Murty, Vishnu P and Jovanovic, Tanja and Hill, Sarah B and Dumornay, Nathalie M and Merker, Julia B and Bruce, Steve E and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Zeng, Donglin and Neylan, Thomas C and Clifford, Gari D and Linnstaedt, Sarah D and Germine, Laura T and Bollen, Kenneth A and Rauch, Scott L and Lewandowski, Christopher and Hendry, Phyllis L and Sheikh, Sophia and Storrow, Alan B and Jr, Paul I Musey and Haran, John P and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and McGrath, Meghan E and Pascual, Jose L and Seamon, Mark J and Mohiuddin, Kamran and Chang, Anna M and Pearson, Claire and Peak, David A and Domeier, Robert M and Rathlev, Niels K and Sanchez, Leon D and Pietrzak, Robert H and Joormann, Jutta and Barch, Deanna M and Pizzagalli, Diego A and Sheridan, John F and Harte, Steven E and Elliott, James M and Kessler, Ronald C and Koenen, Karestan C and Mclean, Samuel and Ressler, Kerry J and Stevens, Jennifer S",
-    title = "Prognostic neuroimaging biomarkers of trauma-related psychopathology: resting-state fMRI shortly after trauma predicts future PTSD and depression symptoms in the AURORA study",
-    date = "2021-01-21",
-    issue = "7",
-    journal = "Neuropsychopharmacology",
-    url = "https://www.nature.com/articles/s41386-020-00946-8.pdf",
-    pages = "1263-1271",
-    volume = "46",
-    note = "Publisher: Springer International Publishing"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="NathanielGHarnett_2021_06_Prognosticneuroimaging">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="NathanielGHarnett_2021_06_Prognosticneuroimaging">[show citation]</label>
-</div></div></td></tr><tr>
-<td>197</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RafiUHaque_2020_04_27_Deepconvolutional">
 <div class="citation">
 Haque RU, Pongos AL, Manzanares CM, Lah JJ, Levey AI, Clifford GD. <a href="https://drive.google.com/file/d/1kV0ynI48GYmQv84Yh_j9AMCdPg6yzmEZ/view?usp=sharing">Deep convolutional neural networks and transfer learning for measuring cognitive impairment using eye-tracking in a distributed tablet-based environment</a>. IEEE Transactions on Biomedical Engineering 2021 January; 68 (1): pp. 11-18.
@@ -2099,6 +2075,30 @@ Haque RU, Pongos AL, Manzanares CM, Lah JJ, Levey AI, Clifford GD. <a href="http
 </div>
 <div class="hidebibtex">
 <label for="RafiUHaque_2020_04_27_Deepconvolutional">[show citation]</label>
+</div></div></td></tr><tr>
+<td>197</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="NathanielGHarnett_2021_06_Prognosticneuroimaging">
+<div class="citation">
+Harnett NG, Rooij SJ, Ely TD, Lebois LA, Murty VP, Jovanovic T, Hill SB, Dumornay NM, Merker JB, Bruce SE, House SL, Beaudoin FL, An X, Zeng D, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Bollen KA, Rauch SL, Lewandowski C, Hendry PL, Sheikh S, Storrow AB, Jr PIM, Haran JP, Jones CW, Punches BE, Swor RA, McGrath ME, Pascual JL, Seamon MJ, Mohiuddin K, Chang AM, Pearson C, Peak DA, Domeier RM, Rathlev NK, Sanchez LD, Pietrzak RH, Joormann J, Barch DM, Pizzagalli DA, Sheridan JF, Harte SE, Elliott JM, Kessler RC, Koenen KC, Mclean S, Ressler KJ, Stevens JS. <a href="https://www.nature.com/articles/s41386-020-00946-8.pdf">Prognostic neuroimaging biomarkers of trauma-related psychopathology: resting-state fMRI shortly after trauma predicts future PTSD and depression symptoms in the AURORA study</a>. Neuropsychopharmacology 2021 January 21; 46 (7): pp. 1263-1271.
+</div>
+<div class="bibtex_source"><pre>@article{NathanielGHarnett_2021_06_Prognosticneuroimaging,
+    author = "Harnett, Nathaniel G and van Rooij, Sanne JH and Ely, Timothy D and Lebois, Lauren AM and Murty, Vishnu P and Jovanovic, Tanja and Hill, Sarah B and Dumornay, Nathalie M and Merker, Julia B and Bruce, Steve E and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Zeng, Donglin and Neylan, Thomas C and Clifford, Gari D and Linnstaedt, Sarah D and Germine, Laura T and Bollen, Kenneth A and Rauch, Scott L and Lewandowski, Christopher and Hendry, Phyllis L and Sheikh, Sophia and Storrow, Alan B and Jr, Paul I Musey and Haran, John P and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and McGrath, Meghan E and Pascual, Jose L and Seamon, Mark J and Mohiuddin, Kamran and Chang, Anna M and Pearson, Claire and Peak, David A and Domeier, Robert M and Rathlev, Niels K and Sanchez, Leon D and Pietrzak, Robert H and Joormann, Jutta and Barch, Deanna M and Pizzagalli, Diego A and Sheridan, John F and Harte, Steven E and Elliott, James M and Kessler, Ronald C and Koenen, Karestan C and Mclean, Samuel and Ressler, Kerry J and Stevens, Jennifer S",
+    title = "Prognostic neuroimaging biomarkers of trauma-related psychopathology: resting-state fMRI shortly after trauma predicts future PTSD and depression symptoms in the AURORA study",
+    date = "2021-01-21",
+    issue = "7",
+    journal = "Neuropsychopharmacology",
+    url = "https://www.nature.com/articles/s41386-020-00946-8.pdf",
+    pages = "1263-1271",
+    volume = "46",
+    note = "Publisher: Springer International Publishing"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="NathanielGHarnett_2021_06_Prognosticneuroimaging">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="NathanielGHarnett_2021_06_Prognosticneuroimaging">[show citation]</label>
 </div></div></td></tr><tr>
 <td>196</td>
 <td><div class="citation_container">
@@ -6417,6 +6417,29 @@ Clifford GD. <a href="https://scholar.google.com/scholar?cluster=172234088378280
 </div></div></td></tr><tr>
 <td>13</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="BrianAJanz_2005_Developmentand">
+<div class="citation">
+Janz BA, Saeed M, Frassica J, Clifford GD, Mark RG. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1560710/">Development and optimization of a critical care alert and display (CCAD) system using retrospective ICU databases</a>. AMIA Annual Symposium Proceedings 2005; 2005: p. 994.
+</div>
+<div class="bibtex_source"><pre>@article{BrianAJanz_2005_Developmentand,
+    author = "Janz, Brian A and Saeed, Mohammed and Frassica, Joseph and Clifford, Gari D and Mark, Roger G",
+    title = "Development and optimization of a critical care alert and display (CCAD) system using retrospective ICU databases",
+    date = "2005",
+    journal = "AMIA Annual Symposium Proceedings",
+    url = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1560710/",
+    pages = "994",
+    volume = "2005",
+    note = "Publisher: American Medical Informatics Association"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="BrianAJanz_2005_Developmentand">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="BrianAJanz_2005_Developmentand">[show citation]</label>
+</div></div></td></tr><tr>
+<td>12</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2005_03_21_Quantifyingerrors">
 <div class="citation">
 Clifford GD, Tarassenko L. <a href="https://ieeexplore.ieee.org/abstract/document/1408120/">Quantifying errors in spectral estimates of HRV due to beat replacement and resampling</a>. IEEE transactions on biomedical engineering 2005 March 21; 52 (4): pp. 630-638.
@@ -6438,29 +6461,6 @@ Clifford GD, Tarassenko L. <a href="https://ieeexplore.ieee.org/abstract/documen
 </div>
 <div class="hidebibtex">
 <label for="GariDClifford_2005_03_21_Quantifyingerrors">[show citation]</label>
-</div></div></td></tr><tr>
-<td>12</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="BrianAJanz_2005_Developmentand">
-<div class="citation">
-Janz BA, Saeed M, Frassica J, Clifford GD, Mark RG. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1560710/">Development and optimization of a critical care alert and display (CCAD) system using retrospective ICU databases</a>. AMIA Annual Symposium Proceedings 2005; 2005: p. 994.
-</div>
-<div class="bibtex_source"><pre>@article{BrianAJanz_2005_Developmentand,
-    author = "Janz, Brian A and Saeed, Mohammed and Frassica, Joseph and Clifford, Gari D and Mark, Roger G",
-    title = "Development and optimization of a critical care alert and display (CCAD) system using retrospective ICU databases",
-    date = "2005",
-    journal = "AMIA Annual Symposium Proceedings",
-    url = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1560710/",
-    pages = "994",
-    volume = "2005",
-    note = "Publisher: American Medical Informatics Association"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="BrianAJanz_2005_Developmentand">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="BrianAJanz_2005_Developmentand">[show citation]</label>
 </div></div></td></tr><tr>
 <td>11</td>
 <td><div class="citation_container">
