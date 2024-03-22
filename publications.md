@@ -2030,30 +2030,6 @@ Sadiq I, Perez-Alday EA, Shah AJ, Clifford GD. <a href="https://iopscience.iop.o
 </div></div></td></tr><tr>
 <td>199</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="AyseSCakmak_2021_01_22_Classificationand">
-<div class="citation">
-Cakmak AS, Alday EAP, Poian GD, Rad AB, Metzler TJ, Neylan TC, House SL, Beaudoin FL, An X, Stevens JS, Zeng D, Linnstaedt SD, Jovanovic T, Germine LT, Bollen KA, Rauch SL, Lewandowski CA, Hendry PL, Sheikh S, Storrow AB, Musey PI, Haran JP, Jones CW, Punches BE, Swor RA, Gentile NT, McGrath ME, Seamon MJ, Mohiuddin K, Chang AM, Pearson C, Domeier RM, Bruce SE, O'Neil BJ, Rathlev NK, Sanchez LD, Pietrzak RH, Joormann J, Barch DM, Pizzagalli DA, Harte SE, Elliott JM, Kessler RC, Koenen KC, Ressler KJ, Mclean SA, Li Q, Clifford GD. <a href="https://drive.google.com/file/d/1AbFEUIVUiDY36uBe-aags22AZnz8kFh8/view?usp=sharing">Classification and prediction of post-trauma outcomes related to PTSD using circadian rhythm changes measured via wrist-worn research watch in a large longitudinal cohort</a>. IEEE Journal of Biomedical and Health Informatics 2021 January 22; 25 (8): pp. 2866-2876.
-</div>
-<div class="bibtex_source"><pre>@article{AyseSCakmak_2021_01_22_Classificationand,
-    author = "Cakmak, Ayse S and Alday, Erick A Perez and Poian, Giulia Da and Rad, Ali Bahrami and Metzler, Thomas J and Neylan, Thomas C and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Stevens, Jennifer S and Zeng, Donglin and Linnstaedt, Sarah D and Jovanovic, Tanja and Germine, Laura T and Bollen, Kenneth A and Rauch, Scott L and Lewandowski, Christopher A and Hendry, Phyllis L and Sheikh, Sophia and Storrow, Alan B and Musey, Paul I and Haran, John P and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and Gentile, Nina T and McGrath, Meghan E and Seamon, Mark J and Mohiuddin, Kamran and Chang, Anna M and Pearson, Claire and Domeier, Robert M and Bruce, Steven E and O'Neil, Brian J and Rathlev, Niels K and Sanchez, Leon D and Pietrzak, Robert H and Joormann, Jutta and Barch, Deanna M and Pizzagalli, Diego A and Harte, Steven E and Elliott, James M and Kessler, Ronald C and Koenen, Karestan C and Ressler, Kerry J and Mclean, Samuel A and Li, Qiao and Clifford, Gari D",
-    title = "Classification and prediction of post-trauma outcomes related to PTSD using circadian rhythm changes measured via wrist-worn research watch in a large longitudinal cohort",
-    date = "2021-01-22",
-    issue = "8",
-    pages = "2866-2876",
-    journal = "IEEE Journal of Biomedical and Health Informatics",
-    url = "https://drive.google.com/file/d/1AbFEUIVUiDY36uBe-aags22AZnz8kFh8/view?usp=sharing",
-    volume = "25",
-    note = "Publisher: IEEE"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="AyseSCakmak_2021_01_22_Classificationand">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="AyseSCakmak_2021_01_22_Classificationand">[show citation]</label>
-</div></div></td></tr><tr>
-<td>198</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RafiUHaque_2020_04_27_Deepconvolutional">
 <div class="citation">
 Haque RU, Pongos AL, Manzanares CM, Lah JJ, Levey AI, Clifford GD. <a href="https://drive.google.com/file/d/1kV0ynI48GYmQv84Yh_j9AMCdPg6yzmEZ/view?usp=sharing">Deep convolutional neural networks and transfer learning for measuring cognitive impairment using eye-tracking in a distributed tablet-based environment</a>. IEEE Transactions on Biomedical Engineering 2021 January; 68 (1): pp. 11-18.
@@ -2075,6 +2051,30 @@ Haque RU, Pongos AL, Manzanares CM, Lah JJ, Levey AI, Clifford GD. <a href="http
 </div>
 <div class="hidebibtex">
 <label for="RafiUHaque_2020_04_27_Deepconvolutional">[show citation]</label>
+</div></div></td></tr><tr>
+<td>198</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="AyseSCakmak_2021_01_22_Classificationand">
+<div class="citation">
+Cakmak AS, Alday EAP, Poian GD, Rad AB, Metzler TJ, Neylan TC, House SL, Beaudoin FL, An X, Stevens JS, Zeng D, Linnstaedt SD, Jovanovic T, Germine LT, Bollen KA, Rauch SL, Lewandowski CA, Hendry PL, Sheikh S, Storrow AB, Musey PI, Haran JP, Jones CW, Punches BE, Swor RA, Gentile NT, McGrath ME, Seamon MJ, Mohiuddin K, Chang AM, Pearson C, Domeier RM, Bruce SE, O'Neil BJ, Rathlev NK, Sanchez LD, Pietrzak RH, Joormann J, Barch DM, Pizzagalli DA, Harte SE, Elliott JM, Kessler RC, Koenen KC, Ressler KJ, Mclean SA, Li Q, Clifford GD. <a href="https://drive.google.com/file/d/1AbFEUIVUiDY36uBe-aags22AZnz8kFh8/view?usp=sharing">Classification and prediction of post-trauma outcomes related to PTSD using circadian rhythm changes measured via wrist-worn research watch in a large longitudinal cohort</a>. IEEE Journal of Biomedical and Health Informatics 2021 January 22; 25 (8): pp. 2866-2876.
+</div>
+<div class="bibtex_source"><pre>@article{AyseSCakmak_2021_01_22_Classificationand,
+    author = "Cakmak, Ayse S and Alday, Erick A Perez and Poian, Giulia Da and Rad, Ali Bahrami and Metzler, Thomas J and Neylan, Thomas C and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Stevens, Jennifer S and Zeng, Donglin and Linnstaedt, Sarah D and Jovanovic, Tanja and Germine, Laura T and Bollen, Kenneth A and Rauch, Scott L and Lewandowski, Christopher A and Hendry, Phyllis L and Sheikh, Sophia and Storrow, Alan B and Musey, Paul I and Haran, John P and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and Gentile, Nina T and McGrath, Meghan E and Seamon, Mark J and Mohiuddin, Kamran and Chang, Anna M and Pearson, Claire and Domeier, Robert M and Bruce, Steven E and O'Neil, Brian J and Rathlev, Niels K and Sanchez, Leon D and Pietrzak, Robert H and Joormann, Jutta and Barch, Deanna M and Pizzagalli, Diego A and Harte, Steven E and Elliott, James M and Kessler, Ronald C and Koenen, Karestan C and Ressler, Kerry J and Mclean, Samuel A and Li, Qiao and Clifford, Gari D",
+    title = "Classification and prediction of post-trauma outcomes related to PTSD using circadian rhythm changes measured via wrist-worn research watch in a large longitudinal cohort",
+    date = "2021-01-22",
+    issue = "8",
+    pages = "2866-2876",
+    journal = "IEEE Journal of Biomedical and Health Informatics",
+    url = "https://drive.google.com/file/d/1AbFEUIVUiDY36uBe-aags22AZnz8kFh8/view?usp=sharing",
+    volume = "25",
+    note = "Publisher: IEEE"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="AyseSCakmak_2021_01_22_Classificationand">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="AyseSCakmak_2021_01_22_Classificationand">[show citation]</label>
 </div></div></td></tr><tr>
 <td>197</td>
 <td><div class="citation_container">
@@ -3850,6 +3850,30 @@ Breen C, Zhu T, Bond R, Finlay D, Clifford G. <a href="https://drive.google.com/
 </div></div></td></tr><tr>
 <td>123</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="DavidBSpringer_2015_09_01_LogisticregressionHSMMbased">
+<div class="citation">
+Springer DB, Tarassenko L, Clifford GD. <a href="https://drive.google.com/file/d/17JERIel3fKe6a0pKer4s0pelRkU3Pf83/view?usp=sharing">Logistic regression-HSMM-based heart sound segmentation</a>. IEEE Transactions on Biomedical Engineering 2016 April; 63 (4): pp. 822-832.
+</div>
+<div class="bibtex_source"><pre>@article{DavidBSpringer_2015_09_01_LogisticregressionHSMMbased,
+    author = "Springer, David B and Tarassenko, Lionel and Clifford, Gari D",
+    title = "Logistic regression-HSMM-based heart sound segmentation",
+    date = "2016-04",
+    issue = "4",
+    journal = "IEEE Transactions on Biomedical Engineering",
+    url = "https://drive.google.com/file/d/17JERIel3fKe6a0pKer4s0pelRkU3Pf83/view?usp=sharing",
+    pages = "822-832",
+    volume = "63",
+    note = "Publisher: IEEE"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="DavidBSpringer_2015_09_01_LogisticregressionHSMMbased">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="DavidBSpringer_2015_09_01_LogisticregressionHSMMbased">[show citation]</label>
+</div></div></td></tr><tr>
+<td>122</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="FernandoAndreotti_2016_04_12_Anopensource">
 <div class="citation">
 Andreotti F, Behar J, Zaunseder S, Oster J, Clifford GD. <a href="https://drive.google.com/file/d/1i3AGVLO2mP_VQ8XUDz8nsxr9oGCNLVvq/view?usp=sharing">An open-source framework for stress-testing non-invasive foetal ECG extraction algorithms</a>. Physiological Measurement 2016 April 12; 37 (5): pp. 627-648.
@@ -3872,7 +3896,7 @@ Andreotti F, Behar J, Zaunseder S, Oster J, Clifford GD. <a href="https://drive.
 <div class="hidebibtex">
 <label for="FernandoAndreotti_2016_04_12_Anopensource">[show citation]</label>
 </div></div></td></tr><tr>
-<td>122</td>
+<td>121</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JoachimBehar_2016_04_12_Apractical">
 <div class="citation">
@@ -3896,7 +3920,7 @@ Behar J, Andreotti F, Zaunseder S, Oster J, Clifford GD. <a href="https://drive.
 <div class="hidebibtex">
 <label for="JoachimBehar_2016_04_12_Apractical">[show citation]</label>
 </div></div></td></tr><tr>
-<td>121</td>
+<td>120</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2016_03_04_Theuse">
 <div class="citation">
@@ -3919,7 +3943,7 @@ Clifford GD. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-iOF9lYXdyUkRKM
 <div class="hidebibtex">
 <label for="GariDClifford_2016_03_04_Theuse">[show citation]</label>
 </div></div></td></tr><tr>
-<td>120</td>
+<td>119</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AlistairEWJohnson_2016_01_25_Machinelearning">
 <div class="citation">
@@ -3943,7 +3967,7 @@ Johnson AE, Ghassemi MM, Nemati S, Niehaus KE, Clifton DA, Clifford GD. <a href=
 <div class="hidebibtex">
 <label for="AlistairEWJohnson_2016_01_25_Machinelearning">[show citation]</label>
 </div></div></td></tr><tr>
-<td>119</td>
+<td>118</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="TingtingZhu_2015_12_Fusingcontinuousvalued">
 <div class="citation">
@@ -3966,43 +3990,19 @@ Zhu T, Dunkley N, Behar J, Clifton DA, Clifford GD. <a href="https://drive.googl
 <div class="hidebibtex">
 <label for="TingtingZhu_2015_12_Fusingcontinuousvalued">[show citation]</label>
 </div></div></td></tr><tr>
-<td>118</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="ArvindRaghu_2015_12_Engineeringa">
-<div class="citation">
-Raghu A, Praveen D, Peiris D, Tarassenko L, Clifford G. <a href="https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-015-0148-4">Engineering a mobile health tool for resource-poor settings to assess and manage cardiovascular disease risk: SMARThealth study</a>. BMC medical informatics and decision making 2015 December; 15 (1): pp. 1-15.
-</div>
-<div class="bibtex_source"><pre>@article{ArvindRaghu_2015_12_Engineeringa,
-    author = "Raghu, Arvind and Praveen, Devarsetty and Peiris, David and Tarassenko, Lionel and Clifford, Gari",
-    title = "Engineering a mobile health tool for resource-poor settings to assess and manage cardiovascular disease risk: SMARThealth study",
-    date = "2015-12",
-    issue = "1",
-    journal = "BMC medical informatics and decision making",
-    url = "https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-015-0148-4",
-    pages = "1-15",
-    volume = "15",
-    note = "Publisher: BioMed Central"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="ArvindRaghu_2015_12_Engineeringa">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="ArvindRaghu_2015_12_Engineeringa">[show citation]</label>
-</div></div></td></tr><tr>
 <td>117</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AaronPeace_2015_11_01_Usingcomputerised">
 <div class="citation">
-Peace A, Ramsewak A, Cairns A, Finlay D, Guldenring D, Clifford G, Bond R. <a href="https://www.sciencedirect.com/science/article/pii/S0022073615002253">Using computerised interactive response technology to assess electrocardiographers and for aggregating diagnoses</a>. Journal of electrocardiology 2015 November 1; 48 (6): pp. 995-999.
+Peace A, Ramsewak A, Cairns A, Finlay D, Guldenring D, Clifford G, Bond R. <a href="https://drive.google.com/file/d/1O7XXnA60M4NFdVx9RtmLV9VUQmAt7BkZ/view?usp=sharing">Using computerised interactive response technology to assess electrocardiographers and for aggregating diagnoses</a>. Journal of Electrocardiology 2015 November; 48 (6): pp. 995-999.
 </div>
 <div class="bibtex_source"><pre>@article{AaronPeace_2015_11_01_Usingcomputerised,
     author = "Peace, Aaron and Ramsewak, Adesh and Cairns, Andrew and Finlay, Dewar and Guldenring, Daniel and Clifford, Gari and Bond, Raymond",
     title = "Using computerised interactive response technology to assess electrocardiographers and for aggregating diagnoses",
-    date = "2015-11-01",
+    date = "2015-11",
     issue = "6",
-    journal = "Journal of electrocardiology",
-    url = "https://www.sciencedirect.com/science/article/pii/S0022073615002253",
+    journal = "Journal of Electrocardiology",
+    url = "https://drive.google.com/file/d/1O7XXnA60M4NFdVx9RtmLV9VUQmAt7BkZ/view?usp=sharing",
     pages = "995-999",
     volume = "48",
     note = "Publisher: Churchill Livingstone"
@@ -4018,15 +4018,15 @@ Peace A, Ramsewak A, Cairns A, Finlay D, Guldenring D, Clifford G, Bond R. <a hr
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JulienOster_2015_11_01_Impactof">
 <div class="citation">
-Oster J, Clifford GD. <a href="https://www.sciencedirect.com/science/article/pii/S0022073615002356">Impact of the presence of noise on RR interval-based atrial fibrillation detection</a>. Journal of electrocardiology 2015 November 1; 48 (6): pp. 947-951.
+Oster J, Clifford GD. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-iZEFPbmJFZkNhQ3l4RGQ4Ym12NFlnanhqRnhF/view?usp=sharing&resourcekey=0-ZIqTSTUJyEgiH0IuDeEKLw">Impact of the presence of noise on RR interval-based atrial fibrillation detection</a>. Journal of Electrocardiology 2015 November; 48 (6): pp. 947-951.
 </div>
 <div class="bibtex_source"><pre>@article{JulienOster_2015_11_01_Impactof,
     author = "Oster, Julien and Clifford, Gari D",
     title = "Impact of the presence of noise on RR interval-based atrial fibrillation detection",
-    date = "2015-11-01",
+    date = "2015-11",
     issue = "6",
-    journal = "Journal of electrocardiology",
-    url = "https://www.sciencedirect.com/science/article/pii/S0022073615002356",
+    journal = "Journal of Electrocardiology",
+    url = "https://drive.google.com/file/d/0B5wjNvhEV8-iZEFPbmJFZkNhQ3l4RGQ4Ym12NFlnanhqRnhF/view?usp=sharing\&resourcekey=0-ZIqTSTUJyEgiH0IuDeEKLw",
     pages = "947-951",
     volume = "48",
     note = "Publisher: Churchill Livingstone"
@@ -4042,15 +4042,15 @@ Oster J, Clifford GD. <a href="https://www.sciencedirect.com/science/article/pii
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JulienOster_2015_10_03_Comparisonof">
 <div class="citation">
-Oster J, Llinares R, Payne S, Tse ZTH, Schmidt EJ, Clifford GD. <a href="https://www.tandfonline.com/doi/abs/10.1080/10255842.2014.909090">Comparison of three artificial models of the magnetohydrodynamic effect on the electrocardiogram</a>. Computer methods in biomechanics and biomedical engineering 2015 October 3; 18 (13): pp. 1400-1417.
+Oster J, Llinares R, Payne S, Tse ZTH, Schmidt EJ, Clifford GD. <a href="https://drive.google.com/file/d/1kOof-pGdQdaprL03Scy8ei5hI1DMZ99V/view?usp=sharing">Comparison of three artificial models of the magnetohydrodynamic effect on the electrocardiogram</a>. Computer Methods in Biomechanics and Biomedical Engineering 2015 October 3; 18 (13): pp. 1400-1417.
 </div>
 <div class="bibtex_source"><pre>@article{JulienOster_2015_10_03_Comparisonof,
     author = "Oster, Julien and Llinares, Raul and Payne, Stephen and Tse, Zion Tsz Ho and Schmidt, Ehud Jeruham and Clifford, Gari D",
     title = "Comparison of three artificial models of the magnetohydrodynamic effect on the electrocardiogram",
     date = "2015-10-03",
     issue = "13",
-    journal = "Computer methods in biomechanics and biomedical engineering",
-    url = "https://www.tandfonline.com/doi/abs/10.1080/10255842.2014.909090",
+    journal = "Computer Methods in Biomechanics and Biomedical Engineering",
+    url = "https://drive.google.com/file/d/1kOof-pGdQdaprL03Scy8ei5hI1DMZ99V/view?usp=sharing",
     pages = "1400-1417",
     volume = "18",
     note = "Publisher: Taylor {\\&} Francis"
@@ -4066,7 +4066,7 @@ Oster J, Llinares R, Payne S, Tse ZTH, Schmidt EJ, Clifford GD. <a href="https:/
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MaximOsipov_2015_09_03_Objectiveidentification">
 <div class="citation">
-Osipov M, Behzadi Y, Kane JM, Petrides G, Clifford GD. <a href="https://www.tandfonline.com/doi/abs/10.3109/09638237.2015.1019048">Objective identification and analysis of physiological and behavioral signs of schizophrenia</a>. Journal of Mental Health 2015 September 3; 24 (5): pp. 276-282.
+Osipov M, Behzadi Y, Kane JM, Petrides G, Clifford GD. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-iNUcza05XNlRsZ0wwUnhzS19UT05GZkFqQ3hv/view?usp=sharing&resourcekey=0-ydZK5P4gvuX5uWcnxvByCQ">Objective identification and analysis of physiological and behavioral signs of schizophrenia</a>. Journal of Mental Health 2015 September 3; 24 (5): pp. 276-282.
 </div>
 <div class="bibtex_source"><pre>@article{MaximOsipov_2015_09_03_Objectiveidentification,
     author = "Osipov, Maxim and Behzadi, Yashar and Kane, John M and Petrides, Georgios and Clifford, Gari D",
@@ -4074,7 +4074,7 @@ Osipov M, Behzadi Y, Kane JM, Petrides G, Clifford GD. <a href="https://www.tand
     date = "2015-09-03",
     issue = "5",
     journal = "Journal of Mental Health",
-    url = "https://www.tandfonline.com/doi/abs/10.3109/09638237.2015.1019048",
+    url = "https://drive.google.com/file/d/0B5wjNvhEV8-iNUcza05XNlRsZ0wwUnhzS19UT05GZkFqQ3hv/view?usp=sharing\&resourcekey=0-ydZK5P4gvuX5uWcnxvByCQ",
     pages = "276-282",
     volume = "24",
     note = "Publisher: Informa Healthcare"
@@ -4088,42 +4088,19 @@ Osipov M, Behzadi Y, Kane JM, Petrides G, Clifford GD. <a href="https://www.tand
 </div></div></td></tr><tr>
 <td>113</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="DavidBSpringer_2015_09_01_LogisticregressionHSMMbased">
-<div class="citation">
-Springer DB, Tarassenko L, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/7234876/">Logistic regression-HSMM-based heart sound segmentation</a>. IEEE transactions on biomedical engineering 2015 September 1; 63 (4): pp. 822-832.
-</div>
-<div class="bibtex_source"><pre>@article{DavidBSpringer_2015_09_01_LogisticregressionHSMMbased,
-    author = "Springer, David B and Tarassenko, Lionel and Clifford, Gari D",
-    title = "Logistic regression-HSMM-based heart sound segmentation",
-    date = "2015-09-01",
-    issue = "4",
-    journal = "IEEE transactions on biomedical engineering",
-    url = "https://ieeexplore.ieee.org/abstract/document/7234876/",
-    pages = "822-832",
-    volume = "63",
-    note = "Publisher: IEEE"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="DavidBSpringer_2015_09_01_LogisticregressionHSMMbased">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="DavidBSpringer_2015_09_01_LogisticregressionHSMMbased">[show citation]</label>
-</div></div></td></tr><tr>
-<td>112</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AoifeRoebuck_2015_08_27_Comparisonof">
 <div class="citation">
-Roebuck A, Clifford GD. <a href="https://www.frontiersin.org/articles/10.3389/fbioe.2015.00114/full">Comparison of standard and novel signal analysis approaches to obstructive sleep apnea classification</a>. Frontiers in Bioengineering and Biotechnology 2015 August 27; 3: p. 114.
+Roebuck A, Clifford GD. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-idzYxTHpValVONXp0ZVMzS3RBS2FxV2lsck9z/view?usp=sharing&resourcekey=0-ZDdKZjFYaZC1BEwvYTMXyg">Comparison of standard and novel signal analysis approaches to obstructive sleep apnea classification</a>. Frontiers in Bioengineering and Biotechnology 2015 August 27; 3: p. 114. DOI: <a href="https://doi.org/10.3389/fbioe.2015.00114">10.3389/fbioe.2015.00114</a>.
 </div>
 <div class="bibtex_source"><pre>@article{AoifeRoebuck_2015_08_27_Comparisonof,
     author = "Roebuck, Aoife and Clifford, Gari D",
     title = "Comparison of standard and novel signal analysis approaches to obstructive sleep apnea classification",
     date = "2015-08-27",
     journal = "Frontiers in Bioengineering and Biotechnology",
-    url = "https://www.frontiersin.org/articles/10.3389/fbioe.2015.00114/full",
+    url = "https://drive.google.com/file/d/0B5wjNvhEV8-idzYxTHpValVONXp0ZVMzS3RBS2FxV2lsck9z/view?usp=sharing\&resourcekey=0-ZDdKZjFYaZC1BEwvYTMXyg",
     pages = "114",
     volume = "3",
+    doi = "10.3389/fbioe.2015.00114",
     note = "Publisher: Frontiers"
 }
 </pre>
@@ -4133,11 +4110,11 @@ Roebuck A, Clifford GD. <a href="https://www.frontiersin.org/articles/10.3389/fb
 <div class="hidebibtex">
 <label for="AoifeRoebuck_2015_08_27_Comparisonof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>111</td>
+<td>112</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ArvindRaghu_2015_08_19_Implicationsof">
 <div class="citation">
-Raghu A, Praveen D, Peiris D, Tarassenko L, Clifford G. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0133618">Implications of cardiovascular disease risk assessment using the WHO/ISH risk prediction charts in rural India</a>. PLoS One 2015 August 19; 10 (8): p. e0133618.
+Raghu A, Praveen D, Peiris D, Tarassenko L, Clifford G. <a href="https://drive.google.com/file/d/1zdYUJMW4btheDUE03TvovcI-AT0J3L37/view?usp=sharing">Implications of cardiovascular disease risk assessment using the WHO/ISH risk prediction charts in rural India</a>. PLoS One 2015 August 19; 10 (8): p. e0133618.
 </div>
 <div class="bibtex_source"><pre>@article{ArvindRaghu_2015_08_19_Implicationsof,
     author = "Raghu, Arvind and Praveen, Devarsetty and Peiris, David and Tarassenko, Lionel and Clifford, Gari",
@@ -4145,7 +4122,7 @@ Raghu A, Praveen D, Peiris D, Tarassenko L, Clifford G. <a href="https://journal
     date = "2015-08-19",
     issue = "8",
     journal = "PLoS One",
-    url = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0133618",
+    url = "https://drive.google.com/file/d/1zdYUJMW4btheDUE03TvovcI-AT0J3L37/view?usp=sharing",
     pages = "e0133618",
     volume = "10",
     note = "Publisher: Public Library of Science"
@@ -4157,20 +4134,20 @@ Raghu A, Praveen D, Peiris D, Tarassenko L, Clifford G. <a href="https://journal
 <div class="hidebibtex">
 <label for="ArvindRaghu_2015_08_19_Implicationsof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>110</td>
+<td>111</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MarcoAFPimentel_2015_07_28_Heartbeat">
 <div class="citation">
-Pimentel MA, Santos MD, Springer DB, Clifford GD. <a href="https://iopscience.iop.org/article/10.1088/0967-3334/36/8/1717/meta">Heart beat detection in multimodal physiological data using a hidden semi-Markov model and signal quality indices</a>. Physiological measurement 2015 July 28; 36 (8): p. 1717.
+Pimentel MA, Santos MD, Springer DB, Clifford GD. <a href="https://drive.google.com/file/d/122l9SN_8eD79u5eofoVwxI_FnPqOhvaP/view?usp=sharing">Heart beat detection in multimodal physiological data using a hidden semi-Markov model and signal quality indices</a>. Physiological Measurement 2015 July 28; 36 (8): pp. 1717-1727.
 </div>
 <div class="bibtex_source"><pre>@article{MarcoAFPimentel_2015_07_28_Heartbeat,
     author = "Pimentel, Marco AF and Santos, Mauro D and Springer, David B and Clifford, Gari D",
     title = "Heart beat detection in multimodal physiological data using a hidden semi-Markov model and signal quality indices",
     date = "2015-07-28",
     issue = "8",
-    journal = "Physiological measurement",
-    url = "https://iopscience.iop.org/article/10.1088/0967-3334/36/8/1717/meta",
-    pages = "1717",
+    journal = "Physiological Measurement",
+    url = "https://drive.google.com/file/d/122l9SN\_8eD79u5eofoVwxI\_FnPqOhvaP/view?usp=sharing",
+    pages = "1717-1727",
     volume = "36",
     note = "Publisher: IOP Publishing"
 }
@@ -4181,20 +4158,20 @@ Pimentel MA, Santos MD, Springer DB, Clifford GD. <a href="https://iopscience.io
 <div class="hidebibtex">
 <label for="MarcoAFPimentel_2015_07_28_Heartbeat">[show citation]</label>
 </div></div></td></tr><tr>
-<td>109</td>
+<td>110</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AlistairEWJohnson_2015_07_28_Multimodalheart">
 <div class="citation">
-Johnson AE, Behar J, Andreotti F, Clifford GD, Oster J. <a href="https://iopscience.iop.org/article/10.1088/0967-3334/36/8/1665/meta">Multimodal heart beat detection using signal quality indices</a>. Physiological measurement 2015 July 28; 36 (8): p. 1665.
+Johnson AE, Behar J, Andreotti F, Clifford GD, Oster J. <a href="https://drive.google.com/file/d/1fz0lsdBzj7HCsg7NTmjGWeQai0hrxIGv/view?usp=sharing">Multimodal heart beat detection using signal quality indices</a>. Physiological Measurement 2015 July 28; 36 (8): pp. 1665-1677.
 </div>
 <div class="bibtex_source"><pre>@article{AlistairEWJohnson_2015_07_28_Multimodalheart,
     author = "Johnson, Alistair EW and Behar, Joachim and Andreotti, Fernando and Clifford, Gari D and Oster, Julien",
     title = "Multimodal heart beat detection using signal quality indices",
     date = "2015-07-28",
     issue = "8",
-    journal = "Physiological measurement",
-    url = "https://iopscience.iop.org/article/10.1088/0967-3334/36/8/1665/meta",
-    pages = "1665",
+    journal = "Physiological Measurement",
+    url = "https://drive.google.com/file/d/1fz0lsdBzj7HCsg7NTmjGWeQai0hrxIGv/view?usp=sharing",
+    pages = "1665-1677",
     volume = "36",
     note = "Publisher: IOP Publishing"
 }
@@ -4205,20 +4182,20 @@ Johnson AE, Behar J, Andreotti F, Clifford GD, Oster J. <a href="https://iopscie
 <div class="hidebibtex">
 <label for="AlistairEWJohnson_2015_07_28_Multimodalheart">[show citation]</label>
 </div></div></td></tr><tr>
-<td>108</td>
+<td>109</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="IkaroSilva_2015_07_28_Robustdetection">
 <div class="citation">
-Silva I, Moody B, Behar J, Johnson A, Oster J, Clifford GD, Moody GB. <a href="https://iopscience.iop.org/article/10.1088/0967-3334/36/8/1629/meta">Robust detection of heart beats in multimodal data</a>. Physiological measurement 2015 July 28; 36 (8): p. 1629.
+Silva I, Moody B, Behar J, Johnson A, Oster J, Clifford GD, Moody GB. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-iblJzSXliUGtJUUU/view?usp=sharing&resourcekey=0-6OC_3WLWt_f9g9r-9lNLKQ">Robust detection of heart beats in multimodal data</a>. Physiological Measurement 2015 July 28; 36 (8): pp. 1629-1644.
 </div>
 <div class="bibtex_source"><pre>@article{IkaroSilva_2015_07_28_Robustdetection,
     author = "Silva, Ikaro and Moody, Benjamin and Behar, Joachim and Johnson, Alistair and Oster, Julien and Clifford, Gari D and Moody, George B",
     title = "Robust detection of heart beats in multimodal data",
     date = "2015-07-28",
     issue = "8",
-    journal = "Physiological measurement",
-    url = "https://iopscience.iop.org/article/10.1088/0967-3334/36/8/1629/meta",
-    pages = "1629",
+    journal = "Physiological Measurement",
+    url = "https://drive.google.com/file/d/0B5wjNvhEV8-iblJzSXliUGtJUUU/view?usp=sharing\&resourcekey=0-6OC\_3WLWt\_f9g9r-9lNLKQ",
+    pages = "1629-1644",
     volume = "36",
     note = "Publisher: IOP Publishing"
 }
@@ -4228,6 +4205,30 @@ Silva I, Moody B, Behar J, Johnson A, Oster J, Clifford GD, Moody GB. <a href="h
 </div>
 <div class="hidebibtex">
 <label for="IkaroSilva_2015_07_28_Robustdetection">[show citation]</label>
+</div></div></td></tr><tr>
+<td>108</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="ArvindRaghu_2015_12_Engineeringa">
+<div class="citation">
+Raghu A, Praveen D, Peiris D, Tarassenko L, Clifford G. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-ib3ZTRldKZjhGNHg1eTk5SHd4SFk5TDFoYmZr/view?usp=sharing&resourcekey=0-xsUzs_AsaJkQ-alNxIjUuA">Engineering a mobile health tool for resource-poor settings to assess and manage cardiovascular disease risk: SMARThealth study</a>. BMC Medical Informatics and Decision Making 2015 April 29; 15 (36). DOI: <a href="https://doi.org/10.1186/s12911-015-0148-4">10.1186/s12911-015-0148-4</a>.
+</div>
+<div class="bibtex_source"><pre>@article{ArvindRaghu_2015_12_Engineeringa,
+    author = "Raghu, Arvind and Praveen, Devarsetty and Peiris, David and Tarassenko, Lionel and Clifford, Gari",
+    title = "Engineering a mobile health tool for resource-poor settings to assess and manage cardiovascular disease risk: SMARThealth study",
+    date = "2015-04-29",
+    issue = "36",
+    journal = "BMC Medical Informatics and Decision Making",
+    url = "https://drive.google.com/file/d/0B5wjNvhEV8-ib3ZTRldKZjhGNHg1eTk5SHd4SFk5TDFoYmZr/view?usp=sharing\&resourcekey=0-xsUzs\_AsaJkQ-alNxIjUuA",
+    volume = "15",
+    doi = "10.1186/s12911-015-0148-4",
+    note = "Publisher: BioMed Central"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="ArvindRaghu_2015_12_Engineeringa">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="ArvindRaghu_2015_12_Engineeringa">[show citation]</label>
 </div></div></td></tr><tr>
 <td>107</td>
 <td><div class="citation_container">
@@ -5769,6 +5770,27 @@ Nemati S, Malhotra A, Clifford GD. Data fusion for improved respiration rate est
 </div></div></td></tr><tr>
 <td>41</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="ZTse_2010_MRIcompatible12lead">
+<div class="citation">
+Tse Z, Dumoulin C, Clifford G, Jerosch-Herald M, Kacher D, Kwong R, Stevenson W, Schmidt E. <a href="https://archive.ismrm.org/2010/0286.html">MRI-compatible 12-lead ECGs with MHD separation: application to cardiac MRI gating, physiological monitoring and noninvasive cardiac-output estimation</a>. Proc Intl Soc Mag Reson Med. Stockholm: ISMRM 2010; 286.
+</div>
+<div class="bibtex_source"><pre>@article{ZTse_2010_MRIcompatible12lead,
+    author = "Tse, Z and Dumoulin, C and Clifford, Gari and Jerosch-Herald, M and Kacher, Daniel and Kwong, Raymond and Stevenson, W and Schmidt, E",
+    title = "MRI-compatible 12-lead ECGs with MHD separation: application to cardiac MRI gating, physiological monitoring and noninvasive cardiac-output estimation",
+    date = "2010",
+    journal = "Proc Intl Soc Mag Reson Med. Stockholm: ISMRM",
+    url = "https://archive.ismrm.org/2010/0286.html",
+    volume = "286"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="ZTse_2010_MRIcompatible12lead">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="ZTse_2010_MRIcompatible12lead">[show citation]</label>
+</div></div></td></tr><tr>
+<td>40</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2010_03_22_Anartificial">
 <div class="citation">
 Clifford GD, Nemati S, Sameni R. <a href="https://iopscience.iop.org/article/10.1088/0967-3334/31/5/001/meta">An artificial vector model for generating abnormal electrocardiographic rhythms</a>. Physiological measurement 2010 March 22; 31 (5): p. 595.
@@ -5790,27 +5812,6 @@ Clifford GD, Nemati S, Sameni R. <a href="https://iopscience.iop.org/article/10.
 </div>
 <div class="hidebibtex">
 <label for="GariDClifford_2010_03_22_Anartificial">[show citation]</label>
-</div></div></td></tr><tr>
-<td>40</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="ZTse_2010_MRIcompatible12lead">
-<div class="citation">
-Tse Z, Dumoulin C, Clifford G, Jerosch-Herald M, Kacher D, Kwong R, Stevenson W, Schmidt E. <a href="https://archive.ismrm.org/2010/0286.html">MRI-compatible 12-lead ECGs with MHD separation: application to cardiac MRI gating, physiological monitoring and noninvasive cardiac-output estimation</a>. Proc Intl Soc Mag Reson Med. Stockholm: ISMRM 2010; 286.
-</div>
-<div class="bibtex_source"><pre>@article{ZTse_2010_MRIcompatible12lead,
-    author = "Tse, Z and Dumoulin, C and Clifford, Gari and Jerosch-Herald, M and Kacher, Daniel and Kwong, Raymond and Stevenson, W and Schmidt, E",
-    title = "MRI-compatible 12-lead ECGs with MHD separation: application to cardiac MRI gating, physiological monitoring and noninvasive cardiac-output estimation",
-    date = "2010",
-    journal = "Proc Intl Soc Mag Reson Med. Stockholm: ISMRM",
-    url = "https://archive.ismrm.org/2010/0286.html",
-    volume = "286"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="ZTse_2010_MRIcompatible12lead">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="ZTse_2010_MRIcompatible12lead">[show citation]</label>
 </div></div></td></tr><tr>
 <td>39</td>
 <td><div class="citation_container">
@@ -8830,6 +8831,27 @@ Praveen D, Patel A, Raghu A, Clifford G, Maulik P, Ameer MA, Tarrasenko L, Peiri
 </div></div></td></tr><tr>
 <td>54</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="IkaroSilva_2013_09_NoninvasiveFetal">
+<div class="citation">
+Silva I, Behar J, Sameni R, Zhu T, Oster J, Clifford GD, Moody GB. <a href="https://ieeexplore.ieee.org/abstract/document/6712433/">Noninvasive fetal ECG: the PhysioNet/computing in cardiology challenge 2013</a>. Computing in Cardiology 2013 September.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{IkaroSilva_2013_09_NoninvasiveFetal,
+    author = "Silva, Ikaro and Behar, Joachim and Sameni, Reza and Zhu, Tingting and Oster, Julien and Clifford, Gari D and Moody, George B",
+    title = "Noninvasive fetal ECG: the PhysioNet/computing in cardiology challenge 2013",
+    date = "2013-09",
+    booktitle = "Computing in Cardiology",
+    url = "https://ieeexplore.ieee.org/abstract/document/6712433/",
+    publisher = "IEEE"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="IkaroSilva_2013_09_NoninvasiveFetal">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="IkaroSilva_2013_09_NoninvasiveFetal">[show citation]</label>
+</div></div></td></tr><tr>
+<td>53</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AlistairEWJohnson_2013_09_22_Improvedrespiration">
 <div class="citation">
 Johnson AE, Cholleti SR, Buchman TG, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/6713496/">Improved respiration rate estimation using a Kalman filter and wavelet cross-coherence</a>. Computing in Cardiology 2013 2013 September 22; pp. 791-794.
@@ -8850,7 +8872,7 @@ Johnson AE, Cholleti SR, Buchman TG, Clifford GD. <a href="https://ieeexplore.ie
 <div class="hidebibtex">
 <label for="AlistairEWJohnson_2013_09_22_Improvedrespiration">[show citation]</label>
 </div></div></td></tr><tr>
-<td>53</td>
+<td>52</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JulienOster_2013_09_22_Opensource">
 <div class="citation">
@@ -8872,7 +8894,7 @@ Oster J, Behar J, Colloca R, Li Q, Li Q, Clifford GD. <a href="https://ieeexplor
 <div class="hidebibtex">
 <label for="JulienOster_2013_09_22_Opensource">[show citation]</label>
 </div></div></td></tr><tr>
-<td>52</td>
+<td>51</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="TingtingZhu_2013_09_22_Bayesianvoting">
 <div class="citation">
@@ -8894,7 +8916,7 @@ Zhu T, Johnson AE, Behar J, Clifford GD. <a href="https://ieeexplore.ieee.org/ab
 <div class="hidebibtex">
 <label for="TingtingZhu_2013_09_22_Bayesianvoting">[show citation]</label>
 </div></div></td></tr><tr>
-<td>51</td>
+<td>50</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JulienOster_2013_09_22_Anartificial">
 <div class="citation">
@@ -8916,7 +8938,7 @@ Oster J, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/671
 <div class="hidebibtex">
 <label for="JulienOster_2013_09_22_Anartificial">[show citation]</label>
 </div></div></td></tr><tr>
-<td>50</td>
+<td>49</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RobertaColloca_2013_09_22_Asupport">
 <div class="citation">
@@ -8938,7 +8960,7 @@ Colloca R, Johnson AE, Mainardi L, Clifford GD. <a href="https://ieeexplore.ieee
 <div class="hidebibtex">
 <label for="RobertaColloca_2013_09_22_Asupport">[show citation]</label>
 </div></div></td></tr><tr>
-<td>49</td>
+<td>48</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JoachimBehar_2013_09_22_NoninvasiveFECG">
 <div class="citation">
@@ -8959,27 +8981,6 @@ Behar J, Oster J, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/doc
 </div>
 <div class="hidebibtex">
 <label for="JoachimBehar_2013_09_22_NoninvasiveFECG">[show citation]</label>
-</div></div></td></tr><tr>
-<td>48</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="IkaroSilva_2013_09_NoninvasiveFetal">
-<div class="citation">
-Silva I, Behar J, Sameni R, Zhu T, Oster J, Clifford GD, Moody GB. <a href="https://ieeexplore.ieee.org/abstract/document/6712433/">Noninvasive fetal ECG: the PhysioNet/computing in cardiology challenge 2013</a>. Computing in Cardiology 2013 September.
-</div>
-<div class="bibtex_source"><pre>@inproceedings{IkaroSilva_2013_09_NoninvasiveFetal,
-    author = "Silva, Ikaro and Behar, Joachim and Sameni, Reza and Zhu, Tingting and Oster, Julien and Clifford, Gari D and Moody, George B",
-    title = "Noninvasive fetal ECG: the PhysioNet/computing in cardiology challenge 2013",
-    date = "2013-09",
-    booktitle = "Computing in Cardiology",
-    url = "https://ieeexplore.ieee.org/abstract/document/6712433/",
-    publisher = "IEEE"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="IkaroSilva_2013_09_NoninvasiveFetal">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="IkaroSilva_2013_09_NoninvasiveFetal">[show citation]</label>
 </div></div></td></tr><tr>
 <td>47</td>
 <td><div class="citation_container">
