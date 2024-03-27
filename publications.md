@@ -3086,30 +3086,6 @@ Martinez B, Ixen EC, Hall-Clifford R, Juarez M, Miller AC, Francis A, Valderrama
 </div></div></td></tr><tr>
 <td>152</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="TingtingZhu_2018_06_26_Bayesianfusion">
-<div class="citation">
-Zhu T, Johnson AE, Yang Y, Clifford GD, Clifton DA. <a href="https://iopscience.iop.org/article/10.1088/1361-6579/aac856/pdf">Bayesian fusion of physiological measurements using a signal quality extension</a>. Physiological Measurement 2018 June 27; 39 (6): p. 065008.
-</div>
-<div class="bibtex_source"><pre>@article{TingtingZhu_2018_06_26_Bayesianfusion,
-    author = "Zhu, Tingting and Johnson, Alistair EW and Yang, Yang and Clifford, Gari D and Clifton, David A",
-    title = "Bayesian fusion of physiological measurements using a signal quality extension",
-    date = "2018-06-27",
-    issue = "6",
-    journal = "Physiological Measurement",
-    url = "https://iopscience.iop.org/article/10.1088/1361-6579/aac856/pdf",
-    pages = "065008",
-    volume = "39",
-    note = "Publisher: IOP Publishing"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="TingtingZhu_2018_06_26_Bayesianfusion">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="TingtingZhu_2018_06_26_Bayesianfusion">[show citation]</label>
-</div></div></td></tr><tr>
-<td>151</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GiuliaDaPoian_2017_09_14_Matchedfiltering">
 <div class="citation">
 Poian GD, Rozell CJ, Bernardini R, Rinaldo R, Clifford GD. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-iN2lGNmdNbWNXZDhLbVdhbnowWEE1MlRCZWdF/view?usp=sharing&resourcekey=0-raeE1iDI7LjfxWcMbUZsFA">Matched filtering for heart rate estimation on compressive sensing ECG measurements</a>. IEEE Transactions on Biomedical Engineering 2018 June; 65 (6): pp. 1349-1358.
@@ -3131,6 +3107,30 @@ Poian GD, Rozell CJ, Bernardini R, Rinaldo R, Clifford GD. <a href="https://driv
 </div>
 <div class="hidebibtex">
 <label for="GiuliaDaPoian_2017_09_14_Matchedfiltering">[show citation]</label>
+</div></div></td></tr><tr>
+<td>151</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="TingtingZhu_2018_06_26_Bayesianfusion">
+<div class="citation">
+Zhu T, Johnson AE, Yang Y, Clifford GD, Clifton DA. <a href="https://iopscience.iop.org/article/10.1088/1361-6579/aac856/pdf">Bayesian fusion of physiological measurements using a signal quality extension</a>. Physiological Measurement 2018 June 27; 39 (6): p. 065008.
+</div>
+<div class="bibtex_source"><pre>@article{TingtingZhu_2018_06_26_Bayesianfusion,
+    author = "Zhu, Tingting and Johnson, Alistair EW and Yang, Yang and Clifford, Gari D and Clifton, David A",
+    title = "Bayesian fusion of physiological measurements using a signal quality extension",
+    date = "2018-06-27",
+    issue = "6",
+    journal = "Physiological Measurement",
+    url = "https://iopscience.iop.org/article/10.1088/1361-6579/aac856/pdf",
+    pages = "065008",
+    volume = "39",
+    note = "Publisher: IOP Publishing"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="TingtingZhu_2018_06_26_Bayesianfusion">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="TingtingZhu_2018_06_26_Bayesianfusion">[show citation]</label>
 </div></div></td></tr><tr>
 <td>150</td>
 <td><div class="citation_container">

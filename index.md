@@ -8,18 +8,17 @@ title: Home
 
 # The Clifford Lab at Emory University & Georgia Tech
 
-<img src="equipment.jpg" style="border-radius: 50%; display: block; margin-left: auto; margin-right: auto;">
+<br>
+<img src="home_banner.png" style="max-width: 100%; max-height: 100vh; display: block; margin-left: auto; margin-right: auto;">
 
-## Our research
 
-We work on signal processing, machine learning, and physiological modeling to
-reduce costs, increase accuracy, and improve access in healthcare using high
-frequency multivariate data streams.
+<br>
+<br>
 
-Our theoretical developments focus on building confidence intervals and trust
-metrics for predictive algorithms and scaling analysis of medical data beyond
-conventional clinical capacity, particularly through mHealth.
+## What do we do?
 
-Application areas include critical care, sleep and circadian rhythms,
-perinatal monitoring, and resource-constrained environments such as developing
-countries.
+We develop novel signal processing, machine learning, and physiological modeling techniques in order to reduce costs, increase accuracy, and improve access in healthcare using high frequency multivariate data streams. Our research and application domains span cardiology, critical care, maternal-child health, digital psychiatry & neurology, sleep & circadian rhythms, with a focus on resource-limited settings and under-represented populations. You can find out more about specific projects/topics of interest <a href="https://gdclifford.info/research">here</a>. 
+
+We also run the <a href="https://moody-challenge.physionet.org/about/">George B. Moody PhysioNet Challenges</a>, a series of open data science competitions, held annually since 2000, that aim to catalyze new open access benchmark health databases, and novel solutions to existing problems in healthcare and physiology. 
+
+
