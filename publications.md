@@ -11,19 +11,44 @@ permalink: /publications
 
 <table>
 <tr>
+<td>282</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="ZifanJiang_2023_Disentanglingvisual">
+<div class="citation">
+Jiang Z, Seyedi S, Vickers KL, Manzanares CM, Lah JJ, Levey AI, Clifford GD. <a href="https://drive.google.com/file/d/10jIXtXAvRXvdoJJMZf1LiLbCnvip79Rr/view?usp=sharing">Disentangling visual exploration differences in cognitive impairment</a>. IEEE Transactions on Biomedical Engineering 2024 April; 71 (4): pp. 1197-1208.
+</div>
+<div class="bibtex_source"><pre>@article{ZifanJiang_2023_Disentanglingvisual,
+    author = "Jiang, Zifan and Seyedi, Salman and Vickers, Kayci Lynne and Manzanares, Cecelia M and Lah, James J and Levey, Allan I and Clifford, Gari D",
+    title = "Disentangling visual exploration differences in cognitive impairment",
+    date = "2024-04",
+    journal = "IEEE Transactions on Biomedical Engineering",
+    url = "https://drive.google.com/file/d/10jIXtXAvRXvdoJJMZf1LiLbCnvip79Rr/view?usp=sharing",
+    pages = "1197-1208",
+    volume = "71",
+    issue = "4",
+    note = "Publisher: Cold Spring Harbor Laboratory Press"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="ZifanJiang_2023_Disentanglingvisual">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="ZifanJiang_2023_Disentanglingvisual">[show citation]</label>
+</div></div></td></tr><tr>
 <td>281</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MinxuanHuang_2024_03_27_HeartRate">
 <div class="citation">
-Huang M, Shah AJ, Lampert R, Bliwise DL, Johnson DA, Clifford GD, Sloan R, Goldberg J, Ko Y, Poian GD, Perez<span class="bibtex-protected">-</span>Alday EA, Almuwaqqat Z, Shah A, Garcia M, Young A, Moazzami K, Bremner JD, Vaccarino V. <a href="https://www.ahajournals.org/doi/abs/10.1161/JAHA.123.032740">Heart Rate Variability, Deceleration Capacity of Heart Rate, and Death: A Veteran Twins Study</a>. Journal of the American Heart Association 2024 March 27; p. e032740.
+Huang M, Shah AJ, Lampert R, Bliwise DL, Johnson DA, Clifford GD, Sloan R, Goldberg J, Ko Y, Poian GD, Perez<span class="bibtex-protected">-</span>Alday EA, Almuwaqqat Z, Shah A, Garcia M, Young A, Moazzami K, Bremner JD, Vaccarino V. <a href="https://drive.google.com/file/d/1tJlMbU4uMaYIifdn6H6Kp8ylui8GzmBJ/view?usp=sharing">Heart Rate Variability, Deceleration Capacity of Heart Rate, and Death: A Veteran Twins Study</a>. Journal of the American Heart Association 2024 March 27; p. e032740. DOI: <a href="https://doi.org/10.1161/JAHA.123.032740">10.1161/JAHA.123.032740</a>.
 </div>
 <div class="bibtex_source"><pre>@article{MinxuanHuang_2024_03_27_HeartRate,
     author = "Huang, Minxuan and Shah, Amit J and Lampert, Rachel and Bliwise, Donald L and Johnson, Dayna A and Clifford, Gari D and Sloan, Richard and Goldberg, Jack and Ko, Yi{-}An and Poian, Giulia Da and Perez{-}Alday, Erick A and Almuwaqqat, Zakaria and Shah, Anish and Garcia, Mariana and Young, An and Moazzami, Kasra and Bremner, J Douglas and Vaccarino, Viola",
     title = "Heart Rate Variability, Deceleration Capacity of Heart Rate, and Death: A Veteran Twins Study",
     date = "2024-03-27",
     journal = "Journal of the American Heart Association",
-    url = "https://www.ahajournals.org/doi/abs/10.1161/JAHA.123.032740",
-    pages = "e032740"
+    url = "https://drive.google.com/file/d/1tJlMbU4uMaYIifdn6H6Kp8ylui8GzmBJ/view?usp=sharing",
+    pages = "e032740",
+    doi = "10.1161/JAHA.123.032740"
 }
 </pre>
 </div><div class="showbibtex">
@@ -36,14 +61,15 @@ Huang M, Shah AJ, Lampert R, Bliwise DL, Johnson DA, Clifford GD, Sloan R, Goldb
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="BibianBorst_2024_03_22_Sexdifferences">
 <div class="citation">
-Borst B, Jovanovic T, House SL, Bruce SE, Harnett NG, Roeckner AR, Ely TD, Lebois LA, Young D, Beaudoin FL, An X, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Bollen KA, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Hudak LA, Pascual JL, Seamon MJ, Datner EM, Pearson C, Peak DA, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Harte SE, Koenen KC, Kessler RC, McLean SA, Ressler KJ, Stevens JS, Rooij SJ. <a href="https://www.sciencedirect.com/science/article/pii/S2451902224000806">Sex differences in response inhibition-related neural predictors of PTSD in recent trauma-exposed civilians</a>. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging 2024 March 22.
+Borst B, Jovanovic T, House SL, Bruce SE, Harnett NG, Roeckner AR, Ely TD, Lebois LA, Young D, Beaudoin FL, An X, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Bollen KA, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Hudak LA, Pascual JL, Seamon MJ, Datner EM, Pearson C, Peak DA, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Harte SE, Koenen KC, Kessler RC, McLean SA, Ressler KJ, Stevens JS, Rooij SJ. <a href="https://drive.google.com/file/d/1imx-b59DiC-Omox3D0kNhEw-blLVj9Iq/view?usp=sharing">Sex differences in response inhibition-related neural predictors of PTSD in recent trauma-exposed civilians</a>. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging 2024 March 22. DOI: <a href="https://doi.org/10.1016/j.bpsc.2024.03.002">10.1016/j.bpsc.2024.03.002</a>.
 </div>
 <div class="bibtex_source"><pre>@article{BibianBorst_2024_03_22_Sexdifferences,
     author = "Borst, Bibian and Jovanovic, Tanja and House, Stacey L and Bruce, Steven E and Harnett, Nathaniel G and Roeckner, Alyssa R and Ely, Timothy D and Lebois, Lauren AM and Young, Dmitri and Beaudoin, Francesca L and An, Xinming and Neylan, Thomas C and Clifford, Gari D and Linnstaedt, Sarah D and Germine, Laura T and Bollen, Kenneth A and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Datner, Elizabeth M and Pearson, Claire and Peak, David A and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sergot, Paulina and Sanchez, Leon D and Harte, Steven E and Koenen, Karestan C and Kessler, Ronald C and McLean, Samuel A and Ressler, Kerry J and Stevens, Jennifer S and van Rooij, Sanne JH",
     title = "Sex differences in response inhibition-related neural predictors of PTSD in recent trauma-exposed civilians",
     date = "2024-03-22",
     journal = "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging",
-    url = "https://www.sciencedirect.com/science/article/pii/S2451902224000806",
+    url = "https://drive.google.com/file/d/1imx-b59DiC-Omox3D0kNhEw-blLVj9Iq/view?usp=sharing",
+    doi = "10.1016/j.bpsc.2024.03.002",
     note = "Publisher: Elsevier"
 }
 </pre>
@@ -9999,7 +10025,7 @@ Clifford G, Tarassenko L, Townsend N. <a href="https://ieeexplore.ieee.org/abstr
 
 <table>
 <tr>
-<td>28</td>
+<td>27</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="YasharKiarashi_2024_PredictingAdverse">
 <div class="citation">
@@ -10020,7 +10046,7 @@ Kiarashi Y, Suresha PB, Rad AB, Reyna M, Anderson C, Foster J, Lantz J, Villavic
 <div class="hidebibtex">
 <label for="YasharKiarashi_2024_PredictingAdverse">[show citation]</label>
 </div></div></td></tr><tr>
-<td>27</td>
+<td>26</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="CeciliaHinojosa_UnknownDate_Rewardneurocircuitry">
 <div class="citation">
@@ -10041,7 +10067,7 @@ Hinojosa C, Rooij SJ, Fani N, Ellis RA, Harnett NG, Lebois L, Ely TD, Jovanovic 
 <div class="hidebibtex">
 <label for="CeciliaHinojosa_UnknownDate_Rewardneurocircuitry">[show citation]</label>
 </div></div></td></tr><tr>
-<td>26</td>
+<td>25</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="StephanieHaering_2023_10_09_Disentanglingsex">
 <div class="citation">
@@ -10061,7 +10087,7 @@ Haering S, Seligowski AV, Linnstaedt SD, Michopoulos V, House SL, Beaudoin FL, A
 <div class="hidebibtex">
 <label for="StephanieHaering_2023_10_09_Disentanglingsex">[show citation]</label>
 </div></div></td></tr><tr>
-<td>25</td>
+<td>24</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AlyssaRoeckner_2023_10_Whenplasticity">
 <div class="citation">
@@ -10081,7 +10107,7 @@ Roeckner A, Lin ER, Hinrichs R, Harnett NG, Lebois L, Rooij SJ, Ely TD, Jovanovi
 <div class="hidebibtex">
 <label for="AlyssaRoeckner_2023_10_Whenplasticity">[show citation]</label>
 </div></div></td></tr><tr>
-<td>24</td>
+<td>23</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="EdilbertoAmorim_2023_08_28_TheInternational">
 <div class="citation">
@@ -10103,7 +10129,7 @@ Amorim E, Zheng W, Ghassemi MM, Aghaeeaval M, Kandhare P, Karukonda V, Lee JW, H
 <div class="hidebibtex">
 <label for="EdilbertoAmorim_2023_08_28_TheInternational">[show citation]</label>
 </div></div></td></tr><tr>
-<td>23</td>
+<td>22</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="StephanieHaering_2023_08_Sexdependentdifferences">
 <div class="citation">
@@ -10123,7 +10149,7 @@ Haering S, Seligowski AV, Linnstaedt SD, Michopoulos V, House SL, Beaudoin FL, A
 <div class="hidebibtex">
 <label for="StephanieHaering_2023_08_Sexdependentdifferences">[show citation]</label>
 </div></div></td></tr><tr>
-<td>22</td>
+<td>21</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SannevanRooij_2023_06_28_Rethinkingresilience">
 <div class="citation">
@@ -10143,7 +10169,7 @@ Rooij S, Santos J, Hinojosa C, Ely T, Harnett N, Murty V, Lebois L, Jovanovic T,
 <div class="hidebibtex">
 <label for="SannevanRooij_2023_06_28_Rethinkingresilience">[show citation]</label>
 </div></div></td></tr><tr>
-<td>21</td>
+<td>20</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="YasharKiarashi_2023_05_30_IndoorLocalization">
 <div class="citation">
@@ -10163,7 +10189,7 @@ Kiarashi Y, Hedge C, Madala VSK, Nakum A, Singh R, Tweedy R, Clifford GD, Kwon H
 <div class="hidebibtex">
 <label for="YasharKiarashi_2023_05_30_IndoorLocalization">[show citation]</label>
 </div></div></td></tr><tr>
-<td>20</td>
+<td>19</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="HyeokhyenKwon_2023_05_08_IndoorLocalization">
 <div class="citation">
@@ -10183,7 +10209,7 @@ Kwon H, Hedge C, Kiarashi Y, Madala VSK, Singh R, Nakum A, Tweedy R, Tonetto LM,
 <div class="hidebibtex">
 <label for="HyeokhyenKwon_2023_05_08_IndoorLocalization">[show citation]</label>
 </div></div></td></tr><tr>
-<td>19</td>
+<td>18</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AbigailZeamer_2023_Pilotstudy">
 <div class="citation">
@@ -10204,28 +10230,6 @@ Zeamer A, Salive M, An X, House S, Beaudoin FL, Stevens JS, Zeng D, Neylan T, Cl
 </div>
 <div class="hidebibtex">
 <label for="AbigailZeamer_2023_Pilotstudy">[show citation]</label>
-</div></div></td></tr><tr>
-<td>18</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="ZifanJiang_2023_Disentanglingvisual">
-<div class="citation">
-Jiang Z, Seyedi S, Vickers KL, Manzanares CM, Lah JJ, Levey AI, Clifford GD. <a href="https://www.medrxiv.org/content/10.1101/2023.05.17.23290054.abstract">Disentangling visual exploration differences in cognitive impairment</a>. medRxiv 2023; p. 2023.05. 17.23290054.
-</div>
-<div class="bibtex_source"><pre>@article{ZifanJiang_2023_Disentanglingvisual,
-    author = "Jiang, Zifan and Seyedi, Salman and Vickers, Kayci Lynne and Manzanares, Cecelia M and Lah, James J and Levey, Allan I and Clifford, Gari D",
-    title = "Disentangling visual exploration differences in cognitive impairment",
-    date = "2023",
-    journal = "medRxiv",
-    url = "https://www.medrxiv.org/content/10.1101/2023.05.17.23290054.abstract",
-    pages = "2023.05. 17.23290054",
-    note = "Publisher: Cold Spring Harbor Laboratory Press"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="ZifanJiang_2023_Disentanglingvisual">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="ZifanJiang_2023_Disentanglingvisual">[show citation]</label>
 </div></div></td></tr><tr>
 <td>17</td>
 <td><div class="citation_container">
