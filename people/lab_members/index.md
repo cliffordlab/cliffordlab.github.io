@@ -5,230 +5,84 @@ permalink: /labmembers
 ---
 
 ## Qiao Li, PhD
+![lab-member](/people/lab_members/li.jpg)
 
-![lab-member](/people/lab_members/qiao.jpg)
-
-<div class="small-icons"></div>
 **Assistant Professor**  
 Department of Biomedical Informatics  
 Emory University  
-[![](/icons/email.svg)](mailto:qiao.li@emory.edu)
+
 
 ## Ali Bahrami Rad, PhD
+![lab-member](/people/lab_members/ali_rad.jpg)
 
-![lab-member](/people/lab_members/ali.jpg)
-
-<div class="small-icons"></div>
 **Assistant Professor**  
 Department of Biomedical Informatics  
-Emory University  
-[![](/icons/email.svg)](mailto:ali.bahrami.rad@emory.edu)
-
-## Erick Perez Alday
-
-![lab-member](/people/lab_members/erickalday.jpg)
-
-<div class="small-icons"></div>
-Postdoctoral Researcher  
-Department of Biomedical Informatics  
-Emory University  
-[![](/icons/email.svg)](mailto:erick@dbmi.emory.edu)
-[![](/icons/linkedin.svg)](http://www.linkedin.com/in/erick-andres-perez-alday-08ba3577)
-
-## Matthew Reyna
-
-![lab-member](/people/lab_members/mreyna.jpg)
-
-<div class="small-icons"></div>
-Postdoctoral Researcher  
-Department of Biomedical Informatics  
-Emory University  
-[![](/icons/email.svg)](mailto:matthew@dbmi.emory.edu)
-[![](/icons/github.svg)](https://reynalab.github.io/)
+Emory University 
 
 
-## Salman Seyedi
+## Salman Seyedi, PhD
 ![lab-member](/people/lab_members/sseyedi.jpg)
 
 <div class="small-icons"></div>
-**Postdoctoral Researcher**  
+**Senior Research Engineer**  
 Department of Biomedical Informatics  
 Emory University  
-[![](/icons/email.svg)](mailto:sseyedi@emory.edu)
 
-## Rafi Haque
 
-![lab-member](/people/lab_members/rafihaque.jpg)
+## Chaitra Hegde, PhD
+![lab-member](/people/lab_members/chaitra.png)
 
 <div class="small-icons"></div>
-**MD/PhD student**  
+**Research Engineer**  
 Department of Biomedical Informatics  
 Emory University  
-[![](/icons/email.svg)](mailto:rafihaque90@gmail.com)
 
-## Camilo Valderrama
-
-![lab-member](/people/lab_members/camilo.jpg)
+## Zuzana Koscova
+![lab-member](/people/lab_members/zuzana.png)
 
 <div class="small-icons"></div>
-**PhD student**  
-Department of Math & Computer Science  
-Emory University  
-[![](/icons/email.svg)](mailto:cevacu@gmail.com)
-
-## Pradyumna Suresha
-
-![lab-member](/people/lab_members/pradyumna.jpg)
-
-<div class="small-icons"></div>
-**PhD student**  
-Dept. of Electrical & Computer Engineering  
-Georgia Tech  
-[![](/icons/email.svg)](mailto:pradyumna@gatech.edu)
-[![](/icons/link.svg)](https://sites.google.com/site/pradyumnabysuresha/)
-
-## Ismail Sadiq
-
-![lab-member](/people/lab_members/ismail.jpg)
-
-<div class="small-icons"></div>
-**PhD student**  
-Dept. of Electrical & Computer Engineering  
-Georgia Tech  
-[![](/icons/email.svg)](mailto:ismail.sadiq@gatech.edu)
-
-## Nasim Katebi
-
-![lab-member](/people/lab_members/nasim.jpg)
-
-<div class="small-icons"></div>
-**PhD student**  
+**Research Engineer**  
 Department of Biomedical Informatics  
 Emory University  
-[![](/icons/email.svg)](mailto:nasim.katebi@gmail.com)
 
-## Nick Shu
-
-![lab-member](/people/lab_members/nick.jpg)
-
-<div class="small-icons"></div>
-**PhD Student**  
-Department of Biomedical Engineering  
-Georgia Tech  
-[![](/icons/email.svg)](nickshu@gatech.edu)
-
-## Ayse Cakmak
-
-![lab-member](/people/lab_members/ayse.jpg)
-
-<div class="small-icons"></div>
-**PhD student**  
-Dept. of Electrical & Computer Engineering  
-Georgia Tech  
-[![](/icons/email.svg)](mailto:acakmak3@gatech.edu)
-
-## Shafa-at Ali Sheikh
-
-![lab-member](/people/lab_members/shafa-at.jpg)
-
-<div class="small-icons"></div>
-**PhD student**  
-Dept. of Electrical & Computer Engineering  
-Georgia Tech  
-[![](/icons/email.svg)](mailto:sashei3@emory.edu)
-[![](/icons/publications.svg)](https://scholar.google.com/citations?user=G8l2_MwAAAAJ&hl=en&oi=ao)
-
-## Zifan Jiang
-
-![lab-member](/people/lab_members/zifan.jpg)
-
-<div class="small-icons"></div>
-**PhD Student**  
-Department of Biomedical Engineering  
-Georgia Tech  
-[![](/icons/email.svg)](mailto:zifanjiang@gatech.edu)
-[![](/icons/linkedin.svg)](https://www.linkedin.com/in/zifan-jiang/)
-
-## Samaneh Nasiri
-
-![lab-member](/people/lab_members/samaneh.png)
-
-<div class="small-icons"></div>
-**PhD student**  
-Department of Biomedical Informatics  
-Emory University  
-[![](/icons/email.svg)](mailto:snasiri@emory.edu)
-[![](/icons/linkedin.svg)](https://www.linkedin.com/in/samaneh-nasiri-8a3768129/)
-
-## Mohsen Salari
-
+## Mohsen Shirazi, PhD
 ![lab-member](/people/lab_members/mohsen.png)
 
 <div class="small-icons"></div>
-**PhD student**  
+**Postdoc**  
 Department of Biomedical Informatics  
 Emory University  
-[![](/icons/email.svg)](mailto:mohsen.saalari@gmail.com)
 
-## Amit Verma
-
-![lab-member](/people/lab_members/amit.jpg)
+## Sepideh Nikookar, PhD
+![lab-member](/people/lab_members/sepideh_nikookar.png)
 
 <div class="small-icons"></div>
-**Software Engineer**  
+**Postdoc**  
 Department of Biomedical Informatics  
-Emory University  
-[![](/icons/email.svg)](mailto:amit.verma@emory.edu)
+Emory University
 
-## Rob Mannino
-
-![lab-member](/people/lab_members/mannino.jpg)
+## Soheil Saghafi, PhD
+![lab-member](/people/lab_members/saghafi_soheil.png)
 
 <div class="small-icons"></div>
-**Post-Doc**  
+**Postdoc**  
 Department of Biomedical Informatics  
-Georgia Tech  
-[![](/icons/link.svg)](https://www.linkedin.com/in/robert-mannino-53127155/)
+Emory University
 
-## Ramesh Manyam
-
-![lab-member](/people/lab_members/ramesh.jpg)
+## Yash Kiarashi, PhD
+![lab-member](/people/lab_members/yash.jpg)
 
 <div class="small-icons"></div>
-**Database Architect**  
+**Postdoc**  
 Department of Biomedical Informatics  
-Emory University  
-[![](/icons/email.svg)](mailto:maanyam@gmail.com)
+Emory University
 
-## Tony Nguyen
-
-![lab-member](/people/lab_members/tony.jpg)
+## Mohammad Ahmad
+![lab-member](/people/lab_members/mohammad_ahmad.png)
 
 <div class="small-icons"></div>
-**Software Engineer**  
-Department of Biomedical Informatics  
-Emory University  
-[![](/icons/email.svg)](mailto:tonyviet87@gmail.com)
-[![](/icons/link.svg)](https://www.linkedin.com/in/tony-nguyen-30b279120)
+**Masters Student**  
+School of Electrical and Computer Engineering  
+Georgia Tech
 
-## Whitney Hogg
 
-![lab-member](/people/lab_members/whitney.jpg)
-
-<div class="small-icons"></div>
-**iOS Developer**  
-Department of Biomedical Informatics  
-Emory University  
-[![](/icons/email.svg)](whitneylaurenhogg@gmail.com)
-[![](/icons/link.svg)](https://www.linkedin.com/in/whitneylaurenhogg)
-
-## Corey Shaw
-
-![lab-member](/people/lab_members/coreyshaw.jpg)
-
-<div class="small-icons"></div>
-**Software Engineering Intern**  
-Department of Biomedical Informatics  
-Emory University  
-[![](/icons/email.svg)](coreyrshaw@gmail.com)
-[![](/icons/link.svg)](https://www.linkedin.com/in/corey-shaw-626969b2)

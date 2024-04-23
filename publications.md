@@ -977,6 +977,29 @@ Short NA, Rooij SJ, Murty VP, Stevens JS, An X, Ji Y, McLean SA, House SL, Beaud
 </div></div></td></tr><tr>
 <td>208</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="ErickAPerezAlday_2022_09_01_Agesex">
+<div class="citation">
+Alday EAP, Rad AB, Reyna MA, Sadr N, Gu A, Li Q, Dumitru M, Xue J, Albert D, Sameni R, Clifford GD. <a href="https://drive.google.com/file/d/1Zd7Pcq77Gy4Sc7064SsS-0l9iGWk8AVF/view?usp=sharing">Age, sex and race bias in automated arrhythmia detectors</a>. Journal of Electrocardiology 2022 September; 74: pp. 5-9.
+</div>
+<div class="bibtex_source"><pre>@article{ErickAPerezAlday_2022_09_01_Agesex,
+    author = "Alday, Erick A Perez and Rad, Ali B and Reyna, Matthew A and Sadr, Nadi and Gu, Annie and Li, Qiao and Dumitru, Mircea and Xue, Joel and Albert, Dave and Sameni, Reza and Clifford, Gari D",
+    title = "Age, sex and race bias in automated arrhythmia detectors",
+    date = "2022-09",
+    journal = "Journal of Electrocardiology",
+    url = "https://drive.google.com/file/d/1Zd7Pcq77Gy4Sc7064SsS-0l9iGWk8AVF/view?usp=sharing",
+    pages = "5-9",
+    volume = "74",
+    note = "Publisher: Churchill Livingstone"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="ErickAPerezAlday_2022_09_01_Agesex">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="ErickAPerezAlday_2022_09_01_Agesex">[show citation]</label>
+</div></div></td></tr><tr>
+<td>207</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="BrittanyEPunches_2022_09_23_Predictingatrisk">
 <div class="citation">
 Punches BE, Stolz U, Freiermuth CE, Ancona RM, McLean SA, House SL, Beaudoin FL, An X, Stevens JS, Zeng D, Neylan TC, Clifford GD, Jovanovic T, Linnstaedt SD, Germine LT, Bollen KA, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Kurz MC, Gentile NT, McGrath ME, Hudak LA, Pascual JL, Seamon MJ, Harris E, Chang AM, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sanchez LD, Bruce SE, Pietrzak RH, Joormann J, Barch DM, Pizzagalli DA, Smoller JW, Luna B, Harte SE, Elliott JM, Kessler RC, Ressler KJ, Koenen KC, Lyons MS. <a href="https://drive.google.com/file/d/1oCQUTfJGRDPmRsaJhP6p51kCfrOPxLK2/view?usp=sharing">Predicting at-risk opioid use three months after ed visit for trauma: Results from the AURORA study</a>. PLoS One 2022 September 23; 17 (9): p. e0273378.
@@ -998,29 +1021,6 @@ Punches BE, Stolz U, Freiermuth CE, Ancona RM, McLean SA, House SL, Beaudoin FL,
 </div>
 <div class="hidebibtex">
 <label for="BrittanyEPunches_2022_09_23_Predictingatrisk">[show citation]</label>
-</div></div></td></tr><tr>
-<td>207</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="ErickAPerezAlday_2022_09_01_Agesex">
-<div class="citation">
-Alday EAP, Rad AB, Reyna MA, Sadr N, Gu A, Li Q, Dumitru M, Xue J, Albert D, Sameni R, Clifford GD. <a href="https://drive.google.com/file/d/1Zd7Pcq77Gy4Sc7064SsS-0l9iGWk8AVF/view?usp=sharing">Age, sex and race bias in automated arrhythmia detectors</a>. Journal of Electrocardiology 2022 September; 74: pp. 5-9.
-</div>
-<div class="bibtex_source"><pre>@article{ErickAPerezAlday_2022_09_01_Agesex,
-    author = "Alday, Erick A Perez and Rad, Ali B and Reyna, Matthew A and Sadr, Nadi and Gu, Annie and Li, Qiao and Dumitru, Mircea and Xue, Joel and Albert, Dave and Sameni, Reza and Clifford, Gari D",
-    title = "Age, sex and race bias in automated arrhythmia detectors",
-    date = "2022-09",
-    journal = "Journal of Electrocardiology",
-    url = "https://drive.google.com/file/d/1Zd7Pcq77Gy4Sc7064SsS-0l9iGWk8AVF/view?usp=sharing",
-    pages = "5-9",
-    volume = "74",
-    note = "Publisher: Churchill Livingstone"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="ErickAPerezAlday_2022_09_01_Agesex">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="ErickAPerezAlday_2022_09_01_Agesex">[show citation]</label>
 </div></div></td></tr><tr>
 <td>206</td>
 <td><div class="citation_container">
@@ -8074,26 +8074,6 @@ Raghu A, Devarsetty P, Peiris D, Clifford G, Tarassenko L. Mobile health for Car
 </div></div></td></tr><tr>
 <td>74</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="DevarsettyPraveen_2013_09_23_SMARTHealthIndia">
-<div class="citation">
-Praveen D, Patel A, Raghu A, Clifford G, Maulik P, Ameer MA, Tarrasenko L, Peiris D. <a href="https://www.medicine20congress.org/index.php/med/med2013/paper/view/1433">SMARTHealth India: Development and Evaluation of an Electronic Clinical Decision Support System for Cardiovascular Diseases in India</a>. Medicine 2.0'13 (London, UK) 2013 September 23.
-</div>
-<div class="bibtex_source"><pre>@inproceedings{DevarsettyPraveen_2013_09_23_SMARTHealthIndia,
-    author = "Praveen, Devarsetty and Patel, Anushka and Raghu, Arvind and Clifford, Gari and Maulik, Pallab and Ameer, Mohammad Abdul and Tarrasenko, Lionel and Peiris, David",
-    title = "SMARTHealth India: Development and Evaluation of an Electronic Clinical Decision Support System for Cardiovascular Diseases in India",
-    date = "2013-09-23",
-    booktitle = "Medicine 2.0'13 (London, UK)",
-    url = "https://www.medicine20congress.org/index.php/med/med2013/paper/view/1433"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="DevarsettyPraveen_2013_09_23_SMARTHealthIndia">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="DevarsettyPraveen_2013_09_23_SMARTHealthIndia">[show citation]</label>
-</div></div></td></tr><tr>
-<td>73</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="IkaroSilva_2013_09_NoninvasiveFetal">
 <div class="citation">
 Silva I, Behar J, Sameni R, Zhu T, Oster J, Clifford GD, Moody GB. <a href="https://ieeexplore.ieee.org/abstract/document/6712433/">Noninvasive fetal ECG: the PhysioNet/computing in cardiology challenge 2013</a>. Computing in Cardiology 2013 September.
@@ -8112,6 +8092,26 @@ Silva I, Behar J, Sameni R, Zhu T, Oster J, Clifford GD, Moody GB. <a href="http
 </div>
 <div class="hidebibtex">
 <label for="IkaroSilva_2013_09_NoninvasiveFetal">[show citation]</label>
+</div></div></td></tr><tr>
+<td>73</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="DevarsettyPraveen_2013_09_23_SMARTHealthIndia">
+<div class="citation">
+Praveen D, Patel A, Raghu A, Clifford G, Maulik P, Ameer MA, Tarrasenko L, Peiris D. <a href="https://www.medicine20congress.org/index.php/med/med2013/paper/view/1433">SMARTHealth India: Development and Evaluation of an Electronic Clinical Decision Support System for Cardiovascular Diseases in India</a>. Medicine 2.0'13 (London, UK) 2013 September 23.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{DevarsettyPraveen_2013_09_23_SMARTHealthIndia,
+    author = "Praveen, Devarsetty and Patel, Anushka and Raghu, Arvind and Clifford, Gari and Maulik, Pallab and Ameer, Mohammad Abdul and Tarrasenko, Lionel and Peiris, David",
+    title = "SMARTHealth India: Development and Evaluation of an Electronic Clinical Decision Support System for Cardiovascular Diseases in India",
+    date = "2013-09-23",
+    booktitle = "Medicine 2.0'13 (London, UK)",
+    url = "https://www.medicine20congress.org/index.php/med/med2013/paper/view/1433"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="DevarsettyPraveen_2013_09_23_SMARTHealthIndia">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="DevarsettyPraveen_2013_09_23_SMARTHealthIndia">[show citation]</label>
 </div></div></td></tr><tr>
 <td>72</td>
 <td><div class="citation_container">
