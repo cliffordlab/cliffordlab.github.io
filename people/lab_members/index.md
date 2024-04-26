@@ -91,7 +91,7 @@ Emory University
 <div class="small-icons"></div>
 **Masters Student**  
 School of Electrical and Computer Engineering  
-Georgia Tech
+Georgia Institute of Technology
 
 ## Murali K Korikana
 ![lab-member](/people/lab_members/murali.png)
@@ -99,6 +99,6 @@ Georgia Tech
 <div class="small-icons"></div>
 **Masters Student**  
 Computer Science\
-Georgia Tech
+Georgia Institute of Technology
 
 
