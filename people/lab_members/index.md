@@ -77,12 +77,28 @@ Emory University
 Department of Biomedical Informatics  
 Emory University
 
+## Shanice Reynolds
+![lab-member](/people/lab_members/reynolds.JPG)
+
+<div class="small-icons"></div>
+**Study Coordinator**  
+Department of Gynecology and Obstetrics\
+Emory University
+
 ## Mohammad Ahmad
 ![lab-member](/people/lab_members/mohammad_ahmad.png)
 
 <div class="small-icons"></div>
 **Masters Student**  
 School of Electrical and Computer Engineering  
+Georgia Tech
+
+## Murali K Korikana
+![lab-member](/people/lab_members/murali.png)
+
+<div class="small-icons"></div>
+**Masters Student**  
+Computer Science\
 Georgia Tech
 
 

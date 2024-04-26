@@ -482,29 +482,6 @@ Webb EK, Ely TD, Rowland GE, Lebois LA, Rooij SJ, Bruce SE, Jovanovic T, House S
 </div></div></td></tr><tr>
 <td>229</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="PeterHCharlton_2023_07_26_The2023">
-<div class="citation">
-Charlton PH, Allen J, Bailon R, Baker S, Behar JA, Chen F, Clifford GD, Clifton DA, Davies HJ, Ding C, Ding X, Dunn J, Elgendi M, Ferdoushi M, Franklin D, Gil E, Hassan MF, Hernesniemi J, Hu X, Ji N, Khan Y, Kontaxis S, Korhonen I, Kyriacou PA, Laguna P, Lazaro J, Lee C, Levy J, Li Y, Liu C, Liu J, Lu L, Mandic DP, Marozas V, Mej<span class="bibtex-protected">í</span>a-Mej<span class="bibtex-protected">í</span>a E, Mukkamala R, Nitzan M, Pereira T, Poon CC, Ramella-Roman JC, Saarinen H, Shandhi MMH, Shin H, Stansby G, Tamura T, Vehkaoja A, Wang WK, Zhang Y, Zhao N, Zheng D, Zhu T. <a href="https://drive.google.com/file/d/1MqbdteFGNQ4MOLvD8vpBW7VgntSIsRVV/view?usp=sharing">The 2023 wearable photoplethysmography roadmap</a>. Physiological Measurement 2023 July 26; 44 (11). DOI: <a href="https://doi.org/10.1088/1361-6579">10.1088/1361-6579</a>.
-</div>
-<div class="bibtex_source"><pre>@article{PeterHCharlton_2023_07_26_The2023,
-    author = "Charlton, Peter H and Allen, John and Bailon, Raquel and Baker, Stephanie and Behar, Joachim A and Chen, Fei and Clifford, Gari D and Clifton, David A and Davies, Harry J and Ding, Cheng and Ding, Xiaorong and Dunn, Jessilyn and Elgendi, Mohamed and Ferdoushi, Munia and Franklin, Daniel and Gil, Eduardo and Hassan, Md Farhad and Hernesniemi, Jussi and Hu, Xiao and Ji, Nan and Khan, Yasser and Kontaxis, Spyridon and Korhonen, Ilkka and Kyriacou, Panayiotis A and Laguna, Pablo and Lazaro, Jesus and Lee, Chungkeun and Levy, Jeremy and Li, Yumin and Liu, Chengyu and Liu, Jing and Lu, Lei and Mandic, Danilo P and Marozas, Vaidotas and Mej{\'\i}a-Mej{\'\i}a, Elisa and Mukkamala, Ramakrishna and Nitzan, Meir and Pereira, T{\^a}nia and Poon, Carmen CY and Ramella-Roman, Jessica C and Saarinen, Harri and Shandhi, Md Mobashir Hasan and Shin, Hangsik and Stansby, Gerard and Tamura, Toshiyo and Vehkaoja, Antti and Wang, Will Ke and Zhang, Yuan-Ting and Zhao, Ni and Zheng, Dingchang and Zhu, Tingting",
-    title = "The 2023 wearable photoplethysmography roadmap",
-    journal = "Physiological Measurement",
-    volume = "44",
-    number = "11",
-    date = "2023-07-26",
-    url = "https://drive.google.com/file/d/1MqbdteFGNQ4MOLvD8vpBW7VgntSIsRVV/view?usp=sharing",
-    doi = "10.1088/1361-6579/acead2"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="PeterHCharlton_2023_07_26_The2023">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="PeterHCharlton_2023_07_26_The2023">[show citation]</label>
-</div></div></td></tr><tr>
-<td>228</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NathanielGHarnett_2023_02_01_Structuralinequities">
 <div class="citation">
 Harnett NG, Fani N, Carter S, Sanchez LD, Rowland GE, Davie WM, Guzman C, Lebois LA, Ely TD, Rooij SJ, Seligowski AV, Winters S, Grasser LR, Jr PIM, Seamon MJ, House SL, Beaudoin FL, An X, Zeng D, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Bollen KA, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Hudak LA, Pascual JL, Harris E, Chang AM, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, Bruce SE, Miller MW, Pietrzak RH, Joormann J, Barch DM, Pizzagalli DA, Harte SE, Elliott JM, Kessler RC, Koenen KC, McLean SA, Jovanovic T, Stevens JS, Ressler KJ. <a href="https://drive.google.com/file/d/1uZ-i6_zbbgpmxip-lternhRjAH0xfxT7/view?usp=sharing">Structural inequities contribute to racial/ethnic differences in neurophysiological tone, but not threat reactivity, after trauma exposure</a>. Molecular Psychiatry 2023 July; 28 (7): pp. 2975-2984.
@@ -526,6 +503,29 @@ Harnett NG, Fani N, Carter S, Sanchez LD, Rowland GE, Davie WM, Guzman C, Lebois
 </div>
 <div class="hidebibtex">
 <label for="NathanielGHarnett_2023_02_01_Structuralinequities">[show citation]</label>
+</div></div></td></tr><tr>
+<td>228</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="PeterHCharlton_2023_07_26_The2023">
+<div class="citation">
+Charlton PH, Allen J, Bailon R, Baker S, Behar JA, Chen F, Clifford GD, Clifton DA, Davies HJ, Ding C, Ding X, Dunn J, Elgendi M, Ferdoushi M, Franklin D, Gil E, Hassan MF, Hernesniemi J, Hu X, Ji N, Khan Y, Kontaxis S, Korhonen I, Kyriacou PA, Laguna P, Lazaro J, Lee C, Levy J, Li Y, Liu C, Liu J, Lu L, Mandic DP, Marozas V, Mej<span class="bibtex-protected">í</span>a-Mej<span class="bibtex-protected">í</span>a E, Mukkamala R, Nitzan M, Pereira T, Poon CC, Ramella-Roman JC, Saarinen H, Shandhi MMH, Shin H, Stansby G, Tamura T, Vehkaoja A, Wang WK, Zhang Y, Zhao N, Zheng D, Zhu T. <a href="https://drive.google.com/file/d/1MqbdteFGNQ4MOLvD8vpBW7VgntSIsRVV/view?usp=sharing">The 2023 wearable photoplethysmography roadmap</a>. Physiological Measurement 2023 July 26; 44 (11). DOI: <a href="https://doi.org/10.1088/1361-6579">10.1088/1361-6579</a>.
+</div>
+<div class="bibtex_source"><pre>@article{PeterHCharlton_2023_07_26_The2023,
+    author = "Charlton, Peter H and Allen, John and Bailon, Raquel and Baker, Stephanie and Behar, Joachim A and Chen, Fei and Clifford, Gari D and Clifton, David A and Davies, Harry J and Ding, Cheng and Ding, Xiaorong and Dunn, Jessilyn and Elgendi, Mohamed and Ferdoushi, Munia and Franklin, Daniel and Gil, Eduardo and Hassan, Md Farhad and Hernesniemi, Jussi and Hu, Xiao and Ji, Nan and Khan, Yasser and Kontaxis, Spyridon and Korhonen, Ilkka and Kyriacou, Panayiotis A and Laguna, Pablo and Lazaro, Jesus and Lee, Chungkeun and Levy, Jeremy and Li, Yumin and Liu, Chengyu and Liu, Jing and Lu, Lei and Mandic, Danilo P and Marozas, Vaidotas and Mej{\'\i}a-Mej{\'\i}a, Elisa and Mukkamala, Ramakrishna and Nitzan, Meir and Pereira, T{\^a}nia and Poon, Carmen CY and Ramella-Roman, Jessica C and Saarinen, Harri and Shandhi, Md Mobashir Hasan and Shin, Hangsik and Stansby, Gerard and Tamura, Toshiyo and Vehkaoja, Antti and Wang, Will Ke and Zhang, Yuan-Ting and Zhao, Ni and Zheng, Dingchang and Zhu, Tingting",
+    title = "The 2023 wearable photoplethysmography roadmap",
+    journal = "Physiological Measurement",
+    volume = "44",
+    number = "11",
+    date = "2023-07-26",
+    url = "https://drive.google.com/file/d/1MqbdteFGNQ4MOLvD8vpBW7VgntSIsRVV/view?usp=sharing",
+    doi = "10.1088/1361-6579/acead2"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="PeterHCharlton_2023_07_26_The2023">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="PeterHCharlton_2023_07_26_The2023">[show citation]</label>
 </div></div></td></tr><tr>
 <td>227</td>
 <td><div class="citation_container">
@@ -1217,30 +1217,6 @@ Harnett NG, Finegold KE, Lebois LA, Rooij SJ, Ely TD, Murty VP, Jovanovic T, Bru
 </div></div></td></tr><tr>
 <td>198</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="MatthewAReyna_2022_07_26_Rethinkingalgorithm">
-<div class="citation">
-Reyna MA, Nsoesie EO, Clifford GD. <a href="https://drive.google.com/file/d/1aH9S5AyKqjoDNKn5OSMrG7IZhCNTf8r3/view?usp=sharing">Rethinking algorithm performance metrics for artificial intelligence in diagnostic medicine</a>. JAMA 2022 July 26; 328 (4): pp. 329-330.
-</div>
-<div class="bibtex_source"><pre>@article{MatthewAReyna_2022_07_26_Rethinkingalgorithm,
-    author = "Reyna, Matthew A and Nsoesie, Elaine O and Clifford, Gari D",
-    title = "Rethinking algorithm performance metrics for artificial intelligence in diagnostic medicine",
-    date = "2022-07-26",
-    issue = "4",
-    journal = "JAMA",
-    url = "https://drive.google.com/file/d/1aH9S5AyKqjoDNKn5OSMrG7IZhCNTf8r3/view?usp=sharing",
-    pages = "329-330",
-    volume = "328",
-    note = "Publisher: American Medical Association"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="MatthewAReyna_2022_07_26_Rethinkingalgorithm">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="MatthewAReyna_2022_07_26_Rethinkingalgorithm">[show citation]</label>
-</div></div></td></tr><tr>
-<td>197</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JuttaJoormann_2020_10_29_Sociodemographicand">
 <div class="citation">
 Joormann J, McLean SA, Beaudoin FL, An X, Stevens JS, Zeng D, Neylan TC, Clifford G, Linnstaedt SD, Germine LT, Rauch SL, Musey PI, Hendry PL, Sheikh S, Jones CW, Punches BE, Fermann G, Hudak LA, Mohiuddin K, Murty V, McGrath ME, Haran JP, Pascual J, Seamon M, Peak DA, Pearson C, Domeier RM, Sergot P, Merchant R, Sanchez LD, Rathlev NK, Peacock WF, Bruce SE, Barch D, Pizzagalli DA, Luna B, Harte SE, Hwang I, Lee S, Sampson N, Koenen KC, Ressler KJ, Kessler RC. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9341273/pdf/nihms-1824593.pdf">Socio-demographic and trauma-related predictors of depression within eight weeks of motor vehicle collision in the AURORA study</a>. Psychological Medicine 2022 July; 52 (10): pp. 1934-1947.
@@ -1263,7 +1239,7 @@ Joormann J, McLean SA, Beaudoin FL, An X, Stevens JS, Zeng D, Neylan TC, Cliffor
 <div class="hidebibtex">
 <label for="JuttaJoormann_2020_10_29_Sociodemographicand">[show citation]</label>
 </div></div></td></tr><tr>
-<td>196</td>
+<td>197</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShafaatAliSheikh_2022_07_Validationof">
 <div class="citation">
@@ -1285,6 +1261,30 @@ Sheikh SA, Gurel NZ, Gupta S, Chukwu IV, Levantsevych O, Alkhalaf M, Soudan M, A
 </div>
 <div class="hidebibtex">
 <label for="ShafaatAliSheikh_2022_07_Validationof">[show citation]</label>
+</div></div></td></tr><tr>
+<td>196</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="MatthewAReyna_2022_07_26_Rethinkingalgorithm">
+<div class="citation">
+Reyna MA, Nsoesie EO, Clifford GD. <a href="https://drive.google.com/file/d/1aH9S5AyKqjoDNKn5OSMrG7IZhCNTf8r3/view?usp=sharing">Rethinking algorithm performance metrics for artificial intelligence in diagnostic medicine</a>. JAMA 2022 July 26; 328 (4): pp. 329-330.
+</div>
+<div class="bibtex_source"><pre>@article{MatthewAReyna_2022_07_26_Rethinkingalgorithm,
+    author = "Reyna, Matthew A and Nsoesie, Elaine O and Clifford, Gari D",
+    title = "Rethinking algorithm performance metrics for artificial intelligence in diagnostic medicine",
+    date = "2022-07-26",
+    issue = "4",
+    journal = "JAMA",
+    url = "https://drive.google.com/file/d/1aH9S5AyKqjoDNKn5OSMrG7IZhCNTf8r3/view?usp=sharing",
+    pages = "329-330",
+    volume = "328",
+    note = "Publisher: American Medical Association"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="MatthewAReyna_2022_07_26_Rethinkingalgorithm">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="MatthewAReyna_2022_07_26_Rethinkingalgorithm">[show citation]</label>
 </div></div></td></tr><tr>
 <td>195</td>
 <td><div class="citation_container">
@@ -1528,6 +1528,29 @@ Germine LT, Joormann J, Passell E, Rutter LA, Scheuer L, Martini P, Hwang I, Lee
 </div></div></td></tr><tr>
 <td>185</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="JuttaJoormann_2022_01_Priorhistories">
+<div class="citation">
+Joormann J, Ziobrowski HN, King AJ, Gildea SM, Lee S, Sampson NA, House SL, Beaudoin FL, An X, Stevens JS, Zeng D, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Bollen KA, Rauch SL, Haran JP, Storrow AB, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, McGrath ME, Hudak LA, Pascual JL, Seamon MJ, Chang AM, Pearson C, Peak DA, Domeier RM, Rathlev NK, O'Neil BJ, Sanchez LD, Bruce SE, Miller MW, Pietrzak RH, Barch DM, Pizzagalli DA, Harte SE, Elliott JM, Koenen KC, McLean SA, Kessler RC. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8732322/pdf/nihms-1762304.pdf">Prior histories of posttraumatic stress disorder and major depression and their onset and course in the three months after a motor vehicle collision in the AURORA study</a>. Depress and Anxiety 2022 January; 39 (1): pp. 56-70.
+</div>
+<div class="bibtex_source"><pre>@article{JuttaJoormann_2022_01_Priorhistories,
+    author = "Joormann, Jutta and Ziobrowski, Hannah N and King, Andrew J and Gildea, Sarah M and Lee, Sue and Sampson, Nancy A and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Stevens, Jennifer S and Zeng, Donglin and Neylan, Thomas C and Clifford, Gari D and Linnstaedt, Sarah D and Germine, Laura T and Bollen, Kenneth A and Rauch, Scott L and Haran, John P and Storrow, Alan B and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and McGrath, Meghan E and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Chang, Anna M and Pearson, Claire and Peak, David A and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sanchez, Leon D and Bruce, Steven E and Miller, Mark W and Pietrzak, Robert H and Barch, Deanna M and Pizzagalli, Diego A and Harte, Steven E and Elliott, James M and Koenen, Karestan C and McLean, Samuel A and Kessler, Ronald C",
+    title = "Prior histories of posttraumatic stress disorder and major depression and their onset and course in the three months after a motor vehicle collision in the AURORA study",
+    date = "2022-01",
+    issue = "1",
+    journal = "Depress and Anxiety",
+    url = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8732322/pdf/nihms-1762304.pdf",
+    pages = "56-70",
+    volume = "39"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="JuttaJoormann_2022_01_Priorhistories">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="JuttaJoormann_2022_01_Priorhistories">[show citation]</label>
+</div></div></td></tr><tr>
+<td>184</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChaitraHegde_2022_01_25_ModelingSocial">
 <div class="citation">
 Hegde C, Rad AB, Sameni R, Clifford GD. <a href="https://drive.google.com/file/d/1V9RhsPhypUq7Go_2AQRxcufZNegj9CQd">Modeling Social Distancing and Quantifying Epidemic Disease Exposure in a Built Environment</a>. IEEE journal of Selected Topics in Signal Processing 2022 January 25; 16 (2): pp. 289-299.
@@ -1549,29 +1572,6 @@ Hegde C, Rad AB, Sameni R, Clifford GD. <a href="https://drive.google.com/file/d
 </div>
 <div class="hidebibtex">
 <label for="ChaitraHegde_2022_01_25_ModelingSocial">[show citation]</label>
-</div></div></td></tr><tr>
-<td>184</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="JuttaJoormann_2022_01_Priorhistories">
-<div class="citation">
-Joormann J, Ziobrowski HN, King AJ, Gildea SM, Lee S, Sampson NA, House SL, Beaudoin FL, An X, Stevens JS, Zeng D, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Bollen KA, Rauch SL, Haran JP, Storrow AB, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, McGrath ME, Hudak LA, Pascual JL, Seamon MJ, Chang AM, Pearson C, Peak DA, Domeier RM, Rathlev NK, O'Neil BJ, Sanchez LD, Bruce SE, Miller MW, Pietrzak RH, Barch DM, Pizzagalli DA, Harte SE, Elliott JM, Koenen KC, McLean SA, Kessler RC. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8732322/pdf/nihms-1762304.pdf">Prior histories of posttraumatic stress disorder and major depression and their onset and course in the three months after a motor vehicle collision in the AURORA study</a>. Depress and Anxiety 2022 January; 39 (1): pp. 56-70.
-</div>
-<div class="bibtex_source"><pre>@article{JuttaJoormann_2022_01_Priorhistories,
-    author = "Joormann, Jutta and Ziobrowski, Hannah N and King, Andrew J and Gildea, Sarah M and Lee, Sue and Sampson, Nancy A and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Stevens, Jennifer S and Zeng, Donglin and Neylan, Thomas C and Clifford, Gari D and Linnstaedt, Sarah D and Germine, Laura T and Bollen, Kenneth A and Rauch, Scott L and Haran, John P and Storrow, Alan B and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and McGrath, Meghan E and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Chang, Anna M and Pearson, Claire and Peak, David A and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sanchez, Leon D and Bruce, Steven E and Miller, Mark W and Pietrzak, Robert H and Barch, Deanna M and Pizzagalli, Diego A and Harte, Steven E and Elliott, James M and Koenen, Karestan C and McLean, Samuel A and Kessler, Ronald C",
-    title = "Prior histories of posttraumatic stress disorder and major depression and their onset and course in the three months after a motor vehicle collision in the AURORA study",
-    date = "2022-01",
-    issue = "1",
-    journal = "Depress and Anxiety",
-    url = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8732322/pdf/nihms-1762304.pdf",
-    pages = "56-70",
-    volume = "39"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="JuttaJoormann_2022_01_Priorhistories">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="JuttaJoormann_2022_01_Priorhistories">[show citation]</label>
 </div></div></td></tr><tr>
 <td>183</td>
 <td><div class="citation_container">
