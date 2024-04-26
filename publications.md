@@ -6893,14 +6893,14 @@ Chang F, Stanley M, Nemati S, Zia J, Clifford G, Buchman T, Kirk A, Elster E. <a
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JamesJLah_2018_10_01_ASearch">
 <div class="citation">
-Lah JJ, Goetz ME, John S, Lewis LM, Lomba C, Bergquist SH, Clifford GD, Goldstein FC, Loring DW, Kuerston R, Marcus M, Levey AI. <a href="https://scholar.google.com/scholar?cluster=9680973484974932462&hl=en&oi=scholarr">A Search for Predictive AD Biomarkers: The Emory Healthy Brain Study</a>. Annals of Neurology 2018 October 1; 84: pp. S170-S170.
+Lah JJ, Goetz ME, John S, Lewis LM, Lomba C, Bergquist SH, Clifford GD, Goldstein FC, Loring DW, Kuerston R, Marcus M, Levey AI. <a href="https://drive.google.com/file/d/1ZIBOHPEMfK_5UpNIVKa0HkxFMfnGcYAA/view?usp=sharing">A Search for Predictive AD Biomarkers: The Emory Healthy Brain Study</a>. 143rd Annual Meeting of the American Neurological Association, Atlanta, GA, USA 2018 October 21; 84: pp. S170-S170.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{JamesJLah_2018_10_01_ASearch,
     author = "Lah, James J and Goetz, Margarethe E and John, Samantha and Lewis, Lauren M and Lomba, Christina and Bergquist, Sharon H and Clifford, Gari D and Goldstein, Felicia C and Loring, David W and Kuerston, Richard and Marcus, Michelle and Levey, Allan I",
     title = "A Search for Predictive AD Biomarkers: The Emory Healthy Brain Study",
-    date = "2018-10-01",
-    booktitle = "Annals of Neurology",
-    url = "https://scholar.google.com/scholar?cluster=9680973484974932462\&hl=en\&oi=scholarr",
+    date = "2018-10-21",
+    booktitle = "143rd Annual Meeting of the American Neurological Association, Atlanta, GA, USA",
+    url = "https://drive.google.com/file/d/1ZIBOHPEMfK\_5UpNIVKa0HkxFMfnGcYAA/view?usp=sharing",
     pages = "S170-S170",
     volume = "84",
     publisher = "Wiley"
@@ -6914,35 +6914,15 @@ Lah JJ, Goetz ME, John S, Lewis LM, Lomba C, Bergquist SH, Clifford GD, Goldstei
 </div></div></td></tr><tr>
 <td>127</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="SupreethPShashikumar_2018_08_19_Detectionof">
-<div class="citation">
-Shashikumar SP, Shah AJ, Clifford GD, Nemati S. <a href="https://dl.acm.org/doi/abs/10.1145/3219819.3219912">Detection of paroxysmal atrial fibrillation using attention-based bidirectional recurrent neural networks</a>. 2018 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, London, UK, 19-23 Aug 2018. 2018 August 19.
-</div>
-<div class="bibtex_source"><pre>@inproceedings{SupreethPShashikumar_2018_08_19_Detectionof,
-    author = "Shashikumar, Supreeth P and Shah, Amit J and Clifford, Gari D and Nemati, Shamim",
-    title = "Detection of paroxysmal atrial fibrillation using attention-based bidirectional recurrent neural networks",
-    date = "2018-08-19",
-    booktitle = "2018 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, London, UK, 19-23 Aug 2018.",
-    url = "https://dl.acm.org/doi/abs/10.1145/3219819.3219912"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="SupreethPShashikumar_2018_08_19_Detectionof">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="SupreethPShashikumar_2018_08_19_Detectionof">[show citation]</label>
-</div></div></td></tr><tr>
-<td>126</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MohammadMGhassemi_2018_YouSnooze">
 <div class="citation">
-Ghassemi MM, Moody BE, Li-wei HL, Song C, Li Q, Sun H, Westover MB, Clifford GD. <a href="https://drive.google.com/file/d/1EnDTryuvrQg6o3fFkL4Svf2PZJq4k6bo/view?usp=sharing">You snooze, you win: the physionet/computing in cardiology challenge 2018</a>. Computing in Cardiology 2018; 45: pp. 1-4.
+Ghassemi MM, Moody BE, Li-wei HL, Song C, Li Q, Sun H, Westover MB, Clifford GD. <a href="https://drive.google.com/file/d/1EnDTryuvrQg6o3fFkL4Svf2PZJq4k6bo/view?usp=sharing">You snooze, you win: the physionet/computing in cardiology challenge 2018</a>. Computing in Cardiology Conference 2018, Maastricht, Netherlands 2018 September 24; 45: pp. 1-4.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{MohammadMGhassemi_2018_YouSnooze,
     author = "Ghassemi, Mohammad M and Moody, Benjamin E and Li-wei, H Lehman and Song, Christopher and Li, Qiao and Sun, Haoqi and Westover, M Brandon and Clifford, Gari D",
     title = "You snooze, you win: the physionet/computing in cardiology challenge 2018",
-    date = "2018",
-    booktitle = "Computing in Cardiology",
+    date = "2018-09-24",
+    booktitle = "Computing in Cardiology Conference 2018, Maastricht, Netherlands",
     url = "https://drive.google.com/file/d/1EnDTryuvrQg6o3fFkL4Svf2PZJq4k6bo/view?usp=sharing",
     pages = "1-4",
     volume = "45"
@@ -6954,19 +6934,42 @@ Ghassemi MM, Moody BE, Li-wei HL, Song C, Li Q, Sun H, Westover MB, Clifford GD.
 <div class="hidebibtex">
 <label for="MohammadMGhassemi_2018_YouSnooze">[show citation]</label>
 </div></div></td></tr><tr>
+<td>126</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="SupreethPShashikumar_2018_08_19_Detectionof">
+<div class="citation">
+Shashikumar SP, Shah AJ, Clifford GD, Nemati S. <a href="https://drive.google.com/file/d/1MHiU4QEacABDnsd1-4EvgUV_nXLoT421/view?usp=sharing">Detection of paroxysmal atrial fibrillation using attention-based bidirectional recurrent neural networks</a>. 2018 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, London, UK 2018 August 19; pp. 715-723. DOI: <a href="https://doi.org/10.1145/3219819.3219912">10.1145/3219819.3219912</a>.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{SupreethPShashikumar_2018_08_19_Detectionof,
+    author = "Shashikumar, Supreeth P and Shah, Amit J and Clifford, Gari D and Nemati, Shamim",
+    title = "Detection of paroxysmal atrial fibrillation using attention-based bidirectional recurrent neural networks",
+    date = "2018-08-19",
+    booktitle = "2018 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, London, UK",
+    url = "https://drive.google.com/file/d/1MHiU4QEacABDnsd1-4EvgUV\_nXLoT421/view?usp=sharing",
+    PAGES = "715-723",
+    doi = "10.1145/3219819.3219912"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="SupreethPShashikumar_2018_08_19_Detectionof">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="SupreethPShashikumar_2018_08_19_Detectionof">[show citation]</label>
+</div></div></td></tr><tr>
 <td>125</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SamanehNasiriGhoshehBolagh_2017_12_01_SubjectSelection">
 <div class="citation">
-Bolagh SNG, Clifford GD. <a href="https://arxiv.org/abs/1712.00465">Subject selection on a Riemannian manifold for unsupervised cross-subject seizure detection</a>. 31st Conference on Neural Information Processing Systems (NIPS 2017), Long Beach, CA, USA 2017 December 1.
+Bolagh SNG, Clifford GD. <a href="https://drive.google.com/file/d/1yfLp4MsBN25pwAzLu6jFQL_K4rmcShEj/view?usp=sharing">Subject selection on a Riemannian manifold for unsupervised cross-subject seizure detection</a>. 31st Conference on Neural Information Processing Systems (NIPS 2017), Long Beach, CA, USA 2017 December 1. DOI: <a href="https://doi.org/10.48550/arXiv.1712.00465">10.48550/arXiv.1712.00465</a>.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{SamanehNasiriGhoshehBolagh_2017_12_01_SubjectSelection,
     author = "Bolagh, Samaneh Nasiri Ghosheh and Clifford, Gari D",
     title = "Subject selection on a Riemannian manifold for unsupervised cross-subject seizure detection",
     date = "2017-12-01",
     booktitle = "31st Conference on Neural Information Processing Systems (NIPS 2017), Long Beach, CA, USA",
-    url = "https://arxiv.org/abs/1712.00465",
-    publisher = "arXiv preprint arXiv:1712.00465"
+    url = "https://drive.google.com/file/d/1yfLp4MsBN25pwAzLu6jFQL\_K4rmcShEj/view?usp=sharing",
+    publisher = "arXiv preprint arXiv:1712.00465",
+    doi = "10.48550/arXiv.1712.00465"
 }
 </pre>
 </div><div class="showbibtex">
@@ -6979,14 +6982,14 @@ Bolagh SNG, Clifford GD. <a href="https://arxiv.org/abs/1712.00465">Subject sele
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2017_09_24_AFclassification">
 <div class="citation">
-Clifford GD, Liu C, Moody B, Li-wei HL, Silva I, Li Q, Johnson A, Mark RG. <a href="https://ieeexplore.ieee.org/abstract/document/8331486/">AF classification from a short single lead ECG recording: The PhysioNet/computing in cardiology challenge 2017</a>. 2017 Computing in Cardiology (CinC) 2017 September 24; pp. 1-4.
+Clifford GD, Liu C, Moody B, Li-wei HL, Silva I, Li Q, Johnson A, Mark RG. <a href="https://www.cinc.org/archives/2017/pdf/065-469.pdf">AF classification from a short single lead ECG recording: The PhysioNet/computing in cardiology challenge 2017</a>. 2017 Computing in Cardiology (CinC) Conference, Rennes, France 2017 September 24; pp. 1-4.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{GariDClifford_2017_09_24_AFclassification,
     author = "Clifford, Gari D and Liu, Chengyu and Moody, Benjamin and Li-wei, H Lehman and Silva, Ikaro and Li, Qiao and Johnson, AE and Mark, Roger G",
     title = "AF classification from a short single lead ECG recording: The PhysioNet/computing in cardiology challenge 2017",
     date = "2017-09-24",
-    booktitle = "2017 Computing in Cardiology (CinC)",
-    url = "https://ieeexplore.ieee.org/abstract/document/8331486/",
+    booktitle = "2017 Computing in Cardiology (CinC) Conference, Rennes, France",
+    url = "https://www.cinc.org/archives/2017/pdf/065-469.pdf",
     pages = "1-4",
     publisher = "IEEE"
 }
@@ -7024,14 +7027,14 @@ Liu C, Li Q, Suresh PB, Vest A, Clifford GD. <a href="https://www.cinc.org/archi
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JoachimABehar_2017_09_24_Sleepquestionnaires">
 <div class="citation">
-Behar JA, Palmius N, Daly J, Li Q, Rizzatti FG, Bittencourt L, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/8331635/">Sleep questionnaires in screening for obstructive sleep apnoea</a>. 2017 Computing in Cardiology (CinC) 2017 September 24; pp. 1-5.
+Behar JA, Palmius N, Daly J, Li Q, Rizzatti FG, Bittencourt L, Clifford GD. <a href="https://drive.google.com/file/d/1TEL2deiAnzT9pZMIeDZWpentNR9rPn29/view?usp=sharing">Sleep questionnaires in screening for obstructive sleep apnoea</a>. 2017 Computing in Cardiology (CinC), Rennes, France 2017 September 24; pp. 1-5.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{JoachimABehar_2017_09_24_Sleepquestionnaires,
     author = "Behar, Joachim A and Palmius, Niclas and Daly, Jonathan and Li, Qiao and Rizzatti, Fabiola G and Bittencourt, Lia and Clifford, Gari D",
     title = "Sleep questionnaires in screening for obstructive sleep apnoea",
     date = "2017-09-24",
-    booktitle = "2017 Computing in Cardiology (CinC)",
-    url = "https://ieeexplore.ieee.org/abstract/document/8331635/",
+    booktitle = "2017 Computing in Cardiology (CinC), Rennes, France",
+    url = "https://drive.google.com/file/d/1TEL2deiAnzT9pZMIeDZWpentNR9rPn29/view?usp=sharing",
     pages = "1-5",
     publisher = "IEEE"
 }
@@ -7046,14 +7049,14 @@ Behar JA, Palmius N, Daly J, Li Q, Rizzatti FG, Bittencourt L, Clifford GD. <a h
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="FaezehMarzbanrad_2017_09_24_Analyzingfetal">
 <div class="citation">
-Marzbanrad F, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/8331730/">Analyzing fetal and maternal cardiorespiratory interactions during labor</a>. 2017 Computing in Cardiology (CinC) 2017 September 24; pp. 1-4.
+Marzbanrad F, Clifford GD. <a href="https://cinc.org/archives/2017/pdf/335-343.pdf">Analyzing fetal and maternal cardiorespiratory interactions during labor</a>. 2017 Computing in Cardiology (CinC), Rennes, France 2017 September 24; pp. 1-4.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{FaezehMarzbanrad_2017_09_24_Analyzingfetal,
     author = "Marzbanrad, Faezeh and Clifford, Gari D",
     title = "Analyzing fetal and maternal cardiorespiratory interactions during labor",
     date = "2017-09-24",
-    booktitle = "2017 Computing in Cardiology (CinC)",
-    url = "https://ieeexplore.ieee.org/abstract/document/8331730/",
+    booktitle = "2017 Computing in Cardiology (CinC), Rennes, France",
+    url = "https://cinc.org/archives/2017/pdf/335-343.pdf",
     pages = "1-4",
     publisher = "IEEE"
 }
@@ -7090,17 +7093,40 @@ Clifford GD. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-iYS14Y01DQlZxa
 </div></div></td></tr><tr>
 <td>119</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="RCDedhia_2017_04_01_Impactof">
+<div class="citation">
+Dedhia R, Bliwise D, Quyyumi A, Strollo P, Li Q, Clifford G. <a href="https://drive.google.com/file/d/1Z-Ot8iRquEMxUuzX4SeiinzAVfn5Mt_8/view?usp=sharing">0564 IMPACT OF HYPOGLOSSAL NERVE STIMULATION ON HEART RATE VARIABILITY: THE STAR TRIAL</a>. Sleep 2017 Annual Meeting, Boston, Massachusetts 2017 June 3; 40: p. A210.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{RCDedhia_2017_04_01_Impactof,
+    author = "Dedhia, RC and Bliwise, DL and Quyyumi, AA and Strollo, PJ and Li, Q and Clifford, GD",
+    title = "0564 IMPACT OF HYPOGLOSSAL NERVE STIMULATION ON HEART RATE VARIABILITY: THE STAR TRIAL",
+    date = "2017-06-03",
+    booktitle = "Sleep 2017 Annual Meeting, Boston, Massachusetts",
+    url = "https://drive.google.com/file/d/1Z-Ot8iRquEMxUuzX4SeiinzAVfn5Mt\_8/view?usp=sharing",
+    pages = "A210",
+    volume = "40",
+    publisher = "Oxford University Press"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="RCDedhia_2017_04_01_Impactof">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="RCDedhia_2017_04_01_Impactof">[show citation]</label>
+</div></div></td></tr><tr>
+<td>118</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AmitJShah_2017_05_01_Associationof">
 <div class="citation">
-Shah AJ, Fang S, Pimple P, Lewis T, Goldberg J, Bliwise D, Alonso A, Clifford GD, Hall M, Bremner JD, Vaccarino V. <a href="https://scholar.google.com/scholar?cluster=7164726342624722250&hl=en&oi=scholarr">ASSOCIATION OF POSTTRAUMATIC STRESS DISORDER WITH SLEEP DYSFUNCTION IN MALE VETERAN TWINS</a>. Psychosomatic Medicine 2017 May 1; 79 (4): pp. A136-A137.
+Shah AJ, Fang S, Pimple P, Lewis T, Goldberg J, Bliwise D, Alonso A, Clifford GD, Hall M, Bremner JD, Vaccarino V. <a href="https://drive.google.com/file/d/1xhvgur9IlJ1Ec8VMq-chmC27kjJ0Jhmv/view?usp=sharing">ASSOCIATION OF POSTTRAUMATIC STRESS DISORDER WITH SLEEP DYSFUNCTION IN MALE VETERAN TWINS</a>. American Psychosomatic Society 75th Annual Scientific Meeting, Sevilla, Spain 2017 March 15; 79 (4): pp. A136-A137.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{AmitJShah_2017_05_01_Associationof,
     author = "Shah, Amit J and Fang, Shuyang and Pimple, Pratik and Lewis, Tene and Goldberg, Jack and Bliwise, Donald and Alonso, Alvaro and Clifford, Gari D and Hall, Martica and Bremner, J Douglas and Vaccarino, Viola",
     title = "ASSOCIATION OF POSTTRAUMATIC STRESS DISORDER WITH SLEEP DYSFUNCTION IN MALE VETERAN TWINS",
-    date = "2017-05-01",
-    booktitle = "Psychosomatic Medicine",
+    date = "2017-03-15",
+    booktitle = "American Psychosomatic Society 75th Annual Scientific Meeting, Sevilla, Spain",
     issue = "4",
-    url = "https://scholar.google.com/scholar?cluster=7164726342624722250\&hl=en\&oi=scholarr",
+    url = "https://drive.google.com/file/d/1xhvgur9IlJ1Ec8VMq-chmC27kjJ0Jhmv/view?usp=sharing",
     pages = "A136-A137",
     volume = "79",
     publisher = "Lippincott Williams {\\&} Wilkins"
@@ -7111,29 +7137,6 @@ Shah AJ, Fang S, Pimple P, Lewis T, Goldberg J, Bliwise D, Alonso A, Clifford GD
 </div>
 <div class="hidebibtex">
 <label for="AmitJShah_2017_05_01_Associationof">[show citation]</label>
-</div></div></td></tr><tr>
-<td>118</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="RCDedhia_2017_04_01_Impactof">
-<div class="citation">
-Dedhia R, Bliwise D, Quyyumi A, Strollo P, Li Q, Clifford G. <a href="https://search.proquest.com/openview/6a9fbc93f68e91b4bde49ba6b7264545/1?pq-origsite=gscholar&cbl=2046369">0564 IMPACT OF HYPOGLOSSAL NERVE STIMULATION ON HEART RATE VARIABILITY: THE STAR TRIAL</a>. Sleep 2017 April 1; 40: pp. A210-A210.
-</div>
-<div class="bibtex_source"><pre>@inproceedings{RCDedhia_2017_04_01_Impactof,
-    author = "Dedhia, RC and Bliwise, DL and Quyyumi, AA and Strollo, PJ and Li, Q and Clifford, GD",
-    title = "0564 IMPACT OF HYPOGLOSSAL NERVE STIMULATION ON HEART RATE VARIABILITY: THE STAR TRIAL",
-    date = "2017-04-01",
-    booktitle = "Sleep",
-    url = "https://search.proquest.com/openview/6a9fbc93f68e91b4bde49ba6b7264545/1?pq-origsite=gscholar\&cbl=2046369",
-    pages = "A210-A210",
-    volume = "40",
-    publisher = "Oxford University Press"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="RCDedhia_2017_04_01_Impactof">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="RCDedhia_2017_04_01_Impactof">[show citation]</label>
 </div></div></td></tr><tr>
 <td>117</td>
 <td><div class="citation_container">
