@@ -244,7 +244,7 @@ permalink: /alumni
     [Currently Senior Data Scientist at Prolaio]
 21. Mannino, R. (Postdoc) Department of Biomedical Informatics Georgia Institute of Technology
    (2013-2018) [Currently Chief Technology Officer at Sanguina, Inc.]
-22. Nguyễn, T. (Software Engineer) Department of Biomedical Informatics Emory University
+22. Nguyen, T. (Software Engineer) Department of Biomedical Informatics Emory University
    (2016-2021) [Currently Senior Software Engineer at CallRail]
 23. Shaw, C. (Software Application Developer) Department of Biomedical Informatics Emory 
     University (2016-2022) [Currently CTO + Co-Founder of Transition]
