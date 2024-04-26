@@ -6,99 +6,63 @@ permalink: /alumni
 
 ## DPhil / PhD
 
-1.  Nasiri, S. (Ph.D.)
-    Generalizable Machine Learning Methods for
-    Electrophysiology, Emory University (2017-2020) [[\*](#sole-supervision)]
-    \[Now postdoc at Harvard University\]
-2.  Valderrama, C. (Ph.D.)
-    A framework for 1D-Doppler ultrasound
-    analysis for gestational development tracking, Emory University
-    (2016-2020) [[\*](#sole-supervision)] 
-    \[Now postdoc at University of Alberta\]
-3.  Haque, R. (M.D./Ph.D)
-    Neocortical-Medial Temporal Lobe Interactions
-    during Visuospatial Memory Formation and Implications for Screening
-    of Memory Impairment in Alzheimer's Disease, Emory University
-    (2016-2020) [[&](#secondary-supervision)]
-    \[Now postdoc at NIH\]
-4.  Reinertsen, E. (M.D./Ph.D.)
-    Dichotomizing illness from
-    cardiovascular and activity time series, Georgia Institute of
-    Technology (2014-2017) [[\*](#sole-supervision)]
-    \[Currently postdoc at Harvard University\]
-5.  Osipov, M. (D.Phil.)
-    Towards automated symptoms assessment in mental
-    health, University of Oxford (2011-2016) [[\*](#sole-supervision)] \[Now working in a
-    startup\]
-6.  Zhu, T. (D.Phil.)
-    Bayesian Fusion of Continuous-Valued Labels
-    in Biomedical Applications, University of Oxford (2011-2016)
-    [[\*](#sole-supervision)] 
-    \[Now a postdoc at University of Oxford\]
-7.  Raghu, A. (D.Phil.)
-    CVD Risk Management in India, University of
-    Oxford (2011-2015) [[\#](#co-supervision)] \[Now a data scientist for Cambridge
-    Analytica\]
-8.  Stroux, L., (D.Phil.)
-    Low-resource Perinatal Care, University of
-    Oxford (2011-2015) [[\*](#sole-supervision)] \[On maternity leave\]
-9.  Springer, D. (D.Phil.)
-    Resource Constrained Heart sound Analysis,
-    University of Oxford (2011-2015) [[\#](#co-supervision)] \[Now a data scientist at
-    Echobox, a London-based startup\]
-10. Krug, J., (Ph.D.)
-    ECG Analysis During MRI, University of Madburg
-    (2011-2015) [[&](#secondary-supervision)]
-11. Johnson, A. (D.Phil.)
-    Mortality Prediction in the ICU, University of
-    Oxford (2009-2015) [[\*](#sole-supervision)] \[Now a postdoc at MIT for 2015\]
-12. Behar, J. (D.Phil.)
-    Extraction of Clinical Information from the
-    Non-Invasive Fetal Electrocardiogram, University of Oxford
-    (2011-2015) [[\*](#sole-supervision)]
-    \[Secured postdoc at the Technion, Haifa, Israel for 2015\]
-13. Heinrich, A. (Ph.D.)
-    Advances in video motion analysis research for
-    mature and emerging application areas, Eindhoven University (2015)
-    [[&](#secondary-supervision)]
-    \[Now working in Philips Research, Eindhoven\]
-14. Roebuck, A. (D.Phil.)
-    Sleep Apneoa Detection Using Audio, University
-    of Oxford (2009-2014) [[\*](#sole-supervision)]
-    \[Now working in startup 'SmartCare' based on PhD\]
-15. Mayaud, L. (D.Phil.)
-    Prediction of Septic Shock, University of
-    Oxford (2009-2014) [[\#](#co-supervision)] \[Now Research Director at Mensia
-    Technologies\]
-16. Vilakazi, B. (D.Phil.)
-    ST Analysis, University of Oxford (2009-2012)
-    [[&](#secondary-supervision)] \[Now postdoc at Council for Scientific and Industrial
-    Research (CSIR), South Africa\]
-17. Sayadi, O. (Ph.D.)
-    ECG Modelling, Shiraz University (2009-2011)
-    [[&](#secondary-supervision)]
-    \[Now postdoc at Harvard/MGH\] 
-18. Nemati, S. (Ph.D.)
-    Robust Data Fusion, MIT (2008-2012)
-    \[[\*](#sole-supervision)/[#](#co-supervision)\]
-    \[Subsequently postdoc at Harvard University, USA, then Assistant
-    Professor at Emory University\] 
-19. Hug, C. (Ph.D.)
-    Intelligent Hypotension Detection (undertaken during
-    PhD), MIT (2007-2009)
-    [[&](#secondary-supervision)]
-    \[Now Researcher at Microsoft, WA, USA\] 
-20. Li, Q. (Ph.D.)
-    ECG and BP Signal Quality, MIT & Shandong University,
-    (2006-2008)
-    [[\*](#sole-supervision)]
-    \[Now Research Assistant Professor of Biomedical
-    Engineering, BMI, Emory University, USA\] 
-21. Sameni, R. (Ph.D.)
-    Fetal ECG analysis, University of Grenoble,
-    (2005-2008)
-    [[&](#secondary-supervision)]
-    \[Now Assistant Professor, University of Shiraz, Iran\]
+1. Li, Q. (Ph.D.) ECG and BP Signal Quality, MIT & Shandong University, 2006 – 2008 
+   [Now faculty      at Emory University]
+2. Roebuck, A. (D.Phil.) Sleep Apneoa Detection Using Audio Data, University of Oxford, 
+   2009 – 2014) [Co-Founder, SmartCare Analytics]
+3. Behar, J. (D.Phil.) Extraction of Clinical Information from the Non-Invasive Fetal
+   Electrocardiogram, University of Oxford, 2011 – 2015 [Now faculty at Technion, Israel]
+4. Johnson, A. (D.Phil.) Mortality Prediction in the ICU, University of Oxford, 2009 – 2015 
+   [Now faculty at University of Toronto]
+5. Springer, D. (D.Phil.) Resource Constrained Heart Sound Analysis, University of Oxford, 
+   2011 – 2015 [Sr. Strategy Manager, the LEGO Group]
+6. Stroux, L., (D.Phil.) Low-resource Perinatal Care, University of Oxford, 2011 – 2015 
+   [Senior Product Manager, Babylon Health] 
+7. Raghu, A. (D.Phil.) CVD Risk Management in India, University of Oxford, 2011 – 2015 
+   [Lead Data Scientist, Barclays]  
+8. Zhu, T. (D.Phil.) Bayesian Fusion of Continuous-Valued Labels in Biomedical Applications,
+   University of Oxford, 2011 – 2016 [Now Associate Professor at University of Oxford]
+9. Osipov, M. (D.Phil.) Towards automated symptoms assessment in mental health, University of 
+   Oxford, 2011 – 2016 [Now CTO of Sentimoto Inc.]
+10. Marzban, F., (Ph.D.) University of Melbourne, Fetal Doppler Analysis for IUGR, 2016 
+    [final year of study only] [Now faculty at Monash University, Melbourne, Australia]
+11. Da Poain, G., (Ph.D.) Exploiting Sparsity for Efficient Compression and Analysis of ECG and 
+    Fetal-ECG Signals, Università Degli Studi di Udine, 2016 [final year of study only] 
+    [Now faculty at ETH Zurich]
+12. Dunkley, N. (D.Phil.) Methods for Evaluating and Improving Mortality Prediction in 
+    Intensive Care, University of Oxford, 2010 – 2017 [Now Senior Researcher at OxEhealth]
+13. Gederi, E. (D.Phil.) Video and Audio Analysis for the Detection of Obstructive Sleep Apnoea, 
+    University of Oxford, 2010 – 2017 [Machine Learning Research Scientist at Optellum]
+14. Reinertsen, E. (M.D./Ph.D.) Dichotomizing Illness from Cardiovascular and Locomotor Activity 
+    Time Series, Emory University & Georgia Institute of Technology, 2014 – 2018 [Director of 
+    Data Science and Engineering at Prometheus Biosciences, Inc.] 
+15. Valderrama, C. (Ph.D.) Intrauterine growth prediction in low resource environments, 
+    Emory University, 2015 – 2020 [Now Assistant Prof. at Univ of Winnipeg]
+16. Nasiri, S. (PhD) Generalizable Machine Learning Methods for Electrophysiology, 
+    Emory University, 2017 – 2020 [Now Assistant Professor at Emory]
+17. Cakmak, AS. (Ph.D.) Disease state prediction using multiscale dynamics, Georgia Institute of 
+    Technology, 2017 – 2021 [Now Engineer at Apple]
+18. Katebi, N. (PhD) Detection of Adverse Events in Pregnancy Using a Low-Cost 1D Doppler 
+    Ultrasound Signal, Emory University, 2017 – 2021 [Now Assistant Professor at Emory]
+19. Shu, N. (Ph.D.) Deep Learning for vocal analytics in health, Georgia Institute of 
+    Technology, 2018 – 2022 
+20. Salari, M. (Ph.D.) A crowdsourcing platform for environmental exposure monitoring, Emory 
+    University, 2015 – 2022 [Now Engineer in Industry]
+21. Sadiq, I. (Ph.D.) Cardiac variability for prediction of cardiovascular instability, Georgia 
+    Institute of Technology, 2017 – 2022 [Now a postdoc at University of Oklahoma]
+22. Suresha, P. (Ph.D.) Physiological abnormality detection and prediction in pediatric 
+    behavioral disorders, Georgia Institute of Technology, 2017 – 2022 [Now Engineer at Apple]
+23. Sheikh, S. (Ph.D.) Expert and non-expert label aggregation for bootstrapping cardiac labels, 
+    Georgia Institute of Technology, 2018 – 2022 [Returned to work in Pakistan Govt Research]
+24. Waters, S. (Ph.D.) Methods For Generalized Low-dimensional EEG Analysis Using Transfer 
+    Learning, Georgia Institute of Technology, 2018 – 2023 [Now Postdoc at Harvard]
+25. Jiang, Z. (Ph.D.) Multimodal assessment of neuropsychiatric disorders using audiovisual 
+    recordings, Georgia Institute of Technology, 2018 – 2023 [Now CEO of startup]
+26. Hedge, C. (Ph.D.), Objective Behavioral Analysis in Mild Cognitive Impairment, Georgia 
+    Institute of Technology, 2018 – 2023 [Now Research Engineer at Emory]
+27. Haque, R. (Ph.D.), Deep Convolutional Neural Network, Emory University, 2014-2022 [Now 
+    Resident Physician at Massachusetts General Hospital]
+
 
 ## Masters & UROP students
 
@@ -217,11 +181,11 @@ permalink: /alumni
     [[\*](#sole-supervision)]
     \[Currently postdoc at ETH
     Zürich, Switzerland\] 
-4.  Verma, A. (Reseach Engineer) Department of Biomedical Informatics,
+4.  Verma, A. (Research Engineer) Department of Biomedical Informatics,
     Emory University (2017-2019) 
     [[\*](#sole-supervision)]
     \[Currently Research Engineer at Google\]
-5.  Manyam, R. (Reseach Engineer) Department of Biomedical Informatics,
+5.  Manyam, R. (Research Engineer) Department of Biomedical Informatics,
     Emory University (2016-2019) [[\*](#sole-supervision)]
 6.  Vest, A. (Postdoctoral Researcher), Department of Biomedical
     Informatics, Emory University (2016-2017)
@@ -269,13 +233,22 @@ permalink: /alumni
     [[\*](#sole-supervision)]
     \[Subsequently Research Assistant at University of Oxford, UK and
     now Research Scientist at MIT, Boston, USA\] 
-16. Stephens, K (Software Engineering Intern) Department of Biomedical
+16. Stephens, K. (Software Engineering Intern) Department of Biomedical
     Informatics Emory University (2016-2017)
 17. Sutherland, T (Software Engineering Intern) Department of Biomedical
     Informatics Emory University (2016-2017)
 18. Singer, J. (RA) Java Developer, MIT (2008) [[\*](#sole-supervision)]
 19. Lehman, L. (Postdoc) Java Developer & Database Admin., MIT
     (2006-2008)  [[\*](#sole-supervision)] \[Currently postdoc at MIT\]
+20. Alday, E. (Postdoc) Department of Biomedical Informatics Emory University (2019-2022)
+    [Currently Senior Data Scientist at Prolaio]
+21. Mannino, R. (Postdoc) Department of Biomedical Informatics Georgia Institute of Technology
+   (2013-2018) [Currently Chief Technology Officer at Sanguina, Inc.]
+22. Nguyễn, T. (Software Engineer) Department of Biomedical Informatics Emory University
+   (2016-2021) [Currently Senior Software Engineer at CallRail]
+23. Shaw, C. (Software Application Developer) Department of Biomedical Informatics Emory 
+    University (2016-2022) [Currently CTO + Co-Founder of Transition]
+
 
 ## Visiting Researchers
 
