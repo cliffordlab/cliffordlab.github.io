@@ -109,4 +109,12 @@ Georgia Institute of Technology
 Computer Science\
 Georgia Institute of Technology
 
+## Claire Aghomo
+![lab-member](/people/lab_members/claire.png)
+
+<div class="small-icons"></div>
+**Undergraduate Student**  
+Department of Biomedical Engineering\
+Georgia Institute of Technology
+
 
