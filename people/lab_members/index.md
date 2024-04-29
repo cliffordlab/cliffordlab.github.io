@@ -77,6 +77,14 @@ Emory University
 Department of Biomedical Informatics  
 Emory University
 
+## Ronja Simms
+![lab-member](/people/lab_members/ronja.jpeg)
+
+<div class="small-icons"></div>
+**Study Nurse**  
+Department of Biomedical Informatics\
+Emory University
+
 ## Shanice Reynolds
 ![lab-member](/people/lab_members/reynolds.JPG)
 

@@ -3180,30 +3180,6 @@ Martinez B, Ixen EC, Hall-Clifford R, Juarez M, Miller AC, Francis A, Valderrama
 </div></div></td></tr><tr>
 <td>116</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="TingtingZhu_2018_06_26_Bayesianfusion">
-<div class="citation">
-Zhu T, Johnson AE, Yang Y, Clifford GD, Clifton DA. <a href="https://iopscience.iop.org/article/10.1088/1361-6579/aac856/pdf">Bayesian fusion of physiological measurements using a signal quality extension</a>. Physiological Measurement 2018 June 27; 39 (6): p. 065008.
-</div>
-<div class="bibtex_source"><pre>@article{TingtingZhu_2018_06_26_Bayesianfusion,
-    author = "Zhu, Tingting and Johnson, Alistair EW and Yang, Yang and Clifford, Gari D and Clifton, David A",
-    title = "Bayesian fusion of physiological measurements using a signal quality extension",
-    date = "2018-06-27",
-    issue = "6",
-    journal = "Physiological Measurement",
-    url = "https://iopscience.iop.org/article/10.1088/1361-6579/aac856/pdf",
-    pages = "065008",
-    volume = "39",
-    note = "Publisher: IOP Publishing"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="TingtingZhu_2018_06_26_Bayesianfusion">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="TingtingZhu_2018_06_26_Bayesianfusion">[show citation]</label>
-</div></div></td></tr><tr>
-<td>115</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GiuliaDaPoian_2017_09_14_Matchedfiltering">
 <div class="citation">
 Poian GD, Rozell CJ, Bernardini R, Rinaldo R, Clifford GD. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-iN2lGNmdNbWNXZDhLbVdhbnowWEE1MlRCZWdF/view?usp=sharing&resourcekey=0-raeE1iDI7LjfxWcMbUZsFA">Matched filtering for heart rate estimation on compressive sensing ECG measurements</a>. IEEE Transactions on Biomedical Engineering 2018 June; 65 (6): pp. 1349-1358.
@@ -3225,6 +3201,30 @@ Poian GD, Rozell CJ, Bernardini R, Rinaldo R, Clifford GD. <a href="https://driv
 </div>
 <div class="hidebibtex">
 <label for="GiuliaDaPoian_2017_09_14_Matchedfiltering">[show citation]</label>
+</div></div></td></tr><tr>
+<td>115</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="TingtingZhu_2018_06_26_Bayesianfusion">
+<div class="citation">
+Zhu T, Johnson AE, Yang Y, Clifford GD, Clifton DA. <a href="https://iopscience.iop.org/article/10.1088/1361-6579/aac856/pdf">Bayesian fusion of physiological measurements using a signal quality extension</a>. Physiological Measurement 2018 June 27; 39 (6): p. 065008.
+</div>
+<div class="bibtex_source"><pre>@article{TingtingZhu_2018_06_26_Bayesianfusion,
+    author = "Zhu, Tingting and Johnson, Alistair EW and Yang, Yang and Clifford, Gari D and Clifton, David A",
+    title = "Bayesian fusion of physiological measurements using a signal quality extension",
+    date = "2018-06-27",
+    issue = "6",
+    journal = "Physiological Measurement",
+    url = "https://iopscience.iop.org/article/10.1088/1361-6579/aac856/pdf",
+    pages = "065008",
+    volume = "39",
+    note = "Publisher: IOP Publishing"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="TingtingZhu_2018_06_26_Bayesianfusion">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="TingtingZhu_2018_06_26_Bayesianfusion">[show citation]</label>
 </div></div></td></tr><tr>
 <td>114</td>
 <td><div class="citation_container">
@@ -9802,6 +9802,26 @@ Haering S, Seligowski AV, Linnstaedt SD, Michopoulos V, House SL, Beaudoin FL, A
 </div></div></td></tr><tr>
 <td>23</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="StephanieHaering_2023_08_Sexdependentdifferences">
+<div class="citation">
+Haering S, Seligowski AV, Linnstaedt SD, Michopoulos V, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Gentile NT, Hudak LA, Pascual JL, Seamon MJ, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sanchez LD, Bruce SE, Harte SE, McLean SA, Kessler RC, Koenen KC, Stevens JS, Powers A. <a href="https://psyarxiv.com/57vjw/">Sex-dependent differences in vulnerability to early risk factors for posttraumatic stress disorder: results from the AURORA study</a>. 2023 August.
+</div>
+<div class="bibtex_source"><pre>@unpublished{StephanieHaering_2023_08_Sexdependentdifferences,
+    author = "Haering, Stephanie and Seligowski, Antonia V and Linnstaedt, Sarah D and Michopoulos, Vasiliki and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Neylan, Thomas C and Clifford, Gari D and Germine, Laura T and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and Gentile, Nina T and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sanchez, Leon D and Bruce, Steven E and Harte, Steven E and McLean, Samuel A and Kessler, Ronald C and Koenen, Karestan C and Stevens, Jennifer S and Powers, Abigail",
+    title = "Sex-dependent differences in vulnerability to early risk factors for posttraumatic stress disorder: results from the AURORA study",
+    date = "2023-08",
+    url = "https://psyarxiv.com/57vjw/",
+    note = "Publisher: PsyArXiv"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="StephanieHaering_2023_08_Sexdependentdifferences">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="StephanieHaering_2023_08_Sexdependentdifferences">[show citation]</label>
+</div></div></td></tr><tr>
+<td>22</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="EdilbertoAmorim_2023_08_28_TheInternational">
 <div class="citation">
 Amorim E, Zheng W, Ghassemi MM, Aghaeeaval M, Kandhare P, Karukonda V, Lee JW, Herman ST, Sivaraju A, Gaspard N, Hofmeijer J, Putten MJ, Sameni R, Reyna MA, Clifford GD, Westover MB. <a href="https://www.medrxiv.org/content/10.1101/2023.08.28.23294672v1.full.pdf">The International Cardiac Arrest Research (I-CARE) Consortium Electroencephalography Database</a>. 2023 August 28. DOI: <a href="https://doi.org/10.1101/2023.08.28.23294672">10.1101/2023.08.28.23294672</a>.
@@ -9821,26 +9841,6 @@ Amorim E, Zheng W, Ghassemi MM, Aghaeeaval M, Kandhare P, Karukonda V, Lee JW, H
 </div>
 <div class="hidebibtex">
 <label for="EdilbertoAmorim_2023_08_28_TheInternational">[show citation]</label>
-</div></div></td></tr><tr>
-<td>22</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="StephanieHaering_2023_08_Sexdependentdifferences">
-<div class="citation">
-Haering S, Seligowski AV, Linnstaedt SD, Michopoulos V, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Gentile NT, Hudak LA, Pascual JL, Seamon MJ, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sanchez LD, Bruce SE, Harte SE, McLean SA, Kessler RC, Koenen KC, Stevens JS, Powers A. <a href="https://psyarxiv.com/57vjw/">Sex-dependent differences in vulnerability to early risk factors for posttraumatic stress disorder: results from the AURORA study</a>. 2023 August.
-</div>
-<div class="bibtex_source"><pre>@unpublished{StephanieHaering_2023_08_Sexdependentdifferences,
-    author = "Haering, Stephanie and Seligowski, Antonia V and Linnstaedt, Sarah D and Michopoulos, Vasiliki and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Neylan, Thomas C and Clifford, Gari D and Germine, Laura T and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and Gentile, Nina T and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sanchez, Leon D and Bruce, Steven E and Harte, Steven E and McLean, Samuel A and Kessler, Ronald C and Koenen, Karestan C and Stevens, Jennifer S and Powers, Abigail",
-    title = "Sex-dependent differences in vulnerability to early risk factors for posttraumatic stress disorder: results from the AURORA study",
-    date = "2023-08",
-    url = "https://psyarxiv.com/57vjw/",
-    note = "Publisher: PsyArXiv"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="StephanieHaering_2023_08_Sexdependentdifferences">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="StephanieHaering_2023_08_Sexdependentdifferences">[show citation]</label>
 </div></div></td></tr><tr>
 <td>21</td>
 <td><div class="citation_container">
