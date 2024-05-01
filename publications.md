@@ -7230,14 +7230,14 @@ Shah AJ, Fang S, Pimple P, Lewis T, Goldberg J, Bliwise D, Alonso A, Clifford GD
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SupreethPrajwalShashikumar_2017_02_16_Adeep">
 <div class="citation">
-Shashikumar SP, Shah AJ, Li Q, Clifford GD, Nemati S. <a href="https://ieeexplore.ieee.org/abstract/document/7897225/">A deep learning approach to monitoring and detecting atrial fibrillation using wearable technology</a>. 2017 IEEE EMBS international conference on biomedical {\&} health informatics (BHI) 2017 February 16; pp. 141-144.
+Shashikumar SP, Shah AJ, Li Q, Clifford GD, Nemati S. <a href="https://drive.google.com/file/d/1dvWiCIaBKtxT1TNRLAe6eo664BneJl1R/view?usp=sharing">A deep learning approach to monitoring and detecting atrial fibrillation using wearable technology</a>. 2017 IEEE EMBS International Conference on Biomedical & Health Informatics (BHI), Orlando, FL, USA 2017 February 16; pp. 141-144.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{SupreethPrajwalShashikumar_2017_02_16_Adeep,
     author = "Shashikumar, Supreeth Prajwal and Shah, Amit J and Li, Qiao and Clifford, Gari D and Nemati, Shamim",
     title = "A deep learning approach to monitoring and detecting atrial fibrillation using wearable technology",
     date = "2017-02-16",
-    booktitle = "2017 IEEE EMBS international conference on biomedical {\\&} health informatics (BHI)",
-    url = "https://ieeexplore.ieee.org/abstract/document/7897225/",
+    booktitle = "2017 IEEE EMBS International Conference on Biomedical \& Health Informatics (BHI), Orlando, FL, USA",
+    url = "https://drive.google.com/file/d/1dvWiCIaBKtxT1TNRLAe6eo664BneJl1R/view?usp=sharing",
     pages = "141-144",
     publisher = "IEEE"
 }
@@ -7276,14 +7276,14 @@ Isakadze N, Levantsevych O, Clifford G, Nemati S, Shah A. <a href="https://drive
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChengyuLiu_2016_09_11_Evaluationof">
 <div class="citation">
-Liu C, Li Q, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/7868892/">Evaluation of the accuracy and noise response of an open-source pulse onset detection algorithm on pulsatile waveform databases</a>. 2016 Computing in Cardiology Conference (CinC) 2016 September 11; pp. 913-916.
+Liu C, Li Q, Clifford GD. <a href="https://drive.google.com/file/d/1TJJFxnLK1_wVsS2Y00djvGD_5tvMElFJ/view?usp=sharing">Evaluation of the accuracy and noise response of an open-source pulse onset detection algorithm on pulsatile waveform databases</a>. 2016 Computing in Cardiology Conference (CinC), Vancouver, BC, Canada 2016 September 11; pp. 913-916.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{ChengyuLiu_2016_09_11_Evaluationof,
     author = "Liu, Chengyu and Li, Qiao and Clifford, Gari D",
     title = "Evaluation of the accuracy and noise response of an open-source pulse onset detection algorithm on pulsatile waveform databases",
     date = "2016-09-11",
-    booktitle = "2016 Computing in Cardiology Conference (CinC)",
-    url = "https://ieeexplore.ieee.org/abstract/document/7868892/",
+    booktitle = "2016 Computing in Cardiology Conference (CinC), Vancouver, BC, Canada",
+    url = "https://drive.google.com/file/d/1TJJFxnLK1\_wVsS2Y00djvGD\_5tvMElFJ/view?usp=sharing",
     pages = "913-916",
     publisher = "IEEE"
 }
@@ -7320,14 +7320,14 @@ Clifford GD, Liu C, Moody B, Springer D, Silva I, Li Q, Mark RG. <a href="https:
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="FaezehMarzbanrad_2016_09_11_Estimatingfetal">
 <div class="citation">
-Marzbanrad F, Khandoker AH, Kimura Y, Palaniswami M, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/7868691/">Estimating fetal gestational age using cardiac valve intervals</a>. 2016 Computing in Cardiology Conference (CinC) 2016 September 11; pp. 109-112.
+Marzbanrad F, Khandoker AH, Kimura Y, Palaniswami M, Clifford GD. <a href="https://drive.google.com/file/d/1CzEP2--KrWJVDrUrNbHoDAtb2v7IfsLQ/view?usp=sharing">Estimating fetal gestational age using cardiac valve intervals</a>. 2016 Computing in Cardiology Conference (CinC), Vancouver, Canada 2016 September 11; pp. 109-112.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{FaezehMarzbanrad_2016_09_11_Estimatingfetal,
     author = "Marzbanrad, Faezeh and Khandoker, Ahsan H and Kimura, Yoshitaka and Palaniswami, Marimuthu and Clifford, Gari D",
     title = "Estimating fetal gestational age using cardiac valve intervals",
     date = "2016-09-11",
-    booktitle = "2016 Computing in Cardiology Conference (CinC)",
-    url = "https://ieeexplore.ieee.org/abstract/document/7868691/",
+    booktitle = "2016 Computing in Cardiology Conference (CinC), Vancouver, Canada",
+    url = "https://drive.google.com/file/d/1CzEP2--KrWJVDrUrNbHoDAtb2v7IfsLQ/view?usp=sharing",
     pages = "109-112",
     publisher = "IEEE"
 }
@@ -7342,14 +7342,14 @@ Marzbanrad F, Khandoker AH, Kimura Y, Palaniswami M, Clifford GD. <a href="https
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShamimNemati_2016_08_16_Monitoringand">
 <div class="citation">
-Nemati S, Ghassemi MM, Ambai V, Isakadze N, Levantsevych O, Shah A, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/7591456/">Monitoring and detecting atrial fibrillation using wearable technology</a>. 2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) 2016 August 16; pp. 3394-3397.
+Nemati S, Ghassemi MM, Ambai V, Isakadze N, Levantsevych O, Shah A, Clifford GD. <a href="https://drive.google.com/file/d/1Qbf5iWlKcfLK-TPmTNMkJWqO4iwghxp-/view?usp=sharing">Monitoring and detecting atrial fibrillation using wearable technology</a>. 2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Orlando, FL, USA 2016 August 16; pp. 3394-3397.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{ShamimNemati_2016_08_16_Monitoringand,
     author = "Nemati, Shamim and Ghassemi, Mohammad M and Ambai, Vaidehi and Isakadze, Nino and Levantsevych, Oleksiy and Shah, Amit and Clifford, Gari D",
     title = "Monitoring and detecting atrial fibrillation using wearable technology",
     date = "2016-08-16",
-    booktitle = "2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
-    url = "https://ieeexplore.ieee.org/abstract/document/7591456/",
+    booktitle = "2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Orlando, FL, USA",
+    url = "https://drive.google.com/file/d/1Qbf5iWlKcfLK-TPmTNMkJWqO4iwghxp-/view?usp=sharing",
     pages = "3394-3397",
     publisher = "IEEE"
 }
@@ -7364,14 +7364,14 @@ Nemati S, Ghassemi MM, Ambai V, Isakadze N, Levantsevych O, Shah A, Clifford GD.
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShamimNemati_2016_08_16_Optimalmedication">
 <div class="citation">
-Nemati S, Ghassemi MM, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/7591355/">Optimal medication dosing from suboptimal clinical examples: A deep reinforcement learning approach</a>. 2016 38th annual international conference of the IEEE engineering in medicine and biology society (EMBC) 2016 August 16; pp. 2978-2981.
+Nemati S, Ghassemi MM, Clifford GD. <a href="https://drive.google.com/file/d/1oIL6ULAMHcPRedj6xI4Dgb96gZNVPqpN/view?usp=sharing">Optimal medication dosing from suboptimal clinical examples: A deep reinforcement learning approach</a>. 2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) 2016 August 16; pp. 2978-2981.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{ShamimNemati_2016_08_16_Optimalmedication,
     author = "Nemati, Shamim and Ghassemi, Mohammad M and Clifford, Gari D",
     title = "Optimal medication dosing from suboptimal clinical examples: A deep reinforcement learning approach",
     date = "2016-08-16",
-    booktitle = "2016 38th annual international conference of the IEEE engineering in medicine and biology society (EMBC)",
-    url = "https://ieeexplore.ieee.org/abstract/document/7591355/",
+    booktitle = "2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
+    url = "https://drive.google.com/file/d/1oIL6ULAMHcPRedj6xI4Dgb96gZNVPqpN/view?usp=sharing",
     pages = "2978-2981",
     publisher = "IEEE"
 }
@@ -7409,14 +7409,14 @@ Clifford GD, Silva I, Moody B, Mark R. <a href="https://drive.google.com/file/d/
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="TingtingZhu_2015_08_25_Bayesianfusion">
 <div class="citation">
-Zhu T, Pimentel MA, Clifford GD, Clifton DA. <a href="https://ieeexplore.ieee.org/abstract/document/7319793/">Bayesian fusion of algorithms for the robust estimation of respiratory rate from the photoplethysmogram</a>. 2015 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) 2015 August 25; pp. 6138-6141.
+Zhu T, Pimentel MA, Clifford GD, Clifton DA. <a href="https://drive.google.com/file/d/1QvQOAsedMwVUL-XyWN8a4TNlP8FynQKd/view?usp=sharing">Bayesian fusion of algorithms for the robust estimation of respiratory rate from the photoplethysmogram</a>. 2015 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Milan, Italy 2015 August 25; pp. 6138-6141.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{TingtingZhu_2015_08_25_Bayesianfusion,
     author = "Zhu, Tingting and Pimentel, Marco AF and Clifford, Gari D and Clifton, David A",
     title = "Bayesian fusion of algorithms for the robust estimation of respiratory rate from the photoplethysmogram",
     date = "2015-08-25",
-    booktitle = "2015 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
-    url = "https://ieeexplore.ieee.org/abstract/document/7319793/",
+    booktitle = "2015 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Milan, Italy",
+    url = "https://drive.google.com/file/d/1QvQOAsedMwVUL-XyWN8a4TNlP8FynQKd/view?usp=sharing",
     pages = "6138-6141",
     publisher = "IEEE"
 }
@@ -7431,14 +7431,14 @@ Zhu T, Pimentel MA, Clifford GD, Clifton DA. <a href="https://ieeexplore.ieee.or
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ACBilderbeck_2015_06_01_Dailyand">
 <div class="citation">
-Bilderbeck A, Saunders K, Clifford G, Tsanas A, Osipov M, Harrison P, Harmer C, Nobre A, Geddes J, Goodwin G. <a href="https://scholar.google.com/scholar?cluster=3304977467334546627&hl=en&oi=scholarr">Daily and weekly mood ratings: relative contributions to the differentiation of bipolar disorder and borderline personality disorder</a>. BIPOLAR DISORDERS 2015 June 1; 17: pp. 129-130.
+Bilderbeck A, Saunders K, Clifford G, Tsanas A, Osipov M, Harrison P, Harmer C, Nobre A, Geddes J, Goodwin G. <a href="https://drive.google.com/file/d/18Y17FtByh3wIQdOELpm1XWPHbTBx0IWt/view?usp=sharing">Daily and weekly mood ratings: relative contributions to the differentiation of bipolar disorder and borderline personality disorder</a>. 17th Annual Conference of the International Society for Bipolar Disorders, Toronto, Canada 2015 June 3; 17: pp. 129-130.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{ACBilderbeck_2015_06_01_Dailyand,
     author = "Bilderbeck, AC and Saunders, KEA and Clifford, GD and Tsanas, A and Osipov, M and Harrison, PJ and Harmer, CJ and Nobre, AC and Geddes, JR and Goodwin, GM",
     title = "Daily and weekly mood ratings: relative contributions to the differentiation of bipolar disorder and borderline personality disorder",
-    date = "2015-06-01",
-    booktitle = "BIPOLAR DISORDERS",
-    url = "https://scholar.google.com/scholar?cluster=3304977467334546627\&hl=en\&oi=scholarr",
+    date = "2015-06-03",
+    booktitle = "17th Annual Conference of the International Society for Bipolar Disorders, Toronto, Canada",
+    url = "https://drive.google.com/file/d/18Y17FtByh3wIQdOELpm1XWPHbTBx0IWt/view?usp=sharing",
     pages = "129-130",
     volume = "17",
     publisher = "WILEY-BLACKWELL"
