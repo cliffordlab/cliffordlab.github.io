@@ -25,7 +25,7 @@ permalink: /alumni
 17. Cakmak, AS. (Ph.D.) Disease state prediction using multiscale dynamics, Georgia Institute of Technology, 2017 – 2021 [Now Engineer at Apple]
 18. Katebi, N. (PhD) Detection of Adverse Events in Pregnancy Using a Low-Cost 1D Doppler Ultrasound Signal, Emory University, 2017 – 2021 [Now Assistant Professor at Emory]
 19. Shu, N. (Ph.D.) Deep Learning for vocal analytics in health, Georgia Institute of Technology, 2018 – 2022 
-20. Salari, M. (Ph.D.) A crowdsourcing platform for environmental exposure monitoring, Emory University, 2015 – 2022 [Now Engineer in Industry]
+20. Salari, M. (Ph.D.) A crowdsourcing platform for environmental exposure monitoring, Emory University, 2015 – 2022 [Now Data and Applied Scientist within Microsoft Azure's centralized data science team, CXD-AI]
 21. Sadiq, I. (Ph.D.) Cardiac variability for prediction of cardiovascular instability, Georgia Institute of Technology, 2017 – 2022 [Now a postdoc at University of Oklahoma]
 22. Suresha, P. (Ph.D.) Physiological abnormality detection and prediction in pediatric behavioral disorders, Georgia Institute of Technology, 2017 – 2022 [Now Engineer at Apple]
 23. Sheikh, S. (Ph.D.) Expert and non-expert label aggregation for bootstrapping cardiac labels, Georgia Institute of Technology, 2018 – 2022 [Returned to work in Pakistan Govt Research]
@@ -85,7 +85,7 @@ permalink: /alumni
 8. Shaw, C. - Mobile App Developer, BMI, Emory University, 2020 – 2022 (intern 2018-2019)
 
 &nbsp;
-## <u>Postdoctoral MPhil, MEng, MSc, Undergraduate, and Interns:</u>
+## <u>Predoctoral MPhil, MEng, MSc, Undergraduate, and Interns:</u>
 
 1. Hung, A. (Intern) Web Interface for Database Search Engine, MIT, Summer 2005
 2. Willsey, M. (Undergraduate) False VEB Suppression, MIT, 2003 – 2004
@@ -115,7 +115,7 @@ permalink: /alumni
 26. Naveed, A. M. (Ph.D. Intern) Uterine Contraction Monitoring, Georgia Institute of Technology, 2014 – 2015
 27. Li, Q (Undergraduate Intern, University of Oxford), Deep Learning for Sleep Staging, Summer 2015 & 2016
 28. Shi, Y, (Undergraduate Intern, Rutgers University), Fetal monitoring for IUGR, Summer 2016 and 2017
-29. Kamath, S. (Ph.D. Intern) Voice recognition for MCI, Georgia Institute of Technology, 2018 – 2020
+29. Kamath, S. (MS Intern) Voice recognition for MCI, Georgia Institute of Technology, 2018 – 2020
 30. Sidhwa, S. (MS), Motion detection using multiresolution cameras for health, Georgia Institute of Technology, 2018 – 2019
 31. Kulkarni, S. (MS), Digitization of Blood Pressure Data from a hand-held camera, Georgia Institute of Technology, 2019 – 2020
 32. Zelko, J. (Undergrad/capstone), Motion determination from Bluetooth sensors and cameras, Georgia Institute of Technology, 2019 – 2020
