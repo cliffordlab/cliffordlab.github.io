@@ -858,6 +858,29 @@ Katebi N, Sameni R, Rohloff P, Clifford GD. <a href="https://drive.google.com/fi
 </div></div></td></tr><tr>
 <td>216</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="ErickAPerezAlday_2023_02_Associationof">
+<div class="citation">
+Alday EAP, Poian GD, Levantsevych O, Murrah N, Shallenberger L, Alkhalaf M, Haffar A, Kaseer B, Ko Y, Goldberg J, Smith N, Lampert R, Bremner JD, Clifford GD, Vaccarino V, Shah AJ. <a href="https://drive.google.com/file/d/1vATrzHbiHrpNvhGW-EQS0UycaJ40AA4V/view?usp=sharing">Association of Autonomic Activation with traumatic reminder challenges in posttraumatic stress disorder: A co-twin control study</a>. Psychophysiology 2023 February; 60 (2): p. e14167.
+</div>
+<div class="bibtex_source"><pre>@article{ErickAPerezAlday_2023_02_Associationof,
+    author = "Alday, Erick A Perez and Poian, Giulia Da and Levantsevych, Oleksiy and Murrah, Nancy and Shallenberger, Lucy and Alkhalaf, Mhmtjamil and Haffar, Ammer and Kaseer, Belal and Ko, Yi{-}An and Goldberg, Jack and Smith, Nicholas and Lampert, Rachel and Bremner, J Douglas and Clifford, Gari D and Vaccarino, Viola and Shah, Amit J",
+    title = "Association of Autonomic Activation with traumatic reminder challenges in posttraumatic stress disorder: A co{-}twin control study",
+    date = "2023-02",
+    issue = "2",
+    journal = "Psychophysiology",
+    url = "https://drive.google.com/file/d/1vATrzHbiHrpNvhGW-EQS0UycaJ40AA4V/view?usp=sharing",
+    pages = "e14167",
+    volume = "60"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="ErickAPerezAlday_2023_02_Associationof">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="ErickAPerezAlday_2023_02_Associationof">[show citation]</label>
+</div></div></td></tr><tr>
+<td>215</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GraceERowland_2023_02_16_PriorSexual">
 <div class="citation">
 Rowland GE, Roeckner A, Ely TD, Lebois LA, Rooij SJ, Bruce SE, Jovanovic T, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Kurz MC, Gentile NT, Hudak LA, Pascual JL, Seamon MJ, Harris E, Pearson C, Merchant RC, Domeier RM, Rathlev NK, Sergot P, Sanchez LD, Miller MW, Pietrzak RH, Joormann J, Pizzagalli DA, Sheridan JF, Smoller JW, Harte SE, Elliott JM, Kessler RC, Koenen KC, McLean SA, Ressler KJ, Stevens JS, Harnett NG. <a href="https://drive.google.com/file/d/1gK3nnLQVl9jUXcLUsEAuN2mVrnNlRcxu/view?usp=sharing">Prior Sexual Trauma Exposure Impacts Posttraumatic Dysfunction and Neural Circuitry Following a Recent Traumatic Event in the AURORA Study</a>. Biological Psychiatry Global Open Science 2023 February 16; 3 (4): pp. 705-715.
@@ -879,29 +902,6 @@ Rowland GE, Roeckner A, Ely TD, Lebois LA, Rooij SJ, Bruce SE, Jovanovic T, Hous
 </div>
 <div class="hidebibtex">
 <label for="GraceERowland_2023_02_16_PriorSexual">[show citation]</label>
-</div></div></td></tr><tr>
-<td>215</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="ErickAPerezAlday_2023_02_Associationof">
-<div class="citation">
-Alday EAP, Poian GD, Levantsevych O, Murrah N, Shallenberger L, Alkhalaf M, Haffar A, Kaseer B, Ko Y, Goldberg J, Smith N, Lampert R, Bremner JD, Clifford GD, Vaccarino V, Shah AJ. <a href="https://drive.google.com/file/d/1vATrzHbiHrpNvhGW-EQS0UycaJ40AA4V/view?usp=sharing">Association of Autonomic Activation with traumatic reminder challenges in posttraumatic stress disorder: A co-twin control study</a>. Psychophysiology 2023 February; 60 (2): p. e14167.
-</div>
-<div class="bibtex_source"><pre>@article{ErickAPerezAlday_2023_02_Associationof,
-    author = "Alday, Erick A Perez and Poian, Giulia Da and Levantsevych, Oleksiy and Murrah, Nancy and Shallenberger, Lucy and Alkhalaf, Mhmtjamil and Haffar, Ammer and Kaseer, Belal and Ko, Yi{-}An and Goldberg, Jack and Smith, Nicholas and Lampert, Rachel and Bremner, J Douglas and Clifford, Gari D and Vaccarino, Viola and Shah, Amit J",
-    title = "Association of Autonomic Activation with traumatic reminder challenges in posttraumatic stress disorder: A co{-}twin control study",
-    date = "2023-02",
-    issue = "2",
-    journal = "Psychophysiology",
-    url = "https://drive.google.com/file/d/1vATrzHbiHrpNvhGW-EQS0UycaJ40AA4V/view?usp=sharing",
-    pages = "e14167",
-    volume = "60"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="ErickAPerezAlday_2023_02_Associationof">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="ErickAPerezAlday_2023_02_Associationof">[show citation]</label>
 </div></div></td></tr><tr>
 <td>214</td>
 <td><div class="citation_container">
@@ -1669,30 +1669,6 @@ Clifford G, Nguyen T, Shaw C, Newton B, Francis S, Salari M, Evans C, Jones C, A
 </div></div></td></tr><tr>
 <td>182</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="AliBahramiRad_2021_11_16_Atrialfibrillation">
-<div class="citation">
-Rad AB, Galloway C, Treiman D, Xue J, Li Q, Sameni R, Albert D, Clifford GD. <a href="https://drive.google.com/file/d/1TFRm0b4uTImvtRCeb-t-ybLpeCHj4WMj">Atrial fibrillation detection in outpatient electrocardiogram monitoring: An algorithmic crowdsourcing approach</a>. PLos One 2021 November 16; 16 (11): p. e0259916.
-</div>
-<div class="bibtex_source"><pre>@article{AliBahramiRad_2021_11_16_Atrialfibrillation,
-    author = "Rad, Ali Bahrami and Galloway, Conner and Treiman, Daniel and Xue, Joel and Li, Qiao and Sameni, Reza and Albert, Dave and Clifford, Gari D",
-    title = "Atrial fibrillation detection in outpatient electrocardiogram monitoring: An algorithmic crowdsourcing approach",
-    date = "2021-11-16",
-    issue = "11",
-    journal = "PLos One",
-    url = "https://drive.google.com/file/d/1TFRm0b4uTImvtRCeb-t-ybLpeCHj4WMj",
-    pages = "e0259916",
-    volume = "16",
-    note = "Publisher: Public Library of Science"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="AliBahramiRad_2021_11_16_Atrialfibrillation">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="AliBahramiRad_2021_11_16_Atrialfibrillation">[show citation]</label>
-</div></div></td></tr><tr>
-<td>181</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JenniferSStevens_2021_11_Brainbasedbiotypes">
 <div class="citation">
 Stevens JS, Harnett NG, Lebois LA, Rooij SJV, Ely TD, Roeckner A, Vincent N, Beaudoin FL, An X, Zeng D, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Rauch SL, Lewandowski C, Storrow AB, Hendry PL, Sheikh S, Jr PIM, Haran JP, Jones CW, Punches BE, Lyons MS, Kurz MC, McGrath ME, Pascual JL, Datner EM, Chang AM, Pearson C, Peak DA, Domeier RM, O'Neil BJ, Rathlev NK, Sanchez LD, Pietrzak RH, Joormann J, Barch DM, Pizzagalli DA, Sheridan JF, Luna B, Harte SE, Elliott JM, Murty VP, Jovanovic T, Bruce SE, House SL, Kessler RC, Koenen KC, McLean SA, Ressler KJ. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9069566/pdf/nihms-1798569.pdf">Brain-based biotypes of psychiatric vulnerability in the acute aftermath of trauma</a>. American Journal of Psychiatry 2021 November; 178 (11): pp. 1037-1049.
@@ -1714,6 +1690,30 @@ Stevens JS, Harnett NG, Lebois LA, Rooij SJV, Ely TD, Roeckner A, Vincent N, Bea
 </div>
 <div class="hidebibtex">
 <label for="JenniferSStevens_2021_11_Brainbasedbiotypes">[show citation]</label>
+</div></div></td></tr><tr>
+<td>181</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="AliBahramiRad_2021_11_16_Atrialfibrillation">
+<div class="citation">
+Rad AB, Galloway C, Treiman D, Xue J, Li Q, Sameni R, Albert D, Clifford GD. <a href="https://drive.google.com/file/d/1TFRm0b4uTImvtRCeb-t-ybLpeCHj4WMj">Atrial fibrillation detection in outpatient electrocardiogram monitoring: An algorithmic crowdsourcing approach</a>. PLos One 2021 November 16; 16 (11): p. e0259916.
+</div>
+<div class="bibtex_source"><pre>@article{AliBahramiRad_2021_11_16_Atrialfibrillation,
+    author = "Rad, Ali Bahrami and Galloway, Conner and Treiman, Daniel and Xue, Joel and Li, Qiao and Sameni, Reza and Albert, Dave and Clifford, Gari D",
+    title = "Atrial fibrillation detection in outpatient electrocardiogram monitoring: An algorithmic crowdsourcing approach",
+    date = "2021-11-16",
+    issue = "11",
+    journal = "PLos One",
+    url = "https://drive.google.com/file/d/1TFRm0b4uTImvtRCeb-t-ybLpeCHj4WMj",
+    pages = "e0259916",
+    volume = "16",
+    note = "Publisher: Public Library of Science"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="AliBahramiRad_2021_11_16_Atrialfibrillation">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="AliBahramiRad_2021_11_16_Atrialfibrillation">[show citation]</label>
 </div></div></td></tr><tr>
 <td>180</td>
 <td><div class="citation_container">
@@ -3437,28 +3437,6 @@ Stroux L, Redman CW, Georgieva A, Payne SJ, Clifford GD. <a href="https://drive.
 </div></div></td></tr><tr>
 <td>108</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="RachelHallClifford_2017_10_15_Sustainabletechnology">
-<div class="citation">
-Clifford RH, Roche S, Fathima S, Palmius N, Hollingworth K, Kennedy J, Merida J, Stephens M, Lavalley R, Rohloff P, Garcia P, Patrick S, Clifford G. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-icEkzbUJvenZQTEU/view?usp=sharing&resourcekey=0-EaoFa2h40Y2y4-P1qc4ohg">Sustainable technology for surgical referrals: pilot implementation of an electronic referral system for short-term surgical missions</a>. Journal of Health Informatics in Developing Countries 2017 October 15; 11 (2).
-</div>
-<div class="bibtex_source"><pre>@article{RachelHallClifford_2017_10_15_Sustainabletechnology,
-    author = "Clifford, Rachel Hall and Roche, Stephanie and Fathima, Sana and Palmius, Niclas and Hollingworth, Kelly and Kennedy, Jennifer and Merida, Jasmin and Stephens, Meghan and Lavalley, Ryan and Rohloff, Peter and Garcia, Pablo and Patrick, Stephen and Clifford, Gari",
-    title = "Sustainable technology for surgical referrals: pilot implementation of an electronic referral system for short-term surgical missions",
-    date = "2017-10-15",
-    issue = "2",
-    journal = "Journal of Health Informatics in Developing Countries",
-    url = "https://drive.google.com/file/d/0B5wjNvhEV8-icEkzbUJvenZQTEU/view?usp=sharing\&resourcekey=0-EaoFa2h40Y2y4-P1qc4ohg",
-    volume = "11"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="RachelHallClifford_2017_10_15_Sustainabletechnology">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="RachelHallClifford_2017_10_15_Sustainabletechnology">[show citation]</label>
-</div></div></td></tr><tr>
-<td>107</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LisaMuirhead_2017_10_01_Criticalquestions">
 <div class="citation">
 Muirhead L, Hall P, Jones-Taylor C, Clifford GD, Felton-Williams T, Williams K. <a href="https://drive.google.com/file/d/1Qq4mh7RqtL0VDEutStBl5oeJ1QocDEpa/view?usp=sharing">Critical questions: Advancing the health of female Veterans</a>. Journal of the American Association of Nurse Practitioners 2017 October; 29 (10): pp. 571-580.
@@ -3480,6 +3458,28 @@ Muirhead L, Hall P, Jones-Taylor C, Clifford GD, Felton-Williams T, Williams K. 
 </div>
 <div class="hidebibtex">
 <label for="LisaMuirhead_2017_10_01_Criticalquestions">[show citation]</label>
+</div></div></td></tr><tr>
+<td>107</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="RachelHallClifford_2017_10_15_Sustainabletechnology">
+<div class="citation">
+Clifford RH, Roche S, Fathima S, Palmius N, Hollingworth K, Kennedy J, Merida J, Stephens M, Lavalley R, Rohloff P, Garcia P, Patrick S, Clifford G. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-icEkzbUJvenZQTEU/view?usp=sharing&resourcekey=0-EaoFa2h40Y2y4-P1qc4ohg">Sustainable technology for surgical referrals: pilot implementation of an electronic referral system for short-term surgical missions</a>. Journal of Health Informatics in Developing Countries 2017 October 15; 11 (2).
+</div>
+<div class="bibtex_source"><pre>@article{RachelHallClifford_2017_10_15_Sustainabletechnology,
+    author = "Clifford, Rachel Hall and Roche, Stephanie and Fathima, Sana and Palmius, Niclas and Hollingworth, Kelly and Kennedy, Jennifer and Merida, Jasmin and Stephens, Meghan and Lavalley, Ryan and Rohloff, Peter and Garcia, Pablo and Patrick, Stephen and Clifford, Gari",
+    title = "Sustainable technology for surgical referrals: pilot implementation of an electronic referral system for short-term surgical missions",
+    date = "2017-10-15",
+    issue = "2",
+    journal = "Journal of Health Informatics in Developing Countries",
+    url = "https://drive.google.com/file/d/0B5wjNvhEV8-icEkzbUJvenZQTEU/view?usp=sharing\&resourcekey=0-EaoFa2h40Y2y4-P1qc4ohg",
+    volume = "11"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="RachelHallClifford_2017_10_15_Sustainabletechnology">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="RachelHallClifford_2017_10_15_Sustainabletechnology">[show citation]</label>
 </div></div></td></tr><tr>
 <td>106</td>
 <td><div class="citation_container">
@@ -7959,36 +7959,16 @@ Stroux L, Clifford GD. <a href="https://scholar.google.com/scholar?cluster=12940
 </div></div></td></tr><tr>
 <td>84</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="RBond_2014_05_Eyetracking">
-<div class="citation">
-Bond R, Finlay D, Clifford GD, Drew B, Breen C, Guldenring D, Gallagher AG. <a href="https://scholar.google.com/scholar?cluster=13712228794969400792&hl=en&oi=scholarr">Eye tracking technology and the 12-lead electrocardiogram: Where the experts look?</a>. 39th Annual Conference of the International Society for Computerized Electrocardiography 2014 May.
-</div>
-<div class="bibtex_source"><pre>@inproceedings{RBond_2014_05_Eyetracking,
-    author = "Bond, R. and Finlay, D.D. and Clifford, G. D. and Drew, B. and Breen, C. and Guldenring, D. and Gallagher, A G",
-    title = "Eye tracking technology and the 12-lead electrocardiogram: Where the experts look?",
-    date = "2014-05",
-    booktitle = "39th Annual Conference of the International Society for Computerized Electrocardiography",
-    url = "https://scholar.google.com/scholar?cluster=13712228794969400792\&hl=en\&oi=scholarr"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="RBond_2014_05_Eyetracking">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="RBond_2014_05_Eyetracking">[show citation]</label>
-</div></div></td></tr><tr>
-<td>83</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="DavidBSpringer_2014_05_04_Signalquality">
 <div class="citation">
-Springer DB, Brennan T, Z<span class="bibtex-protected">ü</span>hlke L, Abdelrahman HY, Ntusi N, Clifford GD, Mayosi BM, Tarassenko L. <a href="https://ieeexplore.ieee.org/abstract/document/6853814/">Signal quality classification of mobile phone-recorded phonocardiogram signals</a>. 2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2014 May 4; pp. 1335-1339.
+Springer DB, Brennan T, Z<span class="bibtex-protected">ü</span>hlke L, Abdelrahman HY, Ntusi N, Clifford GD, Mayosi BM, Tarassenko L. <a href="https://drive.google.com/file/d/0B5SqSlPcubSuT3JVQnRqS0RMX1k/view?usp=sharing&resourcekey=0-4UEvJ3VeaQZIruTovzq-4g">Signal quality classification of mobile phone-recorded phonocardiogram signals</a>. 2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Florence, Italy 2014 May 4; pp. 1335-1339.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{DavidBSpringer_2014_05_04_Signalquality,
     author = {Springer, David B and Brennan, Thomas and Z{\"u}hlke, LJ and Abdelrahman, Hassan Y and Ntusi, Ntobeko and Clifford, Gari D and Mayosi, Bongani M and Tarassenko, Lionel},
     title = "Signal quality classification of mobile phone-recorded phonocardiogram signals",
     date = "2014-05-04",
-    booktitle = "2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
-    url = "https://ieeexplore.ieee.org/abstract/document/6853814/",
+    booktitle = "2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Florence, Italy",
+    url = "https://drive.google.com/file/d/0B5SqSlPcubSuT3JVQnRqS0RMX1k/view?usp=sharing\&resourcekey=0-4UEvJ3VeaQZIruTovzq-4g",
     pages = "1335-1339",
     publisher = "IEEE"
 }
@@ -7999,18 +7979,38 @@ Springer DB, Brennan T, Z<span class="bibtex-protected">ü</span>hlke L, Abdelra
 <div class="hidebibtex">
 <label for="DavidBSpringer_2014_05_04_Signalquality">[show citation]</label>
 </div></div></td></tr><tr>
+<td>83</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="RBond_2014_05_Eyetracking">
+<div class="citation">
+Bond R, Finlay D, Clifford GD, Drew B, Breen C, Guldenring D, Gallagher AG. <a href="https://scholar.google.com/scholar?cluster=13712228794969400792&hl=en&oi=scholarr">Eye tracking technology and the 12-lead electrocardiogram: Where the experts look?</a>. 39th Annual Conference of the International Society for Computerized Electrocardiography, Atlantic Beach, FL, USA 2014 April 26.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{RBond_2014_05_Eyetracking,
+    author = "Bond, R. and Finlay, D.D. and Clifford, G. D. and Drew, B. and Breen, C. and Guldenring, D. and Gallagher, A G",
+    title = "Eye tracking technology and the 12-lead electrocardiogram: Where the experts look?",
+    date = "2014-04-26",
+    booktitle = "39th Annual Conference of the International Society for Computerized Electrocardiography, Atlantic Beach, FL, USA",
+    url = "https://scholar.google.com/scholar?cluster=13712228794969400792\&hl=en\&oi=scholarr"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="RBond_2014_05_Eyetracking">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="RBond_2014_05_Eyetracking">[show citation]</label>
+</div></div></td></tr><tr>
 <td>82</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="YuanyuanXue_2014_04_21_DetectingAdolescent">
 <div class="citation">
-Xue Y, Li Q, Jin L, Feng L, Clifton DA, Clifford GD. <a href="https://link.springer.com/chapter/10.1007/978-3-319-06269-3_10">Detecting adolescent psychological pressures from micro-blog</a>. 3rd International Conference on Health Information Science (HIS 2014), ShenZhen, China 2014 April 21.
+Xue Y, Li Q, Jin L, Feng L, Clifton DA, Clifford GD. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-iaDl1eDV1MzRUcXM/view?usp=sharing&resourcekey=0-0lRl83P9XJGb7eG2irN2Zg">Detecting adolescent psychological pressures from micro-blog</a>. 3rd International Conference on Health Information Science (HIS 2014), ShenZhen, China 2014 April 21.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{YuanyuanXue_2014_04_21_DetectingAdolescent,
     author = "Xue, Yuanyuan and Li, Qi and Jin, Li and Feng, Ling and Clifton, David A and Clifford, Gari D",
     title = "Detecting adolescent psychological pressures from micro-blog",
     date = "2014-04-21",
     booktitle = "3rd International Conference on Health Information Science (HIS 2014), ShenZhen, China",
-    url = "https://link.springer.com/chapter/10.1007/978-3-319-06269-3\_10"
+    url = "https://drive.google.com/file/d/0B5wjNvhEV8-iaDl1eDV1MzRUcXM/view?usp=sharing\&resourcekey=0-0lRl83P9XJGb7eG2irN2Zg"
 }
 </pre>
 </div><div class="showbibtex">
@@ -8023,14 +8023,14 @@ Xue Y, Li Q, Jin L, Feng L, Clifton DA, Clifford GD. <a href="https://link.sprin
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JoachimBehar_2014_01_01_576Evaluation">
 <div class="citation">
-Behar J, Wolfberg A, Zhu T, Oster J, Niksch A, Mah D, Chun T, Greenberg J, Tanner C, Harrop J, Esbroeck AV, Alexander A, McCarroll M, Drake T, Silber A, Sameni R, Ward J, Clifford G. <a href="https://drive.google.com/file/d/1hXXVu8x7A0iWr0LyaTrpXSUQqMgL-vKZ/view?usp=sharing">576: Evaluation of the fetal QT interval using non-invasive fetal ECG technology</a>. Society for Maternal-Fetal Medicine (SMFM) 34th Annual Meeting, New Orleans, Louisiana 2014 February 3; 210 (1): pp. S283-S284.
+Behar J, Wolfberg A, Zhu T, Oster J, Niksch A, Mah D, Chun T, Greenberg J, Tanner C, Harrop J, Esbroeck AV, Alexander A, McCarroll M, Drake T, Silber A, Sameni R, Ward J, Clifford G. <a href="https://drive.google.com/file/d/1hXXVu8x7A0iWr0LyaTrpXSUQqMgL-vKZ/view?usp=sharing">576: Evaluation of the fetal QT interval using non-invasive fetal ECG technology</a>. Society for Maternal-Fetal Medicine (SMFM) 34th Annual Meeting, New Orleans, Louisiana, USA 2014 February 3; 210 (1): pp. S283-S284.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{JoachimBehar_2014_01_01_576Evaluation,
     author = "Behar, Joachim and Wolfberg, Adam and Zhu, Tingting and Oster, Julian and Niksch, Alisa and Mah, Douglas and Chun, Terrence and Greenberg, James and Tanner, Cassandre and Harrop, Jessica and Esbroeck, Alexander Van and Alexander, Amy and McCarroll, Michele and Drake, Timothy and Silber, Angela and Sameni, Reza and Ward, Jay and Clifford, Gari",
     title = "576: Evaluation of the fetal QT interval using non-invasive fetal ECG technology",
     date = "2014-02-03",
     issue = "1",
-    booktitle = "Society for Maternal-Fetal Medicine (SMFM) 34th Annual Meeting, New Orleans, Louisiana",
+    booktitle = "Society for Maternal-Fetal Medicine (SMFM) 34th Annual Meeting, New Orleans, Louisiana, USA",
     url = "https://drive.google.com/file/d/1hXXVu8x7A0iWr0LyaTrpXSUQqMgL-vKZ/view?usp=sharing",
     pages = "S283-S284",
     volume = "210",
@@ -8091,13 +8091,14 @@ Behar J, Johnson AE, Oster J, Clifford G. <a href="https://www.physionet.org/fil
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AlistairEWJohnson_2013_12_10_Preprocessingmethods">
 <div class="citation">
-Johnson AE, Kramer A, Vienna V, Clifford G. Pre-processing methods for prognostic models. Machine Learning for Clinical Data Analysis and Healthcare, NIPS Workshop 2013, Lake Tahoe, Nevada, USA 2013 December 10.
+Johnson AE, Kramer A, Vienna V, Clifford G. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-iX0FGR1dSODFacVE/view?usp=sharing&resourcekey=0-mTYQdOnf1lOBVIQjMPmmXQ">Pre-processing methods for prognostic models</a>. Machine Learning for Clinical Data Analysis and Healthcare, NIPS Workshop 2013, Lake Tahoe, Nevada, USA 2013 December 10.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{AlistairEWJohnson_2013_12_10_Preprocessingmethods,
     author = "Johnson, Alistair EW and Kramer, Andrew and Vienna, VA and Clifford, Gari",
     title = "Pre-processing methods for prognostic models",
     date = "2013-12-10",
-    booktitle = "Machine Learning for Clinical Data Analysis and Healthcare, NIPS Workshop 2013, Lake Tahoe, Nevada, USA"
+    booktitle = "Machine Learning for Clinical Data Analysis and Healthcare, NIPS Workshop 2013, Lake Tahoe, Nevada, USA",
+    url = "https://drive.google.com/file/d/0B5wjNvhEV8-iX0FGR1dSODFacVE/view?usp=sharing\&resourcekey=0-mTYQdOnf1lOBVIQjMPmmXQ"
 }
 </pre>
 </div><div class="showbibtex">
@@ -8110,13 +8111,14 @@ Johnson AE, Kramer A, Vienna V, Clifford G. Pre-processing methods for prognosti
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShamimNemati_2013_12_10_TimeSeries">
 <div class="citation">
-Nemati S, Lehman LHH, Mayaud L, Clifford GD, Adams RP. Time Series Dynamics and Patient State Monitoring: Application to ICU Bedside Predictive Analytics. Machine Learning for Clinical Data Analysis and Healthcare, NIPS Workshop 2013, Lake Tahoe, Nevada, USA 2013 December 10.
+Nemati S, Lehman LHH, Mayaud L, Clifford GD, Adams RP. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-iRkJkTTVOcHBGczA/view?usp=sharing&resourcekey=0-PxT1cr-y4D8kcfwQwt_MRA">Time Series Dynamics and Patient State Monitoring: Application to ICU Bedside Predictive Analytics</a>. Machine Learning for Clinical Data Analysis and Healthcare, NIPS Workshop 2013, Lake Tahoe, Nevada, USA 2013 December 10.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{ShamimNemati_2013_12_10_TimeSeries,
     author = "Nemati, Shamim and Lehman, Li-Wei H. H. and Mayaud, Louis and Clifford, Gari D. and Adams, Ryan P.",
     title = "Time Series Dynamics and Patient State Monitoring: Application to ICU Bedside Predictive Analytics",
     date = "2013-12-10",
-    booktitle = "Machine Learning for Clinical Data Analysis and Healthcare, NIPS Workshop 2013, Lake Tahoe, Nevada, USA"
+    booktitle = "Machine Learning for Clinical Data Analysis and Healthcare, NIPS Workshop 2013, Lake Tahoe, Nevada, USA",
+    url = "https://drive.google.com/file/d/0B5wjNvhEV8-iRkJkTTVOcHBGczA/view?usp=sharing\&resourcekey=0-PxT1cr-y4D8kcfwQwt\_MRA"
 }
 </pre>
 </div><div class="showbibtex">
@@ -8129,13 +8131,13 @@ Nemati S, Lehman LHH, Mayaud L, Clifford GD, Adams RP. Time Series Dynamics and 
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LisaStroux_2013_11_22_AnAffordable">
 <div class="citation">
-Stroux L, Clifford GD. <a href="https://scholar.google.com/scholar?cluster=14515765870210490681&hl=en&oi=scholarr">An affordable multisensor perinatal monitoring concept-the importance of signal quality indices for successful mHealth implementation</a>. WHO Global Forum on Medical Devices: Priority Medical Devices for Universal Health Coverage 2013 November 22.
+Stroux L, Clifford GD. <a href="https://scholar.google.com/scholar?cluster=14515765870210490681&hl=en&oi=scholarr">An affordable multisensor perinatal monitoring concept-the importance of signal quality indices for successful mHealth implementation</a>. WHO Global Forum on Medical Devices: Priority Medical Devices for Universal Health Coverage, Geneva, Switzerland 2013 November 22.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{LisaStroux_2013_11_22_AnAffordable,
     author = "Stroux, Lisa and Clifford, Gari D.",
     title = "An affordable multisensor perinatal monitoring concept-the importance of signal quality indices for successful mHealth implementation",
     date = "2013-11-22",
-    booktitle = "WHO Global Forum on Medical Devices: Priority Medical Devices for Universal Health Coverage",
+    booktitle = "WHO Global Forum on Medical Devices: Priority Medical Devices for Universal Health Coverage, Geneva, Switzerland",
     url = "https://scholar.google.com/scholar?cluster=14515765870210490681\&hl=en\&oi=scholarr",
     publisher = "WHO, Geneva, Switzerland"
 }
@@ -8150,13 +8152,14 @@ Stroux L, Clifford GD. <a href="https://scholar.google.com/scholar?cluster=14515
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ArvindRaghu_2013_11_20_Mobilehealth">
 <div class="citation">
-Raghu A, Devarsetty P, Peiris D, Clifford G, Tarassenko L. Mobile health for Cardiovascular disease risk screening and management in resource-constrained environments. Mobile Med 2013, 1st Conference on Mobile and Information Technologies in Medicine, Prague, Czech Republic, 2013 November 20.
+Raghu A, Devarsetty P, Peiris D, Clifford G, Tarassenko L. <a href="https://drive.google.com/file/d/0Bz06jCmeZZKMN0NaZ2xnWmNDOU0/view?usp=sharing&resourcekey=0-v_fJokyBuGo5y4sR8lF6oQ">Mobile health for Cardiovascular disease risk screening and management in resource-constrained environments</a>. Mobile Med 2013, 1st Conference on Mobile and Information Technologies in Medicine, Prague, Czech Republic 2013 November 20.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{ArvindRaghu_2013_11_20_Mobilehealth,
     author = "Raghu, Arvind and Devarsetty, Praveen and Peiris, David and Clifford, Gari and Tarassenko, Lionel",
     title = "Mobile health for Cardiovascular disease risk screening and management in resource-constrained environments",
     date = "2013-11-20",
-    booktitle = "Mobile Med 2013, 1st Conference on Mobile and Information Technologies in Medicine, Prague, Czech Republic,"
+    booktitle = "Mobile Med 2013, 1st Conference on Mobile and Information Technologies in Medicine, Prague, Czech Republic",
+    url = "https://drive.google.com/file/d/0Bz06jCmeZZKMN0NaZ2xnWmNDOU0/view?usp=sharing\&resourcekey=0-v\_fJokyBuGo5y4sR8lF6oQ"
 }
 </pre>
 </div><div class="showbibtex">
@@ -8169,14 +8172,14 @@ Raghu A, Devarsetty P, Peiris D, Clifford G, Tarassenko L. Mobile health for Car
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="DevarsettyPraveen_2013_09_23_SMARTHealthIndia">
 <div class="citation">
-Praveen D, Patel A, Raghu A, Clifford G, Maulik P, Ameer MA, Tarrasenko L, Peiris D. <a href="https://www.medicine20congress.org/index.php/med/med2013/paper/view/1433">SMARTHealth India: Development and Evaluation of an Electronic Clinical Decision Support System for Cardiovascular Diseases in India</a>. Medicine 2.0'13 (London, UK) 2013 September 23.
+Praveen D, Patel A, Raghu A, Clifford G, Maulik P, Ameer MA, Tarrasenko L, Peiris D. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-iTi1tTkYtZWo2bHc/view?usp=sharing&resourcekey=0-QIz4YGknmHeIdZvvLaTqQQ">SMARTHealth India: Development and Evaluation of an Electronic Clinical Decision Support System for Cardiovascular Diseases in India</a>. Medicine 2.0'13, London, UK 2013 September 23.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{DevarsettyPraveen_2013_09_23_SMARTHealthIndia,
     author = "Praveen, Devarsetty and Patel, Anushka and Raghu, Arvind and Clifford, Gari and Maulik, Pallab and Ameer, Mohammad Abdul and Tarrasenko, Lionel and Peiris, David",
     title = "SMARTHealth India: Development and Evaluation of an Electronic Clinical Decision Support System for Cardiovascular Diseases in India",
     date = "2013-09-23",
-    booktitle = "Medicine 2.0'13 (London, UK)",
-    url = "https://www.medicine20congress.org/index.php/med/med2013/paper/view/1433"
+    booktitle = "Medicine 2.0'13, London, UK",
+    url = "https://drive.google.com/file/d/0B5wjNvhEV8-iTi1tTkYtZWo2bHc/view?usp=sharing\&resourcekey=0-QIz4YGknmHeIdZvvLaTqQQ"
 }
 </pre>
 </div><div class="showbibtex">
@@ -8187,16 +8190,37 @@ Praveen D, Patel A, Raghu A, Clifford G, Maulik P, Ameer MA, Tarrasenko L, Peiri
 </div></div></td></tr><tr>
 <td>73</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="IkaroSilva_2013_09_NoninvasiveFetal">
+<div class="citation">
+Silva I, Behar J, Sameni R, Zhu T, Oster J, Clifford GD, Moody GB. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-iTDFmZU5CZEdFRnc/view?usp=sharing&resourcekey=0-UeSFTJVjfQq8DTm34siLQw">Noninvasive fetal ECG: the PhysioNet/computing in cardiology challenge 2013</a>. Computing in Cardiology 2013, Zaragoza, Spain 2013 September 22.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{IkaroSilva_2013_09_NoninvasiveFetal,
+    author = "Silva, Ikaro and Behar, Joachim and Sameni, Reza and Zhu, Tingting and Oster, Julien and Clifford, Gari D and Moody, George B",
+    title = "Noninvasive fetal ECG: the PhysioNet/computing in cardiology challenge 2013",
+    date = "2013-09-22",
+    booktitle = "Computing in Cardiology 2013, Zaragoza, Spain",
+    url = "https://drive.google.com/file/d/0B5wjNvhEV8-iTDFmZU5CZEdFRnc/view?usp=sharing\&resourcekey=0-UeSFTJVjfQq8DTm34siLQw",
+    publisher = "IEEE"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="IkaroSilva_2013_09_NoninvasiveFetal">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="IkaroSilva_2013_09_NoninvasiveFetal">[show citation]</label>
+</div></div></td></tr><tr>
+<td>72</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AlistairEWJohnson_2013_09_22_Improvedrespiration">
 <div class="citation">
-Johnson AE, Cholleti SR, Buchman TG, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/6713496/">Improved respiration rate estimation using a Kalman filter and wavelet cross-coherence</a>. Computing in Cardiology 2013 2013 September 22; pp. 791-794.
+Johnson AE, Cholleti SR, Buchman TG, Clifford GD. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-iX3ZLc1hfM1BUVGc/view?usp=sharing&resourcekey=0-PBf_F3iw84Y1zwxyF9XGLg">Improved respiration rate estimation using a Kalman filter and wavelet cross-coherence</a>. Computing in Cardiology 2013, Zaragoza, Spain 2013 September 22; pp. 791-794.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{AlistairEWJohnson_2013_09_22_Improvedrespiration,
     author = "Johnson, Alistair EW and Cholleti, Sharath R and Buchman, Timothy G and Clifford, Gari D",
     title = "Improved respiration rate estimation using a Kalman filter and wavelet cross-coherence",
     date = "2013-09-22",
-    booktitle = "Computing in Cardiology 2013",
-    url = "https://ieeexplore.ieee.org/abstract/document/6713496/",
+    booktitle = "Computing in Cardiology 2013, Zaragoza, Spain",
+    url = "https://drive.google.com/file/d/0B5wjNvhEV8-iX3ZLc1hfM1BUVGc/view?usp=sharing\&resourcekey=0-PBf\_F3iw84Y1zwxyF9XGLg",
     pages = "791-794",
     publisher = "IEEE"
 }
@@ -8207,18 +8231,18 @@ Johnson AE, Cholleti SR, Buchman TG, Clifford GD. <a href="https://ieeexplore.ie
 <div class="hidebibtex">
 <label for="AlistairEWJohnson_2013_09_22_Improvedrespiration">[show citation]</label>
 </div></div></td></tr><tr>
-<td>72</td>
+<td>71</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JulienOster_2013_09_22_Opensource">
 <div class="citation">
-Oster J, Behar J, Colloca R, Li Q, Li Q, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/6713481/">Open source Java-based ECG analysis software and Android app for atrial fibrillation screening</a>. Computing in Cardiology 2013 2013 September 22; pp. 731-734.
+Oster J, Behar J, Colloca R, Li Q, Li Q, Clifford GD. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-iTDFUNjgzeTh3Yjg/view?usp=sharing&resourcekey=0-Tkom1rnoIKPOs0200-3tsQ">Open source Java-based ECG analysis software and Android app for atrial fibrillation screening</a>. Computing in Cardiology 2013, Zaragoza, Spain 2013 September 22; pp. 731-734.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{JulienOster_2013_09_22_Opensource,
     author = "Oster, Julien and Behar, Joachim and Colloca, Roberta and Li, Qichen and Li, Qiao and Clifford, Gari D",
     title = "Open source Java-based ECG analysis software and Android app for atrial fibrillation screening",
     date = "2013-09-22",
-    booktitle = "Computing in Cardiology 2013",
-    url = "https://ieeexplore.ieee.org/abstract/document/6713481/",
+    booktitle = "Computing in Cardiology 2013, Zaragoza, Spain",
+    url = "https://drive.google.com/file/d/0B5wjNvhEV8-iTDFUNjgzeTh3Yjg/view?usp=sharing\&resourcekey=0-Tkom1rnoIKPOs0200-3tsQ",
     pages = "731-734",
     publisher = "IEEE"
 }
@@ -8229,18 +8253,18 @@ Oster J, Behar J, Colloca R, Li Q, Li Q, Clifford GD. <a href="https://ieeexplor
 <div class="hidebibtex">
 <label for="JulienOster_2013_09_22_Opensource">[show citation]</label>
 </div></div></td></tr><tr>
-<td>71</td>
+<td>70</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="TingtingZhu_2013_09_22_Bayesianvoting">
 <div class="citation">
-Zhu T, Johnson AE, Behar J, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/6713463/">Bayesian voting of multiple annotators for improved QT interval estimation</a>. Computing in Cardiology 2013 2013 September 22; pp. 659-662.
+Zhu T, Johnson AE, Behar J, Clifford GD. <a href="https://drive.google.com/file/d/0B-JN4X_-q3f5cnZOM2czSVVQR28/view?usp=sharing&resourcekey=0-gL99xz3srAWDqFpsnb-JcQ">Bayesian voting of multiple annotators for improved QT interval estimation</a>. Computing in Cardiology 2013, Zaragoza, Spain 2013 September 22; pp. 659-662.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{TingtingZhu_2013_09_22_Bayesianvoting,
     author = "Zhu, Tingting and Johnson, Alistair EW and Behar, Joachim and Clifford, Gari D",
     title = "Bayesian voting of multiple annotators for improved QT interval estimation",
     date = "2013-09-22",
-    booktitle = "Computing in Cardiology 2013",
-    url = "https://ieeexplore.ieee.org/abstract/document/6713463/",
+    booktitle = "Computing in Cardiology 2013, Zaragoza, Spain",
+    url = "https://drive.google.com/file/d/0B-JN4X\_-q3f5cnZOM2czSVVQR28/view?usp=sharing\&resourcekey=0-gL99xz3srAWDqFpsnb-JcQ",
     pages = "659-662",
     publisher = "IEEE"
 }
@@ -8251,18 +8275,18 @@ Zhu T, Johnson AE, Behar J, Clifford GD. <a href="https://ieeexplore.ieee.org/ab
 <div class="hidebibtex">
 <label for="TingtingZhu_2013_09_22_Bayesianvoting">[show citation]</label>
 </div></div></td></tr><tr>
-<td>70</td>
+<td>69</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JulienOster_2013_09_22_Anartificial">
 <div class="citation">
-Oster J, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/6713433/">An artificial model of the electrocardiogram during paroxysmal atrial fibrillation</a>. Computing in Cardiology 2013 2013 September 22; pp. 539-542.
+Oster J, Clifford GD. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-iWENNTFh0UDJlcm8/view?usp=sharing&resourcekey=0-9-uTI2u6hnRWLZpdv1_J0w">An artificial model of the electrocardiogram during paroxysmal atrial fibrillation</a>. Computing in Cardiology 2013, Zaragoza, Spain 2013 September 22; pp. 539-542.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{JulienOster_2013_09_22_Anartificial,
     author = "Oster, Julien and Clifford, Gari D",
     title = "An artificial model of the electrocardiogram during paroxysmal atrial fibrillation",
     date = "2013-09-22",
-    booktitle = "Computing in Cardiology 2013",
-    url = "https://ieeexplore.ieee.org/abstract/document/6713433/",
+    booktitle = "Computing in Cardiology 2013, Zaragoza, Spain",
+    url = "https://drive.google.com/file/d/0B5wjNvhEV8-iWENNTFh0UDJlcm8/view?usp=sharing\&resourcekey=0-9-uTI2u6hnRWLZpdv1\_J0w",
     pages = "539-542",
     publisher = "IEEE"
 }
@@ -8273,18 +8297,18 @@ Oster J, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/671
 <div class="hidebibtex">
 <label for="JulienOster_2013_09_22_Anartificial">[show citation]</label>
 </div></div></td></tr><tr>
-<td>69</td>
+<td>68</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RobertaColloca_2013_09_22_Asupport">
 <div class="citation">
-Colloca R, Johnson AE, Mainardi L, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/6713560/">A support vector machine approach for reliable detection of atrial fibrillation events</a>. Computing in Cardiology 2013 2013 September 22; pp. 1047-1050.
+Colloca R, Johnson AE, Mainardi L, Clifford GD. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-ic3RiNzdHbHFLeHc/view?usp=sharing&resourcekey=0-mW1RBwekCtt03_GH_0EjYQ">A support vector machine approach for reliable detection of atrial fibrillation events</a>. Computing in Cardiology 2013, Zaragoza, Spain 2013 September 22; pp. 1047-1050.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{RobertaColloca_2013_09_22_Asupport,
     author = "Colloca, Roberta and Johnson, Alistair EW and Mainardi, Luca and Clifford, Gari D",
     title = "A support vector machine approach for reliable detection of atrial fibrillation events",
     date = "2013-09-22",
-    booktitle = "Computing in Cardiology 2013",
-    url = "https://ieeexplore.ieee.org/abstract/document/6713560/",
+    booktitle = "Computing in Cardiology 2013, Zaragoza, Spain",
+    url = "https://drive.google.com/file/d/0B5wjNvhEV8-ic3RiNzdHbHFLeHc/view?usp=sharing\&resourcekey=0-mW1RBwekCtt03\_GH\_0EjYQ",
     pages = "1047-1050",
     publisher = "IEEE"
 }
@@ -8295,18 +8319,18 @@ Colloca R, Johnson AE, Mainardi L, Clifford GD. <a href="https://ieeexplore.ieee
 <div class="hidebibtex">
 <label for="RobertaColloca_2013_09_22_Asupport">[show citation]</label>
 </div></div></td></tr><tr>
-<td>68</td>
+<td>67</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JoachimBehar_2013_09_22_NoninvasiveFECG">
 <div class="citation">
-Behar J, Oster J, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/6712470/">Non-invasive FECG extraction from a set of abdominal sensors</a>. Computing in Cardiology 2013 2013 September 22; pp. 297-300.
+Behar J, Oster J, Clifford GD. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-iODZxNGlfNWxKemM/view?usp=sharing&resourcekey=0-bomgosp5ltkOQ6lEz3EbFQ">Non-invasive FECG extraction from a set of abdominal sensors</a>. Computing in Cardiology 2013, Zaragoza, Spain 2013 September 22; pp. 297-300.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{JoachimBehar_2013_09_22_NoninvasiveFECG,
     author = "Behar, Joachim and Oster, Julien and Clifford, Gari D",
     title = "Non-invasive FECG extraction from a set of abdominal sensors",
     date = "2013-09-22",
-    booktitle = "Computing in Cardiology 2013",
-    url = "https://ieeexplore.ieee.org/abstract/document/6712470/",
+    booktitle = "Computing in Cardiology 2013, Zaragoza, Spain",
+    url = "https://drive.google.com/file/d/0B5wjNvhEV8-iODZxNGlfNWxKemM/view?usp=sharing\&resourcekey=0-bomgosp5ltkOQ6lEz3EbFQ",
     pages = "297-300",
     publisher = "IEEE"
 }
@@ -8317,38 +8341,18 @@ Behar J, Oster J, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/doc
 <div class="hidebibtex">
 <label for="JoachimBehar_2013_09_22_NoninvasiveFECG">[show citation]</label>
 </div></div></td></tr><tr>
-<td>67</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="IkaroSilva_2013_09_NoninvasiveFetal">
-<div class="citation">
-Silva I, Behar J, Sameni R, Zhu T, Oster J, Clifford GD, Moody GB. <a href="https://ieeexplore.ieee.org/abstract/document/6712433/">Noninvasive fetal ECG: the PhysioNet/computing in cardiology challenge 2013</a>. Computing in Cardiology 2013 September.
-</div>
-<div class="bibtex_source"><pre>@inproceedings{IkaroSilva_2013_09_NoninvasiveFetal,
-    author = "Silva, Ikaro and Behar, Joachim and Sameni, Reza and Zhu, Tingting and Oster, Julien and Clifford, Gari D and Moody, George B",
-    title = "Noninvasive fetal ECG: the PhysioNet/computing in cardiology challenge 2013",
-    date = "2013-09",
-    booktitle = "Computing in Cardiology",
-    url = "https://ieeexplore.ieee.org/abstract/document/6712433/",
-    publisher = "IEEE"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="IkaroSilva_2013_09_NoninvasiveFetal">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="IkaroSilva_2013_09_NoninvasiveFetal">[show citation]</label>
-</div></div></td></tr><tr>
 <td>66</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="YuanyuanXue_2013_09_08_Towardsa">
 <div class="citation">
-Xue Y, Li Q, Feng L, Clifton DA, Clifford GD. Towards a micro-blog platform for sensing and easing adolescent psychological pressures. UbiComp'13, Zurich, Switzerland 2013 September 8.
+Xue Y, Li Q, Feng L, Clifton DA, Clifford GD. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-ibXFKclpSTlBITUU/view?usp=sharing&resourcekey=0-VLDpG04NYy6cwVqgD_PaDg">Towards a micro-blog platform for sensing and easing adolescent psychological pressures</a>. UbiComp'13, Zurich, Switzerland 2013 September 8.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{YuanyuanXue_2013_09_08_Towardsa,
     author = "Xue, Yuanyuan and Li, Qi and Feng, Ling and Clifton, David A and Clifford, Gari D",
     title = "Towards a micro-blog platform for sensing and easing adolescent psychological pressures",
     date = "2013-09-08",
-    booktitle = "UbiComp'13, Zurich, Switzerland"
+    booktitle = "UbiComp'13, Zurich, Switzerland",
+    url = "https://drive.google.com/file/d/0B5wjNvhEV8-ibXFKclpSTlBITUU/view?usp=sharing\&resourcekey=0-VLDpG04NYy6cwVqgD\_PaDg"
 }
 </pre>
 </div><div class="showbibtex">
@@ -8757,14 +8761,15 @@ Gederi E, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/62
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="CliffordGDArtetaC_2011_10_05_Lowcostblood">
 <div class="citation">
-C. CGA, J.S. D, M.A.F. P, M. S. Low-cost blood pressure monitor device for developing countries. Wireless Mobile Communication and Healthcare. MobiHealth 2011. 2011 October 5.
+Arteta C, Domingos JS, Pimentel MA, Santos MD, Chiffot C, Springer D, Raghu A, Clifford GD. <a href="https://drive.google.com/file/d/1blydx4EBVUyX_lkAamQJKBFEsiDrGYuY/view?usp=sharing">Low-cost blood pressure monitor device for developing countries</a>. Wireless Mobile Communication and Healthcare. MobiHealth 2011, Kos Island, Greece 2011 October 5.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{CliffordGDArtetaC_2011_10_05_Lowcostblood,
-    author = "C., Clifford G.D. Arteta and J.S., Domingos and M.A.F., Pimentel and M., Santos",
+    author = "Arteta, Carlos and Domingos, Jo{\\textasciitilde a}o S and Pimentel, Marco AF and Santos, Mauro D and Chiffot, Corentin and Springer, David and Raghu, Arvind and Clifford, Gari D",
     title = "Low-cost blood pressure monitor device for developing countries",
     date = "2011-10-05",
-    booktitle = "Wireless Mobile Communication and Healthcare. MobiHealth 2011.",
-    publisher = "Kos, Greece"
+    booktitle = "Wireless Mobile Communication and Healthcare. MobiHealth 2011, Kos Island, Greece",
+    publisher = "Kos, Greece",
+    url = "https://drive.google.com/file/d/1blydx4EBVUyX\_lkAamQJKBFEsiDrGYuY/view?usp=sharing"
 }
 </pre>
 </div><div class="showbibtex">
