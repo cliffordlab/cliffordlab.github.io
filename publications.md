@@ -13,40 +13,16 @@ permalink: /publications
 <tr>
 <td>259</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="OliverHolmes_2024_05_15_371ObjectivelyCharacterized">
-<div class="citation">
-Holmes O, Bucher M, Neylan T, Clifford G, Li Q, Li Q, Dougherty R, Baker J, Linnstaedt S, Jovanovic T, Stevens J, House S, Ressler K, Kessler R, McLean S, An X. <a href="https://www.biologicalpsychiatryjournal.com/article/S0006-3223(24)00971-5/abstract">371. Objectively-Characterized Peritraumatic Sleep Phenotypes Are Associated With Both Pre-Trauma Characteristics and Peritraumatic Symptom Outcomes</a>. Biological Psychiatry 2024 May 15; 95 (10): pp. S251-S252.
-</div>
-<div class="bibtex_source"><pre>@article{OliverHolmes_2024_05_15_371ObjectivelyCharacterized,
-    author = "Holmes, Oliver and Bucher, Meredith and Neylan, Thomas and Clifford, Gari and Li, Qiao and Li, Qinghua and Dougherty, Robert and Baker, Justin and Linnstaedt, Sarah and Jovanovic, Tanja and Stevens, Jennifer and House, Stacey and Ressler, Kerry and Kessler, Ronald and McLean, Samuel and An, Xinming",
-    title = "371. Objectively-Characterized Peritraumatic Sleep Phenotypes Are Associated With Both Pre-Trauma Characteristics and Peritraumatic Symptom Outcomes",
-    date = "2024-05-15",
-    issue = "10",
-    journal = "Biological Psychiatry",
-    url = "https://www.biologicalpsychiatryjournal.com/article/S0006-3223(24)00971-5/abstract",
-    pages = "S251-S252",
-    volume = "95",
-    note = "Publisher: Elsevier"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="OliverHolmes_2024_05_15_371ObjectivelyCharacterized">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="OliverHolmes_2024_05_15_371ObjectivelyCharacterized">[show citation]</label>
-</div></div></td></tr><tr>
-<td>258</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="KshamaKodthaluShivashankara_2024_05_09_ECGimagekita">
 <div class="citation">
-Shivashankara KK, Deepanshi , Shervedani AM, Clifford GD, Reyna MA, Sameni R. <a href="https://iopscience.iop.org/article/10.1088/1361-6579/ad4954/meta">ECG-image-kit: a synthetic image generation toolbox to facilitate deep learning-based electrocardiogram digitization</a>. Physiological Measurement 2024 May 9.
+Shivashankara KK, Deepanshi , Shervedani AM, Clifford GD, Reyna MA, Sameni R. <a href="https://drive.google.com/file/d/1zR1Oaaz230d-7GiuBUQVfOjoEA_JvYPJ/view?usp=sharing">ECG-image-kit: a synthetic image generation toolbox to facilitate deep learning-based electrocardiogram digitization</a>. Physiological Measurement 2024 May 9.
 </div>
 <div class="bibtex_source"><pre>@article{KshamaKodthaluShivashankara_2024_05_09_ECGimagekita,
     author = "Shivashankara, Kshama Kodthalu and Deepanshi and Shervedani, Afagh Mehri and Clifford, Gari D and Reyna, Matthew A and Sameni, Reza",
     title = "ECG-image-kit: a synthetic image generation toolbox to facilitate deep learning-based electrocardiogram digitization",
     date = "2024-05-09",
     journal = "Physiological Measurement",
-    url = "https://iopscience.iop.org/article/10.1088/1361-6579/ad4954/meta"
+    url = "https://drive.google.com/file/d/1zR1Oaaz230d-7GiuBUQVfOjoEA\_JvYPJ/view?usp=sharing"
 }
 </pre>
 </div><div class="showbibtex">
@@ -55,19 +31,21 @@ Shivashankara KK, Deepanshi , Shervedani AM, Clifford GD, Reyna MA, Sameni R. <a
 <div class="hidebibtex">
 <label for="KshamaKodthaluShivashankara_2024_05_09_ECGimagekita">[show citation]</label>
 </div></div></td></tr><tr>
-<td>257</td>
+<td>258</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AdamHorwitz_2024_05_05_IntensiveLongitudinal">
 <div class="citation">
-Horwitz A, McCarthy K, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Hudak LA, Pascual JL, Seamon MJ, Harris E, Pearson C, Peak DA, Domeier RM, Rathlev NK, Sergot P, Sanchez LD, Bruce SE, Joormann J, Harte SE, Koenen KC, McLean SA, Sen S. <a href="https://www.sciencedirect.com/science/article/pii/S0887618524000525">Intensive Longitudinal Assessment Following Index Trauma to Predict Development of PTSD using Machine Learning</a>. Journal of Anxiety Disorders 2024 May 5; p. 102876.
+Horwitz A, McCarthy K, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Hudak LA, Pascual JL, Seamon MJ, Harris E, Pearson C, Peak DA, Domeier RM, Rathlev NK, Sergot P, Sanchez LD, Bruce SE, Joormann J, Harte SE, Koenen KC, McLean SA, Sen S. <a href="https://drive.google.com/file/d/1xmg4C1vepPt8ocv3FmJEHflgX3tJcZpN/view?usp=sharing">Intensive Longitudinal Assessment Following Index Trauma to Predict Development of PTSD using Machine Learning</a>. Journal of Anxiety Disorders 2024 May 5; 104: p. 102876. DOI: <a href="https://doi.org/10.1016/j.janxdis.2024.102876">10.1016/j.janxdis.2024.102876</a>.
 </div>
 <div class="bibtex_source"><pre>@article{AdamHorwitz_2024_05_05_IntensiveLongitudinal,
     author = "Horwitz, Adam and McCarthy, Kaitlyn and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Neylan, Thomas C and Clifford, Gari D and Linnstaedt, Sarah D and Germine, Laura T and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Harris, Erica and Pearson, Claire and Peak, David A and Domeier, Robert M and Rathlev, Niels K and Sergot, Paulina and Sanchez, Leon D and Bruce, Steven E and Joormann, Jutta and Harte, Steven E and Koenen, Karestan C and McLean, Samuel A and Sen, Srijan",
     title = "Intensive Longitudinal Assessment Following Index Trauma to Predict Development of PTSD using Machine Learning",
     date = "2024-05-05",
     journal = "Journal of Anxiety Disorders",
-    url = "https://www.sciencedirect.com/science/article/pii/S0887618524000525",
+    url = "https://drive.google.com/file/d/1xmg4C1vepPt8ocv3FmJEHflgX3tJcZpN/view?usp=sharing",
     pages = "102876",
+    volume = "104",
+    doi = "10.1016/j.janxdis.2024.102876",
     note = "Publisher: Pergamon"
 }
 </pre>
@@ -77,7 +55,7 @@ Horwitz A, McCarthy K, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Linn
 <div class="hidebibtex">
 <label for="AdamHorwitz_2024_05_05_IntensiveLongitudinal">[show citation]</label>
 </div></div></td></tr><tr>
-<td>256</td>
+<td>257</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SanneJHvanRooij_2024_04_22_Definingthe">
 <div class="citation">
@@ -100,7 +78,7 @@ Rooij SJ, Santos JL, Hinojosa CA, Ely TD, Harnett NG, Murty VP, Lebois LA, Jovan
 <div class="hidebibtex">
 <label for="SanneJHvanRooij_2024_04_22_Definingthe">[show citation]</label>
 </div></div></td></tr><tr>
-<td>255</td>
+<td>256</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShafaatAliSheikh_2023_Impedancecardiogram">
 <div class="citation">
@@ -124,7 +102,7 @@ Sheikh SA, Shah AJ, Bremner JD, Vaccarino V, Inan OT, Clifford GD, Rad AB. <a hr
 <div class="hidebibtex">
 <label for="ShafaatAliSheikh_2023_Impedancecardiogram">[show citation]</label>
 </div></div></td></tr><tr>
-<td>254</td>
+<td>255</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZifanJiang_2023_Disentanglingvisual">
 <div class="citation">
@@ -148,11 +126,11 @@ Jiang Z, Seyedi S, Vickers KL, Manzanares CM, Lah JJ, Levey AI, Clifford GD. <a 
 <div class="hidebibtex">
 <label for="ZifanJiang_2023_Disentanglingvisual">[show citation]</label>
 </div></div></td></tr><tr>
-<td>253</td>
+<td>254</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="StephanieHaering_2024_04_19_Disentanglingsex">
 <div class="citation">
-Haering S, Seligowski AV, Linnstaedt SD, Michopoulos V, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Gentile NT, Hudak LA, Pascual JL, Seamon MJ, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sanchez LD, Bruce SE, Harte SE, McLean SA, Kessler RC, Koenen KC, Powers A, Stevens JS. <a href="https://drive.google.com/file/d/16MVtVd3rBS5sKb_VDLtcFc-E7ugEXJyA/view?usp=sharing">Disentangling sex differences in PTSD risk factors</a>. Nature Mental Health 2024 April 19; pp. 1-11. DOI: <a href="https://doi.org/10.1038/s44220-024-00236-y">10.1038/s44220-024-00236-y</a>.
+Haering S, Seligowski AV, Linnstaedt SD, Michopoulos V, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Gentile NT, Hudak LA, Pascual JL, Seamon MJ, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sanchez LD, Bruce SE, Harte SE, McLean SA, Kessler RC, Koenen KC, Powers A, Stevens JS. <a href="https://drive.google.com/file/d/16MVtVd3rBS5sKb_VDLtcFc-E7ugEXJyA/view?usp=sharing">Disentangling sex differences in PTSD risk factors</a>. Nature Mental Health 2024 April 19; 2 (5): pp. 605-615. DOI: <a href="https://doi.org/10.1038/s44220-024-00236-y">10.1038/s44220-024-00236-y</a>.
 </div>
 <div class="bibtex_source"><pre>@article{StephanieHaering_2024_04_19_Disentanglingsex,
     author = "Haering, Stephanie and Seligowski, Antonia V and Linnstaedt, Sarah D and Michopoulos, Vasiliki and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Neylan, Thomas C and Clifford, Gari D and Germine, Laura T and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and Gentile, Nina T and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sanchez, Leon D and Bruce, Steven E and Harte, Steven E and McLean, Samuel A and Kessler, Ronald C and Koenen, Karestan C and Powers, Abigail and Stevens, Jennifer S",
@@ -160,7 +138,9 @@ Haering S, Seligowski AV, Linnstaedt SD, Michopoulos V, House SL, Beaudoin FL, A
     date = "2024-04-19",
     journal = "Nature Mental Health",
     url = "https://drive.google.com/file/d/16MVtVd3rBS5sKb\_VDLtcFc-E7ugEXJyA/view?usp=sharing",
-    pages = "1-11",
+    pages = "605-615",
+    volume = "2",
+    issue = "5",
     doi = "10.1038/s44220-024-00236-y",
     note = "Publisher: Nature Publishing Group US"
 }
@@ -171,11 +151,11 @@ Haering S, Seligowski AV, Linnstaedt SD, Michopoulos V, House SL, Beaudoin FL, A
 <div class="hidebibtex">
 <label for="StephanieHaering_2024_04_19_Disentanglingsex">[show citation]</label>
 </div></div></td></tr><tr>
-<td>252</td>
+<td>253</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MinxuanHuang_2024_03_27_HeartRate">
 <div class="citation">
-Huang M, Shah AJ, Lampert R, Bliwise DL, Johnson DA, Clifford GD, Sloan R, Goldberg J, Ko Y, Poian GD, Perez<span class="bibtex-protected">-</span>Alday EA, Almuwaqqat Z, Shah A, Garcia M, Young A, Moazzami K, Bremner JD, Vaccarino V. <a href="https://drive.google.com/file/d/1tJlMbU4uMaYIifdn6H6Kp8ylui8GzmBJ/view?usp=sharing">Heart Rate Variability, Deceleration Capacity of Heart Rate, and Death: A Veteran Twins Study</a>. Journal of the American Heart Association 2024 March 27; p. e032740. DOI: <a href="https://doi.org/10.1161/JAHA.123.032740">10.1161/JAHA.123.032740</a>.
+Huang M, Shah AJ, Lampert R, Bliwise DL, Johnson DA, Clifford GD, Sloan R, Goldberg J, Ko Y, Poian GD, Perez<span class="bibtex-protected">-</span>Alday EA, Almuwaqqat Z, Shah A, Garcia M, Young A, Moazzami K, Bremner JD, Vaccarino V. <a href="https://drive.google.com/file/d/1tJlMbU4uMaYIifdn6H6Kp8ylui8GzmBJ/view?usp=sharing">Heart Rate Variability, Deceleration Capacity of Heart Rate, and Death: A Veteran Twins Study</a>. Journal of the American Heart Association 2024 March 27; 13 (7): p. e032740. DOI: <a href="https://doi.org/10.1161/JAHA.123.032740">10.1161/JAHA.123.032740</a>.
 </div>
 <div class="bibtex_source"><pre>@article{MinxuanHuang_2024_03_27_HeartRate,
     author = "Huang, Minxuan and Shah, Amit J and Lampert, Rachel and Bliwise, Donald L and Johnson, Dayna A and Clifford, Gari D and Sloan, Richard and Goldberg, Jack and Ko, Yi{-}An and Poian, Giulia Da and Perez{-}Alday, Erick A and Almuwaqqat, Zakaria and Shah, Anish and Garcia, Mariana and Young, An and Moazzami, Kasra and Bremner, J Douglas and Vaccarino, Viola",
@@ -184,6 +164,8 @@ Huang M, Shah AJ, Lampert R, Bliwise DL, Johnson DA, Clifford GD, Sloan R, Goldb
     journal = "Journal of the American Heart Association",
     url = "https://drive.google.com/file/d/1tJlMbU4uMaYIifdn6H6Kp8ylui8GzmBJ/view?usp=sharing",
     pages = "e032740",
+    volume = "13",
+    issue = "7",
     doi = "10.1161/JAHA.123.032740"
 }
 </pre>
@@ -193,7 +175,7 @@ Huang M, Shah AJ, Lampert R, Bliwise DL, Johnson DA, Clifford GD, Sloan R, Goldb
 <div class="hidebibtex">
 <label for="MinxuanHuang_2024_03_27_HeartRate">[show citation]</label>
 </div></div></td></tr><tr>
-<td>251</td>
+<td>252</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="BibianBorst_2024_03_22_Sexdifferences">
 <div class="citation">
@@ -215,7 +197,7 @@ Borst B, Jovanovic T, House SL, Bruce SE, Harnett NG, Roeckner AR, Ely TD, Leboi
 <div class="hidebibtex">
 <label for="BibianBorst_2024_03_22_Sexdifferences">[show citation]</label>
 </div></div></td></tr><tr>
-<td>250</td>
+<td>251</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="HenriGarrisonDesany_UnknownDate_Posttraumaticstress">
 <div class="citation">
@@ -238,6 +220,29 @@ Garrison-Desany H, Denckla CA, Meyers JL, Linnstaedt S, Koenen KC, House SL, Bea
 </div>
 <div class="hidebibtex">
 <label for="HenriGarrisonDesany_UnknownDate_Posttraumaticstress">[show citation]</label>
+</div></div></td></tr><tr>
+<td>250</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="SeyedehSomayyehMousavi_2024_03_07_Asurvey">
+<div class="citation">
+Mousavi SS, Reyna MA, Clifford GD, Sameni R. <a href="https://drive.google.com/file/d/14PCLh3cgLW6J6RfrpVFavS0WS801EFzD/view?usp=sharing">A survey on blood pressure measurement technologies: Addressing potential sources of bias</a>. 2024 March 7; 24 (6): p. 1730.
+</div>
+<div class="bibtex_source"><pre>@article{SeyedehSomayyehMousavi_2024_03_07_Asurvey,
+    author = "Mousavi, Seyedeh Somayyeh and Reyna, Matthew A and Clifford, Gari D and Sameni, Reza",
+    title = "A survey on blood pressure measurement technologies: Addressing potential sources of bias",
+    date = "2024-03-07",
+    issue = "6",
+    url = "https://drive.google.com/file/d/14PCLh3cgLW6J6RfrpVFavS0WS801EFzD/view?usp=sharing",
+    pages = "1730",
+    volume = "24",
+    note = "Publisher: MDPI"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="SeyedehSomayyehMousavi_2024_03_07_Asurvey">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="SeyedehSomayyehMousavi_2024_03_07_Asurvey">[show citation]</label>
 </div></div></td></tr><tr>
 <td>249</td>
 <td><div class="citation_container">
@@ -267,7 +272,7 @@ Joyner M, Hsu S, Martin S, Dwyer J, Chen DF, Sameni R, Waters SH, Borodin K, Cli
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChengDing_2024_02_01_LearningFrom">
 <div class="citation">
-Ding C, Guo Z, Rudin C, Xiao R, Shah A, Do DH, Lee RJ, Clifford G, Nahab FB, Hu X. <a href="https://drive.google.com/file/d/1YmiQ5NlX7QMSj5Eqcwtmun3Q3UgUg6oE/view?usp=sharing">Learning From Alarms: A Robust Learning Approach for Accurate Photoplethysmography-Based Atrial Fibrillation Detection using Eight Million Samples Labeled with Imprecise Arrhythmia Alarms</a>. IEEE Journal of Biomedical and Health Informatics 2024 February 1. DOI: <a href="https://doi.org/10.1109/JBHI.2024.3360952">10.1109/JBHI.2024.3360952</a>.
+Ding C, Guo Z, Rudin C, Xiao R, Shah A, Do DH, Lee RJ, Clifford G, Nahab FB, Hu X. <a href="https://drive.google.com/file/d/1YmiQ5NlX7QMSj5Eqcwtmun3Q3UgUg6oE/view?usp=sharing">Learning From Alarms: A Robust Learning Approach for Accurate Photoplethysmography-Based Atrial Fibrillation Detection using Eight Million Samples Labeled with Imprecise Arrhythmia Alarms</a>. IEEE Journal of Biomedical and Health Informatics 2024 February 1; 28 (5). DOI: <a href="https://doi.org/10.1109/JBHI.2024.3360952">10.1109/JBHI.2024.3360952</a>.
 </div>
 <div class="bibtex_source"><pre>@article{ChengDing_2024_02_01_LearningFrom,
     author = "Ding, Cheng and Guo, Zhicheng and Rudin, Cynthia and Xiao, Ran and Shah, Amit and Do, Duc H and Lee, Randall J and Clifford, Gari and Nahab, Fadi B and Hu, Xiao",
@@ -275,6 +280,8 @@ Ding C, Guo Z, Rudin C, Xiao R, Shah A, Do DH, Lee RJ, Clifford G, Nahab FB, Hu 
     date = "2024-02-01",
     journal = "IEEE Journal of Biomedical and Health Informatics",
     url = "https://drive.google.com/file/d/1YmiQ5NlX7QMSj5Eqcwtmun3Q3UgUg6oE/view?usp=sharing",
+    volume = "28",
+    issue = "5",
     doi = "10.1109/JBHI.2024.3360952",
     note = "Publisher: IEEE"
 }
@@ -338,13 +345,15 @@ Hegde C, Kiarashi Y, Rodriguez AD, Levey AI, Doiron M, Kwon H, Clifford GD. <a h
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZifanJiang_2024_01_10_MultimodalMental">
 <div class="citation">
-Jiang Z, Seyedi S, Griner E, Abbasi A, Rad AB, Kwon H, Cotes RO, Clifford GD. <a href="https://drive.google.com/file/d/1tuDULPyl2V0MwrEhg-YfgSwVyW4TSsSN/view?usp=sharing">Multimodal Mental Health Digital Biomarker Analysis from Remote Interviews using Facial, Vocal, Linguistic, and Cardiovascular Patterns</a>. IEEE Journal of Biomedical and Health Informatics 2024 January 10; pp. 1-13. DOI: <a href="https://doi.org/10.1109/JBHI.2024.3352075">10.1109/JBHI.2024.3352075</a>.
+Jiang Z, Seyedi S, Griner E, Abbasi A, Rad AB, Kwon H, Cotes RO, Clifford GD. <a href="https://drive.google.com/file/d/1tuDULPyl2V0MwrEhg-YfgSwVyW4TSsSN/view?usp=sharing">Multimodal Mental Health Digital Biomarker Analysis from Remote Interviews using Facial, Vocal, Linguistic, and Cardiovascular Patterns</a>. IEEE Journal of Biomedical and Health Informatics 2024 January 10; 28 (3): pp. 1-13. DOI: <a href="https://doi.org/10.1109/JBHI.2024.3352075">10.1109/JBHI.2024.3352075</a>.
 </div>
 <div class="bibtex_source"><pre>@article{ZifanJiang_2024_01_10_MultimodalMental,
     author = "Jiang, Zifan and Seyedi, Salman and Griner, Emily and Abbasi, Ahmed and Rad, Ali Bahrami and Kwon, Hyeokhyen and Cotes, Robert O and Clifford, Gari D",
     title = "Multimodal Mental Health Digital Biomarker Analysis from Remote Interviews using Facial, Vocal, Linguistic, and Cardiovascular Patterns",
     date = "2024-01-10",
     pages = "1-13",
+    volume = "28",
+    issue = "3",
     doi = "10.1109/JBHI.2024.3352075",
     journal = "IEEE Journal of Biomedical and Health Informatics",
     url = "https://drive.google.com/file/d/1tuDULPyl2V0MwrEhg-YfgSwVyW4TSsSN/view?usp=sharing",
@@ -361,7 +370,7 @@ Jiang Z, Seyedi S, Griner E, Abbasi A, Rad AB, Kwon H, Cotes RO, Clifford GD. <a
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SamuelHWaters_2023_12_22_PhysicsInformedTransfer">
 <div class="citation">
-Waters SH, Clifford GD. <a href="https://drive.google.com/file/d/10oAZPDfvd5dVbxB2MWsqtt98SnVp-86E/">Physics-Informed Transfer Learning to Enhance Sleep Staging</a>. IEEE Transactions on Biomedical Engineering 2023 December 22. DOI: <a href="https://doi.org/10.1109/TBME.2023.3345888">10.1109/TBME.2023.3345888</a>.
+Waters SH, Clifford GD. <a href="https://drive.google.com/file/d/10oAZPDfvd5dVbxB2MWsqtt98SnVp-86E/">Physics-Informed Transfer Learning to Enhance Sleep Staging</a>. IEEE Transactions on Biomedical Engineering 2023 December 22; 71 (5): pp. 1599-1606. DOI: <a href="https://doi.org/10.1109/TBME.2023.3345888">10.1109/TBME.2023.3345888</a>.
 </div>
 <div class="bibtex_source"><pre>@article{SamuelHWaters_2023_12_22_PhysicsInformedTransfer,
     author = "Waters, Samuel H and Clifford, Gari D",
@@ -369,6 +378,9 @@ Waters SH, Clifford GD. <a href="https://drive.google.com/file/d/10oAZPDfvd5dVbx
     date = "2023-12-22",
     journal = "IEEE Transactions on Biomedical Engineering",
     url = "https://drive.google.com/file/d/10oAZPDfvd5dVbxB2MWsqtt98SnVp-86E/",
+    volume = "71",
+    issue = "5",
+    pages = "1599-1606",
     doi = "10.1109/TBME.2023.3345888",
     note = "Publisher: IEEE"
 }
@@ -2546,10 +2558,10 @@ Valderrama CE, Marzbanrad F, Hall-Clifford R, Rohloff P, Clifford GD. <a href="h
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="HermanATaylorJr_2020_07_09_PreventingCardiovascular">
 <div class="citation">
-Jr HAT, Francis S, Evans CR, Harvey M, Newton BA, Jones CP, Akintobi TH, Clifford G. <a href="https://drive.google.com/file/d/1ErkIJuO_6HHM9Ne9oVmaP24u_DJ_pc8W/view?usp=sharing">Preventing cardiovascular disease among urban African Americans with a mobile health app (the MOYO App): protocol for a usability study</a>. JMIR Research Protocols 2020 July 9; 9 (7): p. e16699.
+Taylor HA, Francis S, Evans CR, Harvey M, Newton BA, Jones CP, Akintobi TH, Clifford G. <a href="https://drive.google.com/file/d/1ErkIJuO_6HHM9Ne9oVmaP24u_DJ_pc8W/view?usp=sharing">Preventing cardiovascular disease among urban African Americans with a mobile health app (the MOYO App): protocol for a usability study</a>. JMIR Research Protocols 2020 July 9; 9 (7): p. e16699.
 </div>
 <div class="bibtex_source"><pre>@article{HermanATaylorJr_2020_07_09_PreventingCardiovascular,
-    author = "Jr, Herman A Taylor and Francis, Sherilyn and Evans, Chad Ray and Harvey, Marques and Newton, Brittney A and Jones, Camara P and Akintobi, Tabia H and Clifford, Gari",
+    author = "Taylor, Herman A and Francis, Sherilyn and Evans, Chad Ray and Harvey, Marques and Newton, Brittney A and Jones, Camara P and Akintobi, Tabia H and Clifford, Gari",
     title = "Preventing cardiovascular disease among urban African Americans with a mobile health app (the MOYO App): protocol for a usability study",
     date = "2020-07-09",
     issue = "7",
@@ -2882,10 +2894,10 @@ Behar JA, Oster J, Vos MD, Clifford GD. <a href="https://scholar.archive.org/wor
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RichardGNetemeyer_2020_03_Healthliteracy">
 <div class="citation">
-Netemeyer RG, Dobolyi DG, Abbasi A, Clifford G, Taylor H. <a href="https://ahmedabbasi.com/wp-content/uploads/J/Netemeyer_Health_JCA_2020.pdf">Health literacy, health numeracy, and trust in doctor: effects on key patient health outcomes</a>. Journal of Consumer Affairs 2019 July 17; 54 (1): pp. 3-42.
+Netemeyer RG, Dobolyi DG, Abbasi A, Clifford G, Taylor HA. <a href="https://ahmedabbasi.com/wp-content/uploads/J/Netemeyer_Health_JCA_2020.pdf">Health literacy, health numeracy, and trust in doctor: effects on key patient health outcomes</a>. Journal of Consumer Affairs 2019 July 17; 54 (1): pp. 3-42.
 </div>
 <div class="bibtex_source"><pre>@article{RichardGNetemeyer_2020_03_Healthliteracy,
-    author = "Netemeyer, Richard G and Dobolyi, David G and Abbasi, Ahmed and Clifford, Gari and Taylor, Herman",
+    author = "Netemeyer, Richard G and Dobolyi, David G and Abbasi, Ahmed and Clifford, Gari and Taylor, Herman A",
     title = "Health literacy, health numeracy, and trust in doctor: effects on key patient health outcomes",
     date = "2019-07-17",
     issue = "1",
@@ -6164,6 +6176,30 @@ Clifford GD, Azuaje F, McSharry PE. <a href="https://scholar.google.com/scholar?
 
 <table>
 <tr>
+<td>172</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="OliverHolmes_2024_05_15_371ObjectivelyCharacterized">
+<div class="citation">
+Holmes O, Bucher M, Neylan T, Clifford G, Li Q, Li Q, Dougherty R, Baker J, Linnstaedt S, Jovanovic T, Stevens J, House S, Ressler K, Kessler R, McLean S, An X. <a href="https://drive.google.com/file/d/1P06ncFbpdIKVRbuqLRAQkWfaBp1LWSVG/view?usp=sharing">371. Objectively-Characterized Peritraumatic Sleep Phenotypes Are Associated With Both Pre-Trauma Characteristics and Peritraumatic Symptom Outcomes</a>. The 2024 Society of Biological Psychiatry Annual Meeting, Austin, Texas, USA 2024 May 9; 95 (10): pp. S251-S252.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{OliverHolmes_2024_05_15_371ObjectivelyCharacterized,
+    author = "Holmes, Oliver and Bucher, Meredith and Neylan, Thomas and Clifford, Gari and Li, Qiao and Li, Qinghua and Dougherty, Robert and Baker, Justin and Linnstaedt, Sarah and Jovanovic, Tanja and Stevens, Jennifer and House, Stacey and Ressler, Kerry and Kessler, Ronald and McLean, Samuel and An, Xinming",
+    title = "371. Objectively-Characterized Peritraumatic Sleep Phenotypes Are Associated With Both Pre-Trauma Characteristics and Peritraumatic Symptom Outcomes",
+    date = "2024-05-9",
+    issue = "10",
+    booktitle = "The 2024 Society of Biological Psychiatry Annual Meeting, Austin, Texas, USA",
+    url = "https://drive.google.com/file/d/1P06ncFbpdIKVRbuqLRAQkWfaBp1LWSVG/view?usp=sharing",
+    pages = "S251-S252",
+    volume = "95",
+    note = "Publisher: Elsevier"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="OliverHolmes_2024_05_15_371ObjectivelyCharacterized">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="OliverHolmes_2024_05_15_371ObjectivelyCharacterized">[show citation]</label>
+</div></div></td></tr><tr>
 <td>171</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LiweiLehman_2024_02_13_VTaCA">
@@ -7110,10 +7146,10 @@ Cakmak AS, Lanier HJ, Reinertsen E, Harzand A, Zafari AM, Hammoud MA, Alrohaiban
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AyseCakmak_2018_12_10_Personalizedheart">
 <div class="citation">
-Cakmak A, Reinertsen E, Taylor H, Shah A, Clifford GD. <a href="https://drive.google.com/file/d/1RCzp1yGjo5TVZLilNMnWFSjpUrjt6A5x/view?usp=sharing">Personalized heart failure severity estimates using passive smartphone data</a>. 2018 IEEE International Conference on Big Data, Seattle, WA USA 2018 December 10; pp. 1569-1574.
+Cakmak A, Reinertsen E, Taylor HA, Shah A, Clifford GD. <a href="https://drive.google.com/file/d/1RCzp1yGjo5TVZLilNMnWFSjpUrjt6A5x/view?usp=sharing">Personalized heart failure severity estimates using passive smartphone data</a>. 2018 IEEE International Conference on Big Data, Seattle, WA USA 2018 December 10; pp. 1569-1574.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{AyseCakmak_2018_12_10_Personalizedheart,
-    author = "Cakmak, Ayse and Reinertsen, Erik and Taylor, Herman and Shah, Amit and Clifford, Gari David",
+    author = "Cakmak, Ayse and Reinertsen, Erik and Taylor, Herman A and Shah, Amit and Clifford, Gari David",
     title = "Personalized heart failure severity estimates using passive smartphone data",
     date = "2018-12-10",
     booktitle = "2018 IEEE International Conference on Big Data, Seattle, WA USA",
@@ -9987,14 +10023,14 @@ Clifford G, Tarassenko L, Townsend N. <a href="https://ieeexplore.ieee.org/abstr
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="YasharKiarashi_2024_ForecastingHighRisk">
 <div class="citation">
-Kiarashi Y, Lantz J, Reyna M, Anderson C, Rad AB, Foster J, Villavicencio T, Hamlin T, Clifford GD. <a href="https://www.medrxiv.org/content/10.1101/2024.05.06.24306938.abstract">Forecasting High-Risk Behavioral and Medical Events in Children with Autism through Analysis of Digital Behavioral Records</a>. medRxiv 2024; p. 2024.05. 06.24306938.
+Kiarashi Y, Lantz J, Reyna M, Anderson C, Rad AB, Foster J, Villavicencio T, Hamlin T, Clifford GD. <a href="https://drive.google.com/file/d/17hI3tOlFU_FrnjeGJQV_Y1OBYdDgozzq/view?usp=sharing">Forecasting High-Risk Behavioral and Medical Events in Children with Autism through Analysis of Digital Behavioral Records</a>. medRxiv 2024; p. 2024.05. 06.24306938.
 </div>
 <div class="bibtex_source"><pre>@article{YasharKiarashi_2024_ForecastingHighRisk,
     author = "Kiarashi, Yashar and Lantz, Johanna and Reyna, Matthew and Anderson, Conor and Rad, Ali Bahrami and Foster, Jenny and Villavicencio, Tania and Hamlin, Theresa and Clifford, Gari D",
     title = "Forecasting High-Risk Behavioral and Medical Events in Children with Autism through Analysis of Digital Behavioral Records",
     date = "2024",
     journal = "medRxiv",
-    url = "https://www.medrxiv.org/content/10.1101/2024.05.06.24306938.abstract",
+    url = "https://drive.google.com/file/d/17hI3tOlFU\_FrnjeGJQV\_Y1OBYdDgozzq/view?usp=sharing",
     pages = "2024.05. 06.24306938",
     note = "Publisher: Cold Spring Harbor Laboratory Press"
 }
@@ -10009,14 +10045,14 @@ Kiarashi Y, Lantz J, Reyna M, Anderson C, Rad AB, Foster J, Villavicencio T, Ham
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="YasharKiarashi_2024_PredictingAdverse">
 <div class="citation">
-Kiarashi Y, Suresha PB, Rad AB, Reyna M, Anderson C, Foster J, Lantz J, Villavicencio T, Hamlin T, Clifford GD. <a href="https://www.medrxiv.org/content/10.1101/2024.01.23.24301681v1.full.pdf">Predicting Adverse Behavior in Individuals with Autism Spectrum Disorder Through Off-body Sleep Analysis</a>. 2024.
+Kiarashi Y, Suresha PB, Rad AB, Reyna M, Anderson C, Foster J, Lantz J, Villavicencio T, Hamlin T, Clifford GD. <a href="https://drive.google.com/file/d/1drXyiSPkHj0BuHAUpIGC5m9s9-M7KoOt/view?usp=sharing">Predicting Adverse Behavior in Individuals with Autism Spectrum Disorder Through Off-body Sleep Analysis</a>. 2024.
 </div>
 <div class="bibtex_source"><pre>@unpublished{YasharKiarashi_2024_PredictingAdverse,
     author = "Kiarashi, Yashar and Suresha, Pradyumna B and Rad, Ali Bahrami and Reyna, Matthew and Anderson, Conor and Foster, Jenny and Lantz, Johanna and Villavicencio, Tania and Hamlin, Theresa and Clifford, Gari D",
     title = "Predicting Adverse Behavior in Individuals with Autism Spectrum Disorder Through Off-body Sleep Analysis",
     date = "2024",
     journal = "medRxiv",
-    url = "https://www.medrxiv.org/content/10.1101/2024.01.23.24301681v1.full.pdf",
+    url = "https://drive.google.com/file/d/1drXyiSPkHj0BuHAUpIGC5m9s9-M7KoOt/view?usp=sharing",
     note = "Publisher: Cold Spring Harbor Laboratory Press"
 }
 </pre>
@@ -10030,14 +10066,14 @@ Kiarashi Y, Suresha PB, Rad AB, Reyna M, Anderson C, Foster J, Lantz J, Villavic
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AyseCakmak_2024_04_16_Benchmarkingchangepoint">
 <div class="citation">
-Cakmak A, Reinertsen E, Nemati S, Clifford GD. <a href="https://arxiv.org/abs/2404.12408">Benchmarking changepoint detection algorithms on cardiac time series</a>. arXiv preprint arXiv:2404.12408 2024 April 16.
+Cakmak A, Reinertsen E, Nemati S, Clifford GD. <a href="https://drive.google.com/file/d/1L7ozHjo28o-37lnvN1yiv6xSzXIhmz9b/view?usp=sharing">Benchmarking changepoint detection algorithms on cardiac time series</a>. arXiv preprint arXiv:2404.12408 2024 April 16.
 </div>
 <div class="bibtex_source"><pre>@article{AyseCakmak_2024_04_16_Benchmarkingchangepoint,
     author = "Cakmak, Ayse and Reinertsen, Erik and Nemati, Shamim and Clifford, Gari D",
     title = "Benchmarking changepoint detection algorithms on cardiac time series",
     date = "2024-04-16",
     journal = "arXiv preprint arXiv:2404.12408",
-    url = "https://arxiv.org/abs/2404.12408"
+    url = "https://drive.google.com/file/d/1L7ozHjo28o-37lnvN1yiv6xSzXIhmz9b/view?usp=sharing"
 }
 </pre>
 </div><div class="showbibtex">
@@ -10047,6 +10083,46 @@ Cakmak A, Reinertsen E, Nemati S, Clifford GD. <a href="https://arxiv.org/abs/24
 <label for="AyseCakmak_2024_04_16_Benchmarkingchangepoint">[show citation]</label>
 </div></div></td></tr><tr>
 <td>26</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="MohammadSendi_2024_03_08_Braindynamics">
+<div class="citation">
+Sendi M, Fu Z, Harnett N, Rooij S, Vergara V, Pizzagalli D, Daskalakis N, House S, Beaudoin F, An X, Neylan T, Clifford G, Jovanovic T, Linnstaedt S, Germine L, Bollen K, Rauch S, Haran J, Storrow A, Lewandowski C, Jr PM, Hendry P, Sheikh S, Jones C, Punches B, Swor R, Gentile N, Murty V, Hudak L, Pascual J, Seamon M, Harris E, Chang A, Pearson C, Peak D, Merchant R, Domeier R, Rathlev N, O'Neil B, Sergot P, Sanchez L, Bruce S, Sheridan J, Harte S, Kessler R, Koenen K, McLean S, Stevens J, Calhoun V, Ressler K. <a href="https://drive.google.com/file/d/11G1xll8FZJAo2vinrEEQvO-JbDZZ3ZEX/view?usp=sharing">Brain dynamics reflecting an intra-network brain state is associated with increased posttraumatic stress symptoms in the early aftermath of trauma</a>. 2024 March 8.
+</div>
+<div class="bibtex_source"><pre>@unpublished{MohammadSendi_2024_03_08_Braindynamics,
+    author = "Sendi, Mohammad and Fu, Zening and Harnett, Nathaniel and van Rooij, Sanne and Vergara, Victor and Pizzagalli, Diego and Daskalakis, Nikolaos and House, Stacey and Beaudoin, Francesca and An, Xinming and Neylan, Thomas and Clifford, Gari and Jovanovic, Tanja and Linnstaedt, Sarah and Germine, Laura and Bollen, Kenneth and Rauch, Scott and Haran, John and Storrow, Alan and Lewandowski, Christopher and Jr, Paul Musey and Hendry, Phyllis and Sheikh, Sophia and Jones, Christopher and Punches, Brittany and Swor, Robert and Gentile, Nina and Murty, Vishnu and Hudak, Lauren and Pascual, Jose and Seamon, Mark and Harris, Erica and Chang, Anna and Pearson, Claire and Peak, David and Merchant, Roland and Domeier, Robert and Rathlev, Niels and O'Neil, Brian and Sergot, Paulina and Sanchez, Leon and Bruce, Steven and Sheridan, John and Harte, Steven and Kessler, Ronald and Koenen, Karestan and McLean, Samuel and Stevens, Jennifer and Calhoun, Vince and Ressler, Kerry",
+    title = "Brain dynamics reflecting an intra-network brain state is associated with increased posttraumatic stress symptoms in the early aftermath of trauma",
+    date = "2024-03-08",
+    url = "https://drive.google.com/file/d/11G1xll8FZJAo2vinrEEQvO-JbDZZ3ZEX/view?usp=sharing",
+    journal = "nature portfolio"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="MohammadSendi_2024_03_08_Braindynamics">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="MohammadSendi_2024_03_08_Braindynamics">[show citation]</label>
+</div></div></td></tr><tr>
+<td>25</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="SamuelWaters_2024_02_22_DomainAdaptation">
+<div class="citation">
+Waters S, Berent J, Saini P, Clifford G. <a href="https://drive.google.com/file/d/144at8BWh1nKaCO6J3Osexqq_KqSOxraj/view?usp=sharing">Domain Adaptation Using Large Scale Databases for Sleep Staging from a Novel In-Ear Sensor</a>. 2024 February 22.
+</div>
+<div class="bibtex_source"><pre>@unpublished{SamuelWaters_2024_02_22_DomainAdaptation,
+    author = "Waters, Samuel and Berent, Jonathan and Saini, Prabhjyot and Clifford, Gari",
+    title = "Domain Adaptation Using Large Scale Databases for Sleep Staging from a Novel In-Ear Sensor",
+    date = "2024-02-22",
+    journal = "BioMedical Engineering OnLine",
+    url = "https://drive.google.com/file/d/144at8BWh1nKaCO6J3Osexqq\_KqSOxraj/view?usp=sharing"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="SamuelWaters_2024_02_22_DomainAdaptation">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="SamuelWaters_2024_02_22_DomainAdaptation">[show citation]</label>
+</div></div></td></tr><tr>
+<td>24</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="CeciliaHinojosa_UnknownDate_Rewardneurocircuitry">
 <div class="citation">
@@ -10067,18 +10143,18 @@ Hinojosa C, Rooij SJ, Fani N, Ellis RA, Harnett NG, Lebois L, Ely TD, Jovanovic 
 <div class="hidebibtex">
 <label for="CeciliaHinojosa_UnknownDate_Rewardneurocircuitry">[show citation]</label>
 </div></div></td></tr><tr>
-<td>25</td>
+<td>23</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AlyssaRoeckner_2023_10_Whenplasticity">
 <div class="citation">
-Roeckner A, Lin ER, Hinrichs R, Harnett NG, Lebois L, Rooij SJ, Ely TD, Jovanovic T, Murty VP, Bruce SE, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Musey PI, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Hudak LA, Pascual JL, Seamon MJ, Datner EM, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Joormann J, Sheridan JF, Harte SE, Koenen KC, Kessler RC, McLean SA, Ressler KJ, Stevens J. <a href="https://osf.io/preprints/b7vnq/">When plasticity becomes pathological: Sequential decreases in basolateral amygdala response to threat cues predict failure to recover from PTSD</a>. 2023 October.
+Roeckner A, Lin ER, Hinrichs R, Harnett NG, Lebois L, Rooij SJ, Ely TD, Jovanovic T, Murty VP, Bruce SE, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Musey PI, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Hudak LA, Pascual JL, Seamon MJ, Datner EM, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Joormann J, Sheridan JF, Harte SE, Koenen KC, Kessler RC, McLean SA, Ressler KJ, Stevens J. <a href="https://drive.google.com/file/d/17i-FXrU_NIJw0OSS7qDZBjZgZJLujZYS/view?usp=sharing">When plasticity becomes pathological: Sequential decreases in basolateral amygdala response to threat cues predict failure to recover from PTSD</a>. 2023 October 31.
 </div>
 <div class="bibtex_source"><pre>@unpublished{AlyssaRoeckner_2023_10_Whenplasticity,
     author = "Roeckner, Alyssa and Lin, Esther R-H and Hinrichs, Rebecca and Harnett, Nathaniel G and Lebois, Lauren and van Rooij, Sanne JH and Ely, Timothy D and Jovanovic, Tanja and Murty, Vishnu P and Bruce, Steven E and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Neylan, Thomas C and Clifford, Gari D and Linnstaedt, Sarah D and Germine, Laura T and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Musey, Paul I and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Datner, Elizabeth M and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sergot, Paulina and Sanchez, Leon D and Joormann, Jutta and Sheridan, John F and Harte, Steven E and Koenen, Karestan C and Kessler, Ronald C and McLean, Samuel A and Ressler, Kerry J and Stevens, Jennifer",
     title = "When plasticity becomes pathological: Sequential decreases in basolateral amygdala response to threat cues predict failure to recover from PTSD",
-    date = "2023-10",
-    url = "https://osf.io/preprints/b7vnq/",
-    note = "Publisher: OSF Preprints"
+    date = "2023-10-31",
+    url = "https://drive.google.com/file/d/17i-FXrU\_NIJw0OSS7qDZBjZgZJLujZYS/view?usp=sharing",
+    journal = "OSF Preprints"
 }
 </pre>
 </div><div class="showbibtex">
@@ -10087,27 +10163,7 @@ Roeckner A, Lin ER, Hinrichs R, Harnett NG, Lebois L, Rooij SJ, Ely TD, Jovanovi
 <div class="hidebibtex">
 <label for="AlyssaRoeckner_2023_10_Whenplasticity">[show citation]</label>
 </div></div></td></tr><tr>
-<td>24</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="StephanieHaering_2023_10_09_Disentanglingsex">
-<div class="citation">
-Haering S, Seligowski AV, Linnstaedt SD, Michopoulos V, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Gentile NT, Hudak LA, Pascual JL, Seamon MJ, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sanchez LD, Bruce SE, Harte SE, McLean SA, Kessler RC, Koenen KC, Powers A, Stevens J. <a href="https://osf.io/preprints/psyarxiv/rp7af/">Disentangling sex differences in PTSD risk factors: a systematic overview and multiple mediation analysis in the AURORA study</a>. 2023 October 9.
-</div>
-<div class="bibtex_source"><pre>@unpublished{StephanieHaering_2023_10_09_Disentanglingsex,
-    author = "Haering, Stephanie and Seligowski, Antonia V and Linnstaedt, Sarah D and Michopoulos, Vasiliki and House, Stacey L and Beaudoin, Franceska L and An, Xinming and Neylan, Thomas C and Clifford, Gari D and Germine, Laura T and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and Gentile, Nina T and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sanchez, Leon D and Bruce, Steven E and Harte, Steven E and McLean, Samuel A and Kessler, Ronald C and Koenen, Karestan C and Powers, Abigail and Stevens, Jennifer",
-    title = "Disentangling sex differences in PTSD risk factors: a systematic overview and multiple mediation analysis in the AURORA study",
-    date = "2023-10-09",
-    url = "https://osf.io/preprints/psyarxiv/rp7af/",
-    note = "Publisher: PsyArXiv"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="StephanieHaering_2023_10_09_Disentanglingsex">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="StephanieHaering_2023_10_09_Disentanglingsex">[show citation]</label>
-</div></div></td></tr><tr>
-<td>23</td>
+<td>22</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="EdilbertoAmorim_2023_08_28_TheInternational">
 <div class="citation">
@@ -10129,18 +10185,19 @@ Amorim E, Zheng W, Ghassemi MM, Aghaeeaval M, Kandhare P, Karukonda V, Lee JW, H
 <div class="hidebibtex">
 <label for="EdilbertoAmorim_2023_08_28_TheInternational">[show citation]</label>
 </div></div></td></tr><tr>
-<td>22</td>
+<td>21</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="StephanieHaering_2023_08_Sexdependentdifferences">
 <div class="citation">
-Haering S, Seligowski AV, Linnstaedt SD, Michopoulos V, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Gentile NT, Hudak LA, Pascual JL, Seamon MJ, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sanchez LD, Bruce SE, Harte SE, McLean SA, Kessler RC, Koenen KC, Stevens JS, Powers A. <a href="https://psyarxiv.com/57vjw/">Sex-dependent differences in vulnerability to early risk factors for posttraumatic stress disorder: results from the AURORA study</a>. 2023 August.
+Haering S, Seligowski AV, Linnstaedt SD, Michopoulos V, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Gentile NT, Hudak LA, Pascual JL, Seamon MJ, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sanchez LD, Bruce SE, Harte SE, McLean SA, Kessler RC, Koenen KC, Stevens JS, Powers A. <a href="https://psyarxiv.com/57vjw/">Sex-dependent differences in vulnerability to early risk factors for posttraumatic stress disorder: results from the AURORA study</a>. 2023 August. DOI: <a href="https://doi.org/10.31234/osf.io">10.31234/osf.io</a>.
 </div>
 <div class="bibtex_source"><pre>@unpublished{StephanieHaering_2023_08_Sexdependentdifferences,
     author = "Haering, Stephanie and Seligowski, Antonia V and Linnstaedt, Sarah D and Michopoulos, Vasiliki and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Neylan, Thomas C and Clifford, Gari D and Germine, Laura T and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and Gentile, Nina T and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sanchez, Leon D and Bruce, Steven E and Harte, Steven E and McLean, Samuel A and Kessler, Ronald C and Koenen, Karestan C and Stevens, Jennifer S and Powers, Abigail",
     title = "Sex-dependent differences in vulnerability to early risk factors for posttraumatic stress disorder: results from the AURORA study",
     date = "2023-08",
     url = "https://psyarxiv.com/57vjw/",
-    note = "Publisher: PsyArXiv"
+    note = "Publisher: PsyArXiv",
+    doi = "10.31234/osf.io/vyz9p"
 }
 </pre>
 </div><div class="showbibtex">
@@ -10149,7 +10206,7 @@ Haering S, Seligowski AV, Linnstaedt SD, Michopoulos V, House SL, Beaudoin FL, A
 <div class="hidebibtex">
 <label for="StephanieHaering_2023_08_Sexdependentdifferences">[show citation]</label>
 </div></div></td></tr><tr>
-<td>21</td>
+<td>20</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SannevanRooij_2023_06_28_Rethinkingresilience">
 <div class="citation">
@@ -10169,7 +10226,7 @@ Rooij S, Santos J, Hinojosa C, Ely T, Harnett N, Murty V, Lebois L, Jovanovic T,
 <div class="hidebibtex">
 <label for="SannevanRooij_2023_06_28_Rethinkingresilience">[show citation]</label>
 </div></div></td></tr><tr>
-<td>20</td>
+<td>19</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="YasharKiarashi_2023_05_30_IndoorLocalization">
 <div class="citation">
@@ -10189,7 +10246,7 @@ Kiarashi Y, Hedge C, Madala VSK, Nakum A, Singh R, Tweedy R, Clifford GD, Kwon H
 <div class="hidebibtex">
 <label for="YasharKiarashi_2023_05_30_IndoorLocalization">[show citation]</label>
 </div></div></td></tr><tr>
-<td>19</td>
+<td>18</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AbigailZeamer_2023_Pilotstudy">
 <div class="citation">
@@ -10211,7 +10268,7 @@ Zeamer A, Salive M, An X, House S, Beaudoin FL, Stevens JS, Zeng D, Neylan T, Cl
 <div class="hidebibtex">
 <label for="AbigailZeamer_2023_Pilotstudy">[show citation]</label>
 </div></div></td></tr><tr>
-<td>18</td>
+<td>17</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NasimKatebi_2023_AutomatedImage">
 <div class="citation">
@@ -10233,7 +10290,7 @@ Katebi N, Bremer W, Nguyen T, Phan D, Jeff J, Armstrong K, Phabian-Millbrook P, 
 <div class="hidebibtex">
 <label for="NasimKatebi_2023_AutomatedImage">[show citation]</label>
 </div></div></td></tr><tr>
-<td>17</td>
+<td>16</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZifanJiang_2023_Multimodalmental">
 <div class="citation">
@@ -10255,7 +10312,7 @@ Jiang Z, Seyedi S, Griner EL, Abbasi A, Rad AB, Kwon H, Cotes RO, Clifford GD. <
 <div class="hidebibtex">
 <label for="ZifanJiang_2023_Multimodalmental">[show citation]</label>
 </div></div></td></tr><tr>
-<td>16</td>
+<td>15</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZifanJiang_2023_Evaluatingand">
 <div class="citation">
@@ -10277,7 +10334,7 @@ Jiang Z, Seyedi S, Griner E, Abbasi A, Rad AB, Kwon H, Cotes RO, Clifford GD. <a
 <div class="hidebibtex">
 <label for="ZifanJiang_2023_Evaluatingand">[show citation]</label>
 </div></div></td></tr><tr>
-<td>15</td>
+<td>14</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="HyeokhyenKwon_2023_05_08_IndoorLocalization">
 <div class="citation">
@@ -10297,7 +10354,7 @@ Kwon H, Hedge C, Kiarashi Y, Madala VSK, Singh R, Nakum A, Tweedy R, Tonetto LM,
 <div class="hidebibtex">
 <label for="HyeokhyenKwon_2023_05_08_IndoorLocalization">[show citation]</label>
 </div></div></td></tr><tr>
-<td>14</td>
+<td>13</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MirceaDumitru_2023_01_06_Adatadriven">
 <div class="citation">
@@ -10317,26 +10374,27 @@ Dumitru M, Li Q, Alday EAP, Rad AB, Clifford GD, Sameni R. <a href="https://arxi
 <div class="hidebibtex">
 <label for="MirceaDumitru_2023_01_06_Adatadriven">[show citation]</label>
 </div></div></td></tr><tr>
-<td>13</td>
+<td>12</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="SalmanSeyedi_2023_01_05_AComparison">
+<input type="checkbox" class="toggle-button" id="SalmanSeyedi_UnknownDate_AComparison">
 <div class="citation">
-Seyedi S, Griner E, Corbin L, Jiang Z, Iacobelli L, Milloy A, Boazak M, Rad AB, Cotes RO, Clifford GD. A Comparison of HIPAA-Compliant Transcription Services for Psychiatric Interviews. PsyARXiV 2023 January 5.
+Seyedi S, Griner E, Corbin L, Jiang Z, Roberts K, Milloy A, Boazak M, Rad AB, Abbasi A, Cotes RO, Clifford G. <a href="https://drive.google.com/file/d/1MuLzc33c_ErSNI1CY3IcW3zSH7LqE3su/view?usp=sharing">A Comparison of HIPAA-Compliant Transcription Services for Virtual Psychiatric Interviews</a>. 2023 January 5.
 </div>
-<div class="bibtex_source"><pre>@article{SalmanSeyedi_2023_01_05_AComparison,
-    author = "Seyedi, Salman and Griner, Emily and Corbin, Lisette and Jiang, Zifan and Iacobelli, Luca and Milloy, Aaron and Boazak, Mina and Rad, Ali Bahrami and Cotes, Robert O and Clifford, Gari D",
-    title = "A Comparison of HIPAA-Compliant Transcription Services for Psychiatric Interviews",
+<div class="bibtex_source"><pre>@unpublished{SalmanSeyedi_UnknownDate_AComparison,
+    author = "Seyedi, Salman and Griner, Emily and Corbin, Lisette and Jiang, Zifan and Roberts, Kailey and Milloy, Aaron and Boazak, Mina and Rad, Ali Bahrami and Abbasi, Ahmed and Cotes, Robert O and Clifford, Gari",
+    title = "A Comparison of HIPAA-Compliant Transcription Services for Virtual Psychiatric Interviews",
     date = "2023-01-05",
-    journal = "PsyARXiV"
+    url = "https://drive.google.com/file/d/1MuLzc33c\_ErSNI1CY3IcW3zSH7LqE3su/view?usp=sharing",
+    journal = "PsyArXiv"
 }
 </pre>
 </div><div class="showbibtex">
-<label for="SalmanSeyedi_2023_01_05_AComparison">[show BibTeX]</label>
+<label for="SalmanSeyedi_UnknownDate_AComparison">[show BibTeX]</label>
 </div>
 <div class="hidebibtex">
-<label for="SalmanSeyedi_2023_01_05_AComparison">[show citation]</label>
+<label for="SalmanSeyedi_UnknownDate_AComparison">[show citation]</label>
 </div></div></td></tr><tr>
-<td>12</td>
+<td>11</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChengDing_2022_11_07_Clusterconsistency">
 <div class="citation">
@@ -10356,7 +10414,7 @@ Ding C, Guo Z, Shah A, Clifford G, Rudin C, Hu X. <a href="https://arxiv.org/abs
 <div class="hidebibtex">
 <label for="ChengDing_2022_11_07_Clusterconsistency">[show citation]</label>
 </div></div></td></tr><tr>
-<td>11</td>
+<td>10</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="PBSuresha_2012_AnEdge">
 <div class="citation">
@@ -10378,7 +10436,7 @@ Suresha P, Hegde C, Jiang Z, Clifford G. <a href="https://scholar.archive.org/wo
 <div class="hidebibtex">
 <label for="PBSuresha_2012_AnEdge">[show citation]</label>
 </div></div></td></tr><tr>
-<td>10</td>
+<td>9</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NasimKatebi_2022_01_28_DeepSequence">
 <div class="citation">
@@ -10400,7 +10458,7 @@ Katebi N, Clifford GD. <a href="https://www.medrxiv.org/content/10.1101/2022.01.
 <div class="hidebibtex">
 <label for="NasimKatebi_2022_01_28_DeepSequence">[show citation]</label>
 </div></div></td></tr><tr>
-<td>9</td>
+<td>8</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="IsmailSadiq_2021_12_28_MythologicalMedical">
 <div class="citation">
@@ -10420,7 +10478,7 @@ Sadiq I, Perez-Alday EA, Shah AJ, Rad AB, Sameni R, Clifford GD. <a href="https:
 <div class="hidebibtex">
 <label for="IsmailSadiq_2021_12_28_MythologicalMedical">[show citation]</label>
 </div></div></td></tr><tr>
-<td>8</td>
+<td>7</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChenglinNiu_2021_11_18_HRnVCalcA">
 <div class="citation">
@@ -10440,7 +10498,7 @@ Niu C, Guo D, Ong MEH, Koh ZX, Ho AFW, Lin Z, Liu C, Clifford GD, Liu N. <a href
 <div class="hidebibtex">
 <label for="ChenglinNiu_2021_11_18_HRnVCalcA">[show citation]</label>
 </div></div></td></tr><tr>
-<td>7</td>
+<td>6</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AyseSCakmak_2021_04_04_Latefusion">
 <div class="citation">
@@ -10460,7 +10518,7 @@ Cakmak AS, Densen S, Najarro G, Rout P, Rozell CJ, Inan OT, Shah AJ, Clifford GD
 <div class="hidebibtex">
 <label for="AyseSCakmak_2021_04_04_Latefusion">[show citation]</label>
 </div></div></td></tr><tr>
-<td>6</td>
+<td>5</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MatthewAReyna_2020_12_20_Votingof">
 <div class="citation">
@@ -10480,7 +10538,7 @@ Reyna MA, Clifford GD. <a href="https://arxiv.org/abs/2012.11013">Voting of pred
 <div class="hidebibtex">
 <label for="MatthewAReyna_2020_12_20_Votingof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>5</td>
+<td>4</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2020_07_20_TheFuture">
 <div class="citation">
@@ -10500,7 +10558,7 @@ Clifford GD. <a href="https://arxiv.org/abs/2007.10502">The Future AI in Healthc
 <div class="hidebibtex">
 <label for="GariDClifford_2020_07_20_TheFuture">[show citation]</label>
 </div></div></td></tr><tr>
-<td>4</td>
+<td>3</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChaitraHegde_2020_04_11_Autotriageanopen">
 <div class="citation">
@@ -10522,7 +10580,7 @@ Hegde C, Jiang Z, Suresha PB, Zelko J, Seyedi S, Smith MA, Wright DW, Kamaleswar
 <div class="hidebibtex">
 <label for="ChaitraHegde_2020_04_11_Autotriageanopen">[show citation]</label>
 </div></div></td></tr><tr>
-<td>3</td>
+<td>2</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JustusTCSchwabedal_2018_06_20_Addressingclass">
 <div class="citation">
@@ -10542,7 +10600,7 @@ Schwabedal JT, Snyder JC, Cakmak A, Nemati S, Clifford GD. <a href="https://arxi
 <div class="hidebibtex">
 <label for="JustusTCSchwabedal_2018_06_20_Addressingclass">[show citation]</label>
 </div></div></td></tr><tr>
-<td>2</td>
+<td>1</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="PatrickEMcSharry_2003_OPENSOURCESOFTWARE">
 <div class="citation">
@@ -10561,26 +10619,6 @@ McSharry PE, Clifford GD. <a href="https://arxiv.org/pdf/physics/0406017.pdf">OP
 </div>
 <div class="hidebibtex">
 <label for="PatrickEMcSharry_2003_OPENSOURCESOFTWARE">[show citation]</label>
-</div></div></td></tr><tr>
-<td>1</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="SalmanSeyedi_UnknownDate_AComparison">
-<div class="citation">
-Seyedi S, Griner E, Corbin L, Jiang Z, Roberts K, Milloy A, Boazak M, Rad AB, Abbasi A, Cotes RO, Clifford G. <a href="https://osf.io/preprints/psyarxiv/vyz9p/">A Comparison of HIPAA-Compliant Transcription Services for Virtual Psychiatric Interviews</a>. No Date.
-</div>
-<div class="bibtex_source"><pre>@unpublished{SalmanSeyedi_UnknownDate_AComparison,
-    author = "Seyedi, Salman and Griner, Emily and Corbin, Lisette and Jiang, Zifan and Roberts, Kailey and Milloy, Aaron and Boazak, Mina and Rad, Ali Bahrami and Abbasi, Ahmed and Cotes, Robert O and Clifford, Gari",
-    title = "A Comparison of HIPAA-Compliant Transcription Services for Virtual Psychiatric Interviews",
-    date = "No Date",
-    url = "https://osf.io/preprints/psyarxiv/vyz9p/",
-    note = "Publisher: PsyArXiv"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="SalmanSeyedi_UnknownDate_AComparison">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="SalmanSeyedi_UnknownDate_AComparison">[show citation]</label>
 </div></div></td></tr>
 </table>
 
@@ -11368,86 +11406,6 @@ Clifford GD. Statistical Conformal Field Theory and Information Loss in the Reno
 
 <table>
 <tr>
-<td>32</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="MohammadSendi_2024_03_08_Braindynamics">
-<div class="citation">
-Sendi M, Fu Z, Harnett N, Rooij S, Vergara V, Pizzagalli D, Daskalakis N, House S, Beaudoin F, An X, Neylan T, Clifford G, Jovanovic T, Linnstaedt S, Germine L, Bollen K, Rauch S, Haran J, Storrow A, Lewandowski C, Jr PM, Hendry P, Sheikh S, Jones C, Punches B, Swor R, Gentile N, Murty V, Hudak L, Pascual J, Seamon M, Harris E, Chang A, Pearson C, Peak D, Merchant R, Domeier R, Rathlev N, O'Neil B, Sergot P, Sanchez L, Bruce S, Sheridan J, Harte S, Kessler R, Koenen K, McLean S, Stevens J, Calhoun V, Ressler K. <a href="https://www.researchsquare.com/article/rs-4004473/latest">Brain dynamics reflecting an intra-network brain state is associated with increased posttraumatic stress symptoms in the early aftermath of trauma</a>. 2024 March 8.
-</div>
-<div class="bibtex_source"><pre>@misc{MohammadSendi_2024_03_08_Braindynamics,
-    author = "Sendi, Mohammad and Fu, Zening and Harnett, Nathaniel and van Rooij, Sanne and Vergara, Victor and Pizzagalli, Diego and Daskalakis, Nikolaos and House, Stacey and Beaudoin, Francesca and An, Xinming and Neylan, Thomas and Clifford, Gari and Jovanovic, Tanja and Linnstaedt, Sarah and Germine, Laura and Bollen, Kenneth and Rauch, Scott and Haran, John and Storrow, Alan and Lewandowski, Christopher and Jr, Paul Musey and Hendry, Phyllis and Sheikh, Sophia and Jones, Christopher and Punches, Brittany and Swor, Robert and Gentile, Nina and Murty, Vishnu and Hudak, Lauren and Pascual, Jose and Seamon, Mark and Harris, Erica and Chang, Anna and Pearson, Claire and Peak, David and Merchant, Roland and Domeier, Robert and Rathlev, Niels and O'Neil, Brian and Sergot, Paulina and Sanchez, Leon and Bruce, Steven and Sheridan, John and Harte, Steven and Kessler, Ronald and Koenen, Karestan and McLean, Samuel and Stevens, Jennifer and Calhoun, Vince and Ressler, Kerry",
-    title = "Brain dynamics reflecting an intra-network brain state is associated with increased posttraumatic stress symptoms in the early aftermath of trauma",
-    date = "2024-03-08",
-    url = "https://www.researchsquare.com/article/rs-4004473/latest"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="MohammadSendi_2024_03_08_Braindynamics">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="MohammadSendi_2024_03_08_Braindynamics">[show citation]</label>
-</div></div></td></tr><tr>
-<td>31</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="SeyedehSomayyehMousavi_2024_03_07_Asurvey">
-<div class="citation">
-Mousavi SS, Reyna MA, Clifford GD, Sameni R. <a href="https://www.mdpi.com/1424-8220/24/6/1730">A survey on blood pressure measurement technologies: Addressing potential sources of bias</a>. 2024 March 7.
-</div>
-<div class="bibtex_source"><pre>@misc{SeyedehSomayyehMousavi_2024_03_07_Asurvey,
-    author = "Mousavi, Seyedeh Somayyeh and Reyna, Matthew A and Clifford, Gari D and Sameni, Reza",
-    title = "A survey on blood pressure measurement technologies: Addressing potential sources of bias",
-    date = "2024-03-07",
-    issue = "6",
-    url = "https://www.mdpi.com/1424-8220/24/6/1730",
-    pages = "1730",
-    volume = "24",
-    note = "Publisher: MDPI"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="SeyedehSomayyehMousavi_2024_03_07_Asurvey">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="SeyedehSomayyehMousavi_2024_03_07_Asurvey">[show citation]</label>
-</div></div></td></tr><tr>
-<td>30</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="SamuelWaters_2024_02_22_DomainAdaptation">
-<div class="citation">
-Waters S, Berent J, Saini P, Clifford G. <a href="https://www.researchsquare.com/article/rs-3965548/latest">Domain Adaptation Using Large Scale Databases for Sleep Staging from a Novel In-Ear Sensor</a>. 2024 February 22.
-</div>
-<div class="bibtex_source"><pre>@misc{SamuelWaters_2024_02_22_DomainAdaptation,
-    author = "Waters, Samuel and Berent, Jonathan and Saini, Prabhjyot and Clifford, Gari",
-    title = "Domain Adaptation Using Large Scale Databases for Sleep Staging from a Novel In-Ear Sensor",
-    date = "2024-02-22",
-    url = "https://www.researchsquare.com/article/rs-3965548/latest"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="SamuelWaters_2024_02_22_DomainAdaptation">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="SamuelWaters_2024_02_22_DomainAdaptation">[show citation]</label>
-</div></div></td></tr><tr>
-<td>29</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="LCorbin_2023_01_05_AComparison">
-<div class="citation">
-Corbin L, Jiang Z, Roberts K, Milloy A, Boazak M, Rad A, Abbasi A, Cotes R, Clifford G. <a href="https://europepmc.org/article/ppr/ppr592793">A Comparison of HIPAA-Compliant Transcription Services for Virtual Psychiatric Interviews</a>. 2023 January 5.
-</div>
-<div class="bibtex_source"><pre>@misc{LCorbin_2023_01_05_AComparison,
-    author = "Corbin, L and Jiang, Z and Roberts, K and Milloy, A and Boazak, M and Rad, AB and Abbasi, A and Cotes, RO and Clifford, GD",
-    title = "A Comparison of HIPAA-Compliant Transcription Services for Virtual Psychiatric Interviews",
-    date = "2023-01-05",
-    url = "https://europepmc.org/article/ppr/ppr592793"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="LCorbin_2023_01_05_AComparison">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="LCorbin_2023_01_05_AComparison">[show citation]</label>
-</div></div></td></tr><tr>
 <td>28</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="XingyaoWang_2021_06_ParoxysmalAtrial">
@@ -11493,10 +11451,10 @@ Moody B, Moody G, Villarroel M, Clifford G, Silva I. <a href="https://scholar.go
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AhmedAbbasi_2018_08_01_MakeFairness">
 <div class="citation">
-Abbasi A, Li J, Clifford G, Taylor H. <a href="https://scholar.google.com/scholar?cluster=4776412726756249453&hl=en&oi=scholarr">Make 'fairness by design' part of machine learning</a>. 2018 August 1.
+Abbasi A, Li J, Clifford G, Taylor HA. <a href="https://scholar.google.com/scholar?cluster=4776412726756249453&hl=en&oi=scholarr">Make 'fairness by design' part of machine learning</a>. 2018 August 1.
 </div>
 <div class="bibtex_source"><pre>@misc{AhmedAbbasi_2018_08_01_MakeFairness,
-    author = "Abbasi, Ahmed and Li, Jingjing and Clifford, Gari and Taylor, Herman",
+    author = "Abbasi, Ahmed and Li, Jingjing and Clifford, Gari and Taylor, Herman A",
     title = "Make 'fairness by design' part of machine learning",
     date = "2018-08-01",
     url = "https://scholar.google.com/scholar?cluster=4776412726756249453\&hl=en\&oi=scholarr",
