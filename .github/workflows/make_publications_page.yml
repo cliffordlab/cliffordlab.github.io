@@ -12,6 +12,7 @@ on:
   # Update on the first of each month at 11:22.
   schedule:
     - cron: '22 11 1 * *'
+    - cron: '22 11 15 * *'
 jobs:
   # Generate the page
   make_publications_page:
