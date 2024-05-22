@@ -30,6 +30,7 @@ on:
   # Update on the first of each month at 11:11.
   schedule:
     - cron: '11 11 1 * *'
+    - cron: '11 11 15 * *'
   # This makes us able to run the Action manually.
   workflow_dispatch:
 jobs:
