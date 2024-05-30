@@ -6067,6 +6067,29 @@ McSharry PE, Clifford GD, Tarassenko L, Smith LA. <a href="https://drive.google.
 </div></div></td></tr><tr>
 <td>2</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="GClifford_2001_08_Detectionof">
+<div class="citation">
+Clifford G, Tarassenko L, Townsend N. <a href="https://drive.google.com/file/d/157Dsw9RZOMXl3VUR9kfP9mYgTPjsbiGX/view?usp=sharing">Detection of ectopic beats in the electrocardiogram using an auto-associative neural network</a>. Neural Processing Letters 2001 August; 14 (1): pp. 15-25.
+</div>
+<div class="bibtex_source"><pre>@article{GClifford_2001_08_Detectionof,
+    author = "Clifford, G and Tarassenko, L and Townsend, N",
+    title = "Detection of ectopic beats in the electrocardiogram using an auto-associative neural network",
+    date = "2001-08",
+    issue = "1",
+    journal = "Neural Processing Letters",
+    url = "https://drive.google.com/file/d/157Dsw9RZOMXl3VUR9kfP9mYgTPjsbiGX/view?usp=sharing",
+    volume = "14",
+    pages = "15-25"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="GClifford_2001_08_Detectionof">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="GClifford_2001_08_Detectionof">[show citation]</label>
+</div></div></td></tr><tr>
+<td>1</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GClifford_2001_08_30_Onepasstraining">
 <div class="citation">
 Clifford G, Tarassenko L, Townsend N. <a href="https://drive.google.com/file/d/1kmuLcmxoZIFilut6Dh0j-UcroSAA5wmr/view?usp=sharing">One-pass training of optimal architecture auto-associative neural network for detecting ectopic beats</a>. Electronics Letters 2001 August 30; 37 (18): pp. 1126-1127.
@@ -6088,29 +6111,6 @@ Clifford G, Tarassenko L, Townsend N. <a href="https://drive.google.com/file/d/1
 </div>
 <div class="hidebibtex">
 <label for="GClifford_2001_08_30_Onepasstraining">[show citation]</label>
-</div></div></td></tr><tr>
-<td>1</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="GClifford_2001_08_Detectionof">
-<div class="citation">
-Clifford G, Tarassenko L, Townsend N. <a href="https://drive.google.com/file/d/157Dsw9RZOMXl3VUR9kfP9mYgTPjsbiGX/view?usp=sharing">Detection of ectopic beats in the electrocardiogram using an auto-associative neural network</a>. Neural Processing Letters 2001 August; 14 (1): pp. 15-25.
-</div>
-<div class="bibtex_source"><pre>@article{GClifford_2001_08_Detectionof,
-    author = "Clifford, G and Tarassenko, L and Townsend, N",
-    title = "Detection of ectopic beats in the electrocardiogram using an auto-associative neural network",
-    date = "2001-08",
-    issue = "1",
-    journal = "Neural Processing Letters",
-    url = "https://drive.google.com/file/d/157Dsw9RZOMXl3VUR9kfP9mYgTPjsbiGX/view?usp=sharing",
-    volume = "14",
-    pages = "15-25"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="GClifford_2001_08_Detectionof">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="GClifford_2001_08_Detectionof">[show citation]</label>
 </div></div></td></tr>
 </table>
 
@@ -9247,6 +9247,28 @@ Sameni R, Clifford G, Ward J, Robertson J, Pettigrew C, Wolfberg A. <a href="htt
 </div></div></td></tr><tr>
 <td>31</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="TiffanyAChen_2009_01_01_TheEffect">
+<div class="citation">
+Chen TA, Mark RG, Clifford GD. <a href="https://drive.google.com/file/d/16bU0T9YYpICbaMEinTs7_9RvuDvDBiq8/view?usp=sharing">The effect of signal quality on six cardiac output estimators</a>. 2009 36th Annual Computers in Cardiology Conference (CinC), Park City, UT, USA 2009 September 13; pp. 197-200.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{TiffanyAChen_2009_01_01_TheEffect,
+    author = "Chen, Tiffany A and Mark, Roger G and Clifford, Gari D",
+    title = "The effect of signal quality on six cardiac output estimators",
+    date = "2009-09-13",
+    booktitle = "2009 36th Annual Computers in Cardiology Conference (CinC), Park City, UT, USA",
+    url = "https://drive.google.com/file/d/16bU0T9YYpICbaMEinTs7\_9RvuDvDBiq8/view?usp=sharing",
+    pages = "197-200",
+    publisher = "Institute of Electrical and Electronics Engineers"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="TiffanyAChen_2009_01_01_TheEffect">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="TiffanyAChen_2009_01_01_TheEffect">[show citation]</label>
+</div></div></td></tr><tr>
+<td>30</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="EhudJeruhamSchmidt_2009_MRIcompatible12lead">
 <div class="citation">
 Schmidt EJ, Clifford G, Jerosch-Herald M, Kwong RY, Epstein L, Kacher D, Dumoulin CL, Jolesz F. <a href="https://drive.google.com/file/d/13fGFRg9hlKqrHqY7oLlVfZRtgUXInmKg/view?usp=sharing">MRI-compatible 12-lead ECG: improved MHD suppression, ischemia monitoring, and non-invasive cardiac output</a>. International Society for Magnetic Resonance in Medicine (ISMRM) 17th Annual Meeting and Exhibition, Honolulu, Oahu, USA 2009 April 18; A4778.
@@ -9266,7 +9288,7 @@ Schmidt EJ, Clifford G, Jerosch-Herald M, Kwong RY, Epstein L, Kacher D, Dumouli
 <div class="hidebibtex">
 <label for="EhudJeruhamSchmidt_2009_MRIcompatible12lead">[show citation]</label>
 </div></div></td></tr><tr>
-<td>30</td>
+<td>29</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LeoAnthonyCeli_2009_12_01_ISSUESWITH">
 <div class="citation">
@@ -9290,7 +9312,7 @@ Celi LA, Hug C, Villaroel M, Clifford G, Mark R. <a href="https://scholar.google
 <div class="hidebibtex">
 <label for="LeoAnthonyCeli_2009_12_01_ISSUESWITH">[show citation]</label>
 </div></div></td></tr><tr>
-<td>29</td>
+<td>28</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LeoAnthonyCeli_2009_12_01_COMPARINGTHE">
 <div class="citation">
@@ -9314,40 +9336,18 @@ Celi LA, Villaroel M, Davidzon G, Galvin S, Clifford G, Galvin I, Bunton R, Szol
 <div class="hidebibtex">
 <label for="LeoAnthonyCeli_2009_12_01_COMPARINGTHE">[show citation]</label>
 </div></div></td></tr><tr>
-<td>28</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="TiffanyAChen_2009_01_01_TheEffect">
-<div class="citation">
-Chen TA, Mark RG, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/5445437/">The effect of signal quality on six cardiac output estimators</a>. Comput Cardiol. Vol 36 2009 January 1; pp. 197-200.
-</div>
-<div class="bibtex_source"><pre>@inproceedings{TiffanyAChen_2009_01_01_TheEffect,
-    author = "Chen, Tiffany A and Mark, Roger G and Clifford, Gari D",
-    title = "The effect of signal quality on six cardiac output estimators",
-    date = "2009-01-01",
-    booktitle = "Comput Cardiol. Vol 36",
-    url = "https://ieeexplore.ieee.org/abstract/document/5445437/",
-    pages = "197-200",
-    publisher = "Institute of Electrical and Electronics Engineers"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="TiffanyAChen_2009_01_01_TheEffect">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="TiffanyAChen_2009_01_01_TheEffect">[show citation]</label>
-</div></div></td></tr><tr>
 <td>27</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GDClifford_2008_09_14_Anartificial">
 <div class="citation">
-Clifford G, Nemati S, Sameni R. <a href="https://ieeexplore.ieee.org/abstract/document/4749156/">An artificial multi-channel model for generating abnormal electrocardiographic rhythms</a>. 2008 Computers in Cardiology 2008 September 14; pp. 773-776.
+Clifford G, Nemati S, Sameni R. <a href="https://drive.google.com/file/d/1KBYb49a6ZE38W7_jHbVScOxWNgxcd8r6/view?usp=sharing">An artificial multi-channel model for generating abnormal electrocardiographic rhythms</a>. 2008 Computers in Cardiology (CinC), Bologna, Italy 2008 September 14; pp. 773-776.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{GDClifford_2008_09_14_Anartificial,
     author = "Clifford, GD and Nemati, S and Sameni, R",
     title = "An artificial multi-channel model for generating abnormal electrocardiographic rhythms",
     date = "2008-09-14",
-    booktitle = "2008 Computers in Cardiology",
-    url = "https://ieeexplore.ieee.org/abstract/document/4749156/",
+    booktitle = "2008 Computers in Cardiology (CinC), Bologna, Italy",
+    url = "https://drive.google.com/file/d/1KBYb49a6ZE38W7\_jHbVScOxWNgxcd8r6/view?usp=sharing",
     pages = "773-776",
     publisher = "IEEE"
 }
@@ -9362,14 +9362,14 @@ Clifford G, Nemati S, Sameni R. <a href="https://ieeexplore.ieee.org/abstract/do
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AKhaustov_2008_09_14_Anopensource">
 <div class="citation">
-Khaustov A, Nemati S, Clifford G. <a href="https://ieeexplore.ieee.org/abstract/document/4749090/">An open-source standard T-wave alternans detector for benchmarking</a>. 2008 Computers in Cardiology 2008 September 14; pp. 509-512.
+Khaustov A, Nemati S, Clifford G. <a href="https://drive.google.com/file/d/1hHz7qq43WhUyR8Gk5DaKbYgTBhCMWZh4/view?usp=sharing">An open-source standard T-wave alternans detector for benchmarking</a>. 2008 Computers in Cardiology (CinC), Bologna, Italy 2008 September 14; pp. 509-512.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{AKhaustov_2008_09_14_Anopensource,
     author = "Khaustov, A and Nemati, S and Clifford, GD",
     title = "An open-source standard T-wave alternans detector for benchmarking",
     date = "2008-09-14",
-    booktitle = "2008 Computers in Cardiology",
-    url = "https://ieeexplore.ieee.org/abstract/document/4749090/",
+    booktitle = "2008 Computers in Cardiology (CinC), Bologna, Italy",
+    url = "https://drive.google.com/file/d/1hHz7qq43WhUyR8Gk5DaKbYgTBhCMWZh4/view?usp=sharing",
     pages = "509-512",
     publisher = "IEEE"
 }
@@ -9384,14 +9384,14 @@ Khaustov A, Nemati S, Clifford G. <a href="https://ieeexplore.ieee.org/abstract/
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="QiaoLi_2008_05_16_Suppressfalse">
 <div class="citation">
-Li Q, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/4535756/">Suppress false Arrhythmia alarms of ICU monitors using heart rate estimation based on combined arterial blood pressure and ECG analysis</a>. 2008 2nd International Conference on Bioinformatics and Biomedical Engineering 2008 May 16; pp. 2185-2187.
+Li Q, Clifford GD. <a href="https://drive.google.com/file/d/1z5eqZ-lQ1p1P671GGP0iJ8JK4FpOmbSv/view?usp=sharing">Suppress false Arrhythmia alarms of ICU monitors using heart rate estimation based on combined arterial blood pressure and ECG analysis</a>. 2008 2nd International Conference on Bioinformatics and Biomedical Engineering, Shanghai, China 2008 May 16; pp. 2185-2187.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{QiaoLi_2008_05_16_Suppressfalse,
     author = "Li, Qiao and Clifford, Gari D",
     title = "Suppress false Arrhythmia alarms of ICU monitors using heart rate estimation based on combined arterial blood pressure and ECG analysis",
     date = "2008-05-16",
-    booktitle = "2008 2nd International Conference on Bioinformatics and Biomedical Engineering",
-    url = "https://ieeexplore.ieee.org/abstract/document/4535756/",
+    booktitle = "2008 2nd International Conference on Bioinformatics and Biomedical Engineering, Shanghai, China",
+    url = "https://drive.google.com/file/d/1z5eqZ-lQ1p1P671GGP0iJ8JK4FpOmbSv/view?usp=sharing",
     pages = "2185-2187",
     publisher = "IEEE"
 }
@@ -9428,60 +9428,16 @@ Wolfberg A, Syed Z, Clifford G, Derosier D, Tin A, Plessis A. <a href="https://d
 </div></div></td></tr><tr>
 <td>23</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="CWHug_2007_09_30_Ananalysis">
-<div class="citation">
-Hug C, Clifford GD. <a href="https://ieeexplore.ieee.org/abstract/document/4745567/">An analysis of the errors in recorded heart rate and blood pressure in the ICU using a complex set of signal quality metrics</a>. 2007 Computers in Cardiology 2007 September 30; pp. 641-644.
-</div>
-<div class="bibtex_source"><pre>@inproceedings{CWHug_2007_09_30_Ananalysis,
-    author = "Hug, CW and Clifford, Gari D",
-    title = "An analysis of the errors in recorded heart rate and blood pressure in the ICU using a complex set of signal quality metrics",
-    date = "2007-09-30",
-    booktitle = "2007 Computers in Cardiology",
-    url = "https://ieeexplore.ieee.org/abstract/document/4745567/",
-    pages = "641-644",
-    publisher = "IEEE"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="CWHug_2007_09_30_Ananalysis">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="CWHug_2007_09_30_Ananalysis">[show citation]</label>
-</div></div></td></tr><tr>
-<td>22</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="LHLehman_2007_09_30_Atemporal">
-<div class="citation">
-Lehman L, Kyaw T, Clifford G, Mark R. <a href="https://ieeexplore.ieee.org/abstract/document/4745566/">A temporal search engine for a massive multi-parameter clinical information database</a>. Computers in Cardiology, 2007 2007 September 30; pp. 637-640.
-</div>
-<div class="bibtex_source"><pre>@inproceedings{LHLehman_2007_09_30_Atemporal,
-    author = "Lehman, LH and Kyaw, TH and Clifford, GD and Mark, RG",
-    title = "A temporal search engine for a massive multi-parameter clinical information database",
-    date = "2007-09-30",
-    booktitle = "Computers in Cardiology, 2007",
-    url = "https://ieeexplore.ieee.org/abstract/document/4745566/",
-    pages = "637-640",
-    publisher = "IEEE"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="LHLehman_2007_09_30_Atemporal">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="LHLehman_2007_09_30_Atemporal">[show citation]</label>
-</div></div></td></tr><tr>
-<td>21</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MCVillarroel_2007_09_Findingrelevant">
 <div class="citation">
-Villarroel M, Saeed A, Clifford G, Moody G, Mark R. <a href="https://ieeexplore.ieee.org/abstract/document/4745472/">Finding relevant cases in large databases of signals, time series, and clinical data</a>. Computers in Cardiology 2007 September; pp. 265-268.
+Villarroel M, Saeed A, Clifford G, Moody G, Mark R. <a href="https://drive.google.com/file/d/1bRcWcndYM_YXjWr2esGdQwQDp_tvNVXb/view?usp=sharing">Finding relevant cases in large databases of signals, time series, and clinical data</a>. 2007 Computers in Cardiology (CinC), Durham, NC, USA 2007 September 30; pp. 265-268.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{MCVillarroel_2007_09_Findingrelevant,
     author = "Villarroel, MC and Saeed, A and Clifford, GD and Moody, GB and Mark, RG",
     title = "Finding relevant cases in large databases of signals, time series, and clinical data",
-    date = "2007-09",
-    booktitle = "Computers in Cardiology",
-    url = "https://ieeexplore.ieee.org/abstract/document/4745472/",
+    date = "2007-09-30",
+    booktitle = "2007 Computers in Cardiology (CinC), Durham, NC, USA",
+    url = "https://drive.google.com/file/d/1bRcWcndYM\_YXjWr2esGdQwQDp\_tvNVXb/view?usp=sharing",
     pages = "265-268",
     publisher = "IEEE"
 }
@@ -9492,18 +9448,62 @@ Villarroel M, Saeed A, Clifford G, Moody G, Mark R. <a href="https://ieeexplore.
 <div class="hidebibtex">
 <label for="MCVillarroel_2007_09_Findingrelevant">[show citation]</label>
 </div></div></td></tr><tr>
+<td>22</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="CWHug_2007_09_30_Ananalysis">
+<div class="citation">
+Hug C, Clifford GD. <a href="https://drive.google.com/file/d/1tpEM1cHfpN9JeFE2uA1ModxLi1ow0t64/view?usp=sharing">An analysis of the errors in recorded heart rate and blood pressure in the ICU using a complex set of signal quality metrics</a>. 2007 Computers in Cardiology (CinC), Durham, NC, USA 2007 September 30; pp. 641-644.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{CWHug_2007_09_30_Ananalysis,
+    author = "Hug, CW and Clifford, Gari D",
+    title = "An analysis of the errors in recorded heart rate and blood pressure in the ICU using a complex set of signal quality metrics",
+    date = "2007-09-30",
+    booktitle = "2007 Computers in Cardiology (CinC), Durham, NC, USA",
+    url = "https://drive.google.com/file/d/1tpEM1cHfpN9JeFE2uA1ModxLi1ow0t64/view?usp=sharing",
+    pages = "641-644",
+    publisher = "IEEE"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="CWHug_2007_09_30_Ananalysis">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="CWHug_2007_09_30_Ananalysis">[show citation]</label>
+</div></div></td></tr><tr>
+<td>21</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="LHLehman_2007_09_30_Atemporal">
+<div class="citation">
+Lehman L, Kyaw T, Clifford G, Mark R. <a href="https://drive.google.com/file/d/1qn4OhfMjOHZihl09cZFhlNM8nU1ua5Bv/view?usp=sharing">A temporal search engine for a massive multi-parameter clinical information database</a>. 2007 Computers in Cardiology (CinC), Durham, NC, USA 2007 September 30; pp. 637-640.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{LHLehman_2007_09_30_Atemporal,
+    author = "Lehman, LH and Kyaw, TH and Clifford, GD and Mark, RG",
+    title = "A temporal search engine for a massive multi-parameter clinical information database",
+    date = "2007-09-30",
+    booktitle = "2007 Computers in Cardiology (CinC), Durham, NC, USA",
+    url = "https://drive.google.com/file/d/1qn4OhfMjOHZihl09cZFhlNM8nU1ua5Bv/view?usp=sharing",
+    pages = "637-640",
+    publisher = "IEEE"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="LHLehman_2007_09_30_Atemporal">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="LHLehman_2007_09_30_Atemporal">[show citation]</label>
+</div></div></td></tr><tr>
 <td>20</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GDClifford_2006_09_17_Usingthe">
 <div class="citation">
-Clifford G, Aboukhalil A, Sun J, Zong W, Janz B, Moody G, Mark R. <a href="https://ieeexplore.ieee.org/abstract/document/4511980/">Using the blood pressure waveform to reduce critical false ECG alarms</a>. 2006 Computers in Cardiology 2006 September 17; pp. 829-832.
+Clifford G, Aboukhalil A, Sun J, Zong W, Janz B, Moody G, Mark R. <a href="https://drive.google.com/file/d/1IhRfOs1txtCxVMbTr-0HmtmOYsmN47d0/view?usp=sharing">Using the blood pressure waveform to reduce critical false ECG alarms</a>. 2006 Computers in Cardiology (CinC), Valenica, Spain 2006 September 17; pp. 829-832.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{GDClifford_2006_09_17_Usingthe,
     author = "Clifford, GD and Aboukhalil, A and Sun, JX and Zong, W and Janz, BA and Moody, GB and Mark, RG",
     title = "Using the blood pressure waveform to reduce critical false ECG alarms",
     date = "2006-09-17",
-    booktitle = "2006 Computers in Cardiology",
-    url = "https://ieeexplore.ieee.org/abstract/document/4511980/",
+    booktitle = "2006 Computers in Cardiology (CinC), Valenica, Spain",
+    url = "https://drive.google.com/file/d/1IhRfOs1txtCxVMbTr-0HmtmOYsmN47d0/view?usp=sharing",
     pages = "829-832",
     publisher = "IEEE"
 }
@@ -9518,14 +9518,14 @@ Clifford G, Aboukhalil A, Sun J, Zong W, Janz B, Moody G, Mark R. <a href="https
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GDClifford_2006_09_17_Modelbaseddetermination">
 <div class="citation">
-Clifford G, Villarroel M. <a href="https://ieeexplore.ieee.org/abstract/document/4511862/">Model-based determination of QT intervals</a>. 2006 Computers in Cardiology 2006 September 17; pp. 357-360.
+Clifford G, Villarroel M. <a href="https://drive.google.com/file/d/1e7v9yL18rwd2qoZzxuutM4ExRMAZYGmH/view?usp=sharing">Model-based determination of QT intervals</a>. 2006 Computers in Cardiology (CinC), Valencia, Spain 2006 September 17; pp. 357-360.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{GDClifford_2006_09_17_Modelbaseddetermination,
     author = "Clifford, GD and Villarroel, MC",
     title = "Model-based determination of QT intervals",
     date = "2006-09-17",
-    booktitle = "2006 Computers in Cardiology",
-    url = "https://ieeexplore.ieee.org/abstract/document/4511862/",
+    booktitle = "2006 Computers in Cardiology (CinC), Valencia, Spain",
+    url = "https://drive.google.com/file/d/1e7v9yL18rwd2qoZzxuutM4ExRMAZYGmH/view?usp=sharing",
     pages = "357-360",
     publisher = "IEEE"
 }
@@ -9540,14 +9540,14 @@ Clifford G, Villarroel M. <a href="https://ieeexplore.ieee.org/abstract/document
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GDClifford_2005_09_25_Methodto">
 <div class="citation">
-Clifford G, McSharry P. <a href="https://ieeexplore.ieee.org/abstract/document/1588204/">Method to filter ecgs and evaluate clinical parameter distortion using realistic ECG model parameter fitting</a>. Computers in Cardiology, 2005 2005 September 25; pp. 715-718.
+Clifford G, McSharry P. <a href="https://drive.google.com/file/d/1b_NAgCfv6_glXqKOP3iPKO3et9pLQTIR/view?usp=sharing">Method to filter ecgs and evaluate clinical parameter distortion using realistic ECG model parameter fitting</a>. 2005 Computers in Cardiology (CinC), Lyon, France 2005 September 25; pp. 715-718.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{GDClifford_2005_09_25_Methodto,
     author = "Clifford, GD and McSharry, PE",
     title = "Method to filter ecgs and evaluate clinical parameter distortion using realistic ECG model parameter fitting",
     date = "2005-09-25",
-    booktitle = "Computers in Cardiology, 2005",
-    url = "https://ieeexplore.ieee.org/abstract/document/1588204/",
+    booktitle = "2005 Computers in Cardiology (CinC), Lyon, France",
+    url = "https://drive.google.com/file/d/1b\_NAgCfv6\_glXqKOP3iPKO3et9pLQTIR/view?usp=sharing",
     pages = "715-718",
     publisher = "IEEE"
 }
@@ -9562,14 +9562,14 @@ Clifford G, McSharry P. <a href="https://ieeexplore.ieee.org/abstract/document/1
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GDClifford_2005_09_25_Segmentationof">
 <div class="citation">
-Clifford G, Zapanta L, Janz B, Mietus J, Youn C, Mark R. <a href="https://ieeexplore.ieee.org/abstract/document/1588171/">Segmentation of 24-hour cardiovascular activity using ECG-based sleep/sedation and noise metrics</a>. Computers in Cardiology, 2005 2005 September 25; pp. 595-598.
+Clifford G, Zapanta L, Janz B, Mietus J, Youn C, Mark R. <a href="https://drive.google.com/file/d/1d3KQDfbUOTV2awEznrPjvF1M0BRbbVyS/view?usp=sharing">Segmentation of 24-hour cardiovascular activity using ECG-based sleep/sedation and noise metrics</a>. 2005 Computers in Cardiology (CinC), Lyon, France 2005 September 25; pp. 595-598.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{GDClifford_2005_09_25_Segmentationof,
     author = "Clifford, GD and Zapanta, LF and Janz, BA and Mietus, JE and Youn, CY and Mark, RG",
     title = "Segmentation of 24-hour cardiovascular activity using ECG-based sleep/sedation and noise metrics",
     date = "2005-09-25",
-    booktitle = "Computers in Cardiology, 2005",
-    url = "https://ieeexplore.ieee.org/abstract/document/1588171/",
+    booktitle = "2005 Computers in Cardiology (CinC), Lyon, France",
+    url = "https://drive.google.com/file/d/1d3KQDfbUOTV2awEznrPjvF1M0BRbbVyS/view?usp=sharing",
     pages = "595-598",
     publisher = "IEEE"
 }
@@ -9584,14 +9584,14 @@ Clifford G, Zapanta L, Janz B, Mietus J, Youn C, Mark R. <a href="https://ieeexp
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="PEMcSharry_2005_09_25_Astatistical">
 <div class="citation">
-McSharry P, Clifford G. <a href="https://ieeexplore.ieee.org/abstract/document/1588170/">A statistical model of the sleep-wake dynamics of the cardiac rhythm</a>. Computers in Cardiology, 2005 2005 September 25; pp. 591-594.
+McSharry P, Clifford G. <a href="https://drive.google.com/file/d/1Y1ksyrQ2gUxj5wN9Mw6bHPwWxV291ZT6/view?usp=sharing">A statistical model of the sleep-wake dynamics of the cardiac rhythm</a>. 2005 Computers in Cardiology (CinC), Lyon, France 2005 September 25; pp. 591-594.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{PEMcSharry_2005_09_25_Astatistical,
     author = "McSharry, PE and Clifford, GD",
     title = "A statistical model of the sleep-wake dynamics of the cardiac rhythm",
     date = "2005-09-25",
-    booktitle = "Computers in Cardiology, 2005",
-    url = "https://ieeexplore.ieee.org/abstract/document/1588170/",
+    booktitle = "2005 Computers in Cardiology (CinC), Lyon, France",
+    url = "https://drive.google.com/file/d/1Y1ksyrQ2gUxj5wN9Mw6bHPwWxV291ZT6/view?usp=sharing",
     pages = "591-594",
     publisher = "IEEE"
 }
@@ -9606,14 +9606,14 @@ McSharry P, Clifford G. <a href="https://ieeexplore.ieee.org/abstract/document/1
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="BAJanz_2005_09_25_Multivariableanalysis">
 <div class="citation">
-Janz B, Clifford G, Mietus J, Mark R. <a href="https://ieeexplore.ieee.org/abstract/document/1588209/">Multivariable analysis of sedation, activity, and agitation in critically ill patients using the Riker scale ECG, blood pressure, and respiratory rate</a>. Computers in Cardiology, 2005 2005 September 25; pp. 735-738.
+Janz B, Clifford G, Mietus J, Mark R. <a href="https://drive.google.com/file/d/1PP1qyQ8LEHhJE38QinjisRXae23LzBvi/view?usp=sharing">Multivariable analysis of sedation, activity, and agitation in critically ill patients using the Riker scale ECG, blood pressure, and respiratory rate</a>. 2005 Computers in Cardiology (CinC), Lyon, France 2005 September 25; pp. 735-738.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{BAJanz_2005_09_25_Multivariableanalysis,
     author = "Janz, BA and Clifford, GD and Mietus, JE and Mark, RG",
     title = "Multivariable analysis of sedation, activity, and agitation in critically ill patients using the Riker scale ECG, blood pressure, and respiratory rate",
     date = "2005-09-25",
-    booktitle = "Computers in Cardiology, 2005",
-    url = "https://ieeexplore.ieee.org/abstract/document/1588209/",
+    booktitle = "2005 Computers in Cardiology (CinC), Lyon, France",
+    url = "https://drive.google.com/file/d/1PP1qyQ8LEHhJE38QinjisRXae23LzBvi/view?usp=sharing",
     pages = "735-738",
     publisher = "IEEE"
 }
@@ -9628,14 +9628,14 @@ Janz B, Clifford G, Mietus J, Mark R. <a href="https://ieeexplore.ieee.org/abstr
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MargaretDouglass_2004_09_19_Computerassisteddeidentification">
 <div class="citation">
-Douglass M, Clifford GD, Reisner A, Moody GB, Mark RG. <a href="https://ieeexplore.ieee.org/abstract/document/1442942/">Computer-assisted de-identification of free text in the MIMIC II database</a>. Computers in Cardiology, 2004 2004 September 19; pp. 341-344.
+Douglass M, Clifford GD, Reisner A, Moody GB, Mark RG. <a href="https://drive.google.com/file/d/1pposZsiNUuhlYHW-BO-YNQkUjMNVFvtx/view?usp=sharing">Computer-assisted de-identification of free text in the MIMIC II database</a>. 2004 Computers in Cardiology (CinC), Chicago, IL, USA 2004 September 19; pp. 341-344.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{MargaretDouglass_2004_09_19_Computerassisteddeidentification,
     author = "Douglass, Margaret and Clifford, Gari D and Reisner, Andrew and Moody, George B and Mark, Roger G",
     title = "Computer-assisted de-identification of free text in the MIMIC II database",
     date = "2004-09-19",
-    booktitle = "Computers in Cardiology, 2004",
-    url = "https://ieeexplore.ieee.org/abstract/document/1442942/",
+    booktitle = "2004 Computers in Cardiology (CinC), Chicago, IL, USA",
+    url = "https://drive.google.com/file/d/1pposZsiNUuhlYHW-BO-YNQkUjMNVFvtx/view?usp=sharing",
     pages = "341-344",
     publisher = "IEEE"
 }
@@ -9650,14 +9650,14 @@ Douglass M, Clifford GD, Reisner A, Moody GB, Mark RG. <a href="https://ieeexplo
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GDClifford_2004_09_19_Generating24hour">
 <div class="citation">
-Clifford G, McSharry P. <a href="https://ieeexplore.ieee.org/abstract/document/1443037/">Generating 24-hour ECG, BP and respiratory signals with realistic linear and nonlinear clinical characteristics using a nonlinear model</a>. Computers in Cardiology, 2004 2004 September 19; pp. 709-712.
+Clifford G, McSharry P. <a href="https://drive.google.com/file/d/1TRqwQgIeeZKK8u92-yXJo-zZ2uu6xXik/view?usp=sharing/">Generating 24-hour ECG, BP and respiratory signals with realistic linear and nonlinear clinical characteristics using a nonlinear model</a>. 2004 Computers in Cardiology (CinC), Chicago, IL, USA 2004 September 19; pp. 709-712.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{GDClifford_2004_09_19_Generating24hour,
     author = "Clifford, GD and McSharry, PE",
     title = "Generating 24-hour ECG, BP and respiratory signals with realistic linear and nonlinear clinical characteristics using a nonlinear model",
     date = "2004-09-19",
-    booktitle = "Computers in Cardiology, 2004",
-    url = "https://ieeexplore.ieee.org/abstract/document/1443037/",
+    booktitle = "2004 Computers in Cardiology (CinC), Chicago, IL, USA",
+    url = "https://drive.google.com/file/d/1TRqwQgIeeZKK8u92-yXJo-zZ2uu6xXik/view?usp=sharing/",
     pages = "709-712",
     publisher = "IEEE"
 }
@@ -9672,14 +9672,14 @@ Clifford G, McSharry P. <a href="https://ieeexplore.ieee.org/abstract/document/1
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JShu_2004_09_19_Anopensource">
 <div class="citation">
-Shu J, Clifford G, Long W, Moody G, Szolovits P, Mark R. <a href="https://ieeexplore.ieee.org/abstract/document/1442906/">An open-source, interactive java-based system for rapid encoding of significant events in the icu using the unified medical language system</a>. Computers in Cardiology, 2004 2004 September 19; pp. 197-200.
+Shu J, Clifford G, Long W, Moody G, Szolovits P, Mark R. <a href="https://drive.google.com/file/d/1sRjZQwmF376FO1yqhROcv0Fopp3mraST/view?usp=sharing">An open-source, interactive java-based system for rapid encoding of significant events in the icu using the unified medical language system</a>. 2004 Computers in Cardiology (CinC), Chicago, IL, USA 2004 September 19; pp. 197-200.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{JShu_2004_09_19_Anopensource,
     author = "Shu, J and Clifford, GD and Long, WJ and Moody, GB and Szolovits, P and Mark, RG",
     title = "An open-source, interactive java-based system for rapid encoding of significant events in the icu using the unified medical language system",
     date = "2004-09-19",
-    booktitle = "Computers in Cardiology, 2004",
-    url = "https://ieeexplore.ieee.org/abstract/document/1442906/",
+    booktitle = "2004 Computers in Cardiology (CinC), Chicago, IL, USA",
+    url = "https://drive.google.com/file/d/1sRjZQwmF376FO1yqhROcv0Fopp3mraST/view?usp=sharing",
     pages = "197-200",
     publisher = "IEEE"
 }
@@ -9694,14 +9694,14 @@ Shu J, Clifford G, Long W, Moody G, Szolovits P, Mark R. <a href="https://ieeexp
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="HWang_2004_09_19_Methodsand">
 <div class="citation">
-Wang H, Azuaje F, Clifford G, Jung B, Black N. <a href="https://ieeexplore.ieee.org/abstract/document/1443003/">Methods and tools for generating and managing ecgML-based information</a>. Computers in Cardiology, 2004 2004 September 19; pp. 573-576.
+Wang H, Azuaje F, Clifford G, Jung B, Black N. <a href="https://drive.google.com/file/d/1UML-9M5cxbHxfsQtoLBMhJC0D1uxGssZ/view?usp=sharing">Methods and tools for generating and managing ecgML-based information</a>. 2004 Computers in Cardiology (CinC), Chicago, IL, USA 2004 September 19; pp. 573-576.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{HWang_2004_09_19_Methodsand,
     author = "Wang, H and Azuaje, F and Clifford, G and Jung, B and Black, N",
     title = "Methods and tools for generating and managing ecgML-based information",
     date = "2004-09-19",
-    booktitle = "Computers in Cardiology, 2004",
-    url = "https://ieeexplore.ieee.org/abstract/document/1443003/",
+    booktitle = "2004 Computers in Cardiology (CinC), Chicago, IL, USA",
+    url = "https://drive.google.com/file/d/1UML-9M5cxbHxfsQtoLBMhJC0D1uxGssZ/view?usp=sharing",
     pages = "573-576",
     publisher = "IEEE"
 }
@@ -9716,14 +9716,14 @@ Wang H, Azuaje F, Clifford G, Jung B, Black N. <a href="https://ieeexplore.ieee.
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="OTAbdala_2004_09_19_Theannotation">
 <div class="citation">
-Abdala O, Clifford G, Saeed M, Reisner A, Moody G, Henry I, Mark R. <a href="https://ieeexplore.ieee.org/abstract/document/1443030/">The annotation station: an open-source technology for annotating large biomedical databases</a>. Computers in Cardiology, 2004 2004 September 19; pp. 681-684.
+Abdala O, Clifford G, Saeed M, Reisner A, Moody G, Henry I, Mark R. <a href="https://drive.google.com/file/d/1tO-Oe51F6_Wz51h-Ul8NX9grLTmM9pFf/view?usp=sharing">The annotation station: an open-source technology for annotating large biomedical databases</a>. 2004 Computers in Cardiology (CinC), Chicago, IL, USA 2004 September 19; pp. 681-684.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{OTAbdala_2004_09_19_Theannotation,
     author = "Abdala, OT and Clifford, GD and Saeed, M and Reisner, A and Moody, G and Henry, I and Mark, RG",
     title = "The annotation station: an open-source technology for annotating large biomedical databases",
     date = "2004-09-19",
-    booktitle = "Computers in Cardiology, 2004",
-    url = "https://ieeexplore.ieee.org/abstract/document/1443030/",
+    booktitle = "2004 Computers in Cardiology (CinC), Chicago, IL, USA",
+    url = "https://drive.google.com/file/d/1tO-Oe51F6\_Wz51h-Ul8NX9grLTmM9pFf/view?usp=sharing",
     pages = "681-684",
     publisher = "IEEE"
 }
@@ -9738,14 +9738,14 @@ Abdala O, Clifford G, Saeed M, Reisner A, Moody G, Henry I, Mark R. <a href="htt
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JHealey_2004_09_19_Anopensource">
 <div class="citation">
-Healey J, Clifford G, Kontothanassis L, McSharry P. <a href="https://ieeexplore.ieee.org/abstract/document/1442964/">An open-source method for simulating atrial fibrillation using ECGSYN</a>. Computers in Cardiology, 2004 2004 September 19; pp. 425-427.
+Healey J, Clifford G, Kontothanassis L, McSharry P. <a href="https://drive.google.com/file/d/1F5G6fU405EYIKDlmCOVUnT7vkw4bYhA7/view?usp=sharing">An open-source method for simulating atrial fibrillation using ECGSYN</a>. 2004 Computers in Cardiology (CinC), Chicago, IL, USA 2004 September 19; pp. 425-427.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{JHealey_2004_09_19_Anopensource,
     author = "Healey, J and Clifford, GD and Kontothanassis, L and McSharry, PE",
     title = "An open-source method for simulating atrial fibrillation using ECGSYN",
     date = "2004-09-19",
-    booktitle = "Computers in Cardiology, 2004",
-    url = "https://ieeexplore.ieee.org/abstract/document/1442964/",
+    booktitle = "2004 Computers in Cardiology (CinC), Chicago, IL, USA",
+    url = "https://drive.google.com/file/d/1F5G6fU405EYIKDlmCOVUnT7vkw4bYhA7/view?usp=sharing",
     pages = "425-427",
     publisher = "IEEE"
 }
@@ -9779,28 +9779,6 @@ Clifford G, McSharry P. <a href="https://drive.google.com/file/d/1VaJHaVH7llRleH
 </div></div></td></tr><tr>
 <td>7</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="DongSuNam_2004_QoSconstrainedresource">
-<div class="citation">
-Nam DS, Youn C, Lee BH, Clifford G, Healey J. <a href="https://link.springer.com/chapter/10.1007/978-3-540-24707-4_44">QoS-constrained resource allocation for a grid-based multiple source electrocardiogram application</a>. Computational Science and Its Applications--ICCSA 2004: International Conference, Assisi, Italy, May 14-17, 2004, Proceedings, Part I 4 2004; pp. 352-359.
-</div>
-<div class="bibtex_source"><pre>@inproceedings{DongSuNam_2004_QoSconstrainedresource,
-    author = "Nam, Dong Su and Youn, Chan-Hyun and Lee, Bong Hwan and Clifford, Gari and Healey, Jennifer",
-    title = "QoS-constrained resource allocation for a grid-based multiple source electrocardiogram application",
-    date = "2004",
-    booktitle = "Computational Science and Its Applications--ICCSA 2004: International Conference, Assisi, Italy, May 14-17, 2004, Proceedings, Part I 4",
-    url = "https://link.springer.com/chapter/10.1007/978-3-540-24707-4\_44",
-    pages = "352-359",
-    publisher = "Springer Berlin Heidelberg"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="DongSuNam_2004_QoSconstrainedresource">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="DongSuNam_2004_QoSconstrainedresource">[show citation]</label>
-</div></div></td></tr><tr>
-<td>6</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="PEMcSharry_2004_Acomparison">
 <div class="citation">
 McSharry P, Clifford G. <a href="https://drive.google.com/file/d/1coxUR2bxcfm0aBGmC9FT5S8-3oO4ZO-d/view?usp=sharing">A comparison of nonlinear noise reduction and independent component analysis using a realistic dynamical model of the electrocardiogram</a>. 2nd International Symposium on Fluctuation and Noise (2004), Maspalomas, Gran Canaria Island, Spain 2004 May 26; pp. 78-88.
@@ -9821,18 +9799,18 @@ McSharry P, Clifford G. <a href="https://drive.google.com/file/d/1coxUR2bxcfm0aB
 <div class="hidebibtex">
 <label for="PEMcSharry_2004_Acomparison">[show citation]</label>
 </div></div></td></tr><tr>
-<td>5</td>
+<td>6</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2004_05_25_Arealistic">
 <div class="citation">
-Clifford GD, McSharry PE. <a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5467/0000/A-realistic-coupled-nonlinear-artificial-ECG-BP-and-respiratory-signal/10.1117/12.544525.short">A realistic coupled nonlinear artificial ECG, BP, and respiratory signal generator for assessing noise performance of biomedical signal processing algorithms</a>. Fluctuations and Noise in Biological, Biophysical, and Biomedical Systems II 2004 May 25; 5467: pp. 290-301.
+Clifford GD, McSharry PE. <a href="https://drive.google.com/file/d/15Pniz1a-vEM4AWmpsxH2LcPUcJSPQz9Z/view?usp=sharing">A realistic coupled nonlinear artificial ECG, BP, and respiratory signal generator for assessing noise performance of biomedical signal processing algorithms</a>. 2nd International Symposium on Fluctuations and Noise, 2004, Maspalomas, Gran Canaria Island, Spain 2004 May 25; 5467: pp. 290-301.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{GariDClifford_2004_05_25_Arealistic,
     author = "Clifford, Gari D and McSharry, Patrick E",
     title = "A realistic coupled nonlinear artificial ECG, BP, and respiratory signal generator for assessing noise performance of biomedical signal processing algorithms",
     date = "2004-05-25",
-    booktitle = "Fluctuations and Noise in Biological, Biophysical, and Biomedical Systems II",
-    url = "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5467/0000/A-realistic-coupled-nonlinear-artificial-ECG-BP-and-respiratory-signal/10.1117/12.544525.short",
+    booktitle = "2nd International Symposium on Fluctuations and Noise, 2004, Maspalomas, Gran Canaria Island, Spain",
+    url = "https://drive.google.com/file/d/15Pniz1a-vEM4AWmpsxH2LcPUcJSPQz9Z/view?usp=sharing",
     pages = "290-301",
     volume = "5467",
     publisher = "SPIE"
@@ -9844,18 +9822,40 @@ Clifford GD, McSharry PE. <a href="https://www.spiedigitallibrary.org/conference
 <div class="hidebibtex">
 <label for="GariDClifford_2004_05_25_Arealistic">[show citation]</label>
 </div></div></td></tr><tr>
+<td>5</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="DongSuNam_2004_QoSconstrainedresource">
+<div class="citation">
+Nam DS, Youn C, Lee BH, Clifford G, Healey J. <a href="https://drive.google.com/file/d/1SPpcfz49BMtC3IxdHxj4QHE29HGJze5y/view?usp=sharing">QoS-constrained resource allocation for a grid-based multiple source electrocardiogram application</a>. Computational Science and Its Applications-ICCSA 2004: International Conference, Assisi, Italy 2004 May 14; pp. 352-359.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{DongSuNam_2004_QoSconstrainedresource,
+    author = "Nam, Dong Su and Youn, Chan-Hyun and Lee, Bong Hwan and Clifford, Gari and Healey, Jennifer",
+    title = "QoS-constrained resource allocation for a grid-based multiple source electrocardiogram application",
+    date = "2004-05-14",
+    booktitle = "Computational Science and Its Applications-ICCSA 2004: International Conference, Assisi, Italy",
+    url = "https://drive.google.com/file/d/1SPpcfz49BMtC3IxdHxj4QHE29HGJze5y/view?usp=sharing",
+    pages = "352-359",
+    publisher = "Springer Berlin Heidelberg"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="DongSuNam_2004_QoSconstrainedresource">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="DongSuNam_2004_QoSconstrainedresource">[show citation]</label>
+</div></div></td></tr><tr>
 <td>4</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GDClifford_2002_09_22_Characterizingartefact">
 <div class="citation">
-Clifford G, McSharry P, Tarassenko L. <a href="https://ieeexplore.ieee.org/abstract/document/1166724/">Characterizing artefact in the normal human 24-hour RR time series to aid identification and artificial replication of circadian variations in human beat to beat heart rate using a simple threshold</a>. Computers in Cardiology 2002 September 22; 29: pp. 129-132.
+Clifford G, McSharry P, Tarassenko L. <a href="https://drive.google.com/file/d/13egQHcD_KwWGk5Vfmg989lRIHt3jYAWV/view?usp=sharing">Characterizing artefact in the normal human 24-hour RR time series to aid identification and artificial replication of circadian variations in human beat to beat heart rate using a simple threshold</a>. 2002 Computers in Cardiology (CinC), Memphis, TN, USA 2002 September 22; 29: pp. 129-132.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{GDClifford_2002_09_22_Characterizingartefact,
     author = "Clifford, GD and McSharry, PE and Tarassenko, L",
     title = "Characterizing artefact in the normal human 24-hour RR time series to aid identification and artificial replication of circadian variations in human beat to beat heart rate using a simple threshold",
     date = "2002-09-22",
-    booktitle = "Computers in Cardiology",
-    url = "https://ieeexplore.ieee.org/abstract/document/1166724/",
+    booktitle = "2002 Computers in Cardiology (CinC), Memphis, TN, USA",
+    url = "https://drive.google.com/file/d/13egQHcD\_KwWGk5Vfmg989lRIHt3jYAWV/view?usp=sharing",
     pages = "129-132",
     volume = "29",
     publisher = "IEEE"
@@ -9871,14 +9871,14 @@ Clifford G, McSharry P, Tarassenko L. <a href="https://ieeexplore.ieee.org/abstr
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="PatrickEMcSharry_2002_09_22_Methodfor">
 <div class="citation">
-McSharry PE, Clifford G, Tarassenko L, Smith LA. <a href="https://ieeexplore.ieee.org/abstract/document/1166748/">Method for generating an artificial RR tachogram of a typical healthy human over 24-hours</a>. Computers in Cardiology, 2002 2002 September 22; pp. 225-228.
+McSharry PE, Clifford G, Tarassenko L, Smith LA. <a href="https://drive.google.com/file/d/1rc-GSjLXpmkojptknyotSPuDsyI_w8XH/view?usp=sharing">Method for generating an artificial RR tachogram of a typical healthy human over 24-hours</a>. 2002 Computers in Cardiology (CinC), Memphis, TN, USA 2002 September 22; pp. 225-228.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{PatrickEMcSharry_2002_09_22_Methodfor,
     author = "McSharry, Patrick E and Clifford, G and Tarassenko, L and Smith, Leonard A",
     title = "Method for generating an artificial RR tachogram of a typical healthy human over 24-hours",
     date = "2002-09-22",
-    booktitle = "Computers in Cardiology, 2002",
-    url = "https://ieeexplore.ieee.org/abstract/document/1166748/",
+    booktitle = "2002 Computers in Cardiology (CinC), Memphis, TN, USA",
+    url = "https://drive.google.com/file/d/1rc-GSjLXpmkojptknyotSPuDsyI\_w8XH/view?usp=sharing",
     pages = "225-228",
     publisher = "IEEE Computer Society Press"
 }
@@ -9893,14 +9893,14 @@ McSharry PE, Clifford G, Tarassenko L, Smith LA. <a href="https://ieeexplore.iee
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LTarassenko_2001_01_01_Medicalsignal">
 <div class="citation">
-Tarassenko L, Townsend N, Clifford G, Mason L, Burton J, Price J. <a href="https://drive.google.com/file/d/11Nx7prkHfxpcEJmvaQ0xyZRq71Dv5-qU/view?usp=sharing">Medical signal processing using the software monitor</a>. ERA/IEE Workshop Intelligent Sensor Processing 2001 January 1; pp. 3-3.
+Tarassenko L, Townsend N, Clifford G, Mason L, Burton J, Price J. <a href="https://drive.google.com/file/d/1LUcPWtal3ug8N1t592liRPy3yTjCqiwj/view?usp=sharing">Medical signal processing using the software monitor</a>. ERA/IEE Workshop Intelligent Sensor Processing 2001 January 1; pp. 3-3.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{LTarassenko_2001_01_01_Medicalsignal,
     author = "Tarassenko, L and Townsend, N and Clifford, G and Mason, L and Burton, J and Price, J",
     title = "Medical signal processing using the software monitor",
     date = "2001-01-01",
     booktitle = "ERA/IEE Workshop Intelligent Sensor Processing",
-    url = "https://drive.google.com/file/d/11Nx7prkHfxpcEJmvaQ0xyZRq71Dv5-qU/view?usp=sharing",
+    url = "https://drive.google.com/file/d/1LUcPWtal3ug8N1t592liRPy3yTjCqiwj/view?usp=sharing",
     pages = "3-3",
     note = "Publisher: IET Digital Library"
 }
@@ -9915,14 +9915,14 @@ Tarassenko L, Townsend N, Clifford G, Mason L, Burton J, Price J. <a href="https
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GClifford_2000_08_21_Fusingconventional">
 <div class="citation">
-Clifford G, Tarassenko L, Townsend N. <a href="https://ieeexplore.ieee.org/abstract/document/893412/">Fusing conventional ECG QRS detection algorithms with an auto-associative neural network for the detection of ectopic beats</a>. WCC 2000-ICSP 2000. 2000 5th International Conference on Signal Processing Proceedings. 16th World Computer Congress 2000 2000 August 21; 3: pp. 1623-1628.
+Clifford G, Tarassenko L, Townsend N. <a href="https://drive.google.com/file/d/11_02Ftw4LqNadhG7pk_gq6WUvkvDEeyp/view?usp=sharing">Fusing conventional ECG QRS detection algorithms with an auto-associative neural network for the detection of ectopic beats</a>. WCC 2000-ICSP 2000. 2000 5th International Conference on Signal Processing Proceedings. 16th World Computer Congress 2000, Beijing, China 2000 August 21; 3: pp. 1623-1628.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{GClifford_2000_08_21_Fusingconventional,
     author = "Clifford, G and Tarassenko, L and Townsend, N",
     title = "Fusing conventional ECG QRS detection algorithms with an auto-associative neural network for the detection of ectopic beats",
     date = "2000-08-21",
-    booktitle = "WCC 2000-ICSP 2000. 2000 5th International Conference on Signal Processing Proceedings. 16th World Computer Congress 2000",
-    url = "https://ieeexplore.ieee.org/abstract/document/893412/",
+    booktitle = "WCC 2000-ICSP 2000. 2000 5th International Conference on Signal Processing Proceedings. 16th World Computer Congress 2000, Beijing, China",
+    url = "https://drive.google.com/file/d/11\_02Ftw4LqNadhG7pk\_gq6WUvkvDEeyp/view?usp=sharing",
     pages = "1623-1628",
     volume = "3",
     publisher = "IEEE"
@@ -10149,26 +10149,6 @@ Rooij S, Santos J, Hinojosa C, Ely T, Harnett N, Murty V, Lebois L, Jovanovic T,
 </div></div></td></tr><tr>
 <td>19</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="YasharKiarashi_2023_05_30_IndoorLocalization">
-<div class="citation">
-Kiarashi Y, Hedge C, Madala VSK, Nakum A, Singh R, Tweedy R, Clifford GD, Kwon H. <a href="https://arxiv.org/abs/2305.19342">Indoor Localization using Bluetooth and Inertial Motion Sensors in Distributed Edge and Cloud Computing Environment</a>. arXiv preprint arXiv:2305.19342 2023 May 30.
-</div>
-<div class="bibtex_source"><pre>@article{YasharKiarashi_2023_05_30_IndoorLocalization,
-    author = "Kiarashi, Yashar and Hedge, Chaitra and Madala, Venkata Siva Krishna and Nakum, ArjunSinh and Singh, Ratan and Tweedy, Robert and Clifford, Gari D and Kwon, Hyeokhyen",
-    title = "Indoor Localization using Bluetooth and Inertial Motion Sensors in Distributed Edge and Cloud Computing Environment",
-    date = "2023-05-30",
-    journal = "arXiv preprint arXiv:2305.19342",
-    url = "https://arxiv.org/abs/2305.19342"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="YasharKiarashi_2023_05_30_IndoorLocalization">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="YasharKiarashi_2023_05_30_IndoorLocalization">[show citation]</label>
-</div></div></td></tr><tr>
-<td>18</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AbigailZeamer_2023_Pilotstudy">
 <div class="citation">
 Zeamer A, Salive M, An X, House S, Beaudoin FL, Stevens JS, Zeng D, Neylan T, Clifford GD, Linnstaedt SD, Rauch SL, Storrow AB, Lewandowski C, Musey PI, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Hudak LA, Seamon MJ, Harris E, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Bruce SE, Kessler RC, Koenen KC, McLean SA, Bucci V, Haran JP. <a href="https://www.medrxiv.org/content/10.1101/2023.03.01.23286577.abstract">Pilot study of the association between microbiome and the development of adverse posttraumatic neuropsychiatric sequelae after traumatic stress exposure</a>. medRxiv 2023; p. 2023.03. 01.23286577.
@@ -10189,7 +10169,7 @@ Zeamer A, Salive M, An X, House S, Beaudoin FL, Stevens JS, Zeng D, Neylan T, Cl
 <div class="hidebibtex">
 <label for="AbigailZeamer_2023_Pilotstudy">[show citation]</label>
 </div></div></td></tr><tr>
-<td>17</td>
+<td>18</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NasimKatebi_2023_AutomatedImage">
 <div class="citation">
@@ -10211,7 +10191,7 @@ Katebi N, Bremer W, Nguyen T, Phan D, Jeff J, Armstrong K, Phabian-Millbrook P, 
 <div class="hidebibtex">
 <label for="NasimKatebi_2023_AutomatedImage">[show citation]</label>
 </div></div></td></tr><tr>
-<td>16</td>
+<td>17</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZifanJiang_2023_Multimodalmental">
 <div class="citation">
@@ -10232,6 +10212,26 @@ Jiang Z, Seyedi S, Griner EL, Abbasi A, Rad AB, Kwon H, Cotes RO, Clifford GD. <
 </div>
 <div class="hidebibtex">
 <label for="ZifanJiang_2023_Multimodalmental">[show citation]</label>
+</div></div></td></tr><tr>
+<td>16</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="YasharKiarashi_2023_05_30_IndoorLocalization">
+<div class="citation">
+Kiarashi Y, Hedge C, Madala VSK, Nakum A, Singh R, Tweedy R, Clifford GD, Kwon H. <a href="https://arxiv.org/abs/2305.19342">Indoor Localization using Bluetooth and Inertial Motion Sensors in Distributed Edge and Cloud Computing Environment</a>. arXiv preprint arXiv:2305.19342 2023 May 30.
+</div>
+<div class="bibtex_source"><pre>@article{YasharKiarashi_2023_05_30_IndoorLocalization,
+    author = "Kiarashi, Yashar and Hedge, Chaitra and Madala, Venkata Siva Krishna and Nakum, ArjunSinh and Singh, Ratan and Tweedy, Robert and Clifford, Gari D and Kwon, Hyeokhyen",
+    title = "Indoor Localization using Bluetooth and Inertial Motion Sensors in Distributed Edge and Cloud Computing Environment",
+    date = "2023-05-30",
+    journal = "arXiv preprint arXiv:2305.19342",
+    url = "https://arxiv.org/abs/2305.19342"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="YasharKiarashi_2023_05_30_IndoorLocalization">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="YasharKiarashi_2023_05_30_IndoorLocalization">[show citation]</label>
 </div></div></td></tr><tr>
 <td>15</td>
 <td><div class="citation_container">
