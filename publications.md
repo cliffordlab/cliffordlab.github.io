@@ -2440,7 +2440,7 @@ Behar JA, Liu C, Kotzen K, Tsutsui K, Corino VD, Singh J, Pimentel MA, Warrick P
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NasimKatebi_2020_09_04_Unsupervisedhidden">
 <div class="citation">
-Katebi N, Marzbanrad F, Stroux L, Valderrama CE, Clifford GD. <a href="https://iopscience.iop.org/article/10.1088/1361-6579/aba006/pdf?casa_token=Yk0pa-njXlMAAAAA:BOWIIEV1-H1lkb_Fn6TncM-B16rm9A6EP69e27xa061JicSX14TAn0mnubql_zG45zpHd7D8qysxpdqNbWxcuVQ4CpQ">Unsupervised hidden semi-Markov model for automatic beat onset detection in 1D Doppler ultrasound</a>. Physiological Measurement 2020 September 18; 41 (8): p. 085007.
+Katebi N, Marzbanrad F, Stroux L, Valderrama CE, Clifford GD. <a href="https://drive.google.com/file/d/1IQX581hGky_yiilwuF6W-u-2gJjAMPF1/view?usp=drive_link">Unsupervised hidden semi-Markov model for automatic beat onset detection in 1D Doppler ultrasound</a>. Physiological Measurement 2020 September 18; 41 (8): p. 085007.
 </div>
 <div class="bibtex_source"><pre>@article{NasimKatebi_2020_09_04_Unsupervisedhidden,
     author = "Katebi, Nasim and Marzbanrad, Faezeh and Stroux, Lisa and Valderrama, Camilo E and Clifford, Gari D",
