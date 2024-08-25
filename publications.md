@@ -10177,12 +10177,18 @@ Amorim E, Zheng W, Ghassemi MM, Aghaeeaval M, Kandhare P, Karukonda V, Lee JW, H
 Haering S, Seligowski AV, Linnstaedt SD, Michopoulos V, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Gentile NT, Hudak LA, Pascual JL, Seamon MJ, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sanchez LD, Bruce SE, Harte SE, McLean SA, Kessler RC, Koenen KC, Stevens JS, Powers A. <a href="https://psyarxiv.com/57vjw/">Sex-dependent differences in vulnerability to early risk factors for posttraumatic stress disorder: results from the AURORA study</a>. 2023 August. DOI: <a href="https://doi.org/10.31234/osf.io">10.31234/osf.io</a>.
 </div>
 <div class="bibtex_source"><pre>@unpublished{StephanieHaering_2023_08_Sexdependentdifferences,
-    author = "Haering, Stephanie and Seligowski, Antonia V and Linnstaedt, Sarah D and Michopoulos, Vasiliki and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Neylan, Thomas C and Clifford, Gari D and Germine, Laura T and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and Gentile, Nina T and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sanchez, Leon D and Bruce, Steven E and Harte, Steven E and McLean, Samuel A and Kessler, Ronald C and Koenen, Karestan C and Stevens, Jennifer S and Powers, Abigail",
-    title = "Sex-dependent differences in vulnerability to early risk factors for posttraumatic stress disorder: results from the AURORA study",
-    date = "2023-08",
-    url = "https://psyarxiv.com/57vjw/",
-    note = "Publisher: PsyArXiv",
-    doi = "10.31234/osf.io/vyz9p"
+    author = {Haering, Stephanie and Seligowski, Antonia V and Linnstaedt, Sarah D and Michopoulos, Vasiliki and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Neylan, Thomas C and Clifford, Gari D and Germine, Laura T and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and Gentile, Nina T and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sanchez, Leon D and Bruce, Steven E and Harte, Steven E and McLean, Samuel A and Kessler, Ronald C and Koenen, Karestan C and Stevens, Jennifer S and Powers, Abigail},
+    title = {Sex-dependent differences in vulnerability to early risk factors for posttraumatic stress disorder: results from the AURORA study},
+  journal = {Psychological Medicine},
+  volume = {},
+  number = {},
+  pages = {1-11},
+  year = {2024},
+  month = {May},
+  doi = {10.1017/S0033291724000941},
+  pmid = {38775091},
+  eprint = {https://psyarxiv.com/57vjw/},
+  note = {Epub ahead of print},
 }
 </pre>
 </div><div class="showbibtex">
