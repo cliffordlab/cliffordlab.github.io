@@ -579,3 +579,8 @@ CLQ-NLsb8zAC # JoelXue_2024_05_01_ADNNmodelbased
 P9oYG7HA76QC # QiaoLi_2024_05_01_Acomparison
 dX-nQPao9noC # RuiyangQin_2024_LanguageModels
 qu5FZ_za5owC # MatthewAReyna_UnknownDate_Digitizationand
+yFpZgd9WRDkC # YasharKiarashi_2024_09_06_OffbodySleep
+t6hKUfryX1MC # AliBahramiRad_2024_09_02_ACrowdsourced
+brChLMnLtjYC # EdlynRamos_2024_09_01_MobilMonitoring
+f8T_-ThkUo0C # NKBhatia_2024_09_01_ID4121476
+Cv-mv52rCCkC # NKBhatia_2024_09_01_ID4120879
