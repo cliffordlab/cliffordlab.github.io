@@ -15,10 +15,10 @@ permalink: /publications
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="EdlynRamos_2024_09_01_MobilMonitoring">
 <div class="citation">
-Ramos E, Palax IP, Cuxil ES, Iquic ES, Ajqui AC, Miller AC, Chandrasekeran S, Hall-Clifford R, Sameni R, Katebi N, Clifford GD, Rohloff P. <a href="https://drive.google.com/file/d/11eWOewXwTuWfXu9cdga6PYZV8AkA0H1U/view?usp=sharing">Mobil Monitoring Doppler Ultrasound (MoMDUS) study: protocol for a prospective, observational study investigating the use of artificial intelligence and low-cost Doppler ultrasound for the automated quantification of hypertension, pre-eclampsia and fetal growth restriction in rural Guatemala</a>. BMJ Open 2024 September 10; 14 (9): p. e090503. DOI: <a href="https://doi.org/10.1136/bmjopen-2024-090503">10.1136/bmjopen-2024-090503</a>.
+Ramos E, Palax IP, Cuxil ES, Iquic ES, Ajqui AC, Miller AC, Chandrasekaran S, Hall-Clifford R, Sameni R, Katebi N, Clifford GD, Rohloff P. <a href="https://drive.google.com/file/d/11eWOewXwTuWfXu9cdga6PYZV8AkA0H1U/view?usp=sharing">Mobil Monitoring Doppler Ultrasound (MoMDUS) study: protocol for a prospective, observational study investigating the use of artificial intelligence and low-cost Doppler ultrasound for the automated quantification of hypertension, pre-eclampsia and fetal growth restriction in rural Guatemala</a>. BMJ Open 2024 September 10; 14 (9): p. e090503. DOI: <a href="https://doi.org/10.1136/bmjopen-2024-090503">10.1136/bmjopen-2024-090503</a>.
 </div>
 <div class="bibtex_source"><pre>@article{EdlynRamos_2024_09_01_MobilMonitoring,
-    author = "Ramos, Edlyn and Palax, Irma Pil{\'o} and Cuxil, Emily Serech and Iquic, Elsa Sebaquijay and Ajqui, Ana Can{\'u} and Miller, Ann C and Chandrasekeran, Suchitra and Hall-Clifford, Rachel and Sameni, Reza and Katebi, Nasim and Clifford, Gari D and Rohloff, Peter",
+    author = "Ramos, Edlyn and Palax, Irma Pil{\'o} and Cuxil, Emily Serech and Iquic, Elsa Sebaquijay and Ajqui, Ana Can{\'u} and Miller, Ann C and Chandrasekaran, Suchitra and Hall-Clifford, Rachel and Sameni, Reza and Katebi, Nasim and Clifford, Gari D and Rohloff, Peter",
     title = "Mobil Monitoring Doppler Ultrasound (MoMDUS) study: protocol for a prospective, observational study investigating the use of artificial intelligence and low-cost Doppler ultrasound for the automated quantification of hypertension, pre-eclampsia and fetal growth restriction in rural Guatemala",
     date = "2024-09-10",
     issue = "9",
