@@ -5,6 +5,29 @@ permalink: /news
 ---
 <details open><summary><font size="6">2024</font></summary>
 <div onclick="">
+	<font size="5">Dr. Clifford co-leads workshop in Kenya to promote African innovation in AI and Health Technology</font>
+<br>
+	<em>June 2024</em> - Dr. Gari Clifford and <a href="https://reynalab.org/">Dr. Reyna</a>, who lead the <a href="https://moody-challenge.physionet.org/2024/#conference-attendance">George B. Moody physioNet Challenges</a>, recently traveled to Nyeri, Kenya to run a workshop at <a href="https://www.datascienceafrica.org/">Data Science Africa (DSA)</a>, running from <a href="https://www.datascienceafrica.org/dsa2024nyeri/2024/01/31/Workshop.html">6-7 June</a>. With generous support from the <a href="https://signalprocessingsociety.org/publications-resources/challenges-and-data-collections">IEEE Signal Processing Society’s Challenges and Data Collections Committee (CDCC)</a>, <a href="https://signalprocessingsociety.org/publications-resources/data-challenges/digitization-and-classification-ecg-images-george-b-moody">an extra set of cash prizes have been provided for participating teams from Africa</a>. a <a href="https://www.datascienceafrica.org/dsa2024nyeri/">workshop at this year’s annual DSA meeting in Kenya</a>. The aim of the workshop is to enhance African representation and innovation in the global landscape of AI in Health, and to add to the efforts to decolonize the health technology landscape, which is dominated by data, researchers and industry from the global North.   
+
+Particular thanks are due to James Weigle, Zuzana Koscova, Deepanshi, <a href="https://sameni.info/">Dr. Reza Sameni</a>, and the rest of the Challenge team for their tireless effort and support of the Challenge this year, especially during the workshop for just-in-time support!
+</div>
+
+<br>
+<div onclick="">
+	<font size="5">A postdoctoral fellow in Dr. Clifford's lab received Joseph Leung Award</font>
+<br>
+	<em>May 2024</em> - <a href="https://www.linkedin.com/in/sepideh-nikookar/">Dr. Sepideh Nikookar</a> has been awarded the prestigious Joseph Leung Award for Best Computer Science Ph.D. Thesis in her department at the New Jersey Institute of Technology. Sepideh successfully defended her doctoral dissertation, entitled “Human-AI Complex Task Planning,” in the summer of 2023. As part of her Ph.D. research, Sepideh designed computational frameworks for complex task planning that are generalizable and scalable across large applications by adapting reinforcement learning-based computational paradigms. During her Ph.D., she published widely in flagship data management venues as the first author, while diligently working on two high-demand projects funded by the <a href="https://www.onr.navy.mil/">Office of Naval Research</a>. Her designed algorithms are currently deployed and being used at the <a href="https://www.navsea.navy.mil/Home/Warfare-Centers/NSWC-Corona/">Naval Surface Warfare Center (NSWC), Corona</a>, for estimating maintenance delays of U.S. naval ships.
+</div>
+
+<br>
+<div onclick="">
+	<font size="5">Dr. Gari Clifford received funding from the Center for Discovery</font>
+<br>
+	<em>May 2024</em> - Dr. Gari Clifford received an additional donation from <a href="https://thecenterfordiscovery.org/">the Center for Discovery (CFD)</a> in New York to continue his group’s work with the CFD, a non - profit whose mission is “to build a compassionate and connected community with cutting-edge care and education for the most medically and behaviorally complex individuals.” The funds will support work on predicting next-day adverse behaviors in residents of the CFD, in order to design interventions or therapies to reduce these events and improve outcomes.
+</div>
+
+<br>
+<div onclick="">
 	<font size="5">A Software Engineer in Dr. Clifford's lab named finalist in 2024 JWECIC at ISCE</font>
 <br>
 	<em>9 February 2024</em> - Zuzana Koščová has been selected as a finalist for the 2024 <a href="https://www.isce.org/page/younginvestigator">Jos Willems Early Career Investigator Competition (JWECIC)</a> with her work entitled "Prediction of atrial fibrillation from overnight Polysomnograms". Her work focuses on using machine learning and deep learning methods for the early prediction of atrial fibrillation from the ECG channel in polysomnographic recordings. Since atrial fibrillation is one of the most common cardiac arrhythmias and is associated with an increased risk of stroke and heart failure, early prediction of this pathology could help to implement appropriate stroke and heart failure prevention tools.
