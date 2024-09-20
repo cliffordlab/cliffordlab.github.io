@@ -133,6 +133,27 @@ Hyatt CS, Reddi PJ, Sharpe BM, Michopoulos V, Rooij SJ, House SL, Beaudoin FL, A
 </div></div></td></tr><tr>
 <td>260</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="RuiyangQin_2024_LanguageModels">
+<div class="citation">
+Qin R, Cook R, Yang K, Abbasi A, Dobolyi D, Seyedi S, Griner E, Kwon H, Cotes R, Jiang Z, Clifford G. <a href="https://drive.google.com/file/d/19gD3AS_pEWmG71ASRxjFzt34S0CH-sgi/view?usp=sharing">Language Models for Online Depression Detection: A Review and Benchmark Analysis on Remote Interviews</a>. 2024 August 13. DOI: <a href="https://doi.org/10.1145/3673906">10.1145/3673906</a>.
+</div>
+<div class="bibtex_source"><pre>@article{RuiyangQin_2024_LanguageModels,
+    author = "Qin, Ruiyang and Cook, Ryan and Yang, Kai and Abbasi, Ahmed and Dobolyi, David and Seyedi, Salman and Griner, Emily and Kwon, Hyeokhyen and Cotes, Robert and Jiang, Zifan and Clifford, Gari",
+    title = "Language Models for Online Depression Detection: A Review and Benchmark Analysis on Remote Interviews",
+    date = "2024-08-13",
+    url = "https://drive.google.com/file/d/19gD3AS\_pEWmG71ASRxjFzt34S0CH-sgi/view?usp=sharing",
+    doi = "10.1145/3673906",
+    note = "Publisher: ACM"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="RuiyangQin_2024_LanguageModels">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="RuiyangQin_2024_LanguageModels">[show citation]</label>
+</div></div></td></tr><tr>
+<td>259</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="EKateWebb_2024_Neighborhoodresources">
 <div class="citation">
 Webb EK, Stevens JS, Ely TD, Lebois LA, Rooij SJH, Bruce SE, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Bollen KA, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Musey PI, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Murty VP, Hudak LA, Pascual JL, Seamon MJ, Datner EM, Pearson C, Peak DA, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Joormann J, Pizzagalli DA, Harte SE, Kessler RC, Koenen KC, Ressler KJ, McLean SA, Harnett NG. <a href="https://drive.google.com/file/d/1--uMsnIBF0mxhVonmzg5FIxJTc5CfoCT/view?usp=sharing">Neighborhood resources associated with psychological trajectories and neural reactivity to reward after trauma</a>. JAMA Psychiatry 2024 July 31; p. e242148. DOI: <a href="https://doi.org/0.1001/jamapsychiatry.2024.2148">0.1001/jamapsychiatry.2024.2148</a>.
@@ -153,7 +174,7 @@ Webb EK, Stevens JS, Ely TD, Lebois LA, Rooij SJH, Bruce SE, House SL, Beaudoin 
 <div class="hidebibtex">
 <label for="EKateWebb_2024_Neighborhoodresources">[show citation]</label>
 </div></div></td></tr><tr>
-<td>259</td>
+<td>258</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AmitJShah_2024_06_03_PosttraumaticStress">
 <div class="citation">
@@ -178,7 +199,7 @@ Shah AJ, Vaccarino V, Goldberg J, Huang M, Ko Y, Ma X, Levantsevych OM, Smith NL
 <div class="hidebibtex">
 <label for="AmitJShah_2024_06_03_PosttraumaticStress">[show citation]</label>
 </div></div></td></tr><tr>
-<td>258</td>
+<td>257</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="KshamaKodthaluShivashankara_2024_05_09_ECGimagekita">
 <div class="citation">
@@ -201,7 +222,7 @@ Shivashankara KK, Deepanshi , Shervedani AM, Clifford GD, Reyna MA, Sameni R. <a
 <div class="hidebibtex">
 <label for="KshamaKodthaluShivashankara_2024_05_09_ECGimagekita">[show citation]</label>
 </div></div></td></tr><tr>
-<td>257</td>
+<td>256</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AdamHorwitz_2024_05_05_IntensiveLongitudinal">
 <div class="citation">
@@ -224,29 +245,6 @@ Horwitz A, McCarthy K, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Linn
 </div>
 <div class="hidebibtex">
 <label for="AdamHorwitz_2024_05_05_IntensiveLongitudinal">[show citation]</label>
-</div></div></td></tr><tr>
-<td>256</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="JoelXue_2024_05_01_ADNNmodelbased">
-<div class="citation">
-Xue J, Dewivedi T, Vlasenko O, Yuan R, Kirsch M, Albert D, Li Q, Rad AB, Sameni R, Clifford G. <a href="https://scholar.google.com/scholar?cluster=13271605527751809034&hl=en&oi=scholarr">A DNN-model-based reduced lead algorithm for robust electrode positioning tolerance</a>. Journal of Electrocardiology 2024 May 1; 84: pp. 19-20.
-</div>
-<div class="bibtex_source"><pre>@article{JoelXue_2024_05_01_ADNNmodelbased,
-    author = "Xue, Joel and Dewivedi, Trisha and Vlasenko, Oleksandr and Yuan, Reena and Kirsch, Miguel and Albert, Dave and Li, Qiao and Rad, Ali Bahrami and Sameni, Reza and Clifford, Gari",
-    title = "A DNN-model-based reduced lead algorithm for robust electrode positioning tolerance",
-    date = "2024-05-01",
-    journal = "Journal of Electrocardiology",
-    url = "https://scholar.google.com/scholar?cluster=13271605527751809034\&hl=en\&oi=scholarr",
-    pages = "19-20",
-    volume = "84",
-    note = "Publisher: Churchill Livingstone"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="JoelXue_2024_05_01_ADNNmodelbased">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="JoelXue_2024_05_01_ADNNmodelbased">[show citation]</label>
 </div></div></td></tr><tr>
 <td>255</td>
 <td><div class="citation_container">
@@ -6332,7 +6330,7 @@ Clifford G, Tarassenko L, Townsend N. <a href="https://drive.google.com/file/d/1
 
 <table>
 <tr>
-<td>178</td>
+<td>179</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NKBhatia_2024_09_01_ID4120879">
 <div class="citation">
@@ -6356,7 +6354,7 @@ Bhatia N, Koscova Z, Rogers A, Iravanian S, Sameni R, Lloyd M, El-Chami M, Cliff
 <div class="hidebibtex">
 <label for="NKBhatia_2024_09_01_ID4120879">[show citation]</label>
 </div></div></td></tr><tr>
-<td>177</td>
+<td>178</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NKBhatia_2024_09_01_ID4121476">
 <div class="citation">
@@ -6380,7 +6378,7 @@ Bhatia N, Rogers A, Sameni R, Iravanian S, Reyna M, Li N, Lloyd M, El-Chami M, C
 <div class="hidebibtex">
 <label for="NKBhatia_2024_09_01_ID4121476">[show citation]</label>
 </div></div></td></tr><tr>
-<td>176</td>
+<td>177</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="OliverHolmes_2024_05_15_371ObjectivelyCharacterized">
 <div class="citation">
@@ -6404,18 +6402,18 @@ Holmes O, Bucher M, Neylan T, Clifford G, Li Q, Li Q, Dougherty R, Baker J, Linn
 <div class="hidebibtex">
 <label for="OliverHolmes_2024_05_15_371ObjectivelyCharacterized">[show citation]</label>
 </div></div></td></tr><tr>
-<td>175</td>
+<td>176</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2024_05_01_Acomparison">
 <div class="citation">
-Clifford GD. <a href="https://scholar.google.com/scholar?cluster=14981284129242917839&hl=en&oi=scholarr">A comparison of QT algorithms on a South African population using a mobile ECG</a>. Journal of Electrocardiology 2024 May 1; 84: pp. 29-30.
+Clifford GD. <a href="https://drive.google.com/file/d/1TFD3_32sRJvP4yrjgG0EOwNaLg1Gjk4B/view?usp=sharing">A comparison of QT algorithms on a South African population using a mobile ECG</a>. International Society for Computerized Electrocardiology 48th Annual Conference, Chateau elan, Braselton GA, USA 2024 April 3; 84: pp. 29-30.
 </div>
 <div class="bibtex_source"><pre>@article{GariDClifford_2024_05_01_Acomparison,
     author = "Clifford, Gari D",
     title = "A comparison of QT algorithms on a South African population using a mobile ECG",
-    date = "2024-05-01",
-    journal = "Journal of Electrocardiology",
-    url = "https://scholar.google.com/scholar?cluster=14981284129242917839\&hl=en\&oi=scholarr",
+    date = "2024-04-03",
+    journal = "International Society for Computerized Electrocardiology 48th Annual Conference, Chateau elan, Braselton GA, USA",
+    url = "https://drive.google.com/file/d/1TFD3\_32sRJvP4yrjgG0EOwNaLg1Gjk4B/view?usp=sharing",
     pages = "29-30",
     volume = "84",
     note = "Publisher: Churchill Livingstone"
@@ -6427,18 +6425,18 @@ Clifford GD. <a href="https://scholar.google.com/scholar?cluster=149812841292429
 <div class="hidebibtex">
 <label for="GariDClifford_2024_05_01_Acomparison">[show citation]</label>
 </div></div></td></tr><tr>
-<td>174</td>
+<td>175</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="QiaoLi_2024_05_01_Acomparison">
 <div class="citation">
-Li Q, Barnett K, Xue J, Albert D, Deepanshi F, Rad AB, Sameni R, Clifford GD. <a href="https://scholar.google.com/scholar?cluster=505849172399300941&hl=en&oi=scholarr">A comparison of QT algorithms on a South African population using a mobile ECG</a>. 2024 May 1; 84: p. 23.
+Li Q, Barnett K, Xue J, Albert D, Deepanshi F, Rad AB, Sameni R, Clifford GD. <a href="https://drive.google.com/file/d/1mwFzb5_0F0nn5QPD65H4H3s-cKQItY6l/view?usp=sharing">A comparison of QT algorithms on a South African population using a mobile ECG</a>. International Society for Computerized Electrocardiology 48th Annual Conference, Chateau elan, Braselton GA, USA 2024 April 3; 84: p. 23.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{QiaoLi_2024_05_01_Acomparison,
     author = "Li, Qiao and Barnett, Kim and Xue, Joel and Albert, Dave and Deepanshi, Fnu and Rad, Ali B and Sameni, Reza and Clifford, Gari D",
     title = "A comparison of QT algorithms on a South African population using a mobile ECG",
-    date = "2024-05-01",
-    journal = "Journal of Electrocardiology",
-    url = "https://scholar.google.com/scholar?cluster=505849172399300941\&hl=en\&oi=scholarr",
+    date = "2024-04-03",
+    booktitle = "International Society for Computerized Electrocardiology 48th Annual Conference, Chateau elan, Braselton GA, USA",
+    url = "https://drive.google.com/file/d/1mwFzb5\_0F0nn5QPD65H4H3s-cKQItY6l/view?usp=sharing",
     pages = "23",
     volume = "84",
     note = "Publisher: Churchill Livingstone"
@@ -6449,6 +6447,29 @@ Li Q, Barnett K, Xue J, Albert D, Deepanshi F, Rad AB, Sameni R, Clifford GD. <a
 </div>
 <div class="hidebibtex">
 <label for="QiaoLi_2024_05_01_Acomparison">[show citation]</label>
+</div></div></td></tr><tr>
+<td>174</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="JoelXue_2024_05_01_ADNNmodelbased">
+<div class="citation">
+Xue J, Dewivedi T, Vlasenko O, Yuan R, Kirsch M, Albert D, Li Q, Rad AB, Sameni R, Clifford G. <a href="https://drive.google.com/file/d/1fdbfW6qgf8Sb-kUVNI5sbaRlSDD-8FRY/view?usp=sharing">A DNN-model-based reduced lead algorithm for robust electrode positioning tolerance</a>. International Society for Computerized Electrocardiology 48th Annual Conference, Chateau elan, Braselton GA, USA 2024 April 3; 84: pp. 19-20.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{JoelXue_2024_05_01_ADNNmodelbased,
+    author = "Xue, Joel and Dewivedi, Trisha and Vlasenko, Oleksandr and Yuan, Reena and Kirsch, Miguel and Albert, Dave and Li, Qiao and Rad, Ali Bahrami and Sameni, Reza and Clifford, Gari",
+    title = "A DNN-model-based reduced lead algorithm for robust electrode positioning tolerance",
+    date = "2024-04-03",
+    booktitle = "International Society for Computerized Electrocardiology 48th Annual Conference, Chateau elan, Braselton GA, USA",
+    url = "https://drive.google.com/file/d/1fdbfW6qgf8Sb-kUVNI5sbaRlSDD-8FRY/view?usp=sharing",
+    pages = "19-20",
+    volume = "84",
+    note = "Publisher: Churchill Livingstone"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="JoelXue_2024_05_01_ADNNmodelbased">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="JoelXue_2024_05_01_ADNNmodelbased">[show citation]</label>
 </div></div></td></tr><tr>
 <td>173</td>
 <td><div class="citation_container">
@@ -11697,26 +11718,6 @@ Clifford GD. Statistical Conformal Field Theory and Information Loss in the Reno
 
 <table>
 <tr>
-<td>30</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="RuiyangQin_2024_LanguageModels">
-<div class="citation">
-Qin R, Cook R, Yang K, Abbasi A, Dobolyi D, Seyedi S, Griner E, Kwon H, Cotes R, Jiang Z, Clifford G. <a href="https://dl.acm.org/doi/abs/10.1145/3673906">Language Models for Online Depression Detection: A Review and Benchmark Analysis on Remote Interviews</a>. 2024.
-</div>
-<div class="bibtex_source"><pre>@misc{RuiyangQin_2024_LanguageModels,
-    author = "Qin, Ruiyang and Cook, Ryan and Yang, Kai and Abbasi, Ahmed and Dobolyi, David and Seyedi, Salman and Griner, Emily and Kwon, Hyeokhyen and Cotes, Robert and Jiang, Zifan and Clifford, Gari",
-    title = "Language Models for Online Depression Detection: A Review and Benchmark Analysis on Remote Interviews",
-    date = "2024",
-    url = "https://dl.acm.org/doi/abs/10.1145/3673906",
-    note = "Publisher: ACM"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="RuiyangQin_2024_LanguageModels">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="RuiyangQin_2024_LanguageModels">[show citation]</label>
-</div></div></td></tr><tr>
 <td>29</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="XingyaoWang_2021_06_ParoxysmalAtrial">
