@@ -9,3 +9,5 @@ Please send a full CV with a covering letter /email of your career aspirations t
 
 ### Apply Now  
 #### [Postdoctoral Fellow](https://faculty-emory.icims.com/jobs/108255/post-doctoral-fellow---department-of-biomedical-informatics/job)
+#### [Postdoctoral Fellow](https://faculty-emory.icims.com/jobs/128072/post-doctoral-fellow---department-of-biomedical-informatics/job)
+#### [Postdoctoral Fellow](https://faculty-emory.icims.com/jobs/61911/post-doctoral-fellow---department-of-biomedical-informatics/job)
