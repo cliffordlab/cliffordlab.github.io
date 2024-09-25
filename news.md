@@ -5,6 +5,13 @@ permalink: /news
 ---
 <details open><summary><font size="6">2024</font></summary>
 <div onclick="">
+	<font size="5">Dr. Clifford wrapped up the George B. Moody PhysioNet Challenge 2024</font>
+<br>
+	<em>September 2024</em> - Dr. Gari Clifford and <a href="https://reynalab.org/">Dr. Reyna</a> wrapped up the <a href="https://moody-challenge.physionet.org/2024/">George B. Moody PhysioNet Challenge 2024</a> in Karlsruhe, Germany at the start of September. This award-winning internationally-known competition has been running for 25 years, funded continuously by the NIH, and recently renewed for another 5 years. It is internationally known in the field of AI in cardiology for pushing the boundaries of the field and generating a novel benchmark dataset, year after year. This year there were two extra prizes (announced at an earlier Hackathon at <a href="https://www.datascienceafrica.org/aboutus/">Data Science Africa</a> in June), sponsored by the Institute of Electrical and Electronics Engineers’ Signal Processing Society (<a href="https://signalprocessingsociety.org/publications-resources/data-challenges/digitization-and-classification-ecg-images-george-b-moody">IEEE SPS</a>), for African teams. The winners came from Dekut University in Kenya.
+</div>
+
+<br>
+<div onclick="">
 	<font size="5">Dr. Clifford co-leads workshop in Kenya to promote African innovation in AI and Health Technology</font>
 <br>
 	<em>June 2024</em> - Dr. Gari Clifford and <a href="https://reynalab.org/">Dr. Reyna</a>, who lead the <a href="https://moody-challenge.physionet.org/2024/#conference-attendance">George B. Moody physioNet Challenges</a>, recently traveled to Nyeri, Kenya to run a workshop at <a href="https://www.datascienceafrica.org/">Data Science Africa (DSA)</a>, running from <a href="https://www.datascienceafrica.org/dsa2024nyeri/2024/01/31/Workshop.html">6-7 June</a>. With generous support from the <a href="https://signalprocessingsociety.org/publications-resources/challenges-and-data-collections">IEEE Signal Processing Society’s Challenges and Data Collections Committee (CDCC)</a>, <a href="https://signalprocessingsociety.org/publications-resources/data-challenges/digitization-and-classification-ecg-images-george-b-moody">an extra set of cash prizes have been provided for participating teams from Africa</a>. a <a href="https://www.datascienceafrica.org/dsa2024nyeri/">workshop at this year’s annual DSA meeting in Kenya</a>. The aim of the workshop is to enhance African representation and innovation in the global landscape of AI in Health, and to add to the efforts to decolonize the health technology landscape, which is dominated by data, researchers and industry from the global North.   
