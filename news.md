@@ -12,7 +12,7 @@ permalink: /news
 
 <br>
 <div onclick="">
-	<font size="5">A postdoctoral fellow Dr. Clifford's lab received the Thrasher Research Fund Early Career Award</font>
+	<font size="5">A postdoctoral fellow in Dr. Clifford's lab received the Thrasher Research Fund Early Career Award</font>
 <br>
 	<em>July 2024</em> - <a href="https://yashkia.github.io/">Dr. Yashar Karashi</a>, under the mentorship of Dr. Gari Clifford, has been awarded the <a href="https://www.thrasherresearch.org/grant/02384?lang=eng">Thrasher Research Fund Early Career Award</a> for his project titled "Enhancing Behavioral Understandings and Interventions in Children with Autism Spectrum Disorder using Artificial Intelligence." This award recognizes Dr. Kiarashi's research on individuals with profound autism, conducted in collaboration with <a href="https://thecenterfordiscovery.org/2023annualappeal/">The Center for Discovery</a> and the Clifford Lab. His work focuses on developing explainable AI models to predict high-risk behaviors and medical events, such as self-injury and seizures, through innovative off-body sleep sensing and medical record analysis.
 </div>
