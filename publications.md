@@ -6332,6 +6332,75 @@ Clifford G, Tarassenko L, Townsend N. <a href="https://drive.google.com/file/d/1
 
 <table>
 <tr>
+<td>182</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="GariClifford_2024_10_11_past_prresent">
+<div class="citation">
+Clifford G. <a href="https://drive.google.com/file/d/1gmTSZ_V2rkutMNmcZIcjRWErZT_zgvrQ/view?usp=sharing">Past, Present and Future Challenges in Sharing Science: From PhysioNet to Foundation Models</a>. 51th Computing in Cardiology, Karlsruhe, Germany 2024 September 8; 51: pp. 1-4.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{GariClifford_2024_10_11_past_prresent,
+    author = "Clifford, Gari",
+    title = "Past, Present and Future Challenges in Sharing Science: From PhysioNet to Foundation Models",
+    date = "2024-09-08",
+    booktitle = "51th Computing in Cardiology, Karlsruhe, Germany",
+    url = "https://drive.google.com/file/d/1gmTSZ\_V2rkutMNmcZIcjRWErZT\_zgvrQ/view?usp=sharing",
+    pages = "1-4",
+    volume = "51",
+    note = "Publisher: Computing in Cardiology"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="GariClifford_2024_10_11_past_prresent">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="GariClifford_2024_10_11_past_prresent">[show citation]</label>
+</div></div></td></tr><tr>
+<td>181</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="MatthewReyna_2024_10_11_Digitiation_and_clissification">
+<div class="citation">
+Reyna MA, Deepanshi , Weigle J, Koscova Z, Campbell K, Seyedi S, Elola A, Rad AB, Shah A, Bhatia N, Clifford G, Sameni R. <a href="https://drive.google.com/file/d/1E0ZCucN_MKzCp9DfE3uAOu5BkwWPUKO7/view?usp=sharing">Digitization and Classification of ECG Images: The George B. Moody PhysioNet Challenge 2024</a>. 51th Computing in Cardiology, Karlsruhe, Germany 2024 September 8; 51: pp. 1-4.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{MatthewReyna_2024_10_11_Digitiation_and_clissification,
+    author = "Reyna, Matthew A and Deepanshi and Weigle, James and Koscova, Zuzana and Campbell, Kiersten and Seyedi, Salman and Elola, Andoni and Rad, Ali Bahrami and Shah, Amit and Bhatia, Neal and Clifford, Gari and Sameni, Reza",
+    title = "Digitization and Classification of ECG Images: The George B. Moody PhysioNet Challenge 2024",
+    date = "2024-09-08",
+    booktitle = "51th Computing in Cardiology, Karlsruhe, Germany",
+    url = "https://drive.google.com/file/d/1E0ZCucN\_MKzCp9DfE3uAOu5BkwWPUKO7/view?usp=sharing",
+    pages = "1-4",
+    volume = "51",
+    note = "Publisher: Computing in Cardiology"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="MatthewReyna_2024_10_11_Digitiation_and_clissification">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="MatthewReyna_2024_10_11_Digitiation_and_clissification">[show citation]</label>
+</div></div></td></tr><tr>
+<td>180</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="ArjunMalpani_2024_10_11_A_Transfer_Learning">
+<div class="citation">
+Malian A, Xue J, Albert D, Clifford G. <a href="https://drive.google.com/file/d/1nQ_XueYLdLFs0wzSG_1CvhDKDShHNyHA/view?usp=sharing">A Transfer Learning Model -Based Patient-Specific ECG Lead Synthesis Algorithm</a>. 51th Computing in Cardiology, Karlsruhe, Germany 2024 September 8; 51: pp. 1-4.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{ArjunMalpani_2024_10_11_A_Transfer_Learning,
+    author = "Malian, Arjun and Xue, Joel and Albert, David and Clifford, Gari",
+    title = "A Transfer Learning Model -Based Patient-Specific ECG Lead Synthesis Algorithm",
+    date = "2024-09-08",
+    booktitle = "51th Computing in Cardiology, Karlsruhe, Germany",
+    url = "https://drive.google.com/file/d/1nQ\_XueYLdLFs0wzSG\_1CvhDKDShHNyHA/view?usp=sharing",
+    pages = "1-4",
+    volume = "51",
+    note = "Publisher: Computing in Cardiology"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="ArjunMalpani_2024_10_11_A_Transfer_Learning">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="ArjunMalpani_2024_10_11_A_Transfer_Learning">[show citation]</label>
+</div></div></td></tr><tr>
 <td>179</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NKBhatia_2024_09_01_ID4120879">
@@ -6408,9 +6477,9 @@ Holmes O, Bucher M, Neylan T, Clifford G, Li Q, Li Q, Dougherty R, Baker J, Linn
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2024_05_01_Acomparison">
 <div class="citation">
-Clifford GD. <a href="https://drive.google.com/file/d/1TFD3_32sRJvP4yrjgG0EOwNaLg1Gjk4B/view?usp=sharing">A comparison of QT algorithms on a South African population using a mobile ECG</a>. International Society for Computerized Electrocardiology 48th Annual Conference, Chateau elan, Braselton GA, USA 2024 April 3; 84: pp. 29-30.
+Clifford GD. <a href="https://drive.google.com/file/d/1TFD3_32sRJvP4yrjgG0EOwNaLg1Gjk4B/view?usp=sharing">A comparison of QT algorithms on a South African population using a mobile ECG</a>. 2024 April 3; 84: pp. 29-30.
 </div>
-<div class="bibtex_source"><pre>@article{GariDClifford_2024_05_01_Acomparison,
+<div class="bibtex_source"><pre>@inproceedings{GariDClifford_2024_05_01_Acomparison,
     author = "Clifford, Gari D",
     title = "A comparison of QT algorithms on a South African population using a mobile ECG",
     date = "2024-04-03",
