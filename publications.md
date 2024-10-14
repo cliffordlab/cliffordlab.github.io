@@ -7261,14 +7261,14 @@ Katebi N, Sameni R, Clifford GD. <a href="https://drive.google.com/file/d/1Mui-E
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ArefEinizade_2020_12_05_Adeep">
 <div class="citation">
-Einizade A, Mozafari M, Sardouie SH, Nasiri S, Clifford G. <a href="https://ieeexplore.ieee.org/abstract/document/9353629/">A deep learning-based method for automatic detection of epileptic seizure in a dataset with both generalized and focal seizure types</a>. 2020 IEEE Signal Processing in Medicine and Biology Symposium (SPMB) 2020 December 5; pp. 1-6.
+Einizade A, Mozafari M, Sardouie SH, Nasiri S, Clifford G. <a href="https://drive.google.com/file/d/1sPS0Ock5Hv9K0Hpv3xadm10HmW90g8R7/view?usp=sharing">A deep learning-based method for automatic detection of epileptic seizure in a dataset with both generalized and focal seizure types</a>. 2020 IEEE Signal Processing in Medicine and Biology Symposium (SPMB) 2020 December 5; pp. 1-6.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{ArefEinizade_2020_12_05_Adeep,
     author = "Einizade, Aref and Mozafari, Mohsen and Sardouie, S Hajipour and Nasiri, Samaneh and Clifford, G",
     title = "A deep learning-based method for automatic detection of epileptic seizure in a dataset with both generalized and focal seizure types",
     date = "2020-12-05",
     booktitle = "2020 IEEE Signal Processing in Medicine and Biology Symposium (SPMB)",
-    url = "https://ieeexplore.ieee.org/abstract/document/9353629/",
+    url = "https://drive.google.com/file/d/1sPS0Ock5Hv9K0Hpv3xadm10HmW90g8R7/view?usp=sharing",
     pages = "1-6",
     publisher = "IEEE"
 }
@@ -7420,7 +7420,7 @@ Nasiri S, Clifford GD. <a href="https://drive.google.com/file/d/1ejq3sSmaBj1aBh1
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MatthewAReyna_2019_Earlyprediction">
 <div class="citation">
-Reyna MA, Josef C, Seyedi S, Jeter R, Shashikumar SP, Westover MB, Sharma A, Nemati S, Clifford GD. <a href="https://www.cinc.org/archives/2019/pdf/CinC2019-412.pdf">Early prediction of sepsis from clinical data: the physionet/computing in cardiology challenge 2019. In 2019 Computing in Cardiology (CinC)</a>. 2019 Computing in Cardiology (CinC), Matrix, Singapore 2019 September 8; 46.
+Reyna MA, Josef C, Seyedi S, Jeter R, Shashikumar SP, Westover MB, Sharma A, Nemati S, Clifford GD. <a href="https://drive.google.com/file/d/1-BhF5S9Jpgqp_TFAOkR6617N7wNN8vcc/view?usp=sharing">Early prediction of sepsis from clinical data: the physionet/computing in cardiology challenge 2019. In 2019 Computing in Cardiology (CinC)</a>. 2019 Computing in Cardiology (CinC), Matrix, Singapore 2019 September 8; 46.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{MatthewAReyna_2019_Earlyprediction,
     author = "Reyna, Matthew A and Josef, Chris and Seyedi, Salman and Jeter, Russell and Shashikumar, Supreeth P and Westover, M Brandon and Sharma, Ashish and Nemati, Shamim and Clifford, Gari D",
@@ -7428,7 +7428,7 @@ Reyna MA, Josef C, Seyedi S, Jeter R, Shashikumar SP, Westover MB, Sharma A, Nem
     date = "2019-09-08",
     booktitle = "2019 Computing in Cardiology (CinC), Matrix, Singapore",
     volume = "46",
-    url = "https://www.cinc.org/archives/2019/pdf/CinC2019-412.pdf"
+    url = "https://drive.google.com/file/d/1-BhF5S9Jpgqp\_TFAOkR6617N7wNN8vcc/view?usp=sharing"
 }
 </pre>
 </div><div class="showbibtex">
@@ -7640,14 +7640,14 @@ Bolagh SNG, Clifford GD. <a href="https://drive.google.com/file/d/1yfLp4MsBN25pw
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2017_09_24_AFclassification">
 <div class="citation">
-Clifford GD, Liu C, Moody B, Li-wei HL, Silva I, Li Q, Johnson A, Mark RG. <a href="https://www.cinc.org/archives/2017/pdf/065-469.pdf">AF classification from a short single lead ECG recording: The PhysioNet/computing in cardiology challenge 2017</a>. 2017 Computing in Cardiology (CinC) Conference, Rennes, France 2017 September 24; pp. 1-4.
+Clifford GD, Liu C, Moody B, Li-wei HL, Silva I, Li Q, Johnson A, Mark RG. <a href="https://drive.google.com/file/d/1mW0MApfGuWgbkzGME3FAZL2Qnbycb4hr/view?usp=sharing">AF classification from a short single lead ECG recording: The PhysioNet/computing in cardiology challenge 2017</a>. 2017 Computing in Cardiology (CinC) Conference, Rennes, France 2017 September 24; pp. 1-4.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{GariDClifford_2017_09_24_AFclassification,
     author = "Clifford, Gari D and Liu, Chengyu and Moody, Benjamin and Li-wei, H Lehman and Silva, Ikaro and Li, Qiao and Johnson, AE and Mark, Roger G",
     title = "AF classification from a short single lead ECG recording: The PhysioNet/computing in cardiology challenge 2017",
     date = "2017-09-24",
     booktitle = "2017 Computing in Cardiology (CinC) Conference, Rennes, France",
-    url = "https://www.cinc.org/archives/2017/pdf/065-469.pdf",
+    url = "https://drive.google.com/file/d/1mW0MApfGuWgbkzGME3FAZL2Qnbycb4hr/view?usp=sharing",
     pages = "1-4",
     publisher = "IEEE"
 }
@@ -7662,14 +7662,14 @@ Clifford GD, Liu C, Moody B, Li-wei HL, Silva I, Li Q, Johnson A, Mark RG. <a hr
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChengyuLiu_2017_09_24_Multisourcefeatures">
 <div class="citation">
-Liu C, Li Q, Suresh PB, Vest A, Clifford GD. <a href="https://www.cinc.org/archives/2017/pdf/162-294.pdf">Multi-source features and support vector machine for heart rhythm classification</a>. Computing in Cardiology (CinC), Rennes, France, 2017 2017 September 24; pp. 1-4. DOI: <a href="https://doi.org/10.22489/CinC.2017.162-294">10.22489/CinC.2017.162-294</a>.
+Liu C, Li Q, Suresh PB, Vest A, Clifford GD. <a href="https://drive.google.com/file/d/1t-F8R25wQ3HZvcPj819ZtaMm_5rKSeJL/view?usp=sharing">Multi-source features and support vector machine for heart rhythm classification</a>. Computing in Cardiology (CinC), Rennes, France, 2017 2017 September 24; pp. 1-4. DOI: <a href="https://doi.org/10.22489/CinC.2017.162-294">10.22489/CinC.2017.162-294</a>.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{ChengyuLiu_2017_09_24_Multisourcefeatures,
     author = "Liu, Chengyu and Li, Qiao and Suresh, Pradyumna B and Vest, Adriana and Clifford, Gari D",
     title = "Multi-source features and support vector machine for heart rhythm classification",
     date = "2017-09-24",
     booktitle = "Computing in Cardiology (CinC), Rennes, France, 2017",
-    url = "https://www.cinc.org/archives/2017/pdf/162-294.pdf",
+    url = "https://drive.google.com/file/d/1t-F8R25wQ3HZvcPj819ZtaMm\_5rKSeJL/view?usp=sharing",
     pages = "1-4",
     doi = "10.22489/CinC.2017.162-294",
     publisher = "IEEE"
@@ -7707,14 +7707,14 @@ Behar JA, Palmius N, Daly J, Li Q, Rizzatti FG, Bittencourt L, Clifford GD. <a h
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="FaezehMarzbanrad_2017_09_24_Analyzingfetal">
 <div class="citation">
-Marzbanrad F, Clifford GD. <a href="https://cinc.org/archives/2017/pdf/335-343.pdf">Analyzing fetal and maternal cardiorespiratory interactions during labor</a>. 2017 Computing in Cardiology (CinC), Rennes, France 2017 September 24; pp. 1-4.
+Marzbanrad F, Clifford GD. <a href="https://drive.google.com/file/d/1sK0dM6dBGEaNo4tOF1wLTSRNmt7rB2Gw/view?usp=sharing">Analyzing fetal and maternal cardiorespiratory interactions during labor</a>. 2017 Computing in Cardiology (CinC), Rennes, France 2017 September 24; pp. 1-4.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{FaezehMarzbanrad_2017_09_24_Analyzingfetal,
     author = "Marzbanrad, Faezeh and Clifford, Gari D",
     title = "Analyzing fetal and maternal cardiorespiratory interactions during labor",
     date = "2017-09-24",
     booktitle = "2017 Computing in Cardiology (CinC), Rennes, France",
-    url = "https://cinc.org/archives/2017/pdf/335-343.pdf",
+    url = "https://drive.google.com/file/d/1sK0dM6dBGEaNo4tOF1wLTSRNmt7rB2Gw/view?usp=sharing",
     pages = "1-4",
     publisher = "IEEE"
 }
@@ -8047,14 +8047,14 @@ Saunders K, Bilderbeck A, Panchal P, Brett D, Clifford G, Harmer C, Nobre A, Har
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="FAndreotti_2015_Evaluationof">
 <div class="citation">
-Andreotti F, Behar J, Zaunseder S, Clifford G, Oster J. <a href="https://www.canal6.com.br/cbeb/2014/artigos/cbeb2014_submission_472.pdf">Evaluation of non-invasive foetal ECG extraction algorithms using non-stationary mixtures</a>. XXIV Brazilian Congress on Biomedical Engineering - CBEB 2014, Uberlândia, Minas Gerais, Brazil 2014 October 13; p. 1585.
+Andreotti F, Behar J, Zaunseder S, Clifford G, Oster J. <a href="https://drive.google.com/file/d/1DI85lBgaRa_6t9rA4_B0hdifbhIQsKaf/view?usp=sharing">Evaluation of non-invasive foetal ECG extraction algorithms using non-stationary mixtures</a>. XXIV Brazilian Congress on Biomedical Engineering - CBEB 2014, Uberlândia, Minas Gerais, Brazil 2014 October 13; p. 1585.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{FAndreotti_2015_Evaluationof,
     author = "Andreotti, F and Behar, J and Zaunseder, S and Clifford, GD and Oster, J",
     title = "Evaluation of non-invasive foetal ECG extraction algorithms using non-stationary mixtures",
     date = "2014-10-13",
     booktitle = "XXIV Brazilian Congress on Biomedical Engineering - CBEB 2014, Uberlândia, Minas Gerais, Brazil",
-    url = "https://www.canal6.com.br/cbeb/2014/artigos/cbeb2014\_submission\_472.pdf",
+    url = "https://drive.google.com/file/d/1DI85lBgaRa\_6t9rA4\_B0hdifbhIQsKaf/view?usp=sharing",
     pages = "1585"
 }
 </pre>
@@ -9600,14 +9600,14 @@ Tse Z, Dumoulin C, Clifford G, Jerosch-Herald M, Kacher D, Kwong R, Stevenson W,
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="TiffanyChen_2010_03_22_IntelligentHeartsound">
 <div class="citation">
-Chen T, Kuan K, Celi L, Clifford GD. <a href="https://cdn.aaai.org/ocs/1086/1086-5866-1-PB.pdf">Intelligent heartsound diagnostics on a cellphone using a hands-free kit</a>. AAAI Spring Symposium on Artificial Intelligence for Development (AI-D), Palo Alto, CA, USA 2010 March 22.
+Chen T, Kuan K, Celi L, Clifford GD. <a href="https://drive.google.com/file/d/1iS8K6-MSDIAp1lDYsp6l3aT634vWrI4r/view?usp=sharing">Intelligent heartsound diagnostics on a cellphone using a hands-free kit</a>. AAAI Spring Symposium on Artificial Intelligence for Development (AI-D), Palo Alto, CA, USA 2010 March 22.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{TiffanyChen_2010_03_22_IntelligentHeartsound,
     author = "Chen, Tiffany and Kuan, Katherine and Celi, L and Clifford, Gari D",
     title = "Intelligent heartsound diagnostics on a cellphone using a hands-free kit",
     date = "2010-03-22",
     booktitle = "AAAI Spring Symposium on Artificial Intelligence for Development (AI-D), Palo Alto, CA, USA",
-    url = "https://cdn.aaai.org/ocs/1086/1086-5866-1-PB.pdf",
+    url = "https://drive.google.com/file/d/1iS8K6-MSDIAp1lDYsp6l3aT634vWrI4r/view?usp=sharing",
     publisher = "AAAI"
 }
 </pre>
