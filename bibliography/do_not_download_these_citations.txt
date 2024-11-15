@@ -591,3 +591,6 @@ ILCMxgzxjrQC # ZhongCao_2021_02_01_Freedropsimulation
 SAguW2jnL4UC # SajjadKarimi_2024_10_25_ElectromechanicalDynamics
 _r6PDwDh8pAC # ChengDing_2023_Learningfrom
 RGp4dj-Wy-oC # CeciliaHinojosa_UnknownDate_Thereciprocal
+-pSblevFsSkC # LaurianeGuichard_2024_11_07_HeartRate
+YClPFpxzHmwC # ChiyoungLee_2024_11_06_UnderstandingOnset
+8aAMN6PqWdYC # ErickAPerezAlday_2020_12_01_Classificationof
