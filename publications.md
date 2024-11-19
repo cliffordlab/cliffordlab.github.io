@@ -767,30 +767,6 @@ Ding C, Guo Z, Rudin C, Xiao R, Shah A, Do DH, Lee RJ, Clifford G, Nahab FB, Hu 
 </div></div></td></tr><tr>
 <td>239</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="AbigailLZeamer_2023_11_18_Associationbetween">
-<div class="citation">
-Zeamer AL, Salive M, An X, Beaudoin FL, House SL, Stevens JS, Zeng D, Neylan TC, Clifford GD, Linnstaedt SD, Rauch SL, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Hudak LA, Pascual JL, Seamon MJ, Harris E, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Bruce SE, Kessler RC, Koenen KC, McLean SA, Bucci V, Haran JP. <a href="https://drive.google.com/file/d/19YkNdSmRk5Qtj3xaCJnISD7HobBtCMRN/view?usp=sharing">Association between microbiome and the development of adverse posttraumatic neuropsychiatric sequelae after traumatic stress exposure</a>. Translational Psychiatry 2023 November 18; 13 (1): p. 354.
-</div>
-<div class="bibtex_source"><pre>@article{AbigailLZeamer_2023_11_18_Associationbetween,
-    author = "Zeamer, Abigail L and Salive, Marie-Claire and An, Xinming and Beaudoin, Francesca L and House, Stacey L and Stevens, Jennifer S and Zeng, Donglin and Neylan, Thomas C and Clifford, Gari D and Linnstaedt, Sarah D and Rauch, Scott L and Storrow, Alan B and Lewandowski, Christopher and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Harris, Erica and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J. and Sergot, Paulina and Sanchez, Leon D and Bruce, Steven E and Kessler, Ronald C and Koenen, Karestan C and McLean, Samuel A and Bucci, Vanni and Haran, John P",
-    title = "Association between microbiome and the development of adverse posttraumatic neuropsychiatric sequelae after traumatic stress exposure",
-    date = "2023-11-18",
-    issue = "1",
-    journal = "Translational Psychiatry",
-    url = "https://drive.google.com/file/d/19YkNdSmRk5Qtj3xaCJnISD7HobBtCMRN/view?usp=sharing",
-    pages = "354",
-    volume = "13",
-    note = "Publisher: Nature Publishing Group UK"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="AbigailLZeamer_2023_11_18_Associationbetween">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="AbigailLZeamer_2023_11_18_Associationbetween">[show citation]</label>
-</div></div></td></tr><tr>
-<td>238</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="HNZiobrowski_2023_Childhoodadversities">
 <div class="citation">
 Ziobrowski H, Holt-Gosselin B, Petukhova M, King A, Lee S, House S, Beaudoin F, An X, Stevens J, Zeng D, Neylan T, Clifford G, Linnstaedt S, Germine L, Bollen K, Rauch S, Haran J, Storrow A, Lewandowski C, Musey P, Hendry P, Sheikh S, Jones C, Punches B, Kurz M, Swor R, Hudak L, Pascual J, Seamon M, Harris E, Pearson C, Merchant R, Domeier R, Rathlev N, O'Neil B, Sergot P, Sanchez L, Bruce S, Miller M, Pietrzak R, Joormann J, Barch D, Pizzagalli D, Harte S, Elliott J, Ressler K, McLean S, Koenen K, Kessler R. <a href="https://drive.google.com/file/d/1mfqDKfPuyBoCW7x7Mjm_ulD66908wr0M/view?usp=sharing">Childhood adversities and risk of posttraumatic stress disorder and major depression following a motor vehicle collision in adulthood</a>. Epidemiology and Psychiatric Sciences 2023; 32: p. e1. DOI: <a href="https://doi.org/10.1017/S2045796022000798">10.1017/S2045796022000798</a>.
@@ -812,6 +788,30 @@ Ziobrowski H, Holt-Gosselin B, Petukhova M, King A, Lee S, House S, Beaudoin F, 
 </div>
 <div class="hidebibtex">
 <label for="HNZiobrowski_2023_Childhoodadversities">[show citation]</label>
+</div></div></td></tr><tr>
+<td>238</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="AbigailLZeamer_2023_11_18_Associationbetween">
+<div class="citation">
+Zeamer AL, Salive M, An X, Beaudoin FL, House SL, Stevens JS, Zeng D, Neylan TC, Clifford GD, Linnstaedt SD, Rauch SL, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Hudak LA, Pascual JL, Seamon MJ, Harris E, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Bruce SE, Kessler RC, Koenen KC, McLean SA, Bucci V, Haran JP. <a href="https://drive.google.com/file/d/19YkNdSmRk5Qtj3xaCJnISD7HobBtCMRN/view?usp=sharing">Association between microbiome and the development of adverse posttraumatic neuropsychiatric sequelae after traumatic stress exposure</a>. Translational Psychiatry 2023 November 18; 13 (1): p. 354.
+</div>
+<div class="bibtex_source"><pre>@article{AbigailLZeamer_2023_11_18_Associationbetween,
+    author = "Zeamer, Abigail L and Salive, Marie-Claire and An, Xinming and Beaudoin, Francesca L and House, Stacey L and Stevens, Jennifer S and Zeng, Donglin and Neylan, Thomas C and Clifford, Gari D and Linnstaedt, Sarah D and Rauch, Scott L and Storrow, Alan B and Lewandowski, Christopher and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Harris, Erica and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J. and Sergot, Paulina and Sanchez, Leon D and Bruce, Steven E and Kessler, Ronald C and Koenen, Karestan C and McLean, Samuel A and Bucci, Vanni and Haran, John P",
+    title = "Association between microbiome and the development of adverse posttraumatic neuropsychiatric sequelae after traumatic stress exposure",
+    date = "2023-11-18",
+    issue = "1",
+    journal = "Translational Psychiatry",
+    url = "https://drive.google.com/file/d/19YkNdSmRk5Qtj3xaCJnISD7HobBtCMRN/view?usp=sharing",
+    pages = "354",
+    volume = "13",
+    note = "Publisher: Nature Publishing Group UK"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="AbigailLZeamer_2023_11_18_Associationbetween">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="AbigailLZeamer_2023_11_18_Associationbetween">[show citation]</label>
 </div></div></td></tr><tr>
 <td>237</td>
 <td><div class="citation_container">
@@ -2362,26 +2362,6 @@ Kulkarni SS, Katebi N, Valderrama CE, Rohloff P, Clifford GD. <a href="https://d
 </div></div></td></tr><tr>
 <td>172</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="ArsalanKazemnejad_2021_05_18_Anopenaccess">
-<div class="citation">
-Kazemnejad A, Karimi S, Gordany P, Clifford GD, Sameni R. <a href="https://drive.google.com/file/d/1YvyqOVRv3kXlOahh4iSwggrYRiNwPrme/view?usp=sharing">An open-access simultaneous electrocardiogram and phonocardiogram database</a>. Physiological Measurement 2021 May 18.
-</div>
-<div class="bibtex_source"><pre>@article{ArsalanKazemnejad_2021_05_18_Anopenaccess,
-    author = "Kazemnejad, Arsalan and Karimi, Sajjad and Gordany, Peiman and Clifford, Gari D and Sameni, Reza",
-    title = "An open-access simultaneous electrocardiogram and phonocardiogram database",
-    date = "2021-05-18",
-    journal = "Physiological Measurement",
-    url = "https://drive.google.com/file/d/1YvyqOVRv3kXlOahh4iSwggrYRiNwPrme/view?usp=sharing"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="ArsalanKazemnejad_2021_05_18_Anopenaccess">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="ArsalanKazemnejad_2021_05_18_Anopenaccess">[show citation]</label>
-</div></div></td></tr><tr>
-<td>171</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AzadeTabaie_2021_05_01_Predictingpresumed">
 <div class="citation">
 Tabaie A, Orenstein EW, Nemati S, Basu RK, Kandaswamy S, Clifford GD, Kamaleswaran R. <a href="https://drive.google.com/file/d/1Ea0FCJaDRbXNRCtjpvI4I2ip46uOeJO2/view?usp=sharing">Predicting presumed serious infection among hospitalized children on central venous lines with machine learning</a>. Computers in Biology and Medicine 2021 May; 132: p. 104289. DOI: <a href="https://doi.org/10.1016/j.compbiomed.2021.104289">10.1016/j.compbiomed.2021.104289</a>.
@@ -2404,7 +2384,7 @@ Tabaie A, Orenstein EW, Nemati S, Basu RK, Kandaswamy S, Clifford GD, Kamaleswar
 <div class="hidebibtex">
 <label for="AzadeTabaie_2021_05_01_Predictingpresumed">[show citation]</label>
 </div></div></td></tr><tr>
-<td>170</td>
+<td>171</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="FrancescaLBeaudoin_2021_05_Painafter">
 <div class="citation">
@@ -2426,6 +2406,26 @@ Beaudoin FL, Kessler R, Hwang I, Lee S, Sampson N, An X, Ressler K, Koenen K, Mc
 </div>
 <div class="hidebibtex">
 <label for="FrancescaLBeaudoin_2021_05_Painafter">[show citation]</label>
+</div></div></td></tr><tr>
+<td>170</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="ArsalanKazemnejad_2021_05_18_Anopenaccess">
+<div class="citation">
+Kazemnejad A, Karimi S, Gordany P, Clifford GD, Sameni R. <a href="https://drive.google.com/file/d/1YvyqOVRv3kXlOahh4iSwggrYRiNwPrme/view?usp=sharing">An open-access simultaneous electrocardiogram and phonocardiogram database</a>. Physiological Measurement 2021 May 18.
+</div>
+<div class="bibtex_source"><pre>@article{ArsalanKazemnejad_2021_05_18_Anopenaccess,
+    author = "Kazemnejad, Arsalan and Karimi, Sajjad and Gordany, Peiman and Clifford, Gari D and Sameni, Reza",
+    title = "An open-access simultaneous electrocardiogram and phonocardiogram database",
+    date = "2021-05-18",
+    journal = "Physiological Measurement",
+    url = "https://drive.google.com/file/d/1YvyqOVRv3kXlOahh4iSwggrYRiNwPrme/view?usp=sharing"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="ArsalanKazemnejad_2021_05_18_Anopenaccess">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="ArsalanKazemnejad_2021_05_18_Anopenaccess">[show citation]</label>
 </div></div></td></tr><tr>
 <td>169</td>
 <td><div class="citation_container">
@@ -11594,13 +11594,13 @@ Inan O, Clifford GD, Ganti VG, Mabrouk S, Safaei M, Whittingslow DC, Wright DW. 
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariClifford_2022_10_13_Systemsand">
 <div class="citation">
-Clifford GD, Cakmak A, Rozell C, Willats A. <a href="https://patents.google.com/patent/US20220322999A1/en">Systems and Methods for Detecting Sleep Activity</a>. 2022 October 13. US Patent App. 17640405.
+Clifford GD, Cakmak A, Rozell C, Willats A. <a href="https://drive.google.com/file/d/1RJKS5BFxijuiWdBkOYHQHPYFZppOyZ_E/view?usp=sharing">Systems and Methods for Detecting Sleep Activity</a>. 2022 October 13. US Patent App. 17640405.
 </div>
 <div class="bibtex_source"><pre>@misc{GariClifford_2022_10_13_Systemsand,
     author = "Clifford, Gari D and Cakmak, Ayse and Rozell, Christopher and Willats, Adam",
     title = "Systems and Methods for Detecting Sleep Activity",
     date = "2022-10-13",
-    url = "https://patents.google.com/patent/US20220322999A1/en",
+    url = "https://drive.google.com/file/d/1RJKS5BFxijuiWdBkOYHQHPYFZppOyZ\_E/view?usp=sharing",
     howpublished = "US Patent App. 17640405"
 }
 </pre>
@@ -11614,13 +11614,13 @@ Clifford GD, Cakmak A, Rozell C, Willats A. <a href="https://patents.google.com/
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GiuliaDiPoian_2022_10_04_Methodsand">
 <div class="citation">
-Poian GD, Rinaldo R, Clifford GD. <a href="https://patents.google.com/patent/US11457853B2/en">Methods and systems for automatically detecting events based on ECG signals determined from compressed sensed measurements</a>. 2022 October 4. US Patent 11457853 App. 16496917.
+Poian GD, Rinaldo R, Clifford GD. <a href="https://drive.google.com/file/d/1IdK6SGaBo1anyJJdCTJx7x_wS-GrRwaP/view?usp=sharing">Methods and systems for automatically detecting events based on ECG signals determined from compressed sensed measurements</a>. 2022 October 4. US Patent 11457853 App. 16496917.
 </div>
 <div class="bibtex_source"><pre>@misc{GiuliaDiPoian_2022_10_04_Methodsand,
     author = "Poian, Giulia Di and Rinaldo, Roberto and Clifford, Gari D",
     title = "Methods and systems for automatically detecting events based on ECG signals determined from compressed sensed measurements",
     date = "2022-10-04",
-    url = "https://patents.google.com/patent/US11457853B2/en",
+    url = "https://drive.google.com/file/d/1IdK6SGaBo1anyJJdCTJx7x\_wS-GrRwaP/view?usp=sharing",
     howpublished = "US Patent 11457853 App. 16496917"
 }
 </pre>
@@ -11634,13 +11634,13 @@ Poian GD, Rinaldo R, Clifford GD. <a href="https://patents.google.com/patent/US1
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShamimNemati_2022_04_28_Methodsand">
 <div class="citation">
-Nemati S, Clifford GD, Shashikumar SP, Shah AJ, Li Q. <a href="https://patents.google.com/patent/US20220125322A1/en">Methods and Systems for Determining Abnormal Cardiac Activity</a>. 2022 April 28. US Patent App. 17571298.
+Nemati S, Clifford GD, Shashikumar SP, Shah AJ, Li Q. <a href="https://drive.google.com/file/d/1D-7uTDZISBgTldrMhvKFzeN3tTJvyyxA/view?usp=sharing">Methods and Systems for Determining Abnormal Cardiac Activity</a>. 2022 April 28. US Patent App. 17571298.
 </div>
 <div class="bibtex_source"><pre>@misc{ShamimNemati_2022_04_28_Methodsand,
     author = "Nemati, Shamim and Clifford, Gari D and Shashikumar, Supreeth Prajwal and Shah, Amit Jasvant and Li, Qiao",
     title = "Methods and Systems for Determining Abnormal Cardiac Activity",
     date = "2022-04-28",
-    url = "https://patents.google.com/patent/US20220125322A1/en",
+    url = "https://drive.google.com/file/d/1D-7uTDZISBgTldrMhvKFzeN3tTJvyyxA/view?usp=sharing",
     howpublished = "US Patent App. 17571298"
 }
 </pre>
@@ -11654,13 +11654,13 @@ Nemati S, Clifford GD, Shashikumar SP, Shah AJ, Li Q. <a href="https://patents.g
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariClifford_2022_04_14_Systemand">
 <div class="citation">
-Clifford GD, Zelko J, Shu N, Suresha P, Cakmak A. <a href="https://patents.google.com/patent/US20220110546A1/en">System and methods for tracking behavior and detecting abnormalities</a>. 2022 April 14. US Patent App. 17430414.
+Clifford GD, Zelko J, Shu N, Suresha P, Cakmak A. <a href="https://drive.google.com/file/d/1wGEiVSWD-f7Czu0ocLxFJRvmwF8EQSG-/view?usp=sharing">System and methods for tracking behavior and detecting abnormalities</a>. 2022 April 14. US Patent App. 17430414.
 </div>
 <div class="bibtex_source"><pre>@misc{GariClifford_2022_04_14_Systemand,
     author = "Clifford, Gari D and Zelko, Jacob and Shu, Nicolas and Suresha, Pradyumna and Cakmak, Ayse",
     title = "System and methods for tracking behavior and detecting abnormalities",
     date = "2022-04-14",
-    url = "https://patents.google.com/patent/US20220110546A1/en",
+    url = "https://drive.google.com/file/d/1wGEiVSWD-f7Czu0ocLxFJRvmwF8EQSG-/view?usp=sharing",
     howpublished = "US Patent App. 17430414"
 }
 </pre>
@@ -11674,13 +11674,13 @@ Clifford GD, Zelko J, Shu N, Suresha P, Cakmak A. <a href="https://patents.googl
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariClifford_2022_02_15_Usingheartrate">
 <div class="citation">
-Clifford GD, Reinertsen E, Shah A, Nemati S. <a href="https://patents.google.com/patent/US11246520B2/en">Using heartrate information to classify PTSD</a>. 2022 February 15. US Patent 11246520 App. 16469001.
+Clifford GD, Reinertsen E, Shah A, Nemati S. <a href="https://drive.google.com/file/d/1MTjwLgD-xviibmhLa1aVVuVRONqGx4e9/view?usp=sharing">Using heartrate information to classify PTSD</a>. 2022 February 15. US Patent 11246520 App. 16469001.
 </div>
 <div class="bibtex_source"><pre>@misc{GariClifford_2022_02_15_Usingheartrate,
     author = "Clifford, Gari D and Reinertsen, Erik and Shah, Amit and Nemati, Shamim",
     title = "Using heartrate information to classify PTSD",
     date = "2022-02-15",
-    url = "https://patents.google.com/patent/US11246520B2/en",
+    url = "https://drive.google.com/file/d/1MTjwLgD-xviibmhLa1aVVuVRONqGx4e9/view?usp=sharing",
     howpublished = "US Patent 11246520 App. 16469001"
 }
 </pre>
@@ -11694,13 +11694,13 @@ Clifford GD, Reinertsen E, Shah A, Nemati S. <a href="https://patents.google.com
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariClifford_2021_12_23_Passivedata">
 <div class="citation">
-Clifford GD, Cakmak A, Shah A, Reinertsen E. <a href="https://patents.google.com/patent/US20210398683A1/en">Passive data collection and use of machine-learning models for event prediction</a>. 2021 December 23. US Patent App. 17295248.
+Clifford GD, Cakmak A, Shah A, Reinertsen E. <a href="https://drive.google.com/file/d/1iZYmQBHnDPxCoshbK_w2HEibyg60cT6_/view?usp=sharing">Passive data collection and use of machine-learning models for event prediction</a>. 2021 December 23. US Patent App. 17295248.
 </div>
 <div class="bibtex_source"><pre>@misc{GariClifford_2021_12_23_Passivedata,
     author = "Clifford, Gari D and Cakmak, Ayse and Shah, Amit and Reinertsen, Erik",
     title = "Passive data collection and use of machine-learning models for event prediction",
     date = "2021-12-23",
-    url = "https://patents.google.com/patent/US20210398683A1/en",
+    url = "https://drive.google.com/file/d/1iZYmQBHnDPxCoshbK\_w2HEibyg60cT6\_/view?usp=sharing",
     howpublished = "US Patent App. 17295248"
 }
 </pre>
@@ -11714,13 +11714,13 @@ Clifford GD, Cakmak A, Shah A, Reinertsen E. <a href="https://patents.google.com
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RobertMannino_2021_11_25_Systemsand">
 <div class="citation">
-Mannino R, Lam W, Clifford GD, Tyburski E. <a href="https://patents.google.com/patent/US20210361195A1/en">Systems and methods for quantitative diagnosis of anemia</a>. 2021 November 25. US Patent App. 17291215.
+Mannino R, Lam W, Clifford GD, Tyburski E. <a href="https://drive.google.com/file/d/1N1nGkuHvOMjWoYNDzgd9CrDASg7LKlr3/view?usp=sharing">Systems and methods for quantitative diagnosis of anemia</a>. 2021 November 25. US Patent App. 17291215.
 </div>
 <div class="bibtex_source"><pre>@misc{RobertMannino_2021_11_25_Systemsand,
     author = "Mannino, Robert and Lam, Wilbur and Clifford, Gari D and Tyburski, Erika",
     title = "Systems and methods for quantitative diagnosis of anemia",
     date = "2021-11-25",
-    url = "https://patents.google.com/patent/US20210361195A1/en",
+    url = "https://drive.google.com/file/d/1N1nGkuHvOMjWoYNDzgd9CrDASg7LKlr3/view?usp=sharing",
     howpublished = "US Patent App. 17291215"
 }
 </pre>
@@ -11734,13 +11734,13 @@ Mannino R, Lam W, Clifford GD, Tyburski E. <a href="https://patents.google.com/p
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AllanLevey_2021_11_18_Systemsand">
 <div class="citation">
-Levey A, Clifford GD, Haque R, Manzanares C, Brown L. <a href="https://patents.google.com/patent/US20210353208A1/en">Systems and methods for automated passive assessment of visuospatial memory and/or salience</a>. 2021 November 18. US Patent App. 17286667.
+Levey A, Clifford GD, Haque R, Manzanares C, Brown L. <a href="https://drive.google.com/file/d/13DkU3rdVYuWgE18R6pco3MaoLfKG6FZ-/view?usp=sharing">Systems and methods for automated passive assessment of visuospatial memory and/or salience</a>. 2021 November 18. US Patent App. 17286667.
 </div>
 <div class="bibtex_source"><pre>@misc{AllanLevey_2021_11_18_Systemsand,
     author = "Levey, Allan and Clifford, Gari D and Haque, Rafi and Manzanares, Cecelia and Brown, LaVonda",
     title = "Systems and methods for automated passive assessment of visuospatial memory and/or salience",
     date = "2021-11-18",
-    url = "https://patents.google.com/patent/US20210353208A1/en",
+    url = "https://drive.google.com/file/d/13DkU3rdVYuWgE18R6pco3MaoLfKG6FZ-/view?usp=sharing",
     howpublished = "US Patent App. 17286667"
 }
 </pre>
@@ -11754,13 +11754,13 @@ Levey A, Clifford GD, Haque R, Manzanares C, Brown L. <a href="https://patents.g
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShamimNemati_2019_10_31_Methodsand">
 <div class="citation">
-Nemati S, Clifford GD, Shashikumar SP, Shah AJ, Li Q. <a href="https://patents.google.com/patent/US20190328243A1/en">Methods and Systems for Determining Abnormal Cardiac Activity</a>. 2019 October 31. US Patent App. 16472818.
+Nemati S, Clifford GD, Shashikumar SP, Shah AJ, Li Q. <a href="https://drive.google.com/file/d/1uAnX3gDP1EuF3D8rU_0YxjWqWqYNbydR/view?usp=sharing">Methods and Systems for Determining Abnormal Cardiac Activity</a>. 2019 October 31. US Patent App. 16472818.
 </div>
 <div class="bibtex_source"><pre>@misc{ShamimNemati_2019_10_31_Methodsand,
     author = "Nemati, Shamim and Clifford, Gari D and Shashikumar, Supreeth Prajwal and Shah, Amit Jasvant and Li, Qiao",
     title = "Methods and Systems for Determining Abnormal Cardiac Activity",
     date = "2019-10-31",
-    url = "https://patents.google.com/patent/US20190328243A1/en",
+    url = "https://drive.google.com/file/d/1uAnX3gDP1EuF3D8rU\_0YxjWqWqYNbydR/view?usp=sharing",
     howpublished = "US Patent App. 16472818"
 }
 </pre>
@@ -11774,13 +11774,13 @@ Nemati S, Clifford GD, Shashikumar SP, Shah AJ, Li Q. <a href="https://patents.g
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RezaSameni_2015_09_08_Extractionof">
 <div class="citation">
-Sameni R, Jutten C, Shamsollahi MB, Clifford GD. <a href="https://patents.google.com/patent/US9125577B2/en">Extraction of fetal cardiac signals</a>. 2015 September 8. US Patent 9125577 App. 14456178.
+Sameni R, Jutten C, Shamsollahi MB, Clifford GD. <a href="https://drive.google.com/file/d/1w86gM-PNcjt2QE5fiHLhVDTVY1OoQonw/view?usp=sharing">Extraction of fetal cardiac signals</a>. 2015 September 8. US Patent 9125577 App. 14456178.
 </div>
 <div class="bibtex_source"><pre>@misc{RezaSameni_2015_09_08_Extractionof,
     author = "Sameni, Reza and Jutten, Christian and Shamsollahi, Mohammad B and Clifford, Gari D",
     title = "Extraction of fetal cardiac signals",
     date = "2015-09-08",
-    url = "https://patents.google.com/patent/US9125577B2/en",
+    url = "https://drive.google.com/file/d/1w86gM-PNcjt2QE5fiHLhVDTVY1OoQonw/view?usp=sharing",
     howpublished = "US Patent 9125577 App. 14456178"
 }
 </pre>
@@ -11794,13 +11794,13 @@ Sameni R, Jutten C, Shamsollahi MB, Clifford GD. <a href="https://patents.google
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RezaSameni_2014_06_Extractionof">
 <div class="citation">
-Sameni R, Jutten C, Shamsollahi MB, Clifford GD. <a href="https://patents.google.com/patent/US8805485B2/en">Extraction of fetal cardiac signals</a>. 2014 June. US Patent 20100137727 App. US 12/624,175.
+Sameni R, Jutten C, Shamsollahi MB, Clifford GD. <a href="https://drive.google.com/file/d/1hRL9B9jzQJIJHFl-8AVL4UCamLizG_Gh/view?usp=sharing">Extraction of fetal cardiac signals</a>. 2014 June. US Patent 20100137727 App. US 12/624,175.
 </div>
 <div class="bibtex_source"><pre>@misc{RezaSameni_2014_06_Extractionof,
     author = "Sameni, Reza and Jutten, Christian and Shamsollahi, Mohammad B and Clifford, Gari D",
     title = "Extraction of fetal cardiac signals",
     date = "2014-06",
-    url = "https://patents.google.com/patent/US8805485B2/en",
+    url = "https://drive.google.com/file/d/1hRL9B9jzQJIJHFl-8AVL4UCamLizG\_Gh/view?usp=sharing",
     howpublished = "US Patent 20100137727 App. US 12/624,175"
 }
 </pre>
@@ -11834,13 +11834,13 @@ Clifford GD, Oster J, Pietquin O, Geist M. <a href="https://hal-centralesupelec.
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AdamJWolfberg_2012_01_19_FetalECG">
 <div class="citation">
-Wolfberg AJ, Clifford GD, Ward J, Center TM, Inc. , Technology , of MI, E-Trolz I. <a href="https://patents.google.com/patent/US20120016209A1/en">Fetal ecg monitoring</a>. 2012 January 19. US Patent 20120016209 App. 13/113293.
+Wolfberg AJ, Clifford GD, Ward J, Center TM, Inc. , Technology , of MI, E-Trolz I. <a href="https://drive.google.com/file/d/1HItku4CZinIJ9WquHZnlmIcJosvUh2ay/view?usp=sharing">Fetal ecg monitoring</a>. 2012 January 19. US Patent 20120016209 App. 13/113293.
 </div>
 <div class="bibtex_source"><pre>@misc{AdamJWolfberg_2012_01_19_FetalECG,
     author = "Wolfberg, Adam J and Clifford, Gari D and Ward, Jay and Center, Tufts Medical and Inc. and Technology and of, Massachusetts Institute and E-Trolz, Inc.",
     title = "Fetal ecg monitoring",
     date = "2012-01-19",
-    url = "https://patents.google.com/patent/US20120016209A1/en",
+    url = "https://drive.google.com/file/d/1HItku4CZinIJ9WquHZnlmIcJosvUh2ay/view?usp=sharing",
     howpublished = "US Patent 20120016209 App. 13/113293"
 }
 </pre>
@@ -11854,13 +11854,13 @@ Wolfberg AJ, Clifford GD, Ward J, Center TM, Inc. , Technology , of MI, E-Trolz 
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AdamJWolfberg_2011_09_30_FetalECG">
 <div class="citation">
-Wolfberg AJ, Clifford GD, Ward J, Center TM, Inc. , E-Trolz , Inc. , Technology MI. <a href="https://patents.google.com/patent/US7949389B2/en">Fetal ECG monitoring</a>. 2011 September 30. US Patent App. 13249812.
+Wolfberg AJ, Clifford GD, Ward J, Center TM, Inc. , E-Trolz , Inc. , Technology MI. <a href="https://drive.google.com/file/d/1sKFvp0ACEbLnJDFbL6SS1kCJCV_9OIKQ/view?usp=sharing">Fetal ECG monitoring</a>. 2011 September 30. US Patent App. 13249812.
 </div>
 <div class="bibtex_source"><pre>@misc{AdamJWolfberg_2011_09_30_FetalECG,
     author = "Wolfberg, Adam J and Clifford, Gari D and Ward, Jay and Center, Tufts Medical and Inc. and E-Trolz and Inc. and of Technology, Massachusetts Institute",
     title = "Fetal ECG monitoring",
     date = "2011-09-30",
-    url = "https://patents.google.com/patent/US7949389B2/en",
+    url = "https://drive.google.com/file/d/1sKFvp0ACEbLnJDFbL6SS1kCJCV\_9OIKQ/view?usp=sharing",
     howpublished = "US Patent App. 13249812"
 }
 </pre>
@@ -11894,13 +11894,13 @@ Sameni R, Jutten C, Shamsollahi MB, Clifford GD. <a href="https://hal-lirmm.ccsd
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2006_09_06_Methodand">
 <div class="citation">
-Clifford GD. <a href="https://patents.google.com/patent/US20070260151A1/en">Method and device for filtering, segmenting, compressing and classifying oscillatory signals</a>. 2006 September 6. US Patent App. 11470506.
+Clifford GD. <a href="https://drive.google.com/file/d/199pFvz_bdy1AZWSqYV5Gbo8VxE_5u9P3/view?usp=sharing">Method and device for filtering, segmenting, compressing and classifying oscillatory signals</a>. 2006 September 6. US Patent App. 11470506.
 </div>
 <div class="bibtex_source"><pre>@misc{GariDClifford_2006_09_06_Methodand,
     author = "Clifford, Gari D",
     title = "Method and device for filtering, segmenting, compressing and classifying oscillatory signals",
     date = "2006-09-06",
-    url = "https://patents.google.com/patent/US20070260151A1/en",
+    url = "https://drive.google.com/file/d/199pFvz\_bdy1AZWSqYV5Gbo8VxE\_5u9P3/view?usp=sharing",
     howpublished = "US Patent App. 11470506"
 }
 </pre>
