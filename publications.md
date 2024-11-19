@@ -11963,7 +11963,7 @@ Clifford GD. Statistical Conformal Field Theory and Information Loss in the Reno
 
 <table>
 <tr>
-<td>30</td>
+<td>27</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="XingyaoWang_2021_06_ParoxysmalAtrial">
 <div class="citation">
@@ -11983,7 +11983,7 @@ Wang X, Ma C, Zhang X, Gao H, Clifford GD, Liu C. <a href="https://www.physionet
 <div class="hidebibtex">
 <label for="XingyaoWang_2021_06_ParoxysmalAtrial">[show citation]</label>
 </div></div></td></tr><tr>
-<td>29</td>
+<td>26</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="BMoody_2020_Mimiciiiwaveform">
 <div class="citation">
@@ -12004,7 +12004,7 @@ Moody B, Moody G, Villarroel M, Clifford G, Silva I. <a href="https://scholar.go
 <div class="hidebibtex">
 <label for="BMoody_2020_Mimiciiiwaveform">[show citation]</label>
 </div></div></td></tr><tr>
-<td>28</td>
+<td>25</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2018_FromWearables">
 <div class="citation">
@@ -12024,7 +12024,7 @@ Clifford GD. <a href="https://hip.emory.edu/_includes/documents/sections/symposi
 <div class="hidebibtex">
 <label for="GariDClifford_2018_FromWearables">[show citation]</label>
 </div></div></td></tr><tr>
-<td>27</td>
+<td>24</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChengyuLiu_2018_Focuson">
 <div class="citation">
@@ -12044,7 +12044,7 @@ Liu C, Lehman L, Moody B, Li Q, Clifford G. <a href="https://drive.google.com/fi
 <div class="hidebibtex">
 <label for="ChengyuLiu_2018_Focuson">[show citation]</label>
 </div></div></td></tr><tr>
-<td>26</td>
+<td>23</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AhmedAbbasi_2018_08_01_MakeFairness">
 <div class="citation">
@@ -12065,7 +12065,7 @@ Abbasi A, Li J, Clifford GD, Taylor HA. <a href="https://scholar.google.com/scho
 <div class="hidebibtex">
 <label for="AhmedAbbasi_2018_08_01_MakeFairness">[show citation]</label>
 </div></div></td></tr><tr>
-<td>25</td>
+<td>22</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShriBHAnilKumar_2018_07_17_Theteam">
 <div class="citation">
@@ -12084,7 +12084,7 @@ Kumar SBA, Buchman T, Clifford GD, Nemati S, Li Q, Arar B, Stanley M, Holder A, 
 <div class="hidebibtex">
 <label for="ShriBHAnilKumar_2018_07_17_Theteam">[show citation]</label>
 </div></div></td></tr><tr>
-<td>24</td>
+<td>21</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GiuliaDaPoian_2017_03_23_Exploitingsparsity">
 <div class="citation">
@@ -12104,7 +12104,7 @@ Poian GD. <a href="https://air.uniud.it/retrieve/e27ce0c5-623c-055e-e053-6605fe0
 <div class="hidebibtex">
 <label for="GiuliaDaPoian_2017_03_23_Exploitingsparsity">[show citation]</label>
 </div></div></td></tr><tr>
-<td>23</td>
+<td>20</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ArvindRaghuArvindRaghu_2015_11_04_Implicationsof">
 <div class="citation">
@@ -12126,7 +12126,7 @@ Raghu ARA, Praveen DPD, Peiris D, Tarassenko L, Clifford G. <a href="https://www
 <div class="hidebibtex">
 <label for="ArvindRaghuArvindRaghu_2015_11_04_Implicationsof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>22</td>
+<td>19</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="TTZhu_2015_05_27_Theframework">
 <div class="citation">
@@ -12145,7 +12145,7 @@ Zhu T, Dunkley N, Behar J, Clifton D, Clifford G, Pimentel M. <a href="https://w
 <div class="hidebibtex">
 <label for="TTZhu_2015_05_27_Theframework">[show citation]</label>
 </div></div></td></tr><tr>
-<td>21</td>
+<td>18</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GlennSteeleJr_2015_04_02_USHealthcare">
 <div class="citation">
@@ -12164,7 +12164,7 @@ Jr GS, Erskine A, Clifford GD, Braunstein M, Simpson DR. <a href="https://www.hi
 <div class="hidebibtex">
 <label for="GlennSteeleJr_2015_04_02_USHealthcare">[show citation]</label>
 </div></div></td></tr><tr>
-<td>20</td>
+<td>17</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShannonFischer_2014_09_IEEEpULse">
 <div class="citation">
@@ -12183,7 +12183,7 @@ Fischer S, Grifantini K, Clifford GD, Gederi E, Heneghan C, Hirshkowitz M, Jan<s
 <div class="hidebibtex">
 <label for="ShannonFischer_2014_09_IEEEpULse">[show citation]</label>
 </div></div></td></tr><tr>
-<td>19</td>
+<td>16</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MaximOsipov_2014_08_14_Towardsautomated">
 <div class="citation">
@@ -12202,7 +12202,7 @@ Osipov M, Clifford GD. <a href="https://arxiv.org/pdf/1908.06013.pdf">Towards au
 <div class="hidebibtex">
 <label for="MaximOsipov_2014_08_14_Towardsautomated">[show citation]</label>
 </div></div></td></tr><tr>
-<td>18</td>
+<td>15</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LouisMayaud_2012_10_11_GeneticAlgorithm">
 <div class="citation">
@@ -12221,7 +12221,7 @@ Mayaud L, Tarassenko L, Clifford GD. <a href="https://www.researchgate.net/profi
 <div class="hidebibtex">
 <label for="LouisMayaud_2012_10_11_GeneticAlgorithm">[show citation]</label>
 </div></div></td></tr><tr>
-<td>17</td>
+<td>14</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MohammedSaeed_2011_MIMICIIClinical">
 <div class="citation">
@@ -12243,7 +12243,7 @@ Saeed M, Villarroel M, Reisner A, Clifford GD, Lehman L, Moody G, Heldt T, Kyaw 
 <div class="hidebibtex">
 <label for="MohammedSaeed_2011_MIMICIIClinical">[show citation]</label>
 </div></div></td></tr><tr>
-<td>16</td>
+<td>13</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="KatherineLKuan_2010_Aframework">
 <div class="citation">
@@ -12262,7 +12262,7 @@ Kuan KL, Szolovits P, Clifford GD. <a href="https://dspace.mit.edu/handle/1721.1
 <div class="hidebibtex">
 <label for="KatherineLKuan_2010_Aframework">[show citation]</label>
 </div></div></td></tr><tr>
-<td>15</td>
+<td>12</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GClifford_2010_Userguide">
 <div class="citation">
@@ -12281,7 +12281,7 @@ Clifford G, Scott D, Villarroel M. <a href="https://archive.physionet.org/mimic2
 <div class="hidebibtex">
 <label for="GClifford_2010_Userguide">[show citation]</label>
 </div></div></td></tr><tr>
-<td>14</td>
+<td>11</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariClifford_2008_TheEmerging">
 <div class="citation">
@@ -12300,7 +12300,7 @@ Clifford GD. <a href="https://d1wqtxts1xzle7.cloudfront.net/30707561/lec14_gari-
 <div class="hidebibtex">
 <label for="GariClifford_2008_TheEmerging">[show citation]</label>
 </div></div></td></tr><tr>
-<td>13</td>
+<td>10</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GDClifford_2007_Coursematerials">
 <div class="citation">
@@ -12320,7 +12320,7 @@ Clifford G. <a href="https://scholar.google.com/scholar?cluster=4552201191896152
 <div class="hidebibtex">
 <label for="GDClifford_2007_Coursematerials">[show citation]</label>
 </div></div></td></tr><tr>
-<td>12</td>
+<td>9</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2006_12_01_Reviewof">
 <div class="citation">
@@ -12345,7 +12345,7 @@ Clifford GD. <a href="https://drive.google.com/file/d/1LzA_LAXMbf0F09EPN8WEZpOTr
 <div class="hidebibtex">
 <label for="GariDClifford_2006_12_01_Reviewof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>11</td>
+<td>8</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GClifford_2006_Advancedmethods">
 <div class="citation">
@@ -12365,7 +12365,7 @@ Clifford G, AF D, McSharry P. <a href="https://scholar.google.com/scholar?cluste
 <div class="hidebibtex">
 <label for="GClifford_2006_Advancedmethods">[show citation]</label>
 </div></div></td></tr><tr>
-<td>10</td>
+<td>7</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AndrewTReisner_2006_Thephysiological">
 <div class="citation">
@@ -12386,7 +12386,7 @@ Reisner AT, Clifford GD, Mark RG. <a href="http://onlineedu.cafa.edu.cn/moocreso
 <div class="hidebibtex">
 <label for="AndrewTReisner_2006_Thephysiological">[show citation]</label>
 </div></div></td></tr><tr>
-<td>9</td>
+<td>6</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="PatrickEMcSharry_2006_NonlinearFiltering">
 <div class="citation">
@@ -12407,7 +12407,7 @@ McSharry PE, Clifford GD. <a href="https://scholar.google.com/scholar?cluster=25
 <div class="hidebibtex">
 <label for="PatrickEMcSharry_2006_NonlinearFiltering">[show citation]</label>
 </div></div></td></tr><tr>
-<td>8</td>
+<td>5</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2006_EctopicBeats">
 <div class="citation">
@@ -12425,7 +12425,7 @@ Clifford GD. Ectopic Beats, Activity Effects and Heart Rate Turbulence. 2006.
 <div class="hidebibtex">
 <label for="GariDClifford_2006_EctopicBeats">[show citation]</label>
 </div></div></td></tr><tr>
-<td>7</td>
+<td>4</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="PEMcSharry_2006_03_ECGSYNarealistic">
 <div class="citation">
@@ -12445,7 +12445,7 @@ McSharry P, Clifford G. <a href="https://scholar.google.com/scholar?cluster=1830
 <div class="hidebibtex">
 <label for="PEMcSharry_2006_03_ECGSYNarealistic">[show citation]</label>
 </div></div></td></tr><tr>
-<td>6</td>
+<td>3</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2005_01_BlindSource">
 <div class="citation">
@@ -12465,7 +12465,7 @@ Clifford GD. <a href="https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf
 <div class="hidebibtex">
 <label for="GariDClifford_2005_01_BlindSource">[show citation]</label>
 </div></div></td></tr><tr>
-<td>5</td>
+<td>2</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GDClifford_2005_04_07_Fetal">
 <div class="citation">
@@ -12485,27 +12485,7 @@ Clifford G. <a href="https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&
 <div class="hidebibtex">
 <label for="GDClifford_2005_04_07_Fetal">[show citation]</label>
 </div></div></td></tr><tr>
-<td>4</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="GDClifford_2002_Computersin">
-<div class="citation">
-Clifford G, McSharry P, Tarassenko L. <a href="https://scholar.google.com/scholar?cluster=7561542297324776443&hl=en&oi=scholarr">Computers in Cardiology</a>. 2002.
-</div>
-<div class="bibtex_source"><pre>@misc{GDClifford_2002_Computersin,
-    author = "Clifford, GD and McSharry, PE and Tarassenko, L",
-    title = "Computers in Cardiology",
-    date = "2002",
-    url = "https://scholar.google.com/scholar?cluster=7561542297324776443\&hl=en\&oi=scholarr",
-    pages = "129-132"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="GDClifford_2002_Computersin">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="GDClifford_2002_Computersin">[show citation]</label>
-</div></div></td></tr><tr>
-<td>3</td>
+<td>1</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="CeciliaHinojosa_UnknownDate_Thereciprocal">
 <div class="citation">
@@ -12524,43 +12504,5 @@ Hinojosa C, Rooij SJ, Fani N, Ellis RA, Garrison-Desany HM, House SL, Beaudoin F
 </div>
 <div class="hidebibtex">
 <label for="CeciliaHinojosa_UnknownDate_Thereciprocal">[show citation]</label>
-</div></div></td></tr><tr>
-<td>2</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="MatthewAReyna_UnknownDate_Digitizationand">
-<div class="citation">
-Reyna MA, Deepanshi JW, Koscova Z, Elola A, Seyedi S, Campbell K, Clifford GD, Sameni R. <a href="https://moody-challenge.physionet.org/2024/papers/cinc_template.pdf">Digitization and Classification of ECG Images: The George B. Moody PhysioNet Challenge 2024</a>. No Date.
-</div>
-<div class="bibtex_source"><pre>@misc{MatthewAReyna_UnknownDate_Digitizationand,
-    author = "Reyna, Matthew A and Deepanshi, James Weigle and Koscova, Zuzana and Elola, Andoni and Seyedi, Salman and Campbell, Kiersten and Clifford, Gari D and Sameni, Reza",
-    title = "Digitization and Classification of ECG Images: The George B. Moody PhysioNet Challenge 2024",
-    date = "No Date",
-    url = "https://moody-challenge.physionet.org/2024/papers/cinc\_template.pdf"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="MatthewAReyna_UnknownDate_Digitizationand">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="MatthewAReyna_UnknownDate_Digitizationand">[show citation]</label>
-</div></div></td></tr><tr>
-<td>1</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="LeiZhang_UnknownDate_Deeplearning">
-<div class="citation">
-Zhang L, Ye X, Lambrou T, Marzbanrad F, Stroux L, Clifford GD. <a href="https://ppm.wum.edu.pl/docstore/download/WUM1e6357dd6fe54c31bc696a80a1f66fd2/588670C5-EA09-41D9-804E-3ED68412E59A.pdf">Deep learning fetal ultrasound video model match human observers in biometric measurements</a>. No Date.
-</div>
-<div class="bibtex_source"><pre>@misc{LeiZhang_UnknownDate_Deeplearning,
-    author = "Zhang, Lei and Ye, Xujiong and Lambrou, Tryphon and Marzbanrad, Faezeh and Stroux, Lisa and Clifford, Gari D",
-    title = "Deep learning fetal ultrasound video model match human observers in biometric measurements",
-    date = "No Date",
-    url = "https://ppm.wum.edu.pl/docstore/download/WUM1e6357dd6fe54c31bc696a80a1f66fd2/588670C5-EA09-41D9-804E-3ED68412E59A.pdf"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="LeiZhang_UnknownDate_Deeplearning">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="LeiZhang_UnknownDate_Deeplearning">[show citation]</label>
 </div></div></td></tr>
 </table>
