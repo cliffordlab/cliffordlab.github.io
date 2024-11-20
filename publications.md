@@ -11,54 +11,6 @@ permalink: /publications
 
 <table>
 <tr>
-<td>273</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="AmitShah_2024_11_12_SexDifferences">
-<div class="citation">
-Shah A, She H, elon , Li Q, Roberts T, Stefanos L, Haddad G, Gupta S, Tarlapally N, Lampert R, Raggi P, Pearce B, Quyyumi A, Sameni R, Lewis T, Sullivan S, Bremner JD, Clifford G, Vaccarino V. <a href="https://www.ahajournals.org/doi/abs/10.1161/circ.150.suppl_1.4145127">Sex Differences in Everyday Mood States and its Association with Autonomic Physiology</a>. Circulation 2024 November 12; 150 (Suppl_1): pp. A4145127-A4145127.
-</div>
-<div class="bibtex_source"><pre>@article{AmitShah_2024_11_12_SexDifferences,
-    author = "Shah, Amit and She, Hua and lisa elon and Li, Qiao and Roberts, Tatum and Stefanos, Lewam and Haddad, George and Gupta, Shishir and Tarlapally, Nitya and Lampert, Rachel and Raggi, Paolo and Pearce, Brad and Quyyumi, Arshed and Sameni, Reza and Lewis, Tene and Sullivan, Samaah and Bremner, J Douglas and Clifford, Gari and Vaccarino, Viola",
-    title = "Sex Differences in Everyday Mood States and its Association with Autonomic Physiology",
-    date = "2024-11-12",
-    issue = "Suppl{\\_}1",
-    journal = "Circulation",
-    url = "https://www.ahajournals.org/doi/abs/10.1161/circ.150.suppl\_1.4145127",
-    pages = "A4145127-A4145127",
-    volume = "150",
-    note = "Publisher: Lippincott Williams {\\&} Wilkins"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="AmitShah_2024_11_12_SexDifferences">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="AmitShah_2024_11_12_SexDifferences">[show citation]</label>
-</div></div></td></tr><tr>
-<td>272</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="AmitShah_2024_11_12_BluntedHemodynamic">
-<div class="citation">
-Shah A, She H, elon , Roberts T, Stefanos L, Haddad G, Osei J, Suvada K, Okoh A, Desai S, Gold M, Jain V, Yadalam A, Razavi A, Wiltshire C, Raggi P, Pearce B, Quyyumi A, Sameni R, Bremner JD, Clifford G, Vaccarino V. <a href="https://www.ahajournals.org/doi/abs/10.1161/circ.150.suppl_1.4146699">Blunted Hemodynamic Reactivity to Acute Mental Stress in the Lab is Associated with Autonomic Inflexibility at Home</a>. Circulation 2024 November 12; 150 (Suppl_1): pp. A4146699-A4146699.
-</div>
-<div class="bibtex_source"><pre>@article{AmitShah_2024_11_12_BluntedHemodynamic,
-    author = "Shah, Amit and She, Hua and lisa elon and Roberts, Tatum and Stefanos, Lewam and Haddad, George and Osei, Jeffery and Suvada, Kara and Okoh, Alexis and Desai, Shivang and Gold, Matthew and Jain, Vardhmaan and Yadalam, Adithya and Razavi, Alexander and Wiltshire, Charis and Raggi, Paolo and Pearce, Brad and Quyyumi, Arshed and Sameni, Reza and Bremner, J Douglas and Clifford, Gari and Vaccarino, Viola",
-    title = "Blunted Hemodynamic Reactivity to Acute Mental Stress in the Lab is Associated with Autonomic Inflexibility at Home",
-    date = "2024-11-12",
-    issue = "Suppl{\\_}1",
-    journal = "Circulation",
-    url = "https://www.ahajournals.org/doi/abs/10.1161/circ.150.suppl\_1.4146699",
-    pages = "A4146699-A4146699",
-    volume = "150",
-    note = "Publisher: Lippincott Williams {\\&} Wilkins"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="AmitShah_2024_11_12_BluntedHemodynamic">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="AmitShah_2024_11_12_BluntedHemodynamic">[show citation]</label>
-</div></div></td></tr><tr>
 <td>271</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LaurianeGuichard_2024_11_07_HeartRate">
@@ -6515,6 +6467,54 @@ Clifford GD, Tarassenko L, Townsend N. <a href="https://drive.google.com/file/d/
 
 <table>
 <tr>
+<td>183</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="AmitShah_2024_11_12_SexDifferences">
+<div class="citation">
+Shah A, She H, elon , Li Q, Roberts T, Stefanos L, Haddad G, Gupta S, Tarlapally N, Lampert R, Raggi P, Pearce B, Quyyumi A, Sameni R, Lewis T, Sullivan S, Bremner JD, Clifford GD, Vaccarino V. <a href="https://drive.google.com/file/d/1D-l-cEvFeATaOOL_D-mywGR2ODgIiz51/view?usp=sharing">Sex Differences in Everyday Mood States and its Association with Autonomic Physiology</a>. The American Heart association's 2024 Scientific Sessions, Chicago, Illinois, USA 2024 November 16; 150 (Suppl_1): p. A4145127.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{AmitShah_2024_11_12_SexDifferences,
+    author = "Shah, Amit and She, Hua and lisa elon and Li, Qiao and Roberts, Tatum and Stefanos, Lewam and Haddad, George and Gupta, Shishir and Tarlapally, Nitya and Lampert, Rachel and Raggi, Paolo and Pearce, Brad and Quyyumi, Arshed and Sameni, Reza and Lewis, Tene and Sullivan, Samaah and Bremner, J Douglas and Clifford, Gari D and Vaccarino, Viola",
+    title = "Sex Differences in Everyday Mood States and its Association with Autonomic Physiology",
+    date = "2024-11-16",
+    issue = "Suppl{\\_}1",
+    booktitle = "The American Heart association's 2024 Scientific Sessions, Chicago, Illinois, USA",
+    url = "https://drive.google.com/file/d/1D-l-cEvFeATaOOL\_D-mywGR2ODgIiz51/view?usp=sharing",
+    pages = "A4145127",
+    volume = "150",
+    note = "Publisher: Lippincott Williams {\\&} Wilkins"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="AmitShah_2024_11_12_SexDifferences">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="AmitShah_2024_11_12_SexDifferences">[show citation]</label>
+</div></div></td></tr><tr>
+<td>182</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="AmitShah_2024_11_12_BluntedHemodynamic">
+<div class="citation">
+Shah A, She H, elon , Roberts T, Stefanos L, Haddad G, Osei J, Suvada K, Okoh A, Desai S, Gold M, Jain V, Yadalam A, Razavi A, Wiltshire C, Raggi P, Pearce B, Quyyumi A, Sameni R, Bremner JD, Clifford GD, Vaccarino V. <a href="https://drive.google.com/file/d/10VGz1AJRdxNXMJxOBadK7wlg_lxh0iBY/view?usp=sharing">Blunted Hemodynamic Reactivity to Acute Mental Stress in the Lab is Associated with Autonomic Inflexibility at Home</a>. The American Heart association's 2024 Scientific Sessions, Chicago, Illinois, USA 2024 November 12; 150 (Suppl_1): p. A4146699.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{AmitShah_2024_11_12_BluntedHemodynamic,
+    author = "Shah, Amit and She, Hua and lisa elon and Roberts, Tatum and Stefanos, Lewam and Haddad, George and Osei, Jeffery and Suvada, Kara and Okoh, Alexis and Desai, Shivang and Gold, Matthew and Jain, Vardhmaan and Yadalam, Adithya and Razavi, Alexander and Wiltshire, Charis and Raggi, Paolo and Pearce, Brad and Quyyumi, Arshed and Sameni, Reza and Bremner, J Douglas and Clifford, Gari D and Vaccarino, Viola",
+    title = "Blunted Hemodynamic Reactivity to Acute Mental Stress in the Lab is Associated with Autonomic Inflexibility at Home",
+    date = "2024-11-12",
+    issue = "Suppl{\\_}1",
+    booktitle = "The American Heart association's 2024 Scientific Sessions, Chicago, Illinois, USA",
+    url = "https://drive.google.com/file/d/10VGz1AJRdxNXMJxOBadK7wlg\_lxh0iBY/view?usp=sharing",
+    pages = "A4146699",
+    volume = "150",
+    note = "Publisher: Lippincott Williams {\\&} Wilkins"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="AmitShah_2024_11_12_BluntedHemodynamic">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="AmitShah_2024_11_12_BluntedHemodynamic">[show citation]</label>
+</div></div></td></tr><tr>
 <td>181</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariClifford_2024_10_11_past_prresent">
@@ -10569,14 +10569,14 @@ Clifford G, Tarassenko L, Townsend N. <a href="https://drive.google.com/file/d/1
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZuzanaKoscova_2024_TheHarvardEmory">
 <div class="citation">
-Koscova Z, Li Q, Robichaux C, Junior VM, Ghanta M, Gupta A, Rosand J, Aguirre A, Hong S, Albert DE, Xue J, Parekh A, Sameni R, Reyna MA, Westover MB, Clifford GD. <a href="https://www.medrxiv.org/content/10.1101/2024.09.27.24314503.abstract">The Harvard-Emory ECG Database</a>. medRxiv 2024; p. 2024.09. 27.24314503.
+Koscova Z, Li Q, Robichaux C, Junior VM, Ghanta M, Gupta A, Rosand J, Aguirre A, Hong S, Albert DE, Xue J, Parekh A, Sameni R, Reyna MA, Westover MB, Clifford GD. <a href="https://drive.google.com/file/d/1uN5vC-8EqhWVtWmdo_naBrGm8qev9Yuj/view?usp=sharing">The Harvard-Emory ECG Database</a>. medRxiv 2024; p. 2024.09. 27.24314503.
 </div>
 <div class="bibtex_source"><pre>@article{ZuzanaKoscova_2024_TheHarvardEmory,
     author = "Koscova, Zuzana and Li, Qiao and Robichaux, Chad and Junior, Valdery Moura and Ghanta, Manohar and Gupta, Aditya and Rosand, Jonathan and Aguirre, Aaron and Hong, Shenda and Albert, David E and Xue, Joel and Parekh, Aarya and Sameni, Reza and Reyna, Matthew A and Westover, Michael Brandon and Clifford, Gari D",
     title = "The Harvard-Emory ECG Database",
     date = "2024",
     journal = "medRxiv",
-    url = "https://www.medrxiv.org/content/10.1101/2024.09.27.24314503.abstract",
+    url = "https://drive.google.com/file/d/1uN5vC-8EqhWVtWmdo\_naBrGm8qev9Yuj/view?usp=sharing",
     pages = "2024.09. 27.24314503",
     note = "Publisher: Cold Spring Harbor Laboratory Press"
 }
