@@ -11,7 +11,27 @@ permalink: /publications
 
 <table>
 <tr>
-<td>272</td>
+<td>274</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="AliBahramiRad_2025_01_02_Frommotion">
+<div class="citation">
+Rad AB, Villavicencio T, Kiarashi Y, Anderson C, Foster J, Kwon H, Hamlin T, Lantz J, Clifford GD. <a href="https://iopscience.iop.org/article/10.1088/1361-6579/ada51b/meta">From motion to emotion: exploring challenging behaviors in autism spectrum disorder through analysis of wearable physiology and movement</a>. Physiological Measurement 2025 January 2.
+</div>
+<div class="bibtex_source"><pre>@article{AliBahramiRad_2025_01_02_Frommotion,
+    author = "Rad, Ali Bahrami and Villavicencio, Tania and Kiarashi, Yashar and Anderson, Conor and Foster, Jenny and Kwon, Hyeokhyen and Hamlin, Theresa and Lantz, Johanna and Clifford, Gari D",
+    title = "From motion to emotion: exploring challenging behaviors in autism spectrum disorder through analysis of wearable physiology and movement",
+    date = "2025-01-02",
+    journal = "Physiological Measurement",
+    url = "https://iopscience.iop.org/article/10.1088/1361-6579/ada51b/meta"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="AliBahramiRad_2025_01_02_Frommotion">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="AliBahramiRad_2025_01_02_Frommotion">[show citation]</label>
+</div></div></td></tr><tr>
+<td>273</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LaurianeGuichard_2024_11_07_HeartRate">
 <div class="citation">
@@ -34,7 +54,7 @@ Guichard L, An X, Neylan TC, Clifford GD, Li Q, Ji Y, Macchio L, Baker J, Beaudo
 <div class="hidebibtex">
 <label for="LaurianeGuichard_2024_11_07_HeartRate">[show citation]</label>
 </div></div></td></tr><tr>
-<td>271</td>
+<td>272</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChiyoungLee_2024_11_06_UnderstandingOnset">
 <div class="citation">
@@ -55,7 +75,7 @@ Lee C, House SL, Beaudoin FL, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT,
 <div class="hidebibtex">
 <label for="ChiyoungLee_2024_11_06_UnderstandingOnset">[show citation]</label>
 </div></div></td></tr><tr>
-<td>270</td>
+<td>271</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NasimKatebi_2024_AutomatedImage">
 <div class="citation">
@@ -78,6 +98,31 @@ Katebi N, Bremer W, Nguyen T, Phan D, Jeff J, Armstrong K, Phabian-Millbrook P, 
 </div>
 <div class="hidebibtex">
 <label for="NasimKatebi_2024_AutomatedImage">[show citation]</label>
+</div></div></td></tr><tr>
+<td>270</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="EdlynRamos_2024_09_01_MobilMonitoring">
+<div class="citation">
+Ramos E, Palax IP, Cuxil ES, Iquic ES, Ajqui AC, Miller AC, Chandrasekaran S, Hall-Clifford R, Sameni R, Katebi N, Clifford GD, Rohloff P. <a href="https://drive.google.com/file/d/11eWOewXwTuWfXu9cdga6PYZV8AkA0H1U/view?usp=sharing">Mobil Monitoring Doppler Ultrasound (MoMDUS) study: protocol for a prospective, observational study investigating the use of artificial intelligence and low-cost Doppler ultrasound for the automated quantification of hypertension, pre-eclampsia and fetal growth restriction in rural Guatemala</a>. BMJ Open 2024 September 10; 14 (9): p. e090503. DOI: <a href="https://doi.org/10.1136/bmjopen-2024-090503">10.1136/bmjopen-2024-090503</a>.
+</div>
+<div class="bibtex_source"><pre>@article{EdlynRamos_2024_09_01_MobilMonitoring,
+    author = "Ramos, Edlyn and Palax, Irma Pil{\'o} and Cuxil, Emily Serech and Iquic, Elsa Sebaquijay and Ajqui, Ana Can{\'u} and Miller, Ann C and Chandrasekaran, Suchitra and Hall-Clifford, Rachel and Sameni, Reza and Katebi, Nasim and Clifford, Gari D and Rohloff, Peter",
+    title = "Mobil Monitoring Doppler Ultrasound (MoMDUS) study: protocol for a prospective, observational study investigating the use of artificial intelligence and low-cost Doppler ultrasound for the automated quantification of hypertension, pre-eclampsia and fetal growth restriction in rural Guatemala",
+    date = "2024-09-10",
+    issue = "9",
+    journal = "BMJ Open",
+    url = "https://drive.google.com/file/d/11eWOewXwTuWfXu9cdga6PYZV8AkA0H1U/view?usp=sharing",
+    pages = "e090503",
+    volume = "14",
+    doi = "10.1136/bmjopen-2024-090503",
+    note = "Publisher: British Medical Journal Publishing Group"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="EdlynRamos_2024_09_01_MobilMonitoring">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="EdlynRamos_2024_09_01_MobilMonitoring">[show citation]</label>
 </div></div></td></tr><tr>
 <td>269</td>
 <td><div class="citation_container">
@@ -105,31 +150,6 @@ Koscova Z, Rad AB, Nasiri S, Reyna MA, Sameni R, Trotti LM, Sun H, Turley N, Sto
 </div></div></td></tr><tr>
 <td>268</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="EdlynRamos_2024_09_01_MobilMonitoring">
-<div class="citation">
-Ramos E, Palax IP, Cuxil ES, Iquic ES, Ajqui AC, Miller AC, Chandrasekaran S, Hall-Clifford R, Sameni R, Katebi N, Clifford GD, Rohloff P. <a href="https://drive.google.com/file/d/11eWOewXwTuWfXu9cdga6PYZV8AkA0H1U/view?usp=sharing">Mobil Monitoring Doppler Ultrasound (MoMDUS) study: protocol for a prospective, observational study investigating the use of artificial intelligence and low-cost Doppler ultrasound for the automated quantification of hypertension, pre-eclampsia and fetal growth restriction in rural Guatemala</a>. BMJ Open 2024 September 10; 14 (9): p. e090503. DOI: <a href="https://doi.org/10.1136/bmjopen-2024-090503">10.1136/bmjopen-2024-090503</a>.
-</div>
-<div class="bibtex_source"><pre>@article{EdlynRamos_2024_09_01_MobilMonitoring,
-    author = "Ramos, Edlyn and Palax, Irma Pil{\'o} and Cuxil, Emily Serech and Iquic, Elsa Sebaquijay and Ajqui, Ana Can{\'u} and Miller, Ann C and Chandrasekaran, Suchitra and Hall-Clifford, Rachel and Sameni, Reza and Katebi, Nasim and Clifford, Gari D and Rohloff, Peter",
-    title = "Mobil Monitoring Doppler Ultrasound (MoMDUS) study: protocol for a prospective, observational study investigating the use of artificial intelligence and low-cost Doppler ultrasound for the automated quantification of hypertension, pre-eclampsia and fetal growth restriction in rural Guatemala",
-    date = "2024-09-10",
-    issue = "9",
-    journal = "BMJ Open",
-    url = "https://drive.google.com/file/d/11eWOewXwTuWfXu9cdga6PYZV8AkA0H1U/view?usp=sharing",
-    pages = "e090503",
-    volume = "14",
-    doi = "10.1136/bmjopen-2024-090503",
-    note = "Publisher: British Medical Journal Publishing Group"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="EdlynRamos_2024_09_01_MobilMonitoring">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="EdlynRamos_2024_09_01_MobilMonitoring">[show citation]</label>
-</div></div></td></tr><tr>
-<td>267</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="YasharKiarashi_2024_09_06_OffbodySleep">
 <div class="citation">
 Kiarashi Y, Suresha PB, Rad AB, Reyna MA, Anderson C, Foster J, Lantz J, Villavicencio T, Hamlin T, Clifford GD. <a href="https://drive.google.com/file/d/13OKFkrvzY8G7OBPznkC6Ak4rPHu8KSsr/view?usp=sharing">Off-body Sleep Analysis for Predicting Adverse Behavior in Individuals with Autism Spectrum Disorder</a>. IEEE Journal of Biomedical and Health Informatics 2024 September 6; pp. 1-10. DOI: <a href="https://doi.org/10.1109/JBHI.2024.3455942">10.1109/JBHI.2024.3455942</a>.
@@ -151,7 +171,7 @@ Kiarashi Y, Suresha PB, Rad AB, Reyna MA, Anderson C, Foster J, Lantz J, Villavi
 <div class="hidebibtex">
 <label for="YasharKiarashi_2024_09_06_OffbodySleep">[show citation]</label>
 </div></div></td></tr><tr>
-<td>266</td>
+<td>267</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AliBahramiRad_2024_09_02_ACrowdsourced">
 <div class="citation">
@@ -176,7 +196,7 @@ Rad AB, Kirsch M, Li Q, Xue J, Sameni R, Albert D, Clifford GD. <a href="https:/
 <div class="hidebibtex">
 <label for="AliBahramiRad_2024_09_02_ACrowdsourced">[show citation]</label>
 </div></div></td></tr><tr>
-<td>265</td>
+<td>266</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="CourtlandSHyatt_2024_08_16_Longitudinalassociations">
 <div class="citation">
@@ -198,6 +218,27 @@ Hyatt CS, Reddi PJ, Sharpe BM, Michopoulos V, Rooij SJ, House SL, Beaudoin FL, A
 </div>
 <div class="hidebibtex">
 <label for="CourtlandSHyatt_2024_08_16_Longitudinalassociations">[show citation]</label>
+</div></div></td></tr><tr>
+<td>265</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="RuiyangQin_2024_LanguageModels">
+<div class="citation">
+Qin R, Cook R, Yang K, Abbasi A, Dobolyi D, Seyedi S, Griner E, Kwon H, Cotes R, Jiang Z, Clifford GD. <a href="https://drive.google.com/file/d/19gD3AS_pEWmG71ASRxjFzt34S0CH-sgi/view?usp=sharing">Language Models for Online Depression Detection: A Review and Benchmark Analysis on Remote Interviews</a>. 2024 August 13. DOI: <a href="https://doi.org/10.1145/3673906">10.1145/3673906</a>.
+</div>
+<div class="bibtex_source"><pre>@article{RuiyangQin_2024_LanguageModels,
+    author = "Qin, Ruiyang and Cook, Ryan and Yang, Kai and Abbasi, Ahmed and Dobolyi, David and Seyedi, Salman and Griner, Emily and Kwon, Hyeokhyen and Cotes, Robert and Jiang, Zifan and Clifford, Gari D",
+    title = "Language Models for Online Depression Detection: A Review and Benchmark Analysis on Remote Interviews",
+    date = "2024-08-13",
+    url = "https://drive.google.com/file/d/19gD3AS\_pEWmG71ASRxjFzt34S0CH-sgi/view?usp=sharing",
+    doi = "10.1145/3673906",
+    note = "Publisher: ACM"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="RuiyangQin_2024_LanguageModels">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="RuiyangQin_2024_LanguageModels">[show citation]</label>
 </div></div></td></tr><tr>
 <td>264</td>
 <td><div class="citation_container">
@@ -225,27 +266,6 @@ Seligowski AV, Harnett NG, Ellis RA, Grasser LR, Hanif M, Wiltshire C, Ely TD, L
 </div></div></td></tr><tr>
 <td>263</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="RuiyangQin_2024_LanguageModels">
-<div class="citation">
-Qin R, Cook R, Yang K, Abbasi A, Dobolyi D, Seyedi S, Griner E, Kwon H, Cotes R, Jiang Z, Clifford GD. <a href="https://drive.google.com/file/d/19gD3AS_pEWmG71ASRxjFzt34S0CH-sgi/view?usp=sharing">Language Models for Online Depression Detection: A Review and Benchmark Analysis on Remote Interviews</a>. 2024 August 13. DOI: <a href="https://doi.org/10.1145/3673906">10.1145/3673906</a>.
-</div>
-<div class="bibtex_source"><pre>@article{RuiyangQin_2024_LanguageModels,
-    author = "Qin, Ruiyang and Cook, Ryan and Yang, Kai and Abbasi, Ahmed and Dobolyi, David and Seyedi, Salman and Griner, Emily and Kwon, Hyeokhyen and Cotes, Robert and Jiang, Zifan and Clifford, Gari D",
-    title = "Language Models for Online Depression Detection: A Review and Benchmark Analysis on Remote Interviews",
-    date = "2024-08-13",
-    url = "https://drive.google.com/file/d/19gD3AS\_pEWmG71ASRxjFzt34S0CH-sgi/view?usp=sharing",
-    doi = "10.1145/3673906",
-    note = "Publisher: ACM"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="RuiyangQin_2024_LanguageModels">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="RuiyangQin_2024_LanguageModels">[show citation]</label>
-</div></div></td></tr><tr>
-<td>262</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="EKateWebb_2024_Neighborhoodresources">
 <div class="citation">
 Webb EK, Stevens JS, Ely TD, Lebois LA, Rooij SJH, Bruce SE, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Bollen KA, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Musey PI, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Murty VP, Hudak LA, Pascual JL, Seamon MJ, Datner EM, Pearson C, Peak DA, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Joormann J, Pizzagalli DA, Harte SE, Kessler RC, Koenen KC, Ressler KJ, McLean SA, Harnett NG. <a href="https://drive.google.com/file/d/1--uMsnIBF0mxhVonmzg5FIxJTc5CfoCT/view?usp=sharing">Neighborhood resources associated with psychological trajectories and neural reactivity to reward after trauma</a>. JAMA Psychiatry 2024 July 31; p. e242148. DOI: <a href="https://doi.org/0.1001/jamapsychiatry.2024.2148">0.1001/jamapsychiatry.2024.2148</a>.
@@ -266,7 +286,7 @@ Webb EK, Stevens JS, Ely TD, Lebois LA, Rooij SJH, Bruce SE, House SL, Beaudoin 
 <div class="hidebibtex">
 <label for="EKateWebb_2024_Neighborhoodresources">[show citation]</label>
 </div></div></td></tr><tr>
-<td>261</td>
+<td>262</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AmitJShah_2024_06_03_PosttraumaticStress">
 <div class="citation">
@@ -291,7 +311,7 @@ Shah AJ, Vaccarino V, Goldberg J, Huang M, Ko Y, Ma X, Levantsevych OM, Smith NL
 <div class="hidebibtex">
 <label for="AmitJShah_2024_06_03_PosttraumaticStress">[show citation]</label>
 </div></div></td></tr><tr>
-<td>260</td>
+<td>261</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="KshamaKodthaluShivashankara_2024_05_09_ECGimagekita">
 <div class="citation">
@@ -314,7 +334,7 @@ Shivashankara KK, Deepanshi , Shervedani AM, Clifford GD, Reyna MA, Sameni R. <a
 <div class="hidebibtex">
 <label for="KshamaKodthaluShivashankara_2024_05_09_ECGimagekita">[show citation]</label>
 </div></div></td></tr><tr>
-<td>259</td>
+<td>260</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AdamHorwitz_2024_05_05_IntensiveLongitudinal">
 <div class="citation">
@@ -338,7 +358,7 @@ Horwitz A, McCarthy K, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Linn
 <div class="hidebibtex">
 <label for="AdamHorwitz_2024_05_05_IntensiveLongitudinal">[show citation]</label>
 </div></div></td></tr><tr>
-<td>258</td>
+<td>259</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SanneJHvanRooij_2024_04_22_Definingthe">
 <div class="citation">
@@ -361,7 +381,7 @@ Rooij SJ, Santos JL, Hinojosa CA, Ely TD, Harnett NG, Murty VP, Lebois LA, Jovan
 <div class="hidebibtex">
 <label for="SanneJHvanRooij_2024_04_22_Definingthe">[show citation]</label>
 </div></div></td></tr><tr>
-<td>257</td>
+<td>258</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="StephanieHaering_2024_04_19_Disentanglingsex">
 <div class="citation">
@@ -386,7 +406,7 @@ Haering S, Seligowski AV, Linnstaedt SD, Michopoulos V, House SL, Beaudoin FL, A
 <div class="hidebibtex">
 <label for="StephanieHaering_2024_04_19_Disentanglingsex">[show citation]</label>
 </div></div></td></tr><tr>
-<td>256</td>
+<td>257</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShafaatAliSheikh_2023_Impedancecardiogram">
 <div class="citation">
@@ -410,7 +430,7 @@ Sheikh SA, Shah AJ, Bremner JD, Vaccarino V, Inan OT, Clifford GD, Rad AB. <a hr
 <div class="hidebibtex">
 <label for="ShafaatAliSheikh_2023_Impedancecardiogram">[show citation]</label>
 </div></div></td></tr><tr>
-<td>255</td>
+<td>256</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZifanJiang_2023_Disentanglingvisual">
 <div class="citation">
@@ -434,7 +454,7 @@ Jiang Z, Seyedi S, Vickers KL, Manzanares CM, Lah JJ, Levey AI, Clifford GD. <a 
 <div class="hidebibtex">
 <label for="ZifanJiang_2023_Disentanglingvisual">[show citation]</label>
 </div></div></td></tr><tr>
-<td>254</td>
+<td>255</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MinxuanHuang_2024_03_27_HeartRate">
 <div class="citation">
@@ -458,7 +478,7 @@ Huang M, Shah AJ, Lampert R, Bliwise DL, Johnson DA, Clifford GD, Sloan R, Goldb
 <div class="hidebibtex">
 <label for="MinxuanHuang_2024_03_27_HeartRate">[show citation]</label>
 </div></div></td></tr><tr>
-<td>253</td>
+<td>254</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="BibianBorst_2024_03_22_Sexdifferences">
 <div class="citation">
@@ -480,7 +500,7 @@ Borst B, Jovanovic T, House SL, Bruce SE, Harnett NG, Roeckner AR, Ely TD, Leboi
 <div class="hidebibtex">
 <label for="BibianBorst_2024_03_22_Sexdifferences">[show citation]</label>
 </div></div></td></tr><tr>
-<td>252</td>
+<td>253</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="HenriGarrisonDesany_UnknownDate_Posttraumaticstress">
 <div class="citation">
@@ -504,7 +524,7 @@ Garrison-Desany H, Denckla CA, Meyers JL, Linnstaedt S, Koenen KC, House SL, Bea
 <div class="hidebibtex">
 <label for="HenriGarrisonDesany_UnknownDate_Posttraumaticstress">[show citation]</label>
 </div></div></td></tr><tr>
-<td>251</td>
+<td>252</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SeyedehSomayyehMousavi_2024_03_07_Asurvey">
 <div class="citation">
@@ -527,7 +547,7 @@ Mousavi SS, Reyna MA, Clifford GD, Sameni R. <a href="https://drive.google.com/f
 <div class="hidebibtex">
 <label for="SeyedehSomayyehMousavi_2024_03_07_Asurvey">[show citation]</label>
 </div></div></td></tr><tr>
-<td>250</td>
+<td>251</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="McGregorJoyner_2024_02_07_Usinga">
 <div class="citation">
@@ -551,7 +571,7 @@ Joyner M, Hsu S, Martin S, Dwyer J, Chen DF, Sameni R, Waters SH, Borodin K, Cli
 <div class="hidebibtex">
 <label for="McGregorJoyner_2024_02_07_Usinga">[show citation]</label>
 </div></div></td></tr><tr>
-<td>249</td>
+<td>250</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChengDing_2024_02_01_LearningFrom">
 <div class="citation">
@@ -575,7 +595,7 @@ Ding C, Guo Z, Rudin C, Xiao R, Shah A, Do DH, Lee RJ, Clifford GD, Nahab FB, Hu
 <div class="hidebibtex">
 <label for="ChengDing_2024_02_01_LearningFrom">[show citation]</label>
 </div></div></td></tr><tr>
-<td>248</td>
+<td>249</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChaitraHegde_2024_01_16_IndoorGroup">
 <div class="citation">
@@ -600,31 +620,7 @@ Hegde C, Kiarashi Y, Rodriguez AD, Levey AI, Doiron M, Kwon H, Clifford GD. <a h
 <div class="hidebibtex">
 <label for="ChaitraHegde_2024_01_16_IndoorGroup">[show citation]</label>
 </div></div></td></tr><tr>
-<td>247</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="CeciliaAHinojosa_2023_06_13_Associationsof">
-<div class="citation">
-Hinojosa CA, Liew A, An X, Stevens JS, Basu A, Rooij SJ, House SL, Beaudoin FL, Zeng D, Neylan TC, Clifford GD, Jovanovic T, Linnstaedt SD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Musey PI, Hendry PL, Sheikh S, Jones CW, Punches BE, Kurz MC, Swor RA, Hudak LA, Pascual JL, Seamon MJ, Datner EM, Chang AM, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, Sergot P, Sanchez LD, Bruce SE, Miller MW, Pietrzak RH, Joormann J, Pizzagalli DA, Sheridan JF, Harte SE, Elliott JM, Kessler RC, Koenen KC, McLean SA, Ressler KJ, Fani N. <a href="https://drive.google.com/file/d/10DVtEhgPSrFV4RVFXmBq0FEzN2hPk4Ve/view?usp=sharing">Associations of alcohol and cannabis use with change in posttraumatic stress disorder and depression symptoms over time in recently trauma-exposed individuals</a>. Psychological Medicine 2024 January; 54 (2): pp. 338-349.
-</div>
-<div class="bibtex_source"><pre>@article{CeciliaAHinojosa_2023_06_13_Associationsof,
-    author = "Hinojosa, Cecilia A and Liew, Amanda and An, Xinming and Stevens, Jennifer S and Basu, Archana and van Rooij, Sanne JH and House, Stacey L and Beaudoin, Francesca L and Zeng, Donglin and Neylan, Thomas C and Clifford, Gari D and Jovanovic, Tanja and Linnstaedt, Sarah D and Germine, Laura T and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Musey, Paul I and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Kurz, Michael C and Swor, Robert A and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Datner, Elizabeth M and Chang, Anna M and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and Sergot, Paulina and Sanchez, Leon D and Bruce, Steven E and Miller, Mark W and Pietrzak, Robert H and Joormann, Jutta and Pizzagalli, Diego A and Sheridan, John F and Harte, Steven E and Elliott, James M and Kessler, Ronald C and Koenen, Karestan C and McLean, Samuel A and Ressler, Kerry J and Fani, Negar",
-    title = "Associations of alcohol and cannabis use with change in posttraumatic stress disorder and depression symptoms over time in recently trauma-exposed individuals",
-    date = "2024-01",
-    issue = "2",
-    volume = "54",
-    pages = "338-349",
-    journal = "Psychological Medicine",
-    url = "https://drive.google.com/file/d/10DVtEhgPSrFV4RVFXmBq0FEzN2hPk4Ve/view?usp=sharing",
-    note = "Publisher: Cambridge University Press"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="CeciliaAHinojosa_2023_06_13_Associationsof">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="CeciliaAHinojosa_2023_06_13_Associationsof">[show citation]</label>
-</div></div></td></tr><tr>
-<td>246</td>
+<td>248</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZifanJiang_2024_01_10_MultimodalMental">
 <div class="citation">
@@ -648,6 +644,52 @@ Jiang Z, Seyedi S, Griner E, Abbasi A, Rad AB, Kwon H, Cotes RO, Clifford GD. <a
 </div>
 <div class="hidebibtex">
 <label for="ZifanJiang_2024_01_10_MultimodalMental">[show citation]</label>
+</div></div></td></tr><tr>
+<td>247</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="GariDClifford_2024_PastPresent">
+<div class="citation">
+Clifford GD. <a href="https://cinc.org/archives/2024/pdf/CinC2024-039.pdf">Past, Present and Future Challenges in Sharing Science: From PhysioNet to Foundation Models</a>. 51st Computing in Cardiology, Karlsruhe, Germany 2024; 51: pp. 1-4.
+</div>
+<div class="bibtex_source"><pre>@article{GariDClifford_2024_PastPresent,
+    author = "Clifford, Gari D",
+    title = "Past, Present and Future Challenges in Sharing Science: From PhysioNet to Foundation Models",
+    date = "2024",
+    journal = "51st Computing in Cardiology, Karlsruhe, Germany",
+    url = "https://cinc.org/archives/2024/pdf/CinC2024-039.pdf",
+    pages = "1-4",
+    volume = "51"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="GariDClifford_2024_PastPresent">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="GariDClifford_2024_PastPresent">[show citation]</label>
+</div></div></td></tr><tr>
+<td>246</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="CeciliaAHinojosa_2023_06_13_Associationsof">
+<div class="citation">
+Hinojosa CA, Liew A, An X, Stevens JS, Basu A, Rooij SJ, House SL, Beaudoin FL, Zeng D, Neylan TC, Clifford GD, Jovanovic T, Linnstaedt SD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Musey PI, Hendry PL, Sheikh S, Jones CW, Punches BE, Kurz MC, Swor RA, Hudak LA, Pascual JL, Seamon MJ, Datner EM, Chang AM, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, Sergot P, Sanchez LD, Bruce SE, Miller MW, Pietrzak RH, Joormann J, Pizzagalli DA, Sheridan JF, Harte SE, Elliott JM, Kessler RC, Koenen KC, McLean SA, Ressler KJ, Fani N. <a href="https://drive.google.com/file/d/10DVtEhgPSrFV4RVFXmBq0FEzN2hPk4Ve/view?usp=sharing">Associations of alcohol and cannabis use with change in posttraumatic stress disorder and depression symptoms over time in recently trauma-exposed individuals</a>. Psychological Medicine 2024 January; 54 (2): pp. 338-349.
+</div>
+<div class="bibtex_source"><pre>@article{CeciliaAHinojosa_2023_06_13_Associationsof,
+    author = "Hinojosa, Cecilia A and Liew, Amanda and An, Xinming and Stevens, Jennifer S and Basu, Archana and van Rooij, Sanne JH and House, Stacey L and Beaudoin, Francesca L and Zeng, Donglin and Neylan, Thomas C and Clifford, Gari D and Jovanovic, Tanja and Linnstaedt, Sarah D and Germine, Laura T and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Musey, Paul I and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Kurz, Michael C and Swor, Robert A and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Datner, Elizabeth M and Chang, Anna M and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and Sergot, Paulina and Sanchez, Leon D and Bruce, Steven E and Miller, Mark W and Pietrzak, Robert H and Joormann, Jutta and Pizzagalli, Diego A and Sheridan, John F and Harte, Steven E and Elliott, James M and Kessler, Ronald C and Koenen, Karestan C and McLean, Samuel A and Ressler, Kerry J and Fani, Negar",
+    title = "Associations of alcohol and cannabis use with change in posttraumatic stress disorder and depression symptoms over time in recently trauma-exposed individuals",
+    date = "2024-01",
+    issue = "2",
+    volume = "54",
+    pages = "338-349",
+    journal = "Psychological Medicine",
+    url = "https://drive.google.com/file/d/10DVtEhgPSrFV4RVFXmBq0FEzN2hPk4Ve/view?usp=sharing",
+    note = "Publisher: Cambridge University Press"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="CeciliaAHinojosa_2023_06_13_Associationsof">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="CeciliaAHinojosa_2023_06_13_Associationsof">[show citation]</label>
 </div></div></td></tr><tr>
 <td>245</td>
 <td><div class="citation_container">
@@ -676,50 +718,6 @@ Waters SH, Clifford GD. <a href="https://drive.google.com/file/d/10oAZPDfvd5dVbx
 </div></div></td></tr><tr>
 <td>244</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="ChengDing_2023_Learningfrom">
-<div class="citation">
-Ding C, Guo Z, Rudin C, Xiao R, Shah A, Do DH, Lee RJ, Clifford G, Nahab FB, Hu X. <a href="https://cinc.org/2023/Program/accepted/280_CinCFinalPDF.pdf">Learning from alarms: a novel robust learning approach to learn an accurate photoplethysmography-based atrial fibrillation detector using eight million samples labeled with imprecise arrhythmia alarms</a>. Computing in Cardiology 2023 2023.
-</div>
-<div class="bibtex_source"><pre>@article{ChengDing_2023_Learningfrom,
-    author = "Ding, Cheng and Guo, ZhiCheng and Rudin, Cynthia and Xiao, Ran and Shah, Amit and Do, Duc H and Lee, Randall J and Clifford, Gari and Nahab, Fadi B and Hu, Xiao",
-    title = "Learning from alarms: a novel robust learning approach to learn an accurate photoplethysmography-based atrial fibrillation detector using eight million samples labeled with imprecise arrhythmia alarms",
-    date = "2023",
-    journal = "Computing in Cardiology 2023",
-    url = "https://cinc.org/2023/Program/accepted/280\_CinCFinalPDF.pdf"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="ChengDing_2023_Learningfrom">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="ChengDing_2023_Learningfrom">[show citation]</label>
-</div></div></td></tr><tr>
-<td>243</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="HNZiobrowski_2023_Childhoodadversities">
-<div class="citation">
-Ziobrowski H, Holt-Gosselin B, Petukhova M, King A, Lee S, House S, Beaudoin F, An X, Stevens J, Zeng D, Neylan T, Clifford G, Linnstaedt S, Germine L, Bollen K, Rauch S, Haran J, Storrow A, Lewandowski C, Musey P, Hendry P, Sheikh S, Jones C, Punches B, Kurz M, Swor R, Hudak L, Pascual J, Seamon M, Harris E, Pearson C, Merchant R, Domeier R, Rathlev N, O'Neil B, Sergot P, Sanchez L, Bruce S, Miller M, Pietrzak R, Joormann J, Barch D, Pizzagalli D, Harte S, Elliott J, Ressler K, McLean S, Koenen K, Kessler R. <a href="https://drive.google.com/file/d/1mfqDKfPuyBoCW7x7Mjm_ulD66908wr0M/view?usp=sharing">Childhood adversities and risk of posttraumatic stress disorder and major depression following a motor vehicle collision in adulthood</a>. Epidemiology and Psychiatric Sciences 2023; 32: p. e1. DOI: <a href="https://doi.org/10.1017/S2045796022000798">10.1017/S2045796022000798</a>.
-</div>
-<div class="bibtex_source"><pre>@article{HNZiobrowski_2023_Childhoodadversities,
-    author = "Ziobrowski, HN and Holt-Gosselin, B and Petukhova, MV and King, AJ and Lee, S and House, SL and Beaudoin, FL and An, X and Stevens, JS and Zeng, D and Neylan, TC and Clifford, GD and Linnstaedt, SD and Germine, LT and Bollen, KA and Rauch, SL and Haran, JP and Storrow, AB and Lewandowski, C and Musey, PI and Hendry, PL and Sheikh, S and Jones, CW and Punches, BE and Kurz, MC and Swor, RA and Hudak, LA and Pascual, JL and Seamon, MJ and Harris, E and Pearson, C and Merchant, RC and Domeier, RM and Rathlev, NK and O'Neil, BJ and Sergot, P and Sanchez, LD and Bruce, SE and Miller, MW and Pietrzak, RH and Joormann, J and Barch, DM and Pizzagalli, DA and Harte, SE and Elliott, JM and Ressler, KJ and McLean, SA and Koenen, KC and Kessler, RC",
-    title = "Childhood adversities and risk of posttraumatic stress disorder and major depression following a motor vehicle collision in adulthood",
-    date = "2023",
-    journal = "Epidemiology and Psychiatric Sciences",
-    url = "https://drive.google.com/file/d/1mfqDKfPuyBoCW7x7Mjm\_ulD66908wr0M/view?usp=sharing",
-    pages = "e1",
-    volume = "32",
-    doi = "10.1017/S2045796022000798",
-    note = "Publisher: Cambridge University Press"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="HNZiobrowski_2023_Childhoodadversities">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="HNZiobrowski_2023_Childhoodadversities">[show citation]</label>
-</div></div></td></tr><tr>
-<td>242</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LisetteCorbin_2023_12_01_Acomparison">
 <div class="citation">
 Corbin L, Griner E, Seyedi S, Jiang Z, Roberts K, Boazak M, Rad AB, Clifford GD, Cotes RO. <a href="https://drive.google.com/file/d/1HF5Zw1B1Sgnn3KjqIycBTEPAG2CC1gsF/view?usp=sharing">A comparison of linguistic patterns between individuals with current major depressive disorder, past major depressive disorder, and controls in a virtual, psychiatric research interview</a>. Journal of Affective Disorders Reports 2023 December 1; 14: p. 100645.
@@ -741,7 +739,7 @@ Corbin L, Griner E, Seyedi S, Jiang Z, Roberts K, Boazak M, Rad AB, Clifford GD,
 <div class="hidebibtex">
 <label for="LisetteCorbin_2023_12_01_Acomparison">[show citation]</label>
 </div></div></td></tr><tr>
-<td>241</td>
+<td>243</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="YasharKiarashi_2023_11_30_GraphTrilateration">
 <div class="citation">
@@ -765,7 +763,7 @@ Kiarashi Y, Saghafi S, Das B, Hegde C, Madala VSK, Nakum A, Singh R, Tweedy R, D
 <div class="hidebibtex">
 <label for="YasharKiarashi_2023_11_30_GraphTrilateration">[show citation]</label>
 </div></div></td></tr><tr>
-<td>240</td>
+<td>242</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="HyeokhyenKwon_2023_11_28_AFeasibility">
 <div class="citation">
@@ -789,7 +787,7 @@ Kwon H, Hegde C, Kiarashi Y, Madala VSK, Singh R, Nakum A, Tweedy R, Tonetto LM,
 <div class="hidebibtex">
 <label for="HyeokhyenKwon_2023_11_28_AFeasibility">[show citation]</label>
 </div></div></td></tr><tr>
-<td>239</td>
+<td>241</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AbigailLZeamer_2023_11_18_Associationbetween">
 <div class="citation">
@@ -813,7 +811,7 @@ Zeamer AL, Salive M, An X, Beaudoin FL, House SL, Stevens JS, Zeng D, Neylan TC,
 <div class="hidebibtex">
 <label for="AbigailLZeamer_2023_11_18_Associationbetween">[show citation]</label>
 </div></div></td></tr><tr>
-<td>238</td>
+<td>240</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LiamButler_2023_11_08_AGeneralizable">
 <div class="citation">
@@ -836,7 +834,7 @@ Butler L, Karabayir I, Kitzman DW, Alonso A, Tison GH, Chen LY, Chang PP, Cliffo
 <div class="hidebibtex">
 <label for="LiamButler_2023_11_08_AGeneralizable">[show citation]</label>
 </div></div></td></tr><tr>
-<td>237</td>
+<td>239</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SalmanSeyedi_2023_10_31_UsingHIPAA">
 <div class="citation">
@@ -859,7 +857,7 @@ Seyedi S, Griner E, Corbin L, Jiang Z, Roberts K, Iacobelli L, Milloy A, Boazak 
 <div class="hidebibtex">
 <label for="SalmanSeyedi_2023_10_31_UsingHIPAA">[show citation]</label>
 </div></div></td></tr><tr>
-<td>236</td>
+<td>238</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="EdilbertoAmorim_2023_10_19_TheInternational">
 <div class="citation">
@@ -883,7 +881,7 @@ Amorim E, Zheng W, Ghassemi MM, Aghaeeaval M, Kandhare P, Karukonda V, Lee JW, H
 <div class="hidebibtex">
 <label for="EdilbertoAmorim_2023_10_19_TheInternational">[show citation]</label>
 </div></div></td></tr><tr>
-<td>235</td>
+<td>237</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NJabinGong_2023_10_09_ClassifyingTremor">
 <div class="citation">
@@ -907,7 +905,7 @@ Gong NJ, Clifford GD, Esper CD, Factor SA, McKay JL, Kwon H. <a href="https://dr
 <div class="hidebibtex">
 <label for="NJabinGong_2023_10_09_ClassifyingTremor">[show citation]</label>
 </div></div></td></tr><tr>
-<td>234</td>
+<td>236</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="EKateWebb_2023_09_05_NeighborhoodDisadvantage">
 <div class="citation">
@@ -931,7 +929,7 @@ Webb EK, Ely TD, Rowland GE, Lebois LA, Rooij SJ, Bruce SE, Jovanovic T, House S
 <div class="hidebibtex">
 <label for="EKateWebb_2023_09_05_NeighborhoodDisadvantage">[show citation]</label>
 </div></div></td></tr><tr>
-<td>233</td>
+<td>235</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="PeterHCharlton_2023_07_26_The2023">
 <div class="citation">
@@ -954,31 +952,7 @@ Charlton PH, Allen J, Bailon R, Baker S, Behar JA, Chen F, Clifford GD, Clifton 
 <div class="hidebibtex">
 <label for="PeterHCharlton_2023_07_26_The2023">[show citation]</label>
 </div></div></td></tr><tr>
-<td>232</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="NathanielGHarnett_2023_02_01_Structuralinequities">
-<div class="citation">
-Harnett NG, Fani N, Carter S, Sanchez LD, Rowland GE, Davie WM, Guzman C, Lebois LA, Ely TD, Rooij SJ, Seligowski AV, Winters S, Grasser LR, Jr PIM, Seamon MJ, House SL, Beaudoin FL, An X, Zeng D, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Bollen KA, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Hudak LA, Pascual JL, Harris E, Chang AM, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, Bruce SE, Miller MW, Pietrzak RH, Joormann J, Barch DM, Pizzagalli DA, Harte SE, Elliott JM, Kessler RC, Koenen KC, McLean SA, Jovanovic T, Stevens JS, Ressler KJ. <a href="https://drive.google.com/file/d/1uZ-i6_zbbgpmxip-lternhRjAH0xfxT7/view?usp=sharing">Structural inequities contribute to racial/ethnic differences in neurophysiological tone, but not threat reactivity, after trauma exposure</a>. Molecular Psychiatry 2023 July; 28 (7): pp. 2975-2984.
-</div>
-<div class="bibtex_source"><pre>@article{NathanielGHarnett_2023_02_01_Structuralinequities,
-    author = "Harnett, Nathaniel G and Fani, Negar and Carter, Sierra and Sanchez, Leon D and Rowland, Grace E and Davie, William M and Guzman, Camilo and Lebois, Lauren AM and Ely, Timothy D and van Rooij, Sanne JH and Seligowski, Antonia V and Winters, Sterling and Grasser, Lana R and Jr, Paul I Musey and Seamon, Mark J and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Zeng, Donglin and Neylan, Thomas C and Clifford, Gari D and Linnstaedt, Sarah D and Germine, Laura T and Bollen, Kenneth A and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and Hudak, Lauren A and Pascual, Jose L and Harris, Erica and Chang, Anna M and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and Bruce, Steven E and Miller, Mark W and Pietrzak, Robert H and Joormann, Jutta and Barch, Deanna M and Pizzagalli, Diego A and Harte, Steven E and Elliott, James M and Kessler, Ronald C and Koenen, Karestan C and McLean, Samuel A and Jovanovic, Tanja and Stevens, Jennifer S and Ressler, Kerry J",
-    title = "Structural inequities contribute to racial/ethnic differences in neurophysiological tone, but not threat reactivity, after trauma exposure",
-    date = "2023-07",
-    volume = "28",
-    issue = "7",
-    pages = "2975-2984",
-    journal = "Molecular Psychiatry",
-    url = "https://drive.google.com/file/d/1uZ-i6\_zbbgpmxip-lternhRjAH0xfxT7/view?usp=sharing",
-    note = "Publisher: Nature Publishing Group UK"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="NathanielGHarnett_2023_02_01_Structuralinequities">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="NathanielGHarnett_2023_02_01_Structuralinequities">[show citation]</label>
-</div></div></td></tr><tr>
-<td>231</td>
+<td>234</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MohsenSalari_2023_07_10_Combiningcrowdsourcing">
 <div class="citation">
@@ -1002,7 +976,31 @@ Salari M, Kramer MR, Reyna MA, Taylor HA, Clifford GD. <a href="https://drive.go
 <div class="hidebibtex">
 <label for="MohsenSalari_2023_07_10_Combiningcrowdsourcing">[show citation]</label>
 </div></div></td></tr><tr>
-<td>230</td>
+<td>233</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="NathanielGHarnett_2023_02_01_Structuralinequities">
+<div class="citation">
+Harnett NG, Fani N, Carter S, Sanchez LD, Rowland GE, Davie WM, Guzman C, Lebois LA, Ely TD, Rooij SJ, Seligowski AV, Winters S, Grasser LR, Jr PIM, Seamon MJ, House SL, Beaudoin FL, An X, Zeng D, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Bollen KA, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Hudak LA, Pascual JL, Harris E, Chang AM, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, Bruce SE, Miller MW, Pietrzak RH, Joormann J, Barch DM, Pizzagalli DA, Harte SE, Elliott JM, Kessler RC, Koenen KC, McLean SA, Jovanovic T, Stevens JS, Ressler KJ. <a href="https://drive.google.com/file/d/1uZ-i6_zbbgpmxip-lternhRjAH0xfxT7/view?usp=sharing">Structural inequities contribute to racial/ethnic differences in neurophysiological tone, but not threat reactivity, after trauma exposure</a>. Molecular Psychiatry 2023 July; 28 (7): pp. 2975-2984.
+</div>
+<div class="bibtex_source"><pre>@article{NathanielGHarnett_2023_02_01_Structuralinequities,
+    author = "Harnett, Nathaniel G and Fani, Negar and Carter, Sierra and Sanchez, Leon D and Rowland, Grace E and Davie, William M and Guzman, Camilo and Lebois, Lauren AM and Ely, Timothy D and van Rooij, Sanne JH and Seligowski, Antonia V and Winters, Sterling and Grasser, Lana R and Jr, Paul I Musey and Seamon, Mark J and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Zeng, Donglin and Neylan, Thomas C and Clifford, Gari D and Linnstaedt, Sarah D and Germine, Laura T and Bollen, Kenneth A and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and Hudak, Lauren A and Pascual, Jose L and Harris, Erica and Chang, Anna M and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and Bruce, Steven E and Miller, Mark W and Pietrzak, Robert H and Joormann, Jutta and Barch, Deanna M and Pizzagalli, Diego A and Harte, Steven E and Elliott, James M and Kessler, Ronald C and Koenen, Karestan C and McLean, Samuel A and Jovanovic, Tanja and Stevens, Jennifer S and Ressler, Kerry J",
+    title = "Structural inequities contribute to racial/ethnic differences in neurophysiological tone, but not threat reactivity, after trauma exposure",
+    date = "2023-07",
+    volume = "28",
+    issue = "7",
+    pages = "2975-2984",
+    journal = "Molecular Psychiatry",
+    url = "https://drive.google.com/file/d/1uZ-i6\_zbbgpmxip-lternhRjAH0xfxT7/view?usp=sharing",
+    note = "Publisher: Nature Publishing Group UK"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="NathanielGHarnett_2023_02_01_Structuralinequities">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="NathanielGHarnett_2023_02_01_Structuralinequities">[show citation]</label>
+</div></div></td></tr><tr>
+<td>232</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ArefEinizade_2023_07_01_ProductGraphSleepNetSleep">
 <div class="citation">
@@ -1025,7 +1023,7 @@ Einizade A, Nasiri S, Sardouie SH, Clifford GD. <a href="https://drive.google.co
 <div class="hidebibtex">
 <label for="ArefEinizade_2023_07_01_ProductGraphSleepNetSleep">[show citation]</label>
 </div></div></td></tr><tr>
-<td>229</td>
+<td>231</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChenglinNiu_2023_05_31_HRnVCalcA">
 <div class="citation">
@@ -1048,7 +1046,7 @@ Niu C, Guo D, Ong MEH, Koh ZX, Marie-Alix GAL, Ho AFW, Lin Z, Liu C, Clifford GD
 <div class="hidebibtex">
 <label for="ChenglinNiu_2023_05_31_HRnVCalcA">[show citation]</label>
 </div></div></td></tr><tr>
-<td>228</td>
+<td>230</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AndoniElola_2023_05_10_BeyondHeart">
 <div class="citation">
@@ -1072,7 +1070,7 @@ Elola A, Aramendi E, Oliveira J, Renna F, Coimbra MT, Reyna MA, Sameni R, Cliffo
 <div class="hidebibtex">
 <label for="AndoniElola_2023_05_10_BeyondHeart">[show citation]</label>
 </div></div></td></tr><tr>
-<td>227</td>
+<td>229</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RanXiao_2023_04_18_Integratingmultimodal">
 <div class="citation">
@@ -1095,7 +1093,7 @@ Xiao R, Ding C, Hu X, Clifford GD, Wright DW, Shah AJ, Al-Zaiti S, Z<span class=
 <div class="hidebibtex">
 <label for="RanXiao_2023_04_18_Integratingmultimodal">[show citation]</label>
 </div></div></td></tr><tr>
-<td>226</td>
+<td>228</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SamanthaAWong_2023_03_17_Internalcapsule">
 <div class="citation">
@@ -1118,7 +1116,7 @@ Wong SA, Lebois LA, Ely TD, Rooij SJ, Bruce SE, Murty VP, Jovanovic T, House SL,
 <div class="hidebibtex">
 <label for="SamanthaAWong_2023_03_17_Internalcapsule">[show citation]</label>
 </div></div></td></tr><tr>
-<td>225</td>
+<td>227</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShafaatAliSheikh_2023_03_Associationbetween">
 <div class="citation">
@@ -1141,7 +1139,7 @@ Sheikh SA, Alday EAP, Rad AB, Levantsevych O, Alkhalaf M, Soudan M, Abdulbaki R,
 <div class="hidebibtex">
 <label for="ShafaatAliSheikh_2023_03_Associationbetween">[show citation]</label>
 </div></div></td></tr><tr>
-<td>224</td>
+<td>226</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="PradyumnaByappanahalliSuresha_2023_03_01_Rettsyndrome">
 <div class="citation">
@@ -1165,7 +1163,7 @@ Suresha PB, O'Leary H, Tarquinio DC, Hehn JV, Clifford GD. <a href="https://driv
 <div class="hidebibtex">
 <label for="PradyumnaByappanahalliSuresha_2023_03_01_Rettsyndrome">[show citation]</label>
 </div></div></td></tr><tr>
-<td>223</td>
+<td>225</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChristopherWJones_2023_03_01_Derivationand">
 <div class="citation">
@@ -1189,7 +1187,7 @@ Jones CW, An X, Ji Y, Liu M, Zeng D, House SL, Beaudoin FL, Stevens JS, Neylan T
 <div class="hidebibtex">
 <label for="ChristopherWJones_2023_03_01_Derivationand">[show citation]</label>
 </div></div></td></tr><tr>
-<td>222</td>
+<td>224</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LauraDStraus_2023_03_01_Utilityof">
 <div class="citation">
@@ -1213,7 +1211,7 @@ Straus LD, An X, Ji Y, McLean SA, Neylan TC, Cakmak AS, Richards A, Clifford GD,
 <div class="hidebibtex">
 <label for="LauraDStraus_2023_03_01_Utilityof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>221</td>
+<td>223</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NasimKatebi_2023_02_20_HierarchicalAttentive">
 <div class="citation">
@@ -1237,7 +1235,7 @@ Katebi N, Sameni R, Rohloff P, Clifford GD. <a href="https://drive.google.com/fi
 <div class="hidebibtex">
 <label for="NasimKatebi_2023_02_20_HierarchicalAttentive">[show citation]</label>
 </div></div></td></tr><tr>
-<td>220</td>
+<td>222</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GraceERowland_2023_02_16_PriorSexual">
 <div class="citation">
@@ -1261,7 +1259,7 @@ Rowland GE, Roeckner A, Ely TD, Lebois LA, Rooij SJ, Bruce SE, Jovanovic T, Hous
 <div class="hidebibtex">
 <label for="GraceERowland_2023_02_16_PriorSexual">[show citation]</label>
 </div></div></td></tr><tr>
-<td>219</td>
+<td>221</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ErickAPerezAlday_2023_02_Associationof">
 <div class="citation">
@@ -1284,7 +1282,7 @@ Alday EAP, Poian GD, Levantsevych O, Murrah N, Shallenberger L, Alkhalaf M, Haff
 <div class="hidebibtex">
 <label for="ErickAPerezAlday_2023_02_Associationof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>218</td>
+<td>220</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="HyeokhyenKwon_2023_02_04_Anexplainable">
 <div class="citation">
@@ -1307,6 +1305,50 @@ Kwon H, Clifford GD, Genias I, Bernhard D, Esper CD, Factor SA, McKay JL. <a hre
 </div>
 <div class="hidebibtex">
 <label for="HyeokhyenKwon_2023_02_04_Anexplainable">[show citation]</label>
+</div></div></td></tr><tr>
+<td>219</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="ChengDing_2023_Learningfrom">
+<div class="citation">
+Ding C, Guo Z, Rudin C, Xiao R, Shah A, Do DH, Lee RJ, Clifford G, Nahab FB, Hu X. <a href="https://cinc.org/2023/Program/accepted/280_CinCFinalPDF.pdf">Learning from alarms: a novel robust learning approach to learn an accurate photoplethysmography-based atrial fibrillation detector using eight million samples labeled with imprecise arrhythmia alarms</a>. Computing in Cardiology 2023 2023.
+</div>
+<div class="bibtex_source"><pre>@article{ChengDing_2023_Learningfrom,
+    author = "Ding, Cheng and Guo, ZhiCheng and Rudin, Cynthia and Xiao, Ran and Shah, Amit and Do, Duc H and Lee, Randall J and Clifford, Gari and Nahab, Fadi B and Hu, Xiao",
+    title = "Learning from alarms: a novel robust learning approach to learn an accurate photoplethysmography-based atrial fibrillation detector using eight million samples labeled with imprecise arrhythmia alarms",
+    date = "2023",
+    journal = "Computing in Cardiology 2023",
+    url = "https://cinc.org/2023/Program/accepted/280\_CinCFinalPDF.pdf"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="ChengDing_2023_Learningfrom">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="ChengDing_2023_Learningfrom">[show citation]</label>
+</div></div></td></tr><tr>
+<td>218</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="HNZiobrowski_2023_Childhoodadversities">
+<div class="citation">
+Ziobrowski H, Holt-Gosselin B, Petukhova M, King A, Lee S, House S, Beaudoin F, An X, Stevens J, Zeng D, Neylan T, Clifford G, Linnstaedt S, Germine L, Bollen K, Rauch S, Haran J, Storrow A, Lewandowski C, Musey P, Hendry P, Sheikh S, Jones C, Punches B, Kurz M, Swor R, Hudak L, Pascual J, Seamon M, Harris E, Pearson C, Merchant R, Domeier R, Rathlev N, O'Neil B, Sergot P, Sanchez L, Bruce S, Miller M, Pietrzak R, Joormann J, Barch D, Pizzagalli D, Harte S, Elliott J, Ressler K, McLean S, Koenen K, Kessler R. <a href="https://drive.google.com/file/d/1mfqDKfPuyBoCW7x7Mjm_ulD66908wr0M/view?usp=sharing">Childhood adversities and risk of posttraumatic stress disorder and major depression following a motor vehicle collision in adulthood</a>. Epidemiology and Psychiatric Sciences 2023; 32: p. e1. DOI: <a href="https://doi.org/10.1017/S2045796022000798">10.1017/S2045796022000798</a>.
+</div>
+<div class="bibtex_source"><pre>@article{HNZiobrowski_2023_Childhoodadversities,
+    author = "Ziobrowski, HN and Holt-Gosselin, B and Petukhova, MV and King, AJ and Lee, S and House, SL and Beaudoin, FL and An, X and Stevens, JS and Zeng, D and Neylan, TC and Clifford, GD and Linnstaedt, SD and Germine, LT and Bollen, KA and Rauch, SL and Haran, JP and Storrow, AB and Lewandowski, C and Musey, PI and Hendry, PL and Sheikh, S and Jones, CW and Punches, BE and Kurz, MC and Swor, RA and Hudak, LA and Pascual, JL and Seamon, MJ and Harris, E and Pearson, C and Merchant, RC and Domeier, RM and Rathlev, NK and O'Neil, BJ and Sergot, P and Sanchez, LD and Bruce, SE and Miller, MW and Pietrzak, RH and Joormann, J and Barch, DM and Pizzagalli, DA and Harte, SE and Elliott, JM and Ressler, KJ and McLean, SA and Koenen, KC and Kessler, RC",
+    title = "Childhood adversities and risk of posttraumatic stress disorder and major depression following a motor vehicle collision in adulthood",
+    date = "2023",
+    journal = "Epidemiology and Psychiatric Sciences",
+    url = "https://drive.google.com/file/d/1mfqDKfPuyBoCW7x7Mjm\_ulD66908wr0M/view?usp=sharing",
+    pages = "e1",
+    volume = "32",
+    doi = "10.1017/S2045796022000798",
+    note = "Publisher: Cambridge University Press"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="HNZiobrowski_2023_Childhoodadversities">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="HNZiobrowski_2023_Childhoodadversities">[show citation]</label>
 </div></div></td></tr><tr>
 <td>217</td>
 <td><div class="citation_container">
@@ -1428,29 +1470,6 @@ Punches BE, Stolz U, Freiermuth CE, Ancona RM, McLean SA, House SL, Beaudoin FL,
 </div></div></td></tr><tr>
 <td>212</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="ErickAPerezAlday_2022_09_01_Agesex">
-<div class="citation">
-Alday EAP, Rad AB, Reyna MA, Sadr N, Gu A, Li Q, Dumitru M, Xue J, Albert D, Sameni R, Clifford GD. <a href="https://drive.google.com/file/d/1Zd7Pcq77Gy4Sc7064SsS-0l9iGWk8AVF/view?usp=sharing">Age, sex and race bias in automated arrhythmia detectors</a>. Journal of Electrocardiology 2022 September; 74: pp. 5-9.
-</div>
-<div class="bibtex_source"><pre>@article{ErickAPerezAlday_2022_09_01_Agesex,
-    author = "Alday, Erick A Perez and Rad, Ali B and Reyna, Matthew A and Sadr, Nadi and Gu, Annie and Li, Qiao and Dumitru, Mircea and Xue, Joel and Albert, Dave and Sameni, Reza and Clifford, Gari D",
-    title = "Age, sex and race bias in automated arrhythmia detectors",
-    date = "2022-09",
-    journal = "Journal of Electrocardiology",
-    url = "https://drive.google.com/file/d/1Zd7Pcq77Gy4Sc7064SsS-0l9iGWk8AVF/view?usp=sharing",
-    pages = "5-9",
-    volume = "74",
-    note = "Publisher: Churchill Livingstone"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="ErickAPerezAlday_2022_09_01_Agesex">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="ErickAPerezAlday_2022_09_01_Agesex">[show citation]</label>
-</div></div></td></tr><tr>
-<td>211</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SalmanSeyedi_2022_12_Aninvestigation">
 <div class="citation">
 Seyedi S, Jiang Z, Levey A, Clifford GD. <a href="https://drive.google.com/file/d/1G9WWDOAl57uSCLmEgY9O94Y7FKt-4pTG/view?usp=sharing">An investigation of privacy preservation in deep learning-based eye-tracking</a>. Biomedical Engineering Online 2022 September 13; 21 (1): p. 67.
@@ -1473,7 +1492,7 @@ Seyedi S, Jiang Z, Levey A, Clifford GD. <a href="https://drive.google.com/file/
 <div class="hidebibtex">
 <label for="SalmanSeyedi_2022_12_Aninvestigation">[show citation]</label>
 </div></div></td></tr><tr>
-<td>210</td>
+<td>211</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SamuelHWaters_2022_12_Comparisonof">
 <div class="citation">
@@ -1496,6 +1515,29 @@ Waters SH, Clifford GD. <a href="https://drive.google.com/file/d/18CHuWRflbKbrU3
 </div>
 <div class="hidebibtex">
 <label for="SamuelHWaters_2022_12_Comparisonof">[show citation]</label>
+</div></div></td></tr><tr>
+<td>210</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="ErickAPerezAlday_2022_09_01_Agesex">
+<div class="citation">
+Alday EAP, Rad AB, Reyna MA, Sadr N, Gu A, Li Q, Dumitru M, Xue J, Albert D, Sameni R, Clifford GD. <a href="https://drive.google.com/file/d/1Zd7Pcq77Gy4Sc7064SsS-0l9iGWk8AVF/view?usp=sharing">Age, sex and race bias in automated arrhythmia detectors</a>. Journal of Electrocardiology 2022 September; 74: pp. 5-9.
+</div>
+<div class="bibtex_source"><pre>@article{ErickAPerezAlday_2022_09_01_Agesex,
+    author = "Alday, Erick A Perez and Rad, Ali B and Reyna, Matthew A and Sadr, Nadi and Gu, Annie and Li, Qiao and Dumitru, Mircea and Xue, Joel and Albert, Dave and Sameni, Reza and Clifford, Gari D",
+    title = "Age, sex and race bias in automated arrhythmia detectors",
+    date = "2022-09",
+    journal = "Journal of Electrocardiology",
+    url = "https://drive.google.com/file/d/1Zd7Pcq77Gy4Sc7064SsS-0l9iGWk8AVF/view?usp=sharing",
+    pages = "5-9",
+    volume = "74",
+    note = "Publisher: Churchill Livingstone"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="ErickAPerezAlday_2022_09_01_Agesex">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="ErickAPerezAlday_2022_09_01_Agesex">[show citation]</label>
 </div></div></td></tr><tr>
 <td>209</td>
 <td><div class="citation_container">
@@ -1668,6 +1710,30 @@ Reyna MA, Nsoesie EO, Clifford GD. <a href="https://drive.google.com/file/d/1aH9
 </div></div></td></tr><tr>
 <td>202</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="RobertOCotes_2022_07_13_MultimodalAssessment">
+<div class="citation">
+Cotes RO, Boazak M, Griner E, Jiang Z, Kim B, Bremer W, Seyedi S, Rad AB, Clifford GD. <a href="https://drive.google.com/file/d/1lpjPKweyz0XiFEB3otmNjB4Ppb_KvlXx/view?usp=sharing">Multimodal Assessment of Schizophrenia and Depression Utilizing Video, Acoustic, Locomotor, Electroencephalographic, and Heart Rate Technology: Protocol for an Observational Study</a>. JMIR Research Protocols 2022 July 13; 11 (7): p. e36417.
+</div>
+<div class="bibtex_source"><pre>@article{RobertOCotes_2022_07_13_MultimodalAssessment,
+    author = "Cotes, Robert O and Boazak, Mina and Griner, Emily and Jiang, Zifan and Kim, Bona and Bremer, Whitney and Seyedi, Salman and Rad, Ali Bahrami and Clifford, Gari D",
+    title = "Multimodal Assessment of Schizophrenia and Depression Utilizing Video, Acoustic, Locomotor, Electroencephalographic, and Heart Rate Technology: Protocol for an Observational Study",
+    date = "2022-07-13",
+    issue = "7",
+    journal = "JMIR Research Protocols",
+    url = "https://drive.google.com/file/d/1lpjPKweyz0XiFEB3otmNjB4Ppb\_KvlXx/view?usp=sharing",
+    pages = "e36417",
+    volume = "11",
+    note = "Publisher: JMIR Publications Inc., Toronto, Canada"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="RobertOCotes_2022_07_13_MultimodalAssessment">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="RobertOCotes_2022_07_13_MultimodalAssessment">[show citation]</label>
+</div></div></td></tr><tr>
+<td>201</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JuttaJoormann_2020_10_29_Sociodemographicand">
 <div class="citation">
 Joormann J, McLean SA, Beaudoin FL, An X, Stevens JS, Zeng D, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Rauch SL, Musey PI, Hendry PL, Sheikh S, Jones CW, Punches BE, Fermann G, Hudak LA, Mohiuddin K, Murty V, McGrath ME, Haran JP, Pascual J, Seamon M, Peak DA, Pearson C, Domeier RM, Sergot P, Merchant R, Sanchez LD, Rathlev NK, Peacock WF, Bruce SE, Barch D, Pizzagalli DA, Luna B, Harte SE, Hwang I, Lee S, Sampson N, Koenen KC, Ressler KJ, Kessler RC. <a href="https://drive.google.com/file/d/12asAetAKMyVaXF65L-KsJyXAGjcL2WbY/view?usp=sharing">Socio-demographic and trauma-related predictors of depression within eight weeks of motor vehicle collision in the AURORA study</a>. Psychological Medicine 2022 July; 52 (10): pp. 1934-1947.
@@ -1690,7 +1756,7 @@ Joormann J, McLean SA, Beaudoin FL, An X, Stevens JS, Zeng D, Neylan TC, Cliffor
 <div class="hidebibtex">
 <label for="JuttaJoormann_2020_10_29_Sociodemographicand">[show citation]</label>
 </div></div></td></tr><tr>
-<td>201</td>
+<td>200</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShafaatAliSheikh_2022_07_Validationof">
 <div class="citation">
@@ -1712,30 +1778,6 @@ Sheikh SA, Gurel NZ, Gupta S, Chukwu IV, Levantsevych O, Alkhalaf M, Soudan M, A
 </div>
 <div class="hidebibtex">
 <label for="ShafaatAliSheikh_2022_07_Validationof">[show citation]</label>
-</div></div></td></tr><tr>
-<td>200</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="RobertOCotes_2022_07_13_MultimodalAssessment">
-<div class="citation">
-Cotes RO, Boazak M, Griner E, Jiang Z, Kim B, Bremer W, Seyedi S, Rad AB, Clifford GD. <a href="https://drive.google.com/file/d/1lpjPKweyz0XiFEB3otmNjB4Ppb_KvlXx/view?usp=sharing">Multimodal Assessment of Schizophrenia and Depression Utilizing Video, Acoustic, Locomotor, Electroencephalographic, and Heart Rate Technology: Protocol for an Observational Study</a>. JMIR Research Protocols 2022 July 13; 11 (7): p. e36417.
-</div>
-<div class="bibtex_source"><pre>@article{RobertOCotes_2022_07_13_MultimodalAssessment,
-    author = "Cotes, Robert O and Boazak, Mina and Griner, Emily and Jiang, Zifan and Kim, Bona and Bremer, Whitney and Seyedi, Salman and Rad, Ali Bahrami and Clifford, Gari D",
-    title = "Multimodal Assessment of Schizophrenia and Depression Utilizing Video, Acoustic, Locomotor, Electroencephalographic, and Heart Rate Technology: Protocol for an Observational Study",
-    date = "2022-07-13",
-    issue = "7",
-    journal = "JMIR Research Protocols",
-    url = "https://drive.google.com/file/d/1lpjPKweyz0XiFEB3otmNjB4Ppb\_KvlXx/view?usp=sharing",
-    pages = "e36417",
-    volume = "11",
-    note = "Publisher: JMIR Publications Inc., Toronto, Canada"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="RobertOCotes_2022_07_13_MultimodalAssessment">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="RobertOCotes_2022_07_13_MultimodalAssessment">[show citation]</label>
 </div></div></td></tr><tr>
 <td>199</td>
 <td><div class="citation_container">
@@ -2003,29 +2045,6 @@ Jiang Z, Seyedi S, Haque RU, Pongos AL, Vickers KL, Manzanares CM, Lah JJ, Levey
 </div></div></td></tr><tr>
 <td>188</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="JuttaJoormann_2022_01_Priorhistories">
-<div class="citation">
-Joormann J, Ziobrowski HN, King AJ, Gildea SM, Lee S, Sampson NA, House SL, Beaudoin FL, An X, Stevens JS, Zeng D, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Bollen KA, Rauch SL, Haran JP, Storrow AB, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, McGrath ME, Hudak LA, Pascual JL, Seamon MJ, Chang AM, Pearson C, Peak DA, Domeier RM, Rathlev NK, O'Neil BJ, Sanchez LD, Bruce SE, Miller MW, Pietrzak RH, Barch DM, Pizzagalli DA, Harte SE, Elliott JM, Koenen KC, McLean SA, Kessler RC. <a href="https://drive.google.com/file/d/19LxRxwKTDMJ5mhZNkfI5XD9zjJnbuggf/view?usp=sharing">Prior histories of posttraumatic stress disorder and major depression and their onset and course in the three months after a motor vehicle collision in the AURORA study</a>. Depress and Anxiety 2022 January; 39 (1): pp. 56-70.
-</div>
-<div class="bibtex_source"><pre>@article{JuttaJoormann_2022_01_Priorhistories,
-    author = "Joormann, Jutta and Ziobrowski, Hannah N and King, Andrew J and Gildea, Sarah M and Lee, Sue and Sampson, Nancy A and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Stevens, Jennifer S and Zeng, Donglin and Neylan, Thomas C and Clifford, Gari D and Linnstaedt, Sarah D and Germine, Laura T and Bollen, Kenneth A and Rauch, Scott L and Haran, John P and Storrow, Alan B and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and McGrath, Meghan E and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Chang, Anna M and Pearson, Claire and Peak, David A and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sanchez, Leon D and Bruce, Steven E and Miller, Mark W and Pietrzak, Robert H and Barch, Deanna M and Pizzagalli, Diego A and Harte, Steven E and Elliott, James M and Koenen, Karestan C and McLean, Samuel A and Kessler, Ronald C",
-    title = "Prior histories of posttraumatic stress disorder and major depression and their onset and course in the three months after a motor vehicle collision in the AURORA study",
-    date = "2022-01",
-    issue = "1",
-    journal = "Depress and Anxiety",
-    url = "https://drive.google.com/file/d/19LxRxwKTDMJ5mhZNkfI5XD9zjJnbuggf/view?usp=sharing",
-    pages = "56-70",
-    volume = "39"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="JuttaJoormann_2022_01_Priorhistories">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="JuttaJoormann_2022_01_Priorhistories">[show citation]</label>
-</div></div></td></tr><tr>
-<td>187</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariClifford_2022_01_11_AnOpenSource">
 <div class="citation">
 Clifford GD, Nguyen T, Shaw C, Newton B, Francis S, Salari M, Evans C, Jones C, Akintobi TH, Jr HT. <a href="https://drive.google.com/file/d/1fj_ykFKOOaksDtOIkcWQxjktFU9U3Ci0/view?usp=sharing">An Open-Source Privacy-Preserving Large-Scale Mobile Framework for Cardiovascular Health Monitoring and Intervention Planning With an Urban African American Population of Young Adults: User-Centered Design Approach</a>. JMIR Formative Research 2022 January 11; 6 (1): p. e25444.
@@ -2048,31 +2067,30 @@ Clifford GD, Nguyen T, Shaw C, Newton B, Francis S, Salari M, Evans C, Jones C, 
 <div class="hidebibtex">
 <label for="GariClifford_2022_01_11_AnOpenSource">[show citation]</label>
 </div></div></td></tr><tr>
-<td>186</td>
+<td>187</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="SamanehNasiri_2021_02_22_Generalizableseizure">
+<input type="checkbox" class="toggle-button" id="JuttaJoormann_2022_01_Priorhistories">
 <div class="citation">
-Nasiri S, Clifford GD. <a href="https://drive.google.com/file/d/1Dje1c_TZoN9_Xga0EGX7jVfDPrXU8zqc/view?usp=sharing">Generalizable seizure detection model using generating transferable adversarial features</a>. IEEE Signal Processing Letters 2021; 28: pp. 568-572. DOI: <a href="https://doi.org/10.1109/LSP.2021.3060967">10.1109/LSP.2021.3060967</a>.
+Joormann J, Ziobrowski HN, King AJ, Gildea SM, Lee S, Sampson NA, House SL, Beaudoin FL, An X, Stevens JS, Zeng D, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Bollen KA, Rauch SL, Haran JP, Storrow AB, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, McGrath ME, Hudak LA, Pascual JL, Seamon MJ, Chang AM, Pearson C, Peak DA, Domeier RM, Rathlev NK, O'Neil BJ, Sanchez LD, Bruce SE, Miller MW, Pietrzak RH, Barch DM, Pizzagalli DA, Harte SE, Elliott JM, Koenen KC, McLean SA, Kessler RC. <a href="https://drive.google.com/file/d/19LxRxwKTDMJ5mhZNkfI5XD9zjJnbuggf/view?usp=sharing">Prior histories of posttraumatic stress disorder and major depression and their onset and course in the three months after a motor vehicle collision in the AURORA study</a>. Depress and Anxiety 2022 January; 39 (1): pp. 56-70.
 </div>
-<div class="bibtex_source"><pre>@article{SamanehNasiri_2021_02_22_Generalizableseizure,
-    author = "Nasiri, Samaneh and Clifford, Gari D",
-    title = "Generalizable seizure detection model using generating transferable adversarial features",
-    date = "2021",
-    journal = "IEEE Signal Processing Letters",
-    url = "https://drive.google.com/file/d/1Dje1c\_TZoN9\_Xga0EGX7jVfDPrXU8zqc/view?usp=sharing",
-    pages = "568-572",
-    volume = "28",
-    doi = "10.1109/LSP.2021.3060967",
-    note = "Publisher: IEEE"
+<div class="bibtex_source"><pre>@article{JuttaJoormann_2022_01_Priorhistories,
+    author = "Joormann, Jutta and Ziobrowski, Hannah N and King, Andrew J and Gildea, Sarah M and Lee, Sue and Sampson, Nancy A and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Stevens, Jennifer S and Zeng, Donglin and Neylan, Thomas C and Clifford, Gari D and Linnstaedt, Sarah D and Germine, Laura T and Bollen, Kenneth A and Rauch, Scott L and Haran, John P and Storrow, Alan B and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and McGrath, Meghan E and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Chang, Anna M and Pearson, Claire and Peak, David A and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sanchez, Leon D and Bruce, Steven E and Miller, Mark W and Pietrzak, Robert H and Barch, Deanna M and Pizzagalli, Diego A and Harte, Steven E and Elliott, James M and Koenen, Karestan C and McLean, Samuel A and Kessler, Ronald C",
+    title = "Prior histories of posttraumatic stress disorder and major depression and their onset and course in the three months after a motor vehicle collision in the AURORA study",
+    date = "2022-01",
+    issue = "1",
+    journal = "Depress and Anxiety",
+    url = "https://drive.google.com/file/d/19LxRxwKTDMJ5mhZNkfI5XD9zjJnbuggf/view?usp=sharing",
+    pages = "56-70",
+    volume = "39"
 }
 </pre>
 </div><div class="showbibtex">
-<label for="SamanehNasiri_2021_02_22_Generalizableseizure">[show BibTeX]</label>
+<label for="JuttaJoormann_2022_01_Priorhistories">[show BibTeX]</label>
 </div>
 <div class="hidebibtex">
-<label for="SamanehNasiri_2021_02_22_Generalizableseizure">[show citation]</label>
+<label for="JuttaJoormann_2022_01_Priorhistories">[show citation]</label>
 </div></div></td></tr><tr>
-<td>185</td>
+<td>186</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AliBahramiRad_2021_11_16_Atrialfibrillation">
 <div class="citation">
@@ -2096,7 +2114,7 @@ Rad AB, Galloway C, Treiman D, Xue J, Li Q, Sameni R, Albert D, Clifford GD. <a 
 <div class="hidebibtex">
 <label for="AliBahramiRad_2021_11_16_Atrialfibrillation">[show citation]</label>
 </div></div></td></tr><tr>
-<td>184</td>
+<td>185</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JenniferSStevens_2021_11_Brainbasedbiotypes">
 <div class="citation">
@@ -2120,7 +2138,7 @@ Stevens JS, Harnett NG, Lebois LA, Rooij SJV, Ely TD, Roeckner A, Vincent N, Bea
 <div class="hidebibtex">
 <label for="JenniferSStevens_2021_11_Brainbasedbiotypes">[show citation]</label>
 </div></div></td></tr><tr>
-<td>183</td>
+<td>184</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="HannahNZiobrowski_2021_11_01_Developmentand">
 <div class="citation">
@@ -2144,7 +2162,7 @@ Ziobrowski HN, Kennedy CJ, Ustun B, House SL, Beaudoin FL, An X, Zeng D, Bollen 
 <div class="hidebibtex">
 <label for="HannahNZiobrowski_2021_11_01_Developmentand">[show citation]</label>
 </div></div></td></tr><tr>
-<td>182</td>
+<td>183</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LakshyaSinghal_2021_09_24_eARDSA">
 <div class="citation">
@@ -2168,7 +2186,7 @@ Singhal L, Garg Y, Yang P, Tabaie A, Wong AI, Mohammed A, Chinthala L, Kadaria D
 <div class="hidebibtex">
 <label for="LakshyaSinghal_2021_09_24_eARDSA">[show citation]</label>
 </div></div></td></tr><tr>
-<td>181</td>
+<td>182</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AzadeTabaie_2021_09_15_Deeplearning">
 <div class="citation">
@@ -2192,7 +2210,7 @@ Tabaie A, Orenstein EW, Nemati S, Basu RK, Clifford GD, Kamaleswaran R. <a href=
 <div class="hidebibtex">
 <label for="AzadeTabaie_2021_09_15_Deeplearning">[show citation]</label>
 </div></div></td></tr><tr>
-<td>180</td>
+<td>181</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ElizabethRSteuber_2021_09_01_Thalamicvolume">
 <div class="citation">
@@ -2216,7 +2234,7 @@ Steuber ER, Seligowski AV, Roeckner AR, Reda M, Lebois LA, Rooij SJ, Murty VP, E
 <div class="hidebibtex">
 <label for="ElizabethRSteuber_2021_09_01_Thalamicvolume">[show citation]</label>
 </div></div></td></tr><tr>
-<td>179</td>
+<td>180</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AntoniaVSeligowski_2021_11_01_Aprospective">
 <div class="citation">
@@ -2240,7 +2258,7 @@ Seligowski AV, Steuber ER, Hinrichs R, Reda MH, Wiltshire CN, Wanna CP, Winters 
 <div class="hidebibtex">
 <label for="AntoniaVSeligowski_2021_11_01_Aprospective">[show citation]</label>
 </div></div></td></tr><tr>
-<td>178</td>
+<td>179</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MelissaAaendel_2021_08_TheNational">
 <div class="citation">
@@ -2263,6 +2281,30 @@ Aendel MA, Chute CG, Bennett TD, Eichmann DA, Guinney J, Kibbe WA, Payne PRO, Pf
 </div>
 <div class="hidebibtex">
 <label for="MelissaAaendel_2021_08_TheNational">[show citation]</label>
+</div></div></td></tr><tr>
+<td>178</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="SamanehNasiri_2021_05_26_BoostingAutomated">
+<div class="citation">
+Nasiri S, Clifford GD. <a href="https://drive.google.com/file/d/16wTKigblejR2RT9_QinE4Vynu966BZAI/view?usp=sharing">Boosting automated sleep staging performance in big datasets using population subgrouping</a>. Sleep 2021 July 9; 44 (7): p. zsab027.
+</div>
+<div class="bibtex_source"><pre>@article{SamanehNasiri_2021_05_26_BoostingAutomated,
+    author = "Nasiri, Samaneh and Clifford, Gari D",
+    title = "Boosting automated sleep staging performance in big datasets using population subgrouping",
+    date = "2021-07-09",
+    issue = "7",
+    journal = "Sleep",
+    url = "https://drive.google.com/file/d/16wTKigblejR2RT9\_QinE4Vynu966BZAI/view?usp=sharing",
+    pages = "zsab027",
+    volume = "44",
+    note = "Publisher: Sleep Research Society"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="SamanehNasiri_2021_05_26_BoostingAutomated">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="SamanehNasiri_2021_05_26_BoostingAutomated">[show citation]</label>
 </div></div></td></tr><tr>
 <td>177</td>
 <td><div class="citation_container">
@@ -2314,30 +2356,6 @@ McLean SA, Ressler K, Koenen KC, Neylan T, Germine L, Jovanovic T, Clifford GD, 
 </div></div></td></tr><tr>
 <td>175</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="SamanehNasiri_2021_05_26_BoostingAutomated">
-<div class="citation">
-Nasiri S, Clifford GD. <a href="https://drive.google.com/file/d/16wTKigblejR2RT9_QinE4Vynu966BZAI/view?usp=sharing">Boosting automated sleep staging performance in big datasets using population subgrouping</a>. Sleep 2021 July 9; 44 (7): p. zsab027.
-</div>
-<div class="bibtex_source"><pre>@article{SamanehNasiri_2021_05_26_BoostingAutomated,
-    author = "Nasiri, Samaneh and Clifford, Gari D",
-    title = "Boosting automated sleep staging performance in big datasets using population subgrouping",
-    date = "2021-07-09",
-    issue = "7",
-    journal = "Sleep",
-    url = "https://drive.google.com/file/d/16wTKigblejR2RT9\_QinE4Vynu966BZAI/view?usp=sharing",
-    pages = "zsab027",
-    volume = "44",
-    note = "Publisher: Sleep Research Society"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="SamanehNasiri_2021_05_26_BoostingAutomated">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="SamanehNasiri_2021_05_26_BoostingAutomated">[show citation]</label>
-</div></div></td></tr><tr>
-<td>174</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SamruddhiSKulkarni_2021_05_21_CNNbasedLCD">
 <div class="citation">
 Kulkarni SS, Katebi N, Valderrama CE, Rohloff P, Clifford GD. <a href="https://drive.google.com/file/d/14Z8e5W2tG2h7c_nsIaCNOtEpuc0PtJQe/view?usp=sharing">CNN-based LCD transcription of blood pressure from a mobile phone camera</a>. Frontiers in Artificial Intelligence 2021 May 21; 4: p. 543176. DOI: <a href="https://doi.org/10.3389/frai.2021.543176">10.3389/frai.2021.543176</a>.
@@ -2360,7 +2378,7 @@ Kulkarni SS, Katebi N, Valderrama CE, Rohloff P, Clifford GD. <a href="https://d
 <div class="hidebibtex">
 <label for="SamruddhiSKulkarni_2021_05_21_CNNbasedLCD">[show citation]</label>
 </div></div></td></tr><tr>
-<td>173</td>
+<td>174</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ArsalanKazemnejad_2021_05_18_Anopenaccess">
 <div class="citation">
@@ -2379,6 +2397,30 @@ Kazemnejad A, Karimi S, Gordany P, Clifford GD, Sameni R. <a href="https://drive
 </div>
 <div class="hidebibtex">
 <label for="ArsalanKazemnejad_2021_05_18_Anopenaccess">[show citation]</label>
+</div></div></td></tr><tr>
+<td>173</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="QiaoLi_2021_05_13_Transferlearning">
+<div class="citation">
+Li Q, Li Q, Cakmak AS, Poian GD, Bliwise DL, Vaccarino V, Shah AJ, Clifford GD. <a href="https://drive.google.com/file/d/1dS4zcCw997W3q3pnyJcLuhOKEjCr3CQX/view?usp=sharing">Transfer learning from ECG to PPG for improved sleep staging from wrist-worn wearables</a>. Physiological measurement 2021 May 13; 42 (4): p. 044004.
+</div>
+<div class="bibtex_source"><pre>@article{QiaoLi_2021_05_13_Transferlearning,
+    author = "Li, Qiao and Li, Qichen and Cakmak, Ayse S and Poian, Giulia Da and Bliwise, Donald L and Vaccarino, Viola and Shah, Amit J and Clifford, Gari D",
+    title = "Transfer learning from ECG to PPG for improved sleep staging from wrist-worn wearables",
+    date = "2021-05-13",
+    issue = "4",
+    journal = "Physiological measurement",
+    url = "https://drive.google.com/file/d/1dS4zcCw997W3q3pnyJcLuhOKEjCr3CQX/view?usp=sharing",
+    pages = "044004",
+    volume = "42",
+    note = "Publisher: IOP Publishing"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="QiaoLi_2021_05_13_Transferlearning">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="QiaoLi_2021_05_13_Transferlearning">[show citation]</label>
 </div></div></td></tr><tr>
 <td>172</td>
 <td><div class="citation_container">
@@ -2429,30 +2471,6 @@ Beaudoin FL, Kessler R, Hwang I, Lee S, Sampson N, An X, Ressler K, Koenen K, Mc
 </div></div></td></tr><tr>
 <td>170</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="QiaoLi_2021_05_13_Transferlearning">
-<div class="citation">
-Li Q, Li Q, Cakmak AS, Poian GD, Bliwise DL, Vaccarino V, Shah AJ, Clifford GD. <a href="https://drive.google.com/file/d/1dS4zcCw997W3q3pnyJcLuhOKEjCr3CQX/view?usp=sharing">Transfer learning from ECG to PPG for improved sleep staging from wrist-worn wearables</a>. Physiological measurement 2021 May 13; 42 (4): p. 044004.
-</div>
-<div class="bibtex_source"><pre>@article{QiaoLi_2021_05_13_Transferlearning,
-    author = "Li, Qiao and Li, Qichen and Cakmak, Ayse S and Poian, Giulia Da and Bliwise, Donald L and Vaccarino, Viola and Shah, Amit J and Clifford, Gari D",
-    title = "Transfer learning from ECG to PPG for improved sleep staging from wrist-worn wearables",
-    date = "2021-05-13",
-    issue = "4",
-    journal = "Physiological measurement",
-    url = "https://drive.google.com/file/d/1dS4zcCw997W3q3pnyJcLuhOKEjCr3CQX/view?usp=sharing",
-    pages = "044004",
-    volume = "42",
-    note = "Publisher: IOP Publishing"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="QiaoLi_2021_05_13_Transferlearning">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="QiaoLi_2021_05_13_Transferlearning">[show citation]</label>
-</div></div></td></tr><tr>
-<td>169</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MohsenSalari_2021_04_10_Fooddesert">
 <div class="citation">
 Salari M, Reyna M, Kramer MD, Taylor HA, Clifford GD. <a href="https://drive.google.com/file/d/1CLdmeePRB-6Wc97P3LZD-9qP2Pxeh-MR/view?usp=sharing">Food desert assessment: An analytical framework for comparing utility of metrics and indices; case study of key factors, concurrences, and divergences</a>. SSRN Electronic Journal 2021 April 10; p. 19. DOI: <a href="https://doi.org/10.2139/ssrn.3823677">10.2139/ssrn.3823677</a>.
@@ -2473,7 +2491,7 @@ Salari M, Reyna M, Kramer MD, Taylor HA, Clifford GD. <a href="https://drive.goo
 <div class="hidebibtex">
 <label for="MohsenSalari_2021_04_10_Fooddesert">[show citation]</label>
 </div></div></td></tr><tr>
-<td>168</td>
+<td>169</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ThomasCNeylan_2021_03_01_Priorsleep">
 <div class="citation">
@@ -2497,7 +2515,7 @@ Neylan TC, Kessler RC, Ressler KJ, Clifford GD, Beaudoin FL, An X, Stevens JS, Z
 <div class="hidebibtex">
 <label for="ThomasCNeylan_2021_03_01_Priorsleep">[show citation]</label>
 </div></div></td></tr><tr>
-<td>167</td>
+<td>168</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="XingyaoWang_2020_07_20_Temporalframingadaptive">
 <div class="citation">
@@ -2521,7 +2539,7 @@ Wang X, Liu C, Li Y, Cheng X, Li J, Clifford GD. <a href="https://drive.google.c
 <div class="hidebibtex">
 <label for="XingyaoWang_2020_07_20_Temporalframingadaptive">[show citation]</label>
 </div></div></td></tr><tr>
-<td>166</td>
+<td>167</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZifanJiang_2020_07_20_Classifyingmajor">
 <div class="citation">
@@ -2545,7 +2563,7 @@ Jiang Z, Harati S, Crowell A, Mayberg HS, Nemati S, Clifford GD. <a href="https:
 <div class="hidebibtex">
 <label for="ZifanJiang_2020_07_20_Classifyingmajor">[show citation]</label>
 </div></div></td></tr><tr>
-<td>165</td>
+<td>166</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="IsmailSadiq_2021_02_01_Breathingrate">
 <div class="citation">
@@ -2569,7 +2587,7 @@ Sadiq I, Perez-Alday EA, Shah AJ, Clifford GD. <a href="https://drive.google.com
 <div class="hidebibtex">
 <label for="IsmailSadiq_2021_02_01_Breathingrate">[show citation]</label>
 </div></div></td></tr><tr>
-<td>164</td>
+<td>165</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZhongCao_2021_02_01_Freedropsimulation">
 <div class="citation">
@@ -2593,7 +2611,7 @@ Cao Z, Li W, Chen Z, Wang F, Shang W. <a href="https://iopscience.iop.org/articl
 <div class="hidebibtex">
 <label for="ZhongCao_2021_02_01_Freedropsimulation">[show citation]</label>
 </div></div></td></tr><tr>
-<td>163</td>
+<td>164</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AyseSCakmak_2021_01_22_Classificationand">
 <div class="citation">
@@ -2617,7 +2635,7 @@ Cakmak AS, Alday EAP, Poian GD, Rad AB, Metzler TJ, Neylan TC, House SL, Beaudoi
 <div class="hidebibtex">
 <label for="AyseSCakmak_2021_01_22_Classificationand">[show citation]</label>
 </div></div></td></tr><tr>
-<td>162</td>
+<td>163</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NathanielGHarnett_2021_06_Prognosticneuroimaging">
 <div class="citation">
@@ -2641,7 +2659,7 @@ Harnett NG, Rooij SJ, Ely TD, Lebois LA, Murty VP, Jovanovic T, Hill SB, Dumorna
 <div class="hidebibtex">
 <label for="NathanielGHarnett_2021_06_Prognosticneuroimaging">[show citation]</label>
 </div></div></td></tr><tr>
-<td>161</td>
+<td>162</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RafiUHaque_2020_04_27_Deepconvolutional">
 <div class="citation">
@@ -2664,6 +2682,30 @@ Haque RU, Pongos AL, Manzanares CM, Lah JJ, Levey AI, Clifford GD. <a href="http
 </div>
 <div class="hidebibtex">
 <label for="RafiUHaque_2020_04_27_Deepconvolutional">[show citation]</label>
+</div></div></td></tr><tr>
+<td>161</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="SamanehNasiri_2021_02_22_Generalizableseizure">
+<div class="citation">
+Nasiri S, Clifford GD. <a href="https://drive.google.com/file/d/1Dje1c_TZoN9_Xga0EGX7jVfDPrXU8zqc/view?usp=sharing">Generalizable seizure detection model using generating transferable adversarial features</a>. IEEE Signal Processing Letters 2021; 28: pp. 568-572. DOI: <a href="https://doi.org/10.1109/LSP.2021.3060967">10.1109/LSP.2021.3060967</a>.
+</div>
+<div class="bibtex_source"><pre>@article{SamanehNasiri_2021_02_22_Generalizableseizure,
+    author = "Nasiri, Samaneh and Clifford, Gari D",
+    title = "Generalizable seizure detection model using generating transferable adversarial features",
+    date = "2021",
+    journal = "IEEE Signal Processing Letters",
+    url = "https://drive.google.com/file/d/1Dje1c\_TZoN9\_Xga0EGX7jVfDPrXU8zqc/view?usp=sharing",
+    pages = "568-572",
+    volume = "28",
+    doi = "10.1109/LSP.2021.3060967",
+    note = "Publisher: IEEE"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="SamanehNasiri_2021_02_22_Generalizableseizure">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="SamanehNasiri_2021_02_22_Generalizableseizure">[show citation]</label>
 </div></div></td></tr><tr>
 <td>160</td>
 <td><div class="citation_container">
@@ -2717,7 +2759,7 @@ Valderrama CE, Katebi N, Marzbanrad F, Rohloff P, Clifford GD. <a href="https://
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ErickAPerezAlday_2020_12_01_Classificationof">
 <div class="citation">
-Alday EAP, Gu A, Shah AJ, Robichaux C, Wong AI, Liu C, Liu F, Rad AB, Elola A, Seyedi S, Li Q, Sharma A, Clifford GD, Reyna MA. <a href="https://scholar.google.com/scholar?cluster=1461011954710633058&hl=en&oi=scholarr">Classification of 12-lead ECGs: the physionet/computing in cardiology challenge 2020</a>. Physiological measurement 2020 December 1; 41 (12).
+Alday EAP, Gu A, Shah AJ, Robichaux C, Wong AI, Liu C, Liu F, Rad AB, Elola A, Seyedi S, Li Q, Sharma A, Clifford GD, Reyna MA. Classification of 12-lead ECGs: the physionet/computing in cardiology challenge 2020. Physiological measurement 2020 December 1; 41 (12).
 </div>
 <div class="bibtex_source"><pre>@article{ErickAPerezAlday_2020_12_01_Classificationof,
     author = "Alday, Erick A Perez and Gu, Annie and Shah, Amit J and Robichaux, Chad and Wong, An-Kwok Ian and Liu, Chengyu and Liu, Feifei and Rad, Ali Bahrami and Elola, Andoni and Seyedi, Salman and Li, Qiao and Sharma, Ashish and Clifford, Gari D and Reyna, Matthew A",
@@ -2725,7 +2767,6 @@ Alday EAP, Gu A, Shah AJ, Robichaux C, Wong AI, Liu C, Liu F, Rad AB, Elola A, S
     date = "2020-12-01",
     issue = "12",
     journal = "Physiological measurement",
-    url = "https://scholar.google.com/scholar?cluster=1461011954710633058\&hl=en\&oi=scholarr",
     volume = "41",
     note = "Publisher: IOP Publishing Ltd"
 }
@@ -3865,6 +3906,28 @@ Stroux L, Redman CW, Georgieva A, Payne SJ, Clifford GD. <a href="https://drive.
 </div></div></td></tr><tr>
 <td>110</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="RachelHallClifford_2017_10_15_Sustainabletechnology">
+<div class="citation">
+Clifford RH, Roche S, Fathima S, Palmius N, Hollingworth K, Kennedy J, Merida J, Stephens M, Lavalley R, Rohloff P, Garcia P, Patrick S, Clifford GD. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-icEkzbUJvenZQTEU/view?usp=sharing&resourcekey=0-EaoFa2h40Y2y4-P1qc4ohg">Sustainable technology for surgical referrals: pilot implementation of an electronic referral system for short-term surgical missions</a>. Journal of Health Informatics in Developing Countries 2017 October 15; 11 (2).
+</div>
+<div class="bibtex_source"><pre>@article{RachelHallClifford_2017_10_15_Sustainabletechnology,
+    author = "Clifford, Rachel Hall and Roche, Stephanie and Fathima, Sana and Palmius, Niclas and Hollingworth, Kelly and Kennedy, Jennifer and Merida, Jasmin and Stephens, Meghan and Lavalley, Ryan and Rohloff, Peter and Garcia, Pablo and Patrick, Stephen and Clifford, Gari D",
+    title = "Sustainable technology for surgical referrals: pilot implementation of an electronic referral system for short-term surgical missions",
+    date = "2017-10-15",
+    issue = "2",
+    journal = "Journal of Health Informatics in Developing Countries",
+    url = "https://drive.google.com/file/d/0B5wjNvhEV8-icEkzbUJvenZQTEU/view?usp=sharing\&resourcekey=0-EaoFa2h40Y2y4-P1qc4ohg",
+    volume = "11"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="RachelHallClifford_2017_10_15_Sustainabletechnology">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="RachelHallClifford_2017_10_15_Sustainabletechnology">[show citation]</label>
+</div></div></td></tr><tr>
+<td>109</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LisaMuirhead_2017_10_01_Criticalquestions">
 <div class="citation">
 Muirhead L, Hall P, Jones-Taylor C, Clifford GD, Felton-Williams T, Williams K. <a href="https://drive.google.com/file/d/1Qq4mh7RqtL0VDEutStBl5oeJ1QocDEpa/view?usp=sharing">Critical questions: Advancing the health of female Veterans</a>. Journal of the American Association of Nurse Practitioners 2017 October; 29 (10): pp. 571-580.
@@ -3886,28 +3949,6 @@ Muirhead L, Hall P, Jones-Taylor C, Clifford GD, Felton-Williams T, Williams K. 
 </div>
 <div class="hidebibtex">
 <label for="LisaMuirhead_2017_10_01_Criticalquestions">[show citation]</label>
-</div></div></td></tr><tr>
-<td>109</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="RachelHallClifford_2017_10_15_Sustainabletechnology">
-<div class="citation">
-Clifford RH, Roche S, Fathima S, Palmius N, Hollingworth K, Kennedy J, Merida J, Stephens M, Lavalley R, Rohloff P, Garcia P, Patrick S, Clifford GD. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-icEkzbUJvenZQTEU/view?usp=sharing&resourcekey=0-EaoFa2h40Y2y4-P1qc4ohg">Sustainable technology for surgical referrals: pilot implementation of an electronic referral system for short-term surgical missions</a>. Journal of Health Informatics in Developing Countries 2017 October 15; 11 (2).
-</div>
-<div class="bibtex_source"><pre>@article{RachelHallClifford_2017_10_15_Sustainabletechnology,
-    author = "Clifford, Rachel Hall and Roche, Stephanie and Fathima, Sana and Palmius, Niclas and Hollingworth, Kelly and Kennedy, Jennifer and Merida, Jasmin and Stephens, Meghan and Lavalley, Ryan and Rohloff, Peter and Garcia, Pablo and Patrick, Stephen and Clifford, Gari D",
-    title = "Sustainable technology for surgical referrals: pilot implementation of an electronic referral system for short-term surgical missions",
-    date = "2017-10-15",
-    issue = "2",
-    journal = "Journal of Health Informatics in Developing Countries",
-    url = "https://drive.google.com/file/d/0B5wjNvhEV8-icEkzbUJvenZQTEU/view?usp=sharing\&resourcekey=0-EaoFa2h40Y2y4-P1qc4ohg",
-    volume = "11"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="RachelHallClifford_2017_10_15_Sustainabletechnology">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="RachelHallClifford_2017_10_15_Sustainabletechnology">[show citation]</label>
 </div></div></td></tr><tr>
 <td>108</td>
 <td><div class="citation_container">
@@ -4366,6 +4407,27 @@ Tsanas A, Saunders K, Bilderbeck A, Palmius N, Osipov M, Clifford G, Goodwin G, 
 </div></div></td></tr><tr>
 <td>89</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="MarimuthuPalaniswami_2016_09_14_EstimatingFetal">
+<div class="citation">
+Palaniswami M, Marzbanrad F, Khandoker AH, Kimura Y, Clifford GD. <a href="https://cir.nii.ac.jp/crid/1872272492431496448">Estimating Fetal Gestational Age Using Cardiac Valve Intervals</a>. 2016 Computing in Cardiology Conference (CinC) 2016 September 14.
+</div>
+<div class="bibtex_source"><pre>@article{MarimuthuPalaniswami_2016_09_14_EstimatingFetal,
+    author = "Palaniswami, Marimuthu and Marzbanrad, Faezeh and Khandoker, Ahsan H and Kimura, Yoshitaka and Clifford, Gari D",
+    title = "Estimating Fetal Gestational Age Using Cardiac Valve Intervals",
+    date = "2016-09-14",
+    journal = "2016 Computing in Cardiology Conference (CinC)",
+    url = "https://cir.nii.ac.jp/crid/1872272492431496448",
+    note = "Publisher: Computing in Cardiology"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="MarimuthuPalaniswami_2016_09_14_EstimatingFetal">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="MarimuthuPalaniswami_2016_09_14_EstimatingFetal">[show citation]</label>
+</div></div></td></tr><tr>
+<td>88</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JoachimBehar_2016_08_02_Evaluationof">
 <div class="citation">
 Behar J, Zhu T, Oster J, Niksch A, Mah DY, Chun T, Greenberg J, Tanner C, Harrop J, Sameni R, Ward J, Wolfberg AJ, Clifford GD. <a href="https://drive.google.com/file/d/1hXXVu8x7A0iWr0LyaTrpXSUQqMgL-vKZ/view?usp=sharing">Evaluation of the fetal QT interval using non-invasive fetal ECG technology</a>. Physiological Measurement 2016 September; 37 (9): pp. 1392-1403.
@@ -4387,27 +4449,6 @@ Behar J, Zhu T, Oster J, Niksch A, Mah DY, Chun T, Greenberg J, Tanner C, Harrop
 </div>
 <div class="hidebibtex">
 <label for="JoachimBehar_2016_08_02_Evaluationof">[show citation]</label>
-</div></div></td></tr><tr>
-<td>88</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="MarimuthuPalaniswami_2016_09_14_EstimatingFetal">
-<div class="citation">
-Palaniswami M, Marzbanrad F, Khandoker AH, Kimura Y, Clifford GD. <a href="https://cir.nii.ac.jp/crid/1872272492431496448">Estimating Fetal Gestational Age Using Cardiac Valve Intervals</a>. 2016 Computing in Cardiology Conference (CinC) 2016 September 14.
-</div>
-<div class="bibtex_source"><pre>@article{MarimuthuPalaniswami_2016_09_14_EstimatingFetal,
-    author = "Palaniswami, Marimuthu and Marzbanrad, Faezeh and Khandoker, Ahsan H and Kimura, Yoshitaka and Clifford, Gari D",
-    title = "Estimating Fetal Gestational Age Using Cardiac Valve Intervals",
-    date = "2016-09-14",
-    journal = "2016 Computing in Cardiology Conference (CinC)",
-    url = "https://cir.nii.ac.jp/crid/1872272492431496448",
-    note = "Publisher: Computing in Cardiology"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="MarimuthuPalaniswami_2016_09_14_EstimatingFetal">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="MarimuthuPalaniswami_2016_09_14_EstimatingFetal">[show citation]</label>
 </div></div></td></tr><tr>
 <td>87</td>
 <td><div class="citation_container">
@@ -4459,30 +4500,6 @@ Breen C, Zhu T, Bond R, Finlay D, Clifford GD. <a href="https://drive.google.com
 </div></div></td></tr><tr>
 <td>85</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="DavidBSpringer_2015_09_01_LogisticregressionHSMMbased">
-<div class="citation">
-Springer DB, Tarassenko L, Clifford GD. <a href="https://drive.google.com/file/d/17JERIel3fKe6a0pKer4s0pelRkU3Pf83/view?usp=sharing">Logistic regression-HSMM-based heart sound segmentation</a>. IEEE Transactions on Biomedical Engineering 2016 April; 63 (4): pp. 822-832.
-</div>
-<div class="bibtex_source"><pre>@article{DavidBSpringer_2015_09_01_LogisticregressionHSMMbased,
-    author = "Springer, David B and Tarassenko, Lionel and Clifford, Gari D",
-    title = "Logistic regression-HSMM-based heart sound segmentation",
-    date = "2016-04",
-    issue = "4",
-    journal = "IEEE Transactions on Biomedical Engineering",
-    url = "https://drive.google.com/file/d/17JERIel3fKe6a0pKer4s0pelRkU3Pf83/view?usp=sharing",
-    pages = "822-832",
-    volume = "63",
-    note = "Publisher: IEEE"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="DavidBSpringer_2015_09_01_LogisticregressionHSMMbased">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="DavidBSpringer_2015_09_01_LogisticregressionHSMMbased">[show citation]</label>
-</div></div></td></tr><tr>
-<td>84</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="FernandoAndreotti_2016_04_12_Anopensource">
 <div class="citation">
 Andreotti F, Behar J, Zaunseder S, Oster J, Clifford GD. <a href="https://drive.google.com/file/d/1i3AGVLO2mP_VQ8XUDz8nsxr9oGCNLVvq/view?usp=sharing">An open-source framework for stress-testing non-invasive foetal ECG extraction algorithms</a>. Physiological Measurement 2016 April 12; 37 (5): pp. 627-648.
@@ -4505,7 +4522,7 @@ Andreotti F, Behar J, Zaunseder S, Oster J, Clifford GD. <a href="https://drive.
 <div class="hidebibtex">
 <label for="FernandoAndreotti_2016_04_12_Anopensource">[show citation]</label>
 </div></div></td></tr><tr>
-<td>83</td>
+<td>84</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JoachimBehar_2016_04_12_Apractical">
 <div class="citation">
@@ -4528,6 +4545,30 @@ Behar J, Andreotti F, Zaunseder S, Oster J, Clifford GD. <a href="https://drive.
 </div>
 <div class="hidebibtex">
 <label for="JoachimBehar_2016_04_12_Apractical">[show citation]</label>
+</div></div></td></tr><tr>
+<td>83</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="DavidBSpringer_2015_09_01_LogisticregressionHSMMbased">
+<div class="citation">
+Springer DB, Tarassenko L, Clifford GD. <a href="https://drive.google.com/file/d/17JERIel3fKe6a0pKer4s0pelRkU3Pf83/view?usp=sharing">Logistic regression-HSMM-based heart sound segmentation</a>. IEEE Transactions on Biomedical Engineering 2016 April; 63 (4): pp. 822-832.
+</div>
+<div class="bibtex_source"><pre>@article{DavidBSpringer_2015_09_01_LogisticregressionHSMMbased,
+    author = "Springer, David B and Tarassenko, Lionel and Clifford, Gari D",
+    title = "Logistic regression-HSMM-based heart sound segmentation",
+    date = "2016-04",
+    issue = "4",
+    journal = "IEEE Transactions on Biomedical Engineering",
+    url = "https://drive.google.com/file/d/17JERIel3fKe6a0pKer4s0pelRkU3Pf83/view?usp=sharing",
+    pages = "822-832",
+    volume = "63",
+    note = "Publisher: IEEE"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="DavidBSpringer_2015_09_01_LogisticregressionHSMMbased">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="DavidBSpringer_2015_09_01_LogisticregressionHSMMbased">[show citation]</label>
 </div></div></td></tr><tr>
 <td>82</td>
 <td><div class="citation_container">
@@ -4913,30 +4954,6 @@ Bond R, Kligfield P, Zhu T, Finlay D, Drew B, Guldenring D, Breen C, Clifford G,
 </div></div></td></tr><tr>
 <td>66</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="QiaoLi_2014_12_01_Amachine">
-<div class="citation">
-Li Q, Rajagopalan C, Clifford GD. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-iazAwaHJrRW5yQWM/view?usp=sharing&resourcekey=0-dw3os6pQMZTbDcB8r2ZdHA">A machine learning approach to multi-level ECG signal quality classification</a>. Computer methods and programs in biomedicine 2014 December; 117 (3): pp. 435-447.
-</div>
-<div class="bibtex_source"><pre>@article{QiaoLi_2014_12_01_Amachine,
-    author = "Li, Qiao and Rajagopalan, Cadathur and Clifford, Gari D",
-    title = "A machine learning approach to multi-level ECG signal quality classification",
-    date = "2014-12",
-    issue = "3",
-    journal = "Computer methods and programs in biomedicine",
-    url = "https://drive.google.com/file/d/0B5wjNvhEV8-iazAwaHJrRW5yQWM/view?usp=sharing\&resourcekey=0-dw3os6pQMZTbDcB8r2ZdHA",
-    pages = "435-447",
-    volume = "117",
-    note = "Publisher: Elsevier"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="QiaoLi_2014_12_01_Amachine">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="QiaoLi_2014_12_01_Amachine">[show citation]</label>
-</div></div></td></tr><tr>
-<td>65</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="DevarsettyPraveen_2014_12_08_SMARTHealthIndia">
 <div class="citation">
 Praveen D, Patel A, Raghu A, Clifford GD, Maulik PK, Abdul AM, Mogulluru K, Tarassenko L, MacMahon S, Peiris D. <a href="https://drive.google.com/file/d/1pB90TczVBORohi9PiFOFNkuSBQ1NMXGi/view?usp=sharing">SMARTHealth India: development and field evaluation of a mobile clinical decision support system for cardiovascular diseases in rural India</a>. JMIR mHealth and uHealth 2014 December 8; 2 (4): p. e54.
@@ -4958,6 +4975,30 @@ Praveen D, Patel A, Raghu A, Clifford GD, Maulik PK, Abdul AM, Mogulluru K, Tara
 </div>
 <div class="hidebibtex">
 <label for="DevarsettyPraveen_2014_12_08_SMARTHealthIndia">[show citation]</label>
+</div></div></td></tr><tr>
+<td>65</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="QiaoLi_2014_12_01_Amachine">
+<div class="citation">
+Li Q, Rajagopalan C, Clifford GD. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-iazAwaHJrRW5yQWM/view?usp=sharing&resourcekey=0-dw3os6pQMZTbDcB8r2ZdHA">A machine learning approach to multi-level ECG signal quality classification</a>. Computer methods and programs in biomedicine 2014 December; 117 (3): pp. 435-447.
+</div>
+<div class="bibtex_source"><pre>@article{QiaoLi_2014_12_01_Amachine,
+    author = "Li, Qiao and Rajagopalan, Cadathur and Clifford, Gari D",
+    title = "A machine learning approach to multi-level ECG signal quality classification",
+    date = "2014-12",
+    issue = "3",
+    journal = "Computer methods and programs in biomedicine",
+    url = "https://drive.google.com/file/d/0B5wjNvhEV8-iazAwaHJrRW5yQWM/view?usp=sharing\&resourcekey=0-dw3os6pQMZTbDcB8r2ZdHA",
+    pages = "435-447",
+    volume = "117",
+    note = "Publisher: Elsevier"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="QiaoLi_2014_12_01_Amachine">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="QiaoLi_2014_12_01_Amachine">[show citation]</label>
 </div></div></td></tr><tr>
 <td>64</td>
 <td><div class="citation_container">
@@ -5201,29 +5242,6 @@ Tsanas A, Za<span class="bibtex-protected">ñ</span>artu M, Little MA, Fox C, Ra
 </div></div></td></tr><tr>
 <td>54</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="TingtingZhu_2014_04_CrowdSourcedAnnotation">
-<div class="citation">
-Zhu T, Johnson AE, Behar J, Clifford GD. <a href="https://drive.google.com/file/d/0B-JN4X_-q3f5bGZuWjJ2eVdlTnM/view?usp=sharing&resourcekey=0-7xuNjELyb6arMimF5nzPeA">Crowd-sourced annotation of ECG signals using contextual information</a>. Annals of Biomedical Engineering 2014 April; 42 (4).
-</div>
-<div class="bibtex_source"><pre>@article{TingtingZhu_2014_04_CrowdSourcedAnnotation,
-    author = "Zhu, Tingting and Johnson, Alistair EW and Behar, Joachim and Clifford, Gari D",
-    title = "Crowd-sourced annotation of ECG signals using contextual information",
-    date = "2014-04",
-    issue = "4",
-    journal = "Annals of Biomedical Engineering",
-    url = "https://drive.google.com/file/d/0B-JN4X\_-q3f5bGZuWjJ2eVdlTnM/view?usp=sharing\&resourcekey=0-7xuNjELyb6arMimF5nzPeA",
-    volume = "42",
-    note = "Publisher: Springer US"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="TingtingZhu_2014_04_CrowdSourcedAnnotation">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="TingtingZhu_2014_04_CrowdSourcedAnnotation">[show citation]</label>
-</div></div></td></tr><tr>
-<td>53</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AndrewJESeely_2014_04_Doheart">
 <div class="citation">
 Seely AJ, Bravi A, Herry C, Green G, Longtin A, Ramsay T, Fergusson D, McIntyre L, Kubelik D, Maziak DE, Ferguson N, Brown SM, Mehta S, Martin C, Rubenfeld G, Jacono FJ, Clifford GD, Fazekas A, Marshall J. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-ic1BBdWN6MWI0Tk0/view?usp=sharing&resourcekey=0-aQVqxZnrvBxQO80mUj1sUw">Do heart and respiratory rate variability improve prediction of extubation outcomes in critically ill patients?</a>. Critical Care 2014 April 8; 18 (2): p. R65.
@@ -5245,6 +5263,29 @@ Seely AJ, Bravi A, Herry C, Green G, Longtin A, Ramsay T, Fergusson D, McIntyre 
 </div>
 <div class="hidebibtex">
 <label for="AndrewJESeely_2014_04_Doheart">[show citation]</label>
+</div></div></td></tr><tr>
+<td>53</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="TingtingZhu_2014_04_CrowdSourcedAnnotation">
+<div class="citation">
+Zhu T, Johnson AE, Behar J, Clifford GD. <a href="https://drive.google.com/file/d/0B-JN4X_-q3f5bGZuWjJ2eVdlTnM/view?usp=sharing&resourcekey=0-7xuNjELyb6arMimF5nzPeA">Crowd-sourced annotation of ECG signals using contextual information</a>. Annals of Biomedical Engineering 2014 April; 42 (4).
+</div>
+<div class="bibtex_source"><pre>@article{TingtingZhu_2014_04_CrowdSourcedAnnotation,
+    author = "Zhu, Tingting and Johnson, Alistair EW and Behar, Joachim and Clifford, Gari D",
+    title = "Crowd-sourced annotation of ECG signals using contextual information",
+    date = "2014-04",
+    issue = "4",
+    journal = "Annals of Biomedical Engineering",
+    url = "https://drive.google.com/file/d/0B-JN4X\_-q3f5bGZuWjJ2eVdlTnM/view?usp=sharing\&resourcekey=0-7xuNjELyb6arMimF5nzPeA",
+    volume = "42",
+    note = "Publisher: Springer US"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="TingtingZhu_2014_04_CrowdSourcedAnnotation">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="TingtingZhu_2014_04_CrowdSourcedAnnotation">[show citation]</label>
 </div></div></td></tr><tr>
 <td>52</td>
 <td><div class="citation_container">
@@ -5774,29 +5815,6 @@ Nemati S, Malhotra A, Clifford GD. <a href="https://drive.google.com/file/d/1jhT
 </div></div></td></tr><tr>
 <td>30</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="GariDClifford_2010_Focussection">
-<div class="citation">
-Clifford GD, Moody GB, Mackerle J. <a href="https://drive.google.com/file/d/1T0ONrV5agx6SklBOGmj_35S9kTBji1ci/view?usp=sharing">Focus section on interface modelling</a>. Modelling and Simulation in Materials Science and Engineering 2010; 18 (070201): p. 1p.
-</div>
-<div class="bibtex_source"><pre>@article{GariDClifford_2010_Focussection,
-    author = "Clifford, Gari D and Moody, George B and Mackerle, Jaroslav",
-    title = "Focus section on interface modelling",
-    date = "2010",
-    issue = "070201",
-    journal = "Modelling and Simulation in Materials Science and Engineering",
-    url = "https://drive.google.com/file/d/1T0ONrV5agx6SklBOGmj\_35S9kTBji1ci/view?usp=sharing",
-    pages = "1p",
-    volume = "18"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="GariDClifford_2010_Focussection">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="GariDClifford_2010_Focussection">[show citation]</label>
-</div></div></td></tr><tr>
-<td>29</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShamimNemati_2010_12_Datafusion">
 <div class="citation">
 Nemati S, Malhotra A, Clifford GD. <a href="https://drive.google.com/file/d/1NjiYvotumQTzuhC-tjf7Gseff-fJBHzB/view?usp=sharing">Data fusion for improved respiration rate estimation</a>. EURASIP Journal on Advances in Signal Processing 2010 December; 2010: pp. 1-10. DOI: <a href="https://doi.org/10.1155/2010">10.1155/2010</a>.
@@ -5819,7 +5837,7 @@ Nemati S, Malhotra A, Clifford GD. <a href="https://drive.google.com/file/d/1Nji
 <div class="hidebibtex">
 <label for="ShamimNemati_2010_12_Datafusion">[show citation]</label>
 </div></div></td></tr><tr>
-<td>28</td>
+<td>29</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="OmidSayadi_2010_08_18_SyntheticECG">
 <div class="citation">
@@ -5843,7 +5861,7 @@ Sayadi O, Shamsollahi MB, Clifford GD. <a href="https://drive.google.com/file/d/
 <div class="hidebibtex">
 <label for="OmidSayadi_2010_08_18_SyntheticECG">[show citation]</label>
 </div></div></td></tr><tr>
-<td>27</td>
+<td>28</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="VioletaMonasterio_2010_08_01_Amultilead">
 <div class="citation">
@@ -5867,7 +5885,7 @@ Monasterio V, Clifford GD, Laguna P, Martinez JP. <a href="https://drive.google.
 <div class="hidebibtex">
 <label for="VioletaMonasterio_2010_08_01_Amultilead">[show citation]</label>
 </div></div></td></tr><tr>
-<td>26</td>
+<td>27</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LisaMarieCampana_2010_06_Phaserectifiedsignal">
 <div class="citation">
@@ -5891,7 +5909,7 @@ Campana LM, Owens RL, Clifford GD, Pittman SD, Malhotra A. <a href="https://driv
 <div class="hidebibtex">
 <label for="LisaMarieCampana_2010_06_Phaserectifiedsignal">[show citation]</label>
 </div></div></td></tr><tr>
-<td>25</td>
+<td>26</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2010_03_22_Anartificial">
 <div class="citation">
@@ -5914,6 +5932,29 @@ Clifford GD, Nemati S, Sameni R. <a href="https://drive.google.com/file/d/1xM13m
 </div>
 <div class="hidebibtex">
 <label for="GariDClifford_2010_03_22_Anartificial">[show citation]</label>
+</div></div></td></tr><tr>
+<td>25</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="GariDClifford_2010_Focussection">
+<div class="citation">
+Clifford GD, Moody GB, Mackerle J. <a href="https://drive.google.com/file/d/1T0ONrV5agx6SklBOGmj_35S9kTBji1ci/view?usp=sharing">Focus section on interface modelling</a>. Modelling and Simulation in Materials Science and Engineering 2010; 18 (070201): p. 1p.
+</div>
+<div class="bibtex_source"><pre>@article{GariDClifford_2010_Focussection,
+    author = "Clifford, Gari D and Moody, George B and Mackerle, Jaroslav",
+    title = "Focus section on interface modelling",
+    date = "2010",
+    issue = "070201",
+    journal = "Modelling and Simulation in Materials Science and Engineering",
+    url = "https://drive.google.com/file/d/1T0ONrV5agx6SklBOGmj\_35S9kTBji1ci/view?usp=sharing",
+    pages = "1p",
+    volume = "18"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="GariDClifford_2010_Focussection">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="GariDClifford_2010_Focussection">[show citation]</label>
 </div></div></td></tr><tr>
 <td>24</td>
 <td><div class="citation_container">
@@ -6061,30 +6102,6 @@ Neamatullah I, Douglass MM, Li-wei HL, Reisner A, Villarroel M, Long WJ, Szolovi
 </div></div></td></tr><tr>
 <td>18</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="AntonAboukhalil_2008_06_01_Reducingfalse">
-<div class="citation">
-Aboukhalil A, Nielsen L, Saeed M, Mark RG, Clifford GD. <a href="https://drive.google.com/file/d/1TRktnNwXBW9BKFoEXZCnjiESlNWAzT-j/view?usp=sharing">Reducing false alarm rates for critical arrhythmias using the arterial blood pressure waveform</a>. Journal of Biomedical Informatics 2008 June; 41 (3): pp. 442-451.
-</div>
-<div class="bibtex_source"><pre>@article{AntonAboukhalil_2008_06_01_Reducingfalse,
-    author = "Aboukhalil, Anton and Nielsen, Larry and Saeed, Mohammed and Mark, Roger G and Clifford, Gari D",
-    title = "Reducing false alarm rates for critical arrhythmias using the arterial blood pressure waveform",
-    date = "2008-06",
-    issue = "3",
-    journal = "Journal of Biomedical Informatics",
-    url = "https://drive.google.com/file/d/1TRktnNwXBW9BKFoEXZCnjiESlNWAzT-j/view?usp=sharing",
-    pages = "442-451",
-    volume = "41",
-    note = "Publisher: Academic Press"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="AntonAboukhalil_2008_06_01_Reducingfalse">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="AntonAboukhalil_2008_06_01_Reducingfalse">[show citation]</label>
-</div></div></td></tr><tr>
-<td>17</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2008_06_11_MedicalInformation">
 <div class="citation">
 Clifford GD, Hall-Clifford R, Blaya JA, Fraser HS. <a href="https://drive.google.com/file/d/1s1hVILmyJPFXfjJ6AeRhtVUVsGn1-cnE/view?usp=sharing">Medical information systems: A foundation for healthcare technologies in developing countries</a>. BioMedical Engineering OnLine 2008 June 11; 7 (18). DOI: <a href="https://doi.org/10.1186/1475-925X-7-18">10.1186/1475-925X-7-18</a>.
@@ -6106,6 +6123,30 @@ Clifford GD, Hall-Clifford R, Blaya JA, Fraser HS. <a href="https://drive.google
 </div>
 <div class="hidebibtex">
 <label for="GariDClifford_2008_06_11_MedicalInformation">[show citation]</label>
+</div></div></td></tr><tr>
+<td>17</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="AntonAboukhalil_2008_06_01_Reducingfalse">
+<div class="citation">
+Aboukhalil A, Nielsen L, Saeed M, Mark RG, Clifford GD. <a href="https://drive.google.com/file/d/1TRktnNwXBW9BKFoEXZCnjiESlNWAzT-j/view?usp=sharing">Reducing false alarm rates for critical arrhythmias using the arterial blood pressure waveform</a>. Journal of Biomedical Informatics 2008 June; 41 (3): pp. 442-451.
+</div>
+<div class="bibtex_source"><pre>@article{AntonAboukhalil_2008_06_01_Reducingfalse,
+    author = "Aboukhalil, Anton and Nielsen, Larry and Saeed, Mohammed and Mark, Roger G and Clifford, Gari D",
+    title = "Reducing false alarm rates for critical arrhythmias using the arterial blood pressure waveform",
+    date = "2008-06",
+    issue = "3",
+    journal = "Journal of Biomedical Informatics",
+    url = "https://drive.google.com/file/d/1TRktnNwXBW9BKFoEXZCnjiESlNWAzT-j/view?usp=sharing",
+    pages = "442-451",
+    volume = "41",
+    note = "Publisher: Academic Press"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="AntonAboukhalil_2008_06_01_Reducingfalse">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="AntonAboukhalil_2008_06_01_Reducingfalse">[show citation]</label>
 </div></div></td></tr><tr>
 <td>16</td>
 <td><div class="citation_container">
@@ -6133,23 +6174,27 @@ Wolfberg AJ, Derosier DJ, Roberts T, Syed Z, Clifford GD, Acker D, Plessis AD. <
 </div></div></td></tr><tr>
 <td>15</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="QiaoLI_2007_HeartRate">
+<input type="checkbox" class="toggle-button" id="QiaoLi_2007_12_10_Robustheart">
 <div class="citation">
-LI Q, Mark RG, Clifford GD. Heart rate estimation algorithm based on signal quality estimation and Kalman filter. Chinese Journal of Medical Physics 2007; 6.
+Li Q, Mark RG, Clifford GD. <a href="https://drive.google.com/file/d/1iCfoH-sRiUSMUbwxDqoHzCjfoBSwpFfl/view?usp=sharing">Robust heart rate estimation from multiple asynchronous noisy sources using signal quality indices and a Kalman filter</a>. Physiological Measurement 2007 December 10; 29 (1): pp. 15-32.
 </div>
-<div class="bibtex_source"><pre>@article{QiaoLI_2007_HeartRate,
-    author = "LI, Qiao and Mark, Roger G and Clifford, Gari D",
-    title = "Heart rate estimation algorithm based on signal quality estimation and Kalman filter",
-    date = "2007",
-    journal = "Chinese Journal of Medical Physics",
-    volume = "6"
+<div class="bibtex_source"><pre>@article{QiaoLi_2007_12_10_Robustheart,
+    author = "Li, Qiao and Mark, Roger G and Clifford, Gari D",
+    title = "Robust heart rate estimation from multiple asynchronous noisy sources using signal quality indices and a Kalman filter",
+    date = "2007-12-10",
+    issue = "1",
+    journal = "Physiological Measurement",
+    url = "https://drive.google.com/file/d/1iCfoH-sRiUSMUbwxDqoHzCjfoBSwpFfl/view?usp=sharing",
+    pages = "15-32",
+    volume = "29",
+    note = "Publisher: IOP Publishing"
 }
 </pre>
 </div><div class="showbibtex">
-<label for="QiaoLI_2007_HeartRate">[show BibTeX]</label>
+<label for="QiaoLi_2007_12_10_Robustheart">[show BibTeX]</label>
 </div>
 <div class="hidebibtex">
-<label for="QiaoLI_2007_HeartRate">[show citation]</label>
+<label for="QiaoLi_2007_12_10_Robustheart">[show citation]</label>
 </div></div></td></tr><tr>
 <td>14</td>
 <td><div class="citation_container">
@@ -6177,30 +6222,6 @@ Sameni R, Shamsollahi MB, Jutten C, Clifford GD. <a href="https://drive.google.c
 </div></div></td></tr><tr>
 <td>13</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="QiaoLi_2007_12_10_Robustheart">
-<div class="citation">
-Li Q, Mark RG, Clifford GD. <a href="https://drive.google.com/file/d/1iCfoH-sRiUSMUbwxDqoHzCjfoBSwpFfl/view?usp=sharing">Robust heart rate estimation from multiple asynchronous noisy sources using signal quality indices and a Kalman filter</a>. Physiological Measurement 2007 December 10; 29 (1): pp. 15-32.
-</div>
-<div class="bibtex_source"><pre>@article{QiaoLi_2007_12_10_Robustheart,
-    author = "Li, Qiao and Mark, Roger G and Clifford, Gari D",
-    title = "Robust heart rate estimation from multiple asynchronous noisy sources using signal quality indices and a Kalman filter",
-    date = "2007-12-10",
-    issue = "1",
-    journal = "Physiological Measurement",
-    url = "https://drive.google.com/file/d/1iCfoH-sRiUSMUbwxDqoHzCjfoBSwpFfl/view?usp=sharing",
-    pages = "15-32",
-    volume = "29",
-    note = "Publisher: IOP Publishing"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="QiaoLi_2007_12_10_Robustheart">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="QiaoLi_2007_12_10_Robustheart">[show citation]</label>
-</div></div></td></tr><tr>
-<td>12</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JieLian_2007_12_Opensource">
 <div class="citation">
 Lian J, Clifford GD, M<span class="bibtex-protected">ü</span>ssig D, Lang V. <a href="https://drive.google.com/file/d/1WDAsE_4HY67LFMvYGmvIfXyfQjDzAz62/view?usp=sharing">Open source model for generating RR intervals in atrial fibrillation and beyond</a>. BioMedical Engineering OnLine 2007 March 2; 6: pp. 1-16. DOI: <a href="https://doi.org/10.1186/1475-925X-6-9">10.1186/1475-925X-6-9</a>.
@@ -6223,7 +6244,7 @@ Lian J, Clifford GD, M<span class="bibtex-protected">ü</span>ssig D, Lang V. <a
 <div class="hidebibtex">
 <label for="JieLian_2007_12_Opensource">[show citation]</label>
 </div></div></td></tr><tr>
-<td>11</td>
+<td>12</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RezaSameni_2007_01_16_MultichannelECG">
 <div class="citation">
@@ -6246,6 +6267,26 @@ Sameni R, Clifford GD, Jutten C, Shamsollahi MB. <a href="https://drive.google.c
 </div>
 <div class="hidebibtex">
 <label for="RezaSameni_2007_01_16_MultichannelECG">[show citation]</label>
+</div></div></td></tr><tr>
+<td>11</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="QiaoLI_2007_HeartRate">
+<div class="citation">
+LI Q, Mark RG, Clifford GD. Heart rate estimation algorithm based on signal quality estimation and Kalman filter. Chinese Journal of Medical Physics 2007; 6.
+</div>
+<div class="bibtex_source"><pre>@article{QiaoLI_2007_HeartRate,
+    author = "LI, Qiao and Mark, Roger G and Clifford, Gari D",
+    title = "Heart rate estimation algorithm based on signal quality estimation and Kalman filter",
+    date = "2007",
+    journal = "Chinese Journal of Medical Physics",
+    volume = "6"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="QiaoLI_2007_HeartRate">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="QiaoLI_2007_HeartRate">[show citation]</label>
 </div></div></td></tr><tr>
 <td>10</td>
 <td><div class="citation_container">
@@ -6273,29 +6314,6 @@ Clifford GD. <a href="https://drive.google.com/file/d/1yxfWdLqaQwzi5I1jkhmbgeuYx
 </div></div></td></tr><tr>
 <td>9</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="BrianAJanz_2005_Developmentand">
-<div class="citation">
-Janz BA, Saeed M, Frassica J, Clifford GD, Mark RG. <a href="https://drive.google.com/file/d/1c6-CfTBpEgcGol7Kd9E-dpYVBb5bzs1_/view?usp=sharing">Development and optimization of a critical care alert and display (CCAD) system using retrospective ICU databases</a>. AMIA Annual Symposium Proceedings 2005; 2005: p. 994.
-</div>
-<div class="bibtex_source"><pre>@article{BrianAJanz_2005_Developmentand,
-    author = "Janz, Brian A and Saeed, Mohammed and Frassica, Joseph and Clifford, Gari D and Mark, Roger G",
-    title = "Development and optimization of a critical care alert and display (CCAD) system using retrospective ICU databases",
-    date = "2005",
-    journal = "AMIA Annual Symposium Proceedings",
-    url = "https://drive.google.com/file/d/1c6-CfTBpEgcGol7Kd9E-dpYVBb5bzs1\_/view?usp=sharing",
-    pages = "994",
-    volume = "2005",
-    note = "Publisher: American Medical Informatics Association"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="BrianAJanz_2005_Developmentand">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="BrianAJanz_2005_Developmentand">[show citation]</label>
-</div></div></td></tr><tr>
-<td>8</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="TaigangHe_2006_04_Applicationof">
 <div class="citation">
 He T, Clifford GD, Tarassenko L. <a href="https://drive.google.com/file/d/1cBbjowyuXMqBHGx48agXymkMoL6Qe5Df/view?usp=sharing">Application of independent component analysis in removing artefacts from the electrocardiogram</a>. Neural Computing & Applications 2005 November 3; 15: pp. 105-116.
@@ -6317,7 +6335,7 @@ He T, Clifford GD, Tarassenko L. <a href="https://drive.google.com/file/d/1cBbjo
 <div class="hidebibtex">
 <label for="TaigangHe_2006_04_Applicationof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>7</td>
+<td>8</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GDClifford_2005_05_Modelbasedfiltering">
 <div class="citation">
@@ -6340,7 +6358,7 @@ Clifford G, Shoeb A, McSharry P, Janz B. <a href="https://drive.google.com/file/
 <div class="hidebibtex">
 <label for="GDClifford_2005_05_Modelbasedfiltering">[show citation]</label>
 </div></div></td></tr><tr>
-<td>6</td>
+<td>7</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2005_03_21_Quantifyingerrors">
 <div class="citation">
@@ -6364,30 +6382,30 @@ Clifford GD, Tarassenko L. <a href="https://drive.google.com/file/d/1WdGkIyydmpd
 <div class="hidebibtex">
 <label for="GariDClifford_2005_03_21_Quantifyingerrors">[show citation]</label>
 </div></div></td></tr><tr>
-<td>5</td>
+<td>6</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="HeTaigang_2004_Applicationof">
+<input type="checkbox" class="toggle-button" id="BrianAJanz_2005_Developmentand">
 <div class="citation">
-Taigang H, Clifford GD, Tarassanko L. <a href="https://drive.google.com/file/d/1cBbjowyuXMqBHGx48agXymkMoL6Qe5Df/view?usp=sharing">Application of ICA in removing artefacts from the ECG</a>. Neural Processing Letters 2004; 10 (1): pp. 1-5.
+Janz BA, Saeed M, Frassica J, Clifford GD, Mark RG. <a href="https://drive.google.com/file/d/1c6-CfTBpEgcGol7Kd9E-dpYVBb5bzs1_/view?usp=sharing">Development and optimization of a critical care alert and display (CCAD) system using retrospective ICU databases</a>. AMIA Annual Symposium Proceedings 2005; 2005: p. 994.
 </div>
-<div class="bibtex_source"><pre>@article{HeTaigang_2004_Applicationof,
-    author = "Taigang, He and Clifford, G D and Tarassanko, L",
-    title = "Application of ICA in removing artefacts from the ECG",
-    date = "2004",
-    issue = "1",
-    journal = "Neural Processing Letters",
-    url = "https://drive.google.com/file/d/1cBbjowyuXMqBHGx48agXymkMoL6Qe5Df/view?usp=sharing",
-    pages = "1-5",
-    volume = "10"
+<div class="bibtex_source"><pre>@article{BrianAJanz_2005_Developmentand,
+    author = "Janz, Brian A and Saeed, Mohammed and Frassica, Joseph and Clifford, Gari D and Mark, Roger G",
+    title = "Development and optimization of a critical care alert and display (CCAD) system using retrospective ICU databases",
+    date = "2005",
+    journal = "AMIA Annual Symposium Proceedings",
+    url = "https://drive.google.com/file/d/1c6-CfTBpEgcGol7Kd9E-dpYVBb5bzs1\_/view?usp=sharing",
+    pages = "994",
+    volume = "2005",
+    note = "Publisher: American Medical Informatics Association"
 }
 </pre>
 </div><div class="showbibtex">
-<label for="HeTaigang_2004_Applicationof">[show BibTeX]</label>
+<label for="BrianAJanz_2005_Developmentand">[show BibTeX]</label>
 </div>
 <div class="hidebibtex">
-<label for="HeTaigang_2004_Applicationof">[show citation]</label>
+<label for="BrianAJanz_2005_Developmentand">[show citation]</label>
 </div></div></td></tr><tr>
-<td>4</td>
+<td>5</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GDClifford_2004_11_08_Segmentingcardiacrelated">
 <div class="citation">
@@ -6410,6 +6428,29 @@ Clifford G, Tarassenko L. <a href="https://drive.google.com/file/d/1FuAcLqvb2atm
 </div>
 <div class="hidebibtex">
 <label for="GDClifford_2004_11_08_Segmentingcardiacrelated">[show citation]</label>
+</div></div></td></tr><tr>
+<td>4</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="HeTaigang_2004_Applicationof">
+<div class="citation">
+Taigang H, Clifford GD, Tarassanko L. <a href="https://drive.google.com/file/d/1cBbjowyuXMqBHGx48agXymkMoL6Qe5Df/view?usp=sharing">Application of ICA in removing artefacts from the ECG</a>. Neural Processing Letters 2004; 10 (1): pp. 1-5.
+</div>
+<div class="bibtex_source"><pre>@article{HeTaigang_2004_Applicationof,
+    author = "Taigang, He and Clifford, G D and Tarassanko, L",
+    title = "Application of ICA in removing artefacts from the ECG",
+    date = "2004",
+    issue = "1",
+    journal = "Neural Processing Letters",
+    url = "https://drive.google.com/file/d/1cBbjowyuXMqBHGx48agXymkMoL6Qe5Df/view?usp=sharing",
+    pages = "1-5",
+    volume = "10"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="HeTaigang_2004_Applicationof">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="HeTaigang_2004_Applicationof">[show citation]</label>
 </div></div></td></tr><tr>
 <td>3</td>
 <td><div class="citation_container">
@@ -6655,30 +6696,6 @@ Bhatia N, Rogers A, Sameni R, Iravanian S, Reyna M, Li N, Lloyd M, El-Chami M, C
 </div></div></td></tr><tr>
 <td>176</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="QiaoLi_2024_05_01_Acomparison">
-<div class="citation">
-Li Q, Barnett K, Xue J, Albert D, Deepanshi F, Rad AB, Sameni R, Clifford GD. <a href="https://drive.google.com/file/d/1mwFzb5_0F0nn5QPD65H4H3s-cKQItY6l/view?usp=sharing">A comparison of QT algorithms on a South African population using a mobile ECG</a>. Journal of Electrocardiology 2024 May; 84: p. 23. DOI: <a href="https://doi.org/10.1016/j.jelectrocard.2024.05.045">10.1016/j.jelectrocard.2024.05.045</a>.
-</div>
-<div class="bibtex_source"><pre>@inproceedings{QiaoLi_2024_05_01_Acomparison,
-    author = "Li, Qiao and Barnett, Kim and Xue, Joel and Albert, Dave and Deepanshi, Fnu and Rad, Ali Bahrami and Sameni, Reza and Clifford, Gari D",
-    title = "A comparison of QT algorithms on a South African population using a mobile ECG",
-    date = "2024-05",
-    booktitle = "Journal of Electrocardiology",
-    url = "https://drive.google.com/file/d/1mwFzb5\_0F0nn5QPD65H4H3s-cKQItY6l/view?usp=sharing",
-    pages = "23",
-    volume = "84",
-    doi = "10.1016/j.jelectrocard.2024.05.045",
-    note = "Publisher: Churchill Livingstone"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="QiaoLi_2024_05_01_Acomparison">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="QiaoLi_2024_05_01_Acomparison">[show citation]</label>
-</div></div></td></tr><tr>
-<td>175</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="OliverHolmes_2024_05_15_371ObjectivelyCharacterized">
 <div class="citation">
 Holmes O, Bucher M, Neylan T, Clifford GD, Li Q, Li Q, Dougherty R, Baker J, Linnstaedt S, Jovanovic T, Stevens J, House S, Ressler K, Kessler R, McLean S, An X. <a href="https://drive.google.com/file/d/1P06ncFbpdIKVRbuqLRAQkWfaBp1LWSVG/view?usp=sharing">371. Objectively-Characterized Peritraumatic Sleep Phenotypes Are Associated With Both Pre-Trauma Characteristics and Peritraumatic Symptom Outcomes</a>. The 2024 Society of Biological Psychiatry Annual Meeting, Austin, Texas, USA 2024 May 9; 95 (10): pp. S251-S252.
@@ -6700,6 +6717,30 @@ Holmes O, Bucher M, Neylan T, Clifford GD, Li Q, Li Q, Dougherty R, Baker J, Lin
 </div>
 <div class="hidebibtex">
 <label for="OliverHolmes_2024_05_15_371ObjectivelyCharacterized">[show citation]</label>
+</div></div></td></tr><tr>
+<td>175</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="QiaoLi_2024_05_01_Acomparison">
+<div class="citation">
+Li Q, Barnett K, Xue J, Albert D, Deepanshi F, Rad AB, Sameni R, Clifford GD. <a href="https://drive.google.com/file/d/1mwFzb5_0F0nn5QPD65H4H3s-cKQItY6l/view?usp=sharing">A comparison of QT algorithms on a South African population using a mobile ECG</a>. Journal of Electrocardiology 2024 May; 84: p. 23. DOI: <a href="https://doi.org/10.1016/j.jelectrocard.2024.05.045">10.1016/j.jelectrocard.2024.05.045</a>.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{QiaoLi_2024_05_01_Acomparison,
+    author = "Li, Qiao and Barnett, Kim and Xue, Joel and Albert, Dave and Deepanshi, Fnu and Rad, Ali Bahrami and Sameni, Reza and Clifford, Gari D",
+    title = "A comparison of QT algorithms on a South African population using a mobile ECG",
+    date = "2024-05",
+    booktitle = "Journal of Electrocardiology",
+    url = "https://drive.google.com/file/d/1mwFzb5\_0F0nn5QPD65H4H3s-cKQItY6l/view?usp=sharing",
+    pages = "23",
+    volume = "84",
+    doi = "10.1016/j.jelectrocard.2024.05.045",
+    note = "Publisher: Churchill Livingstone"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="QiaoLi_2024_05_01_Acomparison">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="QiaoLi_2024_05_01_Acomparison">[show citation]</label>
 </div></div></td></tr><tr>
 <td>174</td>
 <td><div class="citation_container">
@@ -8424,50 +8465,6 @@ Stroux L, King N, Fathima S, Hall-Clifford R, Rohloff P, Clifford G. <a href="ht
 </div></div></td></tr><tr>
 <td>98</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="DavidBSpringer_2014_01_01_Mobilephonebased">
-<div class="citation">
-Springer DB, Z<span class="bibtex-protected">ü</span>hlke L, Mayosi B, Tarassenko L, Clifford G. <a href="https://drive.google.com/file/d/0B5SqSlPcubSuVTZ4M3RZQjhVZTA/view?usp=sharing&resourcekey=0-KHkG4ZVuDNGhV5MMBB5bFw">Mobile phone-based rheumatic heart disease diagnosis</a>. Appropriate Healthcare Technologies for Low Resource Setting (AHT 2014) 2014 September; pp. 1-1.
-</div>
-<div class="bibtex_source"><pre>@inproceedings{DavidBSpringer_2014_01_01_Mobilephonebased,
-    author = {Springer, David B and Z{\"u}hlke, LJ and Mayosi, BM and Tarassenko, L and Clifford, GD},
-    title = "Mobile phone-based rheumatic heart disease diagnosis",
-    date = "2014-09",
-    booktitle = "Appropriate Healthcare Technologies for Low Resource Setting (AHT 2014)",
-    url = "https://drive.google.com/file/d/0B5SqSlPcubSuVTZ4M3RZQjhVZTA/view?usp=sharing\&resourcekey=0-KHkG4ZVuDNGhV5MMBB5bFw",
-    pages = "1-1",
-    note = "Publisher: IET Digital Library"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="DavidBSpringer_2014_01_01_Mobilephonebased">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="DavidBSpringer_2014_01_01_Mobilephonebased">[show citation]</label>
-</div></div></td></tr><tr>
-<td>97</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="SanaFFathima_2014_01_01_Sanitationrelateddisease">
-<div class="citation">
-Fathima SF, Palmius N, Clifton D, Rohloff P, Clifford G, Hall-Clifford R. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-ibzN5bFVkeko5Qms/view?usp=sharing&resourcekey=0-8taEjUabK5TgJ4PwW3Qcqg">Sanitation-related disease surveillance using community health promoters and mobile phone technology</a>. Appropriate Healthcare Technologies for Low Resource Setting (AHT 2014) 2014 September; pp. 3-3.
-</div>
-<div class="bibtex_source"><pre>@inproceedings{SanaFFathima_2014_01_01_Sanitationrelateddisease,
-    author = "Fathima, Sana F and Palmius, N and Clifton, D and Rohloff, P and Clifford, GD and Hall-Clifford, R",
-    title = "Sanitation-related disease surveillance using community health promoters and mobile phone technology",
-    date = "2014-09",
-    booktitle = "Appropriate Healthcare Technologies for Low Resource Setting (AHT 2014)",
-    url = "https://drive.google.com/file/d/0B5wjNvhEV8-ibzN5bFVkeko5Qms/view?usp=sharing\&resourcekey=0-8taEjUabK5TgJ4PwW3Qcqg",
-    pages = "3-3",
-    note = "Publisher: IET Digital Library"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="SanaFFathima_2014_01_01_Sanitationrelateddisease">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="SanaFFathima_2014_01_01_Sanitationrelateddisease">[show citation]</label>
-</div></div></td></tr><tr>
-<td>96</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="TingtingZhu_2014_09_07_CrowdLabelA">
 <div class="citation">
 Zhu T, Behar J, Papastylianou T, Clifford GD. <a href="https://drive.google.com/file/d/0B-JN4X_-q3f5OTJmTmRtUFBpMnM/view?usp=sharing&resourcekey=0-UjA8wI3DFG9XcebAnZ7DCA">CrowdLabel: A crowdsourcing platform for electrophysiology</a>. Computing in Cardiology 2014, Cambridge, MA, USA 2014 September 7; pp. 789-792.
@@ -8488,7 +8485,7 @@ Zhu T, Behar J, Papastylianou T, Clifford GD. <a href="https://drive.google.com/
 <div class="hidebibtex">
 <label for="TingtingZhu_2014_09_07_CrowdLabelA">[show citation]</label>
 </div></div></td></tr><tr>
-<td>95</td>
+<td>97</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JoachimBehar_2014_09_07_ABayesian">
 <div class="citation">
@@ -8510,7 +8507,7 @@ Behar J, Andreotti F, Oster J, Clifford GD. <a href="https://drive.google.com/fi
 <div class="hidebibtex">
 <label for="JoachimBehar_2014_09_07_ABayesian">[show citation]</label>
 </div></div></td></tr><tr>
-<td>94</td>
+<td>96</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="DavidBSpringer_2014_09_07_Robustheart">
 <div class="citation">
@@ -8532,7 +8529,7 @@ Springer DB, Brennan T, Hitzeroth J, Mayosi BM, Tarassenko L, Clifford GD. <a hr
 <div class="hidebibtex">
 <label for="DavidBSpringer_2014_09_07_Robustheart">[show citation]</label>
 </div></div></td></tr><tr>
-<td>93</td>
+<td>95</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MarcoAFPimentel_2014_09_07_HiddensemiMarkov">
 <div class="citation">
@@ -8554,7 +8551,7 @@ Pimentel MA, Santos MD, Springer DB, Clifford GD. <a href="https://drive.google.
 <div class="hidebibtex">
 <label for="MarcoAFPimentel_2014_09_07_HiddensemiMarkov">[show citation]</label>
 </div></div></td></tr><tr>
-<td>92</td>
+<td>94</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="FernandoAndreotti_2014_09_07_Optimizedmodelling">
 <div class="citation">
@@ -8576,7 +8573,7 @@ Andreotti F, Behar J, Oster J, Clifford GD, Malberg H, Zaunseder S. <a href="htt
 <div class="hidebibtex">
 <label for="FernandoAndreotti_2014_09_07_Optimizedmodelling">[show citation]</label>
 </div></div></td></tr><tr>
-<td>91</td>
+<td>93</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AlistairEWJohnson_2014_09_07_Datapreprocessing">
 <div class="citation">
@@ -8598,7 +8595,7 @@ Johnson AE, Kramer AA, Clifford GD. <a href="https://drive.google.com/file/d/1uS
 <div class="hidebibtex">
 <label for="AlistairEWJohnson_2014_09_07_Datapreprocessing">[show citation]</label>
 </div></div></td></tr><tr>
-<td>90</td>
+<td>92</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AthanasiosTsanas_2014_09_07_Quantitativeinsights">
 <div class="citation">
@@ -8620,7 +8617,7 @@ Tsanas A, Clifford GD, Vartela V, Sfirakis P. <a href="https://drive.google.com/
 <div class="hidebibtex">
 <label for="AthanasiosTsanas_2014_09_07_Quantitativeinsights">[show citation]</label>
 </div></div></td></tr><tr>
-<td>89</td>
+<td>91</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AlistairEWJohnson_2014_09_07_Rpeakestimation">
 <div class="citation">
@@ -8642,7 +8639,7 @@ Johnson AE, Behar J, Andreotti F, Clifford GD, Oster J. <a href="https://drive.g
 <div class="hidebibtex">
 <label for="AlistairEWJohnson_2014_09_07_Rpeakestimation">[show citation]</label>
 </div></div></td></tr><tr>
-<td>88</td>
+<td>90</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="DavidBSpringer_2014_09_07_Supportvector">
 <div class="citation">
@@ -8664,7 +8661,7 @@ Springer DB, Tarassenko L, Clifford GD. <a href="https://drive.google.com/file/d
 <div class="hidebibtex">
 <label for="DavidBSpringer_2014_09_07_Supportvector">[show citation]</label>
 </div></div></td></tr><tr>
-<td>87</td>
+<td>89</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MohsanSAlvi_2014_09_07_fecgsynguiA">
 <div class="citation">
@@ -8685,6 +8682,50 @@ Alvi MS, Andreotti F, Oster J, Zaunseder S, Clifford GD, Behar J. <a href="https
 </div>
 <div class="hidebibtex">
 <label for="MohsanSAlvi_2014_09_07_fecgsynguiA">[show citation]</label>
+</div></div></td></tr><tr>
+<td>88</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="DavidBSpringer_2014_01_01_Mobilephonebased">
+<div class="citation">
+Springer DB, Z<span class="bibtex-protected">ü</span>hlke L, Mayosi B, Tarassenko L, Clifford G. <a href="https://drive.google.com/file/d/0B5SqSlPcubSuVTZ4M3RZQjhVZTA/view?usp=sharing&resourcekey=0-KHkG4ZVuDNGhV5MMBB5bFw">Mobile phone-based rheumatic heart disease diagnosis</a>. Appropriate Healthcare Technologies for Low Resource Setting (AHT 2014) 2014 September; pp. 1-1.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{DavidBSpringer_2014_01_01_Mobilephonebased,
+    author = {Springer, David B and Z{\"u}hlke, LJ and Mayosi, BM and Tarassenko, L and Clifford, GD},
+    title = "Mobile phone-based rheumatic heart disease diagnosis",
+    date = "2014-09",
+    booktitle = "Appropriate Healthcare Technologies for Low Resource Setting (AHT 2014)",
+    url = "https://drive.google.com/file/d/0B5SqSlPcubSuVTZ4M3RZQjhVZTA/view?usp=sharing\&resourcekey=0-KHkG4ZVuDNGhV5MMBB5bFw",
+    pages = "1-1",
+    note = "Publisher: IET Digital Library"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="DavidBSpringer_2014_01_01_Mobilephonebased">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="DavidBSpringer_2014_01_01_Mobilephonebased">[show citation]</label>
+</div></div></td></tr><tr>
+<td>87</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="SanaFFathima_2014_01_01_Sanitationrelateddisease">
+<div class="citation">
+Fathima SF, Palmius N, Clifton D, Rohloff P, Clifford G, Hall-Clifford R. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-ibzN5bFVkeko5Qms/view?usp=sharing&resourcekey=0-8taEjUabK5TgJ4PwW3Qcqg">Sanitation-related disease surveillance using community health promoters and mobile phone technology</a>. Appropriate Healthcare Technologies for Low Resource Setting (AHT 2014) 2014 September; pp. 3-3.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{SanaFFathima_2014_01_01_Sanitationrelateddisease,
+    author = "Fathima, Sana F and Palmius, N and Clifton, D and Rohloff, P and Clifford, GD and Hall-Clifford, R",
+    title = "Sanitation-related disease surveillance using community health promoters and mobile phone technology",
+    date = "2014-09",
+    booktitle = "Appropriate Healthcare Technologies for Low Resource Setting (AHT 2014)",
+    url = "https://drive.google.com/file/d/0B5wjNvhEV8-ibzN5bFVkeko5Qms/view?usp=sharing\&resourcekey=0-8taEjUabK5TgJ4PwW3Qcqg",
+    pages = "3-3",
+    note = "Publisher: IET Digital Library"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="SanaFFathima_2014_01_01_Sanitationrelateddisease">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="SanaFFathima_2014_01_01_Sanitationrelateddisease">[show citation]</label>
 </div></div></td></tr><tr>
 <td>86</td>
 <td><div class="citation_container">
@@ -10586,7 +10627,207 @@ Clifford G, Tarassenko L, Townsend N. <a href="https://drive.google.com/file/d/1
 
 <table>
 <tr>
+<td>39</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="XiaofanMu_2024_12_12_DetectingCognitive">
+<div class="citation">
+Mu X, Seyedi S, Zheng I, Jiang Z, Chen L, Omofojoye B, Hershenberg R, Levey AI, Clifford GD, Dodge HH, Kwon H. <a href="https://arxiv.org/abs/2412.14194">Detecting Cognitive Impairment and Psychological Well-being among Older Adults Using Facial, Acoustic, Linguistic, and Cardiovascular Patterns Derived from Remote Conversations</a>. arXiv preprint arXiv:2412.14194 2024 December 12.
+</div>
+<div class="bibtex_source"><pre>@article{XiaofanMu_2024_12_12_DetectingCognitive,
+    author = "Mu, Xiaofan and Seyedi, Salman and Zheng, Iris and Jiang, Zifan and Chen, Liu and Omofojoye, Bolaji and Hershenberg, Rachel and Levey, Allan I and Clifford, Gari D and Dodge, Hiroko H and Kwon, Hyeokhyen",
+    title = "Detecting Cognitive Impairment and Psychological Well-being among Older Adults Using Facial, Acoustic, Linguistic, and Cardiovascular Patterns Derived from Remote Conversations",
+    date = "2024-12-12",
+    journal = "arXiv preprint arXiv:2412.14194",
+    url = "https://arxiv.org/abs/2412.14194"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="XiaofanMu_2024_12_12_DetectingCognitive">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="XiaofanMu_2024_12_12_DetectingCognitive">[show citation]</label>
+</div></div></td></tr><tr>
 <td>38</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="SajjadKarimi_2024_10_25_ElectromechanicalDynamics">
+<div class="citation">
+Karimi S, Karimi S, Shah AJ, Clifford GD, Sameni R. <a href="https://drive.google.com/file/d/1ArebLheeQCdFyuBVxaTtBRWSYOYrHDLr/view?usp=sharing">Electromechanical Dynamics of the Heart: A Study of Cardiac Hysteresis During Physical Stress Test</a>. arXiv preprint arXiv:2410.19667 2024 October 25.
+</div>
+<div class="bibtex_source"><pre>@article{SajjadKarimi_2024_10_25_ElectromechanicalDynamics,
+    author = "Karimi, Sajjad and Karimi, Shirin and Shah, Amit J and Clifford, Gari D and Sameni, Reza",
+    title = "Electromechanical Dynamics of the Heart: A Study of Cardiac Hysteresis During Physical Stress Test",
+    date = "2024-10-25",
+    journal = "arXiv preprint arXiv:2410.19667",
+    url = "https://drive.google.com/file/d/1ArebLheeQCdFyuBVxaTtBRWSYOYrHDLr/view?usp=sharing"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="SajjadKarimi_2024_10_25_ElectromechanicalDynamics">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="SajjadKarimi_2024_10_25_ElectromechanicalDynamics">[show citation]</label>
+</div></div></td></tr><tr>
+<td>37</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="JunLi_2024_10_05_AnElectrocardiogram">
+<div class="citation">
+Li J, Aguirre A, Moura J, Liu C, Zhong L, Sun C, Clifford G, Westover B, Hong S. <a href="https://drive.google.com/file/d/1KMfNzhqxbhet937ph2dsYHvjlYx1VnsU/view?usp=sharing">An Electrocardiogram Foundation Model Built on over 10 Million Recordings with External Evaluation across Multiple Domains</a>. arXiv preprint arXiv:2410.04133 2024 October 5.
+</div>
+<div class="bibtex_source"><pre>@article{JunLi_2024_10_05_AnElectrocardiogram,
+    author = "Li, Jun and Aguirre, Aaron and Moura, Junior and Liu, Che and Zhong, Lanhai and Sun, Chenxi and Clifford, Gari and Westover, Brandon and Hong, Shenda",
+    title = "An Electrocardiogram Foundation Model Built on over 10 Million Recordings with External Evaluation across Multiple Domains",
+    date = "2024-10-05",
+    journal = "arXiv preprint arXiv:2410.04133",
+    url = "https://drive.google.com/file/d/1KMfNzhqxbhet937ph2dsYHvjlYx1VnsU/view?usp=sharing"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="JunLi_2024_10_05_AnElectrocardiogram">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="JunLi_2024_10_05_AnElectrocardiogram">[show citation]</label>
+</div></div></td></tr><tr>
+<td>36</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="JunLi_2024_10_05_FromHospital">
+<div class="citation">
+Li J, Aguirre A, Moura J, Liu C, Zhong L, Sun C, Clifford GD, Westover B, Hong S. <a href="https://arxiv.org/abs/2410.04133">From Hospital to Portables: A Universal ECG Foundation Model Built on 10+ Million Diverse Recordings</a>. arXiv preprint arXiv:2410.04133 2024 October 5.
+</div>
+<div class="bibtex_source"><pre>@article{JunLi_2024_10_05_FromHospital,
+    author = "Li, Jun and Aguirre, Aaron and Moura, Junior and Liu, Che and Zhong, Lanhai and Sun, Chenxi and Clifford, Gari D and Westover, Brandon and Hong, Shenda",
+    title = "From Hospital to Portables: A Universal ECG Foundation Model Built on 10+ Million Diverse Recordings",
+    date = "2024-10-05",
+    journal = "arXiv preprint arXiv:2410.04133",
+    url = "https://arxiv.org/abs/2410.04133"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="JunLi_2024_10_05_FromHospital">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="JunLi_2024_10_05_FromHospital">[show citation]</label>
+</div></div></td></tr><tr>
+<td>35</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="MatthewAReyna_2024_09_25_ECGImageDatabaseA">
+<div class="citation">
+Reyna MA, Weigle J, Koscova Z, Campbell K, Shivashankara KK, Saghafi S, Nikookar S, Motie-Shirazi M, Kiarashi Y, Seyedi S, Clifford GD, Sameni R. <a href="https://drive.google.com/file/d/1SCgGLobOLiFCmMhsiyzSQtqbO8HpvA0b/view?usp=sharing">ECG-Image-Database: A Dataset of ECG Images with Real-World Imaging and Scanning Artifacts; A Foundation for Computerized ECG Image Digitization and Analysis</a>. arXiv preprint arXiv:2409.16612 2024 September 25.
+</div>
+<div class="bibtex_source"><pre>@article{MatthewAReyna_2024_09_25_ECGImageDatabaseA,
+    author = "Reyna, Matthew A and Weigle, James and Koscova, Zuzana and Campbell, Kiersten and Shivashankara, Kshama Kodthalu and Saghafi, Soheil and Nikookar, Sepideh and Motie-Shirazi, Mohsen and Kiarashi, Yashar and Seyedi, Salman and Clifford, Gari D and Sameni, Reza",
+    title = "ECG-Image-Database: A Dataset of ECG Images with Real-World Imaging and Scanning Artifacts; A Foundation for Computerized ECG Image Digitization and Analysis",
+    date = "2024-09-25",
+    journal = "arXiv preprint arXiv:2409.16612",
+    url = "https://drive.google.com/file/d/1SCgGLobOLiFCmMhsiyzSQtqbO8HpvA0b/view?usp=sharing"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="MatthewAReyna_2024_09_25_ECGImageDatabaseA">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="MatthewAReyna_2024_09_25_ECGImageDatabaseA">[show citation]</label>
+</div></div></td></tr><tr>
+<td>34</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="ChaitraHegde_2024_08_19_Feasibilityof">
+<div class="citation">
+Hegde C, Kiarashi Y, Levey AI, Rodriguez AD, Kwon H, Clifford GD. <a href="https://arxiv.org/abs/2408.10442">Feasibility of assessing cognitive impairment via distributed camera network and privacy-preserving edge computing</a>. arXiv preprint arXiv:2408.10442 2024 August 19.
+</div>
+<div class="bibtex_source"><pre>@article{ChaitraHegde_2024_08_19_Feasibilityof,
+    author = "Hegde, Chaitra and Kiarashi, Yashar and Levey, Allan I and Rodriguez, Amy D and Kwon, Hyeokhyen and Clifford, Gari D",
+    title = "Feasibility of assessing cognitive impairment via distributed camera network and privacy-preserving edge computing",
+    date = "2024-08-19",
+    journal = "arXiv preprint arXiv:2408.10442",
+    url = "https://arxiv.org/abs/2408.10442"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="ChaitraHegde_2024_08_19_Feasibilityof">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="ChaitraHegde_2024_08_19_Feasibilityof">[show citation]</label>
+</div></div></td></tr><tr>
+<td>33</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="BarunDas_2024_07_31_ExplainableArtificial">
+<div class="citation">
+Das B, Anderson C, Villavicencio T, Lantz J, Foster J, Hamlin T, Rad AB, Clifford GD, Kwon H. <a href="https://arxiv.org/abs/2407.21691">Explainable Artificial Intelligence for Quantifying Interfering and High-Risk Behaviors in Autism Spectrum Disorder in a Real-World Classroom Environment Using Privacy-Preserving Video Analysis</a>. arXiv preprint arXiv:2407.21691 2024 July 31.
+</div>
+<div class="bibtex_source"><pre>@article{BarunDas_2024_07_31_ExplainableArtificial,
+    author = "Das, Barun and Anderson, Conor and Villavicencio, Tania and Lantz, Johanna and Foster, Jenny and Hamlin, Theresa and Rad, Ali Bahrami and Clifford, Gari D and Kwon, Hyeokhyen",
+    title = "Explainable Artificial Intelligence for Quantifying Interfering and High-Risk Behaviors in Autism Spectrum Disorder in a Real-World Classroom Environment Using Privacy-Preserving Video Analysis",
+    date = "2024-07-31",
+    journal = "arXiv preprint arXiv:2407.21691",
+    url = "https://arxiv.org/abs/2407.21691"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="BarunDas_2024_07_31_ExplainableArtificial">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="BarunDas_2024_07_31_ExplainableArtificial">[show citation]</label>
+</div></div></td></tr><tr>
+<td>32</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="AyseCakmak_2024_04_16_Benchmarkingchangepoint">
+<div class="citation">
+Cakmak A, Reinertsen E, Nemati S, Clifford GD. <a href="https://drive.google.com/file/d/1L7ozHjo28o-37lnvN1yiv6xSzXIhmz9b/view?usp=sharing">Benchmarking changepoint detection algorithms on cardiac time series</a>. arXiv preprint arXiv:2404.12408 2024 April 16.
+</div>
+<div class="bibtex_source"><pre>@article{AyseCakmak_2024_04_16_Benchmarkingchangepoint,
+    author = "Cakmak, Ayse and Reinertsen, Erik and Nemati, Shamim and Clifford, Gari D",
+    title = "Benchmarking changepoint detection algorithms on cardiac time series",
+    date = "2024-04-16",
+    journal = "arXiv preprint arXiv:2404.12408",
+    url = "https://drive.google.com/file/d/1L7ozHjo28o-37lnvN1yiv6xSzXIhmz9b/view?usp=sharing"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="AyseCakmak_2024_04_16_Benchmarkingchangepoint">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="AyseCakmak_2024_04_16_Benchmarkingchangepoint">[show citation]</label>
+</div></div></td></tr><tr>
+<td>31</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="MohammadSendi_2024_03_08_Braindynamics">
+<div class="citation">
+Sendi M, Fu Z, Harnett N, Rooij S, Vergara V, Pizzagalli D, Daskalakis N, House S, Beaudoin F, An X, Neylan T, Clifford GD, Jovanovic T, Linnstaedt S, Germine L, Bollen K, Rauch S, Haran J, Storrow A, Lewandowski C, Jr PM, Hendry P, Sheikh S, Jones C, Punches B, Swor R, Gentile N, Murty V, Hudak L, Pascual J, Seamon M, Harris E, Chang A, Pearson C, Peak D, Merchant R, Domeier R, Rathlev N, O'Neil B, Sergot P, Sanchez L, Bruce S, Sheridan J, Harte S, Kessler R, Koenen K, McLean S, Stevens J, Calhoun V, Ressler K. <a href="https://drive.google.com/file/d/11G1xll8FZJAo2vinrEEQvO-JbDZZ3ZEX/view?usp=sharing">Brain dynamics reflecting an intra-network brain state is associated with increased posttraumatic stress symptoms in the early aftermath of trauma</a>. 2024 March 8.
+</div>
+<div class="bibtex_source"><pre>@unpublished{MohammadSendi_2024_03_08_Braindynamics,
+    author = "Sendi, Mohammad and Fu, Zening and Harnett, Nathaniel and van Rooij, Sanne and Vergara, Victor and Pizzagalli, Diego and Daskalakis, Nikolaos and House, Stacey and Beaudoin, Francesca and An, Xinming and Neylan, Thomas and Clifford, Gari D and Jovanovic, Tanja and Linnstaedt, Sarah and Germine, Laura and Bollen, Kenneth and Rauch, Scott and Haran, John and Storrow, Alan and Lewandowski, Christopher and Jr, Paul Musey and Hendry, Phyllis and Sheikh, Sophia and Jones, Christopher and Punches, Brittany and Swor, Robert and Gentile, Nina and Murty, Vishnu and Hudak, Lauren and Pascual, Jose and Seamon, Mark and Harris, Erica and Chang, Anna and Pearson, Claire and Peak, David and Merchant, Roland and Domeier, Robert and Rathlev, Niels and O'Neil, Brian and Sergot, Paulina and Sanchez, Leon and Bruce, Steven and Sheridan, John and Harte, Steven and Kessler, Ronald and Koenen, Karestan and McLean, Samuel and Stevens, Jennifer and Calhoun, Vince and Ressler, Kerry",
+    title = "Brain dynamics reflecting an intra-network brain state is associated with increased posttraumatic stress symptoms in the early aftermath of trauma",
+    date = "2024-03-08",
+    url = "https://drive.google.com/file/d/11G1xll8FZJAo2vinrEEQvO-JbDZZ3ZEX/view?usp=sharing",
+    journal = "nature portfolio"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="MohammadSendi_2024_03_08_Braindynamics">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="MohammadSendi_2024_03_08_Braindynamics">[show citation]</label>
+</div></div></td></tr><tr>
+<td>30</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="SamuelWaters_2024_02_22_DomainAdaptation">
+<div class="citation">
+Waters S, Berent J, Saini P, Clifford GD. <a href="https://drive.google.com/file/d/144at8BWh1nKaCO6J3Osexqq_KqSOxraj/view?usp=sharing">Domain Adaptation Using Large Scale Databases for Sleep Staging from a Novel In-Ear Sensor</a>. 2024 February 22.
+</div>
+<div class="bibtex_source"><pre>@unpublished{SamuelWaters_2024_02_22_DomainAdaptation,
+    author = "Waters, Samuel and Berent, Jonathan and Saini, Prabhjyot and Clifford, Gari D",
+    title = "Domain Adaptation Using Large Scale Databases for Sleep Staging from a Novel In-Ear Sensor",
+    date = "2024-02-22",
+    journal = "BioMedical Engineering OnLine",
+    url = "https://drive.google.com/file/d/144at8BWh1nKaCO6J3Osexqq\_KqSOxraj/view?usp=sharing"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="SamuelWaters_2024_02_22_DomainAdaptation">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="SamuelWaters_2024_02_22_DomainAdaptation">[show citation]</label>
+</div></div></td></tr><tr>
+<td>29</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LaurenAMcKibben_2024_PeritraumaticCreactive">
 <div class="citation">
@@ -10608,7 +10849,7 @@ McKibben LA, Layne MN, Albertorio-Saez EM, Zhao Y, Branham EM, House SL, Beaudoi
 <div class="hidebibtex">
 <label for="LaurenAMcKibben_2024_PeritraumaticCreactive">[show citation]</label>
 </div></div></td></tr><tr>
-<td>37</td>
+<td>28</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SeyedehSomayyehMousavi_2024_EarlyPrediction">
 <div class="citation">
@@ -10630,7 +10871,7 @@ Mousavi SS, Tierney K, Robichaux C, Boulet SL, Franklin C, Chandrasekaran S, Sam
 <div class="hidebibtex">
 <label for="SeyedehSomayyehMousavi_2024_EarlyPrediction">[show citation]</label>
 </div></div></td></tr><tr>
-<td>36</td>
+<td>27</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZuzanaKoscova_2024_TheHarvardEmory">
 <div class="citation">
@@ -10652,7 +10893,7 @@ Koscova Z, Li Q, Robichaux C, Junior VM, Ghanta M, Gupta A, Rosand J, Aguirre A,
 <div class="hidebibtex">
 <label for="ZuzanaKoscova_2024_TheHarvardEmory">[show citation]</label>
 </div></div></td></tr><tr>
-<td>35</td>
+<td>26</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="YasharKiarashi_2024_ForecastingHighRisk">
 <div class="citation">
@@ -10674,7 +10915,7 @@ Kiarashi Y, Lantz J, Reyna M, Anderson C, Rad AB, Foster J, Villavicencio T, Ham
 <div class="hidebibtex">
 <label for="YasharKiarashi_2024_ForecastingHighRisk">[show citation]</label>
 </div></div></td></tr><tr>
-<td>34</td>
+<td>25</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="YasharKiarashi_2024_PredictingAdverse">
 <div class="citation">
@@ -10695,275 +10936,7 @@ Kiarashi Y, Suresha PB, Rad AB, Reyna M, Anderson C, Foster J, Lantz J, Villavic
 <div class="hidebibtex">
 <label for="YasharKiarashi_2024_PredictingAdverse">[show citation]</label>
 </div></div></td></tr><tr>
-<td>33</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="SajjadKarimi_2024_10_25_ElectromechanicalDynamics">
-<div class="citation">
-Karimi S, Karimi S, Shah AJ, Clifford GD, Sameni R. <a href="https://drive.google.com/file/d/1ArebLheeQCdFyuBVxaTtBRWSYOYrHDLr/view?usp=sharing">Electromechanical Dynamics of the Heart: A Study of Cardiac Hysteresis During Physical Stress Test</a>. arXiv preprint arXiv:2410.19667 2024 October 25.
-</div>
-<div class="bibtex_source"><pre>@article{SajjadKarimi_2024_10_25_ElectromechanicalDynamics,
-    author = "Karimi, Sajjad and Karimi, Shirin and Shah, Amit J and Clifford, Gari D and Sameni, Reza",
-    title = "Electromechanical Dynamics of the Heart: A Study of Cardiac Hysteresis During Physical Stress Test",
-    date = "2024-10-25",
-    journal = "arXiv preprint arXiv:2410.19667",
-    url = "https://drive.google.com/file/d/1ArebLheeQCdFyuBVxaTtBRWSYOYrHDLr/view?usp=sharing"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="SajjadKarimi_2024_10_25_ElectromechanicalDynamics">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="SajjadKarimi_2024_10_25_ElectromechanicalDynamics">[show citation]</label>
-</div></div></td></tr><tr>
-<td>32</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="JunLi_2024_10_05_AnElectrocardiogram">
-<div class="citation">
-Li J, Aguirre A, Moura J, Liu C, Zhong L, Sun C, Clifford G, Westover B, Hong S. <a href="https://drive.google.com/file/d/1KMfNzhqxbhet937ph2dsYHvjlYx1VnsU/view?usp=sharing">An Electrocardiogram Foundation Model Built on over 10 Million Recordings with External Evaluation across Multiple Domains</a>. arXiv preprint arXiv:2410.04133 2024 October 5.
-</div>
-<div class="bibtex_source"><pre>@article{JunLi_2024_10_05_AnElectrocardiogram,
-    author = "Li, Jun and Aguirre, Aaron and Moura, Junior and Liu, Che and Zhong, Lanhai and Sun, Chenxi and Clifford, Gari and Westover, Brandon and Hong, Shenda",
-    title = "An Electrocardiogram Foundation Model Built on over 10 Million Recordings with External Evaluation across Multiple Domains",
-    date = "2024-10-05",
-    journal = "arXiv preprint arXiv:2410.04133",
-    url = "https://drive.google.com/file/d/1KMfNzhqxbhet937ph2dsYHvjlYx1VnsU/view?usp=sharing"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="JunLi_2024_10_05_AnElectrocardiogram">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="JunLi_2024_10_05_AnElectrocardiogram">[show citation]</label>
-</div></div></td></tr><tr>
-<td>31</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="JunLi_2024_10_05_FromHospital">
-<div class="citation">
-Li J, Aguirre A, Moura J, Liu C, Zhong L, Sun C, Clifford GD, Westover B, Hong S. <a href="https://arxiv.org/abs/2410.04133">From Hospital to Portables: A Universal ECG Foundation Model Built on 10+ Million Diverse Recordings</a>. arXiv preprint arXiv:2410.04133 2024 October 5.
-</div>
-<div class="bibtex_source"><pre>@article{JunLi_2024_10_05_FromHospital,
-    author = "Li, Jun and Aguirre, Aaron and Moura, Junior and Liu, Che and Zhong, Lanhai and Sun, Chenxi and Clifford, Gari D and Westover, Brandon and Hong, Shenda",
-    title = "From Hospital to Portables: A Universal ECG Foundation Model Built on 10+ Million Diverse Recordings",
-    date = "2024-10-05",
-    journal = "arXiv preprint arXiv:2410.04133",
-    url = "https://arxiv.org/abs/2410.04133"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="JunLi_2024_10_05_FromHospital">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="JunLi_2024_10_05_FromHospital">[show citation]</label>
-</div></div></td></tr><tr>
-<td>30</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="MatthewAReyna_2024_09_25_ECGImageDatabaseA">
-<div class="citation">
-Reyna MA, Weigle J, Koscova Z, Campbell K, Shivashankara KK, Saghafi S, Nikookar S, Motie-Shirazi M, Kiarashi Y, Seyedi S, Clifford GD, Sameni R. <a href="https://drive.google.com/file/d/1SCgGLobOLiFCmMhsiyzSQtqbO8HpvA0b/view?usp=sharing">ECG-Image-Database: A Dataset of ECG Images with Real-World Imaging and Scanning Artifacts; A Foundation for Computerized ECG Image Digitization and Analysis</a>. arXiv preprint arXiv:2409.16612 2024 September 25.
-</div>
-<div class="bibtex_source"><pre>@article{MatthewAReyna_2024_09_25_ECGImageDatabaseA,
-    author = "Reyna, Matthew A and Weigle, James and Koscova, Zuzana and Campbell, Kiersten and Shivashankara, Kshama Kodthalu and Saghafi, Soheil and Nikookar, Sepideh and Motie-Shirazi, Mohsen and Kiarashi, Yashar and Seyedi, Salman and Clifford, Gari D and Sameni, Reza",
-    title = "ECG-Image-Database: A Dataset of ECG Images with Real-World Imaging and Scanning Artifacts; A Foundation for Computerized ECG Image Digitization and Analysis",
-    date = "2024-09-25",
-    journal = "arXiv preprint arXiv:2409.16612",
-    url = "https://drive.google.com/file/d/1SCgGLobOLiFCmMhsiyzSQtqbO8HpvA0b/view?usp=sharing"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="MatthewAReyna_2024_09_25_ECGImageDatabaseA">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="MatthewAReyna_2024_09_25_ECGImageDatabaseA">[show citation]</label>
-</div></div></td></tr><tr>
-<td>29</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="ChaitraHegde_2024_08_19_Feasibilityof">
-<div class="citation">
-Hegde C, Kiarashi Y, Levey AI, Rodriguez AD, Kwon H, Clifford GD. <a href="https://arxiv.org/abs/2408.10442">Feasibility of assessing cognitive impairment via distributed camera network and privacy-preserving edge computing</a>. arXiv preprint arXiv:2408.10442 2024 August 19.
-</div>
-<div class="bibtex_source"><pre>@article{ChaitraHegde_2024_08_19_Feasibilityof,
-    author = "Hegde, Chaitra and Kiarashi, Yashar and Levey, Allan I and Rodriguez, Amy D and Kwon, Hyeokhyen and Clifford, Gari D",
-    title = "Feasibility of assessing cognitive impairment via distributed camera network and privacy-preserving edge computing",
-    date = "2024-08-19",
-    journal = "arXiv preprint arXiv:2408.10442",
-    url = "https://arxiv.org/abs/2408.10442"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="ChaitraHegde_2024_08_19_Feasibilityof">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="ChaitraHegde_2024_08_19_Feasibilityof">[show citation]</label>
-</div></div></td></tr><tr>
-<td>28</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="BarunDas_2024_07_31_ExplainableArtificial">
-<div class="citation">
-Das B, Anderson C, Villavicencio T, Lantz J, Foster J, Hamlin T, Rad AB, Clifford GD, Kwon H. <a href="https://arxiv.org/abs/2407.21691">Explainable Artificial Intelligence for Quantifying Interfering and High-Risk Behaviors in Autism Spectrum Disorder in a Real-World Classroom Environment Using Privacy-Preserving Video Analysis</a>. arXiv preprint arXiv:2407.21691 2024 July 31.
-</div>
-<div class="bibtex_source"><pre>@article{BarunDas_2024_07_31_ExplainableArtificial,
-    author = "Das, Barun and Anderson, Conor and Villavicencio, Tania and Lantz, Johanna and Foster, Jenny and Hamlin, Theresa and Rad, Ali Bahrami and Clifford, Gari D and Kwon, Hyeokhyen",
-    title = "Explainable Artificial Intelligence for Quantifying Interfering and High-Risk Behaviors in Autism Spectrum Disorder in a Real-World Classroom Environment Using Privacy-Preserving Video Analysis",
-    date = "2024-07-31",
-    journal = "arXiv preprint arXiv:2407.21691",
-    url = "https://arxiv.org/abs/2407.21691"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="BarunDas_2024_07_31_ExplainableArtificial">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="BarunDas_2024_07_31_ExplainableArtificial">[show citation]</label>
-</div></div></td></tr><tr>
-<td>27</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="AyseCakmak_2024_04_16_Benchmarkingchangepoint">
-<div class="citation">
-Cakmak A, Reinertsen E, Nemati S, Clifford GD. <a href="https://drive.google.com/file/d/1L7ozHjo28o-37lnvN1yiv6xSzXIhmz9b/view?usp=sharing">Benchmarking changepoint detection algorithms on cardiac time series</a>. arXiv preprint arXiv:2404.12408 2024 April 16.
-</div>
-<div class="bibtex_source"><pre>@article{AyseCakmak_2024_04_16_Benchmarkingchangepoint,
-    author = "Cakmak, Ayse and Reinertsen, Erik and Nemati, Shamim and Clifford, Gari D",
-    title = "Benchmarking changepoint detection algorithms on cardiac time series",
-    date = "2024-04-16",
-    journal = "arXiv preprint arXiv:2404.12408",
-    url = "https://drive.google.com/file/d/1L7ozHjo28o-37lnvN1yiv6xSzXIhmz9b/view?usp=sharing"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="AyseCakmak_2024_04_16_Benchmarkingchangepoint">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="AyseCakmak_2024_04_16_Benchmarkingchangepoint">[show citation]</label>
-</div></div></td></tr><tr>
-<td>26</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="MohammadSendi_2024_03_08_Braindynamics">
-<div class="citation">
-Sendi M, Fu Z, Harnett N, Rooij S, Vergara V, Pizzagalli D, Daskalakis N, House S, Beaudoin F, An X, Neylan T, Clifford GD, Jovanovic T, Linnstaedt S, Germine L, Bollen K, Rauch S, Haran J, Storrow A, Lewandowski C, Jr PM, Hendry P, Sheikh S, Jones C, Punches B, Swor R, Gentile N, Murty V, Hudak L, Pascual J, Seamon M, Harris E, Chang A, Pearson C, Peak D, Merchant R, Domeier R, Rathlev N, O'Neil B, Sergot P, Sanchez L, Bruce S, Sheridan J, Harte S, Kessler R, Koenen K, McLean S, Stevens J, Calhoun V, Ressler K. <a href="https://drive.google.com/file/d/11G1xll8FZJAo2vinrEEQvO-JbDZZ3ZEX/view?usp=sharing">Brain dynamics reflecting an intra-network brain state is associated with increased posttraumatic stress symptoms in the early aftermath of trauma</a>. 2024 March 8.
-</div>
-<div class="bibtex_source"><pre>@unpublished{MohammadSendi_2024_03_08_Braindynamics,
-    author = "Sendi, Mohammad and Fu, Zening and Harnett, Nathaniel and van Rooij, Sanne and Vergara, Victor and Pizzagalli, Diego and Daskalakis, Nikolaos and House, Stacey and Beaudoin, Francesca and An, Xinming and Neylan, Thomas and Clifford, Gari D and Jovanovic, Tanja and Linnstaedt, Sarah and Germine, Laura and Bollen, Kenneth and Rauch, Scott and Haran, John and Storrow, Alan and Lewandowski, Christopher and Jr, Paul Musey and Hendry, Phyllis and Sheikh, Sophia and Jones, Christopher and Punches, Brittany and Swor, Robert and Gentile, Nina and Murty, Vishnu and Hudak, Lauren and Pascual, Jose and Seamon, Mark and Harris, Erica and Chang, Anna and Pearson, Claire and Peak, David and Merchant, Roland and Domeier, Robert and Rathlev, Niels and O'Neil, Brian and Sergot, Paulina and Sanchez, Leon and Bruce, Steven and Sheridan, John and Harte, Steven and Kessler, Ronald and Koenen, Karestan and McLean, Samuel and Stevens, Jennifer and Calhoun, Vince and Ressler, Kerry",
-    title = "Brain dynamics reflecting an intra-network brain state is associated with increased posttraumatic stress symptoms in the early aftermath of trauma",
-    date = "2024-03-08",
-    url = "https://drive.google.com/file/d/11G1xll8FZJAo2vinrEEQvO-JbDZZ3ZEX/view?usp=sharing",
-    journal = "nature portfolio"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="MohammadSendi_2024_03_08_Braindynamics">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="MohammadSendi_2024_03_08_Braindynamics">[show citation]</label>
-</div></div></td></tr><tr>
-<td>25</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="SamuelWaters_2024_02_22_DomainAdaptation">
-<div class="citation">
-Waters S, Berent J, Saini P, Clifford GD. <a href="https://drive.google.com/file/d/144at8BWh1nKaCO6J3Osexqq_KqSOxraj/view?usp=sharing">Domain Adaptation Using Large Scale Databases for Sleep Staging from a Novel In-Ear Sensor</a>. 2024 February 22.
-</div>
-<div class="bibtex_source"><pre>@unpublished{SamuelWaters_2024_02_22_DomainAdaptation,
-    author = "Waters, Samuel and Berent, Jonathan and Saini, Prabhjyot and Clifford, Gari D",
-    title = "Domain Adaptation Using Large Scale Databases for Sleep Staging from a Novel In-Ear Sensor",
-    date = "2024-02-22",
-    journal = "BioMedical Engineering OnLine",
-    url = "https://drive.google.com/file/d/144at8BWh1nKaCO6J3Osexqq\_KqSOxraj/view?usp=sharing"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="SamuelWaters_2024_02_22_DomainAdaptation">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="SamuelWaters_2024_02_22_DomainAdaptation">[show citation]</label>
-</div></div></td></tr><tr>
 <td>24</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="AbigailZeamer_2023_Pilotstudy">
-<div class="citation">
-Zeamer A, Salive M, An X, House S, Beaudoin FL, Stevens JS, Zeng D, Neylan T, Clifford GD, Linnstaedt SD, Rauch SL, Storrow AB, Lewandowski C, Musey PI, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Hudak LA, Seamon MJ, Harris E, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Bruce SE, Kessler RC, Koenen KC, McLean SA, Bucci V, Haran JP. <a href="https://www.medrxiv.org/content/10.1101/2023.03.01.23286577.abstract">Pilot study of the association between microbiome and the development of adverse posttraumatic neuropsychiatric sequelae after traumatic stress exposure</a>. medRxiv 2023; p. 2023.03. 01.23286577.
-</div>
-<div class="bibtex_source"><pre>@article{AbigailZeamer_2023_Pilotstudy,
-    author = "Zeamer, Abigail and Salive, MarieClaire and An, Xinming and House, Stacey and Beaudoin, Francesca L and Stevens, Jennifer S and Zeng, Donglin and Neylan, Thomas and Clifford, Gari D and Linnstaedt, Sarah D and Rauch, Scott L and Storrow, Alan B and Lewandowski, Christopher and Musey, Paul I and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and Hudak, Lauren A and Seamon, Mark J and Harris, Erica and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sergot, Paulina and Sanchez, Leon D and Bruce, Steven E and Kessler, Ronald C and Koenen, Karestan C and McLean, Samuel A and Bucci, Vanni and Haran, John P",
-    title = "Pilot study of the association between microbiome and the development of adverse posttraumatic neuropsychiatric sequelae after traumatic stress exposure",
-    date = "2023",
-    journal = "medRxiv",
-    url = "https://www.medrxiv.org/content/10.1101/2023.03.01.23286577.abstract",
-    pages = "2023.03. 01.23286577",
-    note = "Publisher: Cold Spring Harbor Laboratory Press"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="AbigailZeamer_2023_Pilotstudy">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="AbigailZeamer_2023_Pilotstudy">[show citation]</label>
-</div></div></td></tr><tr>
-<td>23</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="NasimKatebi_2023_AutomatedImage">
-<div class="citation">
-Katebi N, Bremer W, Nguyen T, Phan D, Jeff J, Armstrong K, Phabian-Millbrook P, Platner M, Carroll K, Shoai B, Rohloff P, Boulet SL, Franklin CG, Clifford GD. <a href="https://www.medrxiv.org/content/10.1101/2023.06.16.23291435.abstract">Automated Image Transcription for Perinatal Blood Pressure Monitoring Using Mobile Health Technology</a>. medRxiv 2023; p. 2023.06. 16.23291435.
-</div>
-<div class="bibtex_source"><pre>@article{NasimKatebi_2023_AutomatedImage,
-    author = "Katebi, Nasim and Bremer, Whitney and Nguyen, Tony and Phan, Daniel and Jeff, Jamila and Armstrong, Kirkland and Phabian-Millbrook, Paula and Platner, Marissa and Carroll, Kimberly and Shoai, Banafsheh and Rohloff, Peter and Boulet, Sheree L and Franklin, Cheryl G and Clifford, Gari D",
-    title = "Automated Image Transcription for Perinatal Blood Pressure Monitoring Using Mobile Health Technology",
-    date = "2023",
-    journal = "medRxiv",
-    url = "https://www.medrxiv.org/content/10.1101/2023.06.16.23291435.abstract",
-    pages = "2023.06. 16.23291435",
-    note = "Publisher: Cold Spring Harbor Laboratory Press"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="NasimKatebi_2023_AutomatedImage">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="NasimKatebi_2023_AutomatedImage">[show citation]</label>
-</div></div></td></tr><tr>
-<td>22</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="ZifanJiang_2023_Multimodalmental">
-<div class="citation">
-Jiang Z, Seyedi S, Griner EL, Abbasi A, Rad AB, Kwon H, Cotes RO, Clifford GD. <a href="https://www.medrxiv.org/content/10.1101/2023.09.11.23295212.abstract">Multimodal mental health assessment with remote interviews using facial, vocal, linguistic, and cardiovascular patterns</a>. medRxiv 2023; p. 2023.09. 11.23295212.
-</div>
-<div class="bibtex_source"><pre>@article{ZifanJiang_2023_Multimodalmental,
-    author = "Jiang, Zifan and Seyedi, Salman and Griner, Emily Lynn and Abbasi, Ahmed and Rad, Ali Bahrami and Kwon, Hyeokhyen and Cotes, Robert O and Clifford, Gari D",
-    title = "Multimodal mental health assessment with remote interviews using facial, vocal, linguistic, and cardiovascular patterns",
-    date = "2023",
-    journal = "medRxiv",
-    url = "https://www.medrxiv.org/content/10.1101/2023.09.11.23295212.abstract",
-    pages = "2023.09. 11.23295212",
-    note = "Publisher: Cold Spring Harbor Laboratory Press"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="ZifanJiang_2023_Multimodalmental">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="ZifanJiang_2023_Multimodalmental">[show citation]</label>
-</div></div></td></tr><tr>
-<td>21</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="ZifanJiang_2023_Evaluatingand">
-<div class="citation">
-Jiang Z, Seyedi S, Griner E, Abbasi A, Rad AB, Kwon H, Cotes RO, Clifford GD. <a href="https://www.medrxiv.org/content/10.1101/2023.11.21.23298803.abstract">Evaluating and mitigating unfairness in multimodal remote mental health assessments</a>. 2023.
-</div>
-<div class="bibtex_source"><pre>@unpublished{ZifanJiang_2023_Evaluatingand,
-    author = "Jiang, Zifan and Seyedi, Salman and Griner, Emily and Abbasi, Ahmed and Rad, Ali Bahrami and Kwon, Hyeokhyen and Cotes, Robert O and Clifford, Gari D",
-    title = "Evaluating and mitigating unfairness in multimodal remote mental health assessments",
-    date = "2023",
-    journal = "medRxiv",
-    url = "https://www.medrxiv.org/content/10.1101/2023.11.21.23298803.abstract",
-    pages = "2023.11. 21.23298803",
-    note = "Publisher: Cold Spring Harbor Laboratory Press"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="ZifanJiang_2023_Evaluatingand">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="ZifanJiang_2023_Evaluatingand">[show citation]</label>
-</div></div></td></tr><tr>
-<td>20</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="CeciliaHinojosa_UnknownDate_Rewardneurocircuitry">
 <div class="citation">
@@ -10984,7 +10957,7 @@ Hinojosa C, Rooij SJ, Fani N, Ellis RA, Harnett NG, Lebois L, Ely TD, Jovanovic 
 <div class="hidebibtex">
 <label for="CeciliaHinojosa_UnknownDate_Rewardneurocircuitry">[show citation]</label>
 </div></div></td></tr><tr>
-<td>19</td>
+<td>23</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AlyssaRoeckner_2023_10_Whenplasticity">
 <div class="citation">
@@ -11004,7 +10977,7 @@ Roeckner A, Lin ER, Hinrichs R, Harnett NG, Lebois L, Rooij SJ, Ely TD, Jovanovi
 <div class="hidebibtex">
 <label for="AlyssaRoeckner_2023_10_Whenplasticity">[show citation]</label>
 </div></div></td></tr><tr>
-<td>18</td>
+<td>22</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="EdilbertoAmorim_2023_08_28_TheInternational">
 <div class="citation">
@@ -11026,7 +10999,7 @@ Amorim E, Zheng W, Ghassemi MM, Aghaeeaval M, Kandhare P, Karukonda V, Lee JW, H
 <div class="hidebibtex">
 <label for="EdilbertoAmorim_2023_08_28_TheInternational">[show citation]</label>
 </div></div></td></tr><tr>
-<td>17</td>
+<td>21</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="StephanieHaering_2023_08_Sexdependentdifferences">
 <div class="citation">
@@ -11047,7 +11020,7 @@ Haering S, Seligowski AV, Linnstaedt SD, Michopoulos V, House SL, Beaudoin FL, A
 <div class="hidebibtex">
 <label for="StephanieHaering_2023_08_Sexdependentdifferences">[show citation]</label>
 </div></div></td></tr><tr>
-<td>16</td>
+<td>20</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SannevanRooij_2023_06_28_Rethinkingresilience">
 <div class="citation">
@@ -11067,7 +11040,7 @@ Rooij S, Santos J, Hinojosa C, Ely T, Harnett N, Murty V, Lebois L, Jovanovic T,
 <div class="hidebibtex">
 <label for="SannevanRooij_2023_06_28_Rethinkingresilience">[show citation]</label>
 </div></div></td></tr><tr>
-<td>15</td>
+<td>19</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="YasharKiarashi_2023_05_30_IndoorLocalization">
 <div class="citation">
@@ -11087,7 +11060,7 @@ Kiarashi Y, Hedge C, Madala VSK, Nakum A, Singh R, Tweedy R, Clifford GD, Kwon H
 <div class="hidebibtex">
 <label for="YasharKiarashi_2023_05_30_IndoorLocalization">[show citation]</label>
 </div></div></td></tr><tr>
-<td>14</td>
+<td>18</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="HyeokhyenKwon_2023_05_08_IndoorLocalization">
 <div class="citation">
@@ -11106,6 +11079,94 @@ Kwon H, Hedge C, Kiarashi Y, Madala VSK, Singh R, Nakum A, Tweedy R, Tonetto LM,
 </div>
 <div class="hidebibtex">
 <label for="HyeokhyenKwon_2023_05_08_IndoorLocalization">[show citation]</label>
+</div></div></td></tr><tr>
+<td>17</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="AbigailZeamer_2023_Pilotstudy">
+<div class="citation">
+Zeamer A, Salive M, An X, House S, Beaudoin FL, Stevens JS, Zeng D, Neylan T, Clifford GD, Linnstaedt SD, Rauch SL, Storrow AB, Lewandowski C, Musey PI, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Hudak LA, Seamon MJ, Harris E, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Bruce SE, Kessler RC, Koenen KC, McLean SA, Bucci V, Haran JP. <a href="https://www.medrxiv.org/content/10.1101/2023.03.01.23286577.abstract">Pilot study of the association between microbiome and the development of adverse posttraumatic neuropsychiatric sequelae after traumatic stress exposure</a>. medRxiv 2023; p. 2023.03. 01.23286577.
+</div>
+<div class="bibtex_source"><pre>@article{AbigailZeamer_2023_Pilotstudy,
+    author = "Zeamer, Abigail and Salive, MarieClaire and An, Xinming and House, Stacey and Beaudoin, Francesca L and Stevens, Jennifer S and Zeng, Donglin and Neylan, Thomas and Clifford, Gari D and Linnstaedt, Sarah D and Rauch, Scott L and Storrow, Alan B and Lewandowski, Christopher and Musey, Paul I and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and Hudak, Lauren A and Seamon, Mark J and Harris, Erica and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sergot, Paulina and Sanchez, Leon D and Bruce, Steven E and Kessler, Ronald C and Koenen, Karestan C and McLean, Samuel A and Bucci, Vanni and Haran, John P",
+    title = "Pilot study of the association between microbiome and the development of adverse posttraumatic neuropsychiatric sequelae after traumatic stress exposure",
+    date = "2023",
+    journal = "medRxiv",
+    url = "https://www.medrxiv.org/content/10.1101/2023.03.01.23286577.abstract",
+    pages = "2023.03. 01.23286577",
+    note = "Publisher: Cold Spring Harbor Laboratory Press"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="AbigailZeamer_2023_Pilotstudy">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="AbigailZeamer_2023_Pilotstudy">[show citation]</label>
+</div></div></td></tr><tr>
+<td>16</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="NasimKatebi_2023_AutomatedImage">
+<div class="citation">
+Katebi N, Bremer W, Nguyen T, Phan D, Jeff J, Armstrong K, Phabian-Millbrook P, Platner M, Carroll K, Shoai B, Rohloff P, Boulet SL, Franklin CG, Clifford GD. <a href="https://www.medrxiv.org/content/10.1101/2023.06.16.23291435.abstract">Automated Image Transcription for Perinatal Blood Pressure Monitoring Using Mobile Health Technology</a>. medRxiv 2023; p. 2023.06. 16.23291435.
+</div>
+<div class="bibtex_source"><pre>@article{NasimKatebi_2023_AutomatedImage,
+    author = "Katebi, Nasim and Bremer, Whitney and Nguyen, Tony and Phan, Daniel and Jeff, Jamila and Armstrong, Kirkland and Phabian-Millbrook, Paula and Platner, Marissa and Carroll, Kimberly and Shoai, Banafsheh and Rohloff, Peter and Boulet, Sheree L and Franklin, Cheryl G and Clifford, Gari D",
+    title = "Automated Image Transcription for Perinatal Blood Pressure Monitoring Using Mobile Health Technology",
+    date = "2023",
+    journal = "medRxiv",
+    url = "https://www.medrxiv.org/content/10.1101/2023.06.16.23291435.abstract",
+    pages = "2023.06. 16.23291435",
+    note = "Publisher: Cold Spring Harbor Laboratory Press"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="NasimKatebi_2023_AutomatedImage">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="NasimKatebi_2023_AutomatedImage">[show citation]</label>
+</div></div></td></tr><tr>
+<td>15</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="ZifanJiang_2023_Multimodalmental">
+<div class="citation">
+Jiang Z, Seyedi S, Griner EL, Abbasi A, Rad AB, Kwon H, Cotes RO, Clifford GD. <a href="https://www.medrxiv.org/content/10.1101/2023.09.11.23295212.abstract">Multimodal mental health assessment with remote interviews using facial, vocal, linguistic, and cardiovascular patterns</a>. medRxiv 2023; p. 2023.09. 11.23295212.
+</div>
+<div class="bibtex_source"><pre>@article{ZifanJiang_2023_Multimodalmental,
+    author = "Jiang, Zifan and Seyedi, Salman and Griner, Emily Lynn and Abbasi, Ahmed and Rad, Ali Bahrami and Kwon, Hyeokhyen and Cotes, Robert O and Clifford, Gari D",
+    title = "Multimodal mental health assessment with remote interviews using facial, vocal, linguistic, and cardiovascular patterns",
+    date = "2023",
+    journal = "medRxiv",
+    url = "https://www.medrxiv.org/content/10.1101/2023.09.11.23295212.abstract",
+    pages = "2023.09. 11.23295212",
+    note = "Publisher: Cold Spring Harbor Laboratory Press"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="ZifanJiang_2023_Multimodalmental">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="ZifanJiang_2023_Multimodalmental">[show citation]</label>
+</div></div></td></tr><tr>
+<td>14</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="ZifanJiang_2023_Evaluatingand">
+<div class="citation">
+Jiang Z, Seyedi S, Griner E, Abbasi A, Rad AB, Kwon H, Cotes RO, Clifford GD. <a href="https://www.medrxiv.org/content/10.1101/2023.11.21.23298803.abstract">Evaluating and mitigating unfairness in multimodal remote mental health assessments</a>. 2023.
+</div>
+<div class="bibtex_source"><pre>@unpublished{ZifanJiang_2023_Evaluatingand,
+    author = "Jiang, Zifan and Seyedi, Salman and Griner, Emily and Abbasi, Ahmed and Rad, Ali Bahrami and Kwon, Hyeokhyen and Cotes, Robert O and Clifford, Gari D",
+    title = "Evaluating and mitigating unfairness in multimodal remote mental health assessments",
+    date = "2023",
+    journal = "medRxiv",
+    url = "https://www.medrxiv.org/content/10.1101/2023.11.21.23298803.abstract",
+    pages = "2023.11. 21.23298803",
+    note = "Publisher: Cold Spring Harbor Laboratory Press"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="ZifanJiang_2023_Evaluatingand">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="ZifanJiang_2023_Evaluatingand">[show citation]</label>
 </div></div></td></tr><tr>
 <td>13</td>
 <td><div class="citation_container">
@@ -11149,28 +11210,6 @@ Seyedi S, Griner E, Corbin L, Jiang Z, Roberts K, Milloy A, Boazak M, Rad AB, Ab
 </div></div></td></tr><tr>
 <td>11</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="PBSuresha_2012_AnEdge">
-<div class="citation">
-Suresha P, Hegde C, Jiang Z, Clifford G. <a href="https://scholar.archive.org/work/3vqggzgikna3nbqe43mkasxuqa/access/wayback/https://www.preprints.org/manuscript/202202.0246/v1/download">An Edge Computing and Ambient Data Capture System. Preprints 2022, 1, 0</a>. 2022.
-</div>
-<div class="bibtex_source"><pre>@misc{PBSuresha_2012_AnEdge,
-    author = "Suresha, PB and Hegde, C and Jiang, Z and Clifford, GD",
-    title = "An Edge Computing and Ambient Data Capture System. Preprints 2022, 1, 0",
-    date = "2022",
-    url = "https://scholar.archive.org/work/3vqggzgikna3nbqe43mkasxuqa/access/wayback/https://www.preprints.org/manuscript/202202.0246/v1/download",
-    pages = "1-10",
-    volume = "19",
-    note = "Publisher: s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affil-iations."
-}
-</pre>
-</div><div class="showbibtex">
-<label for="PBSuresha_2012_AnEdge">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="PBSuresha_2012_AnEdge">[show citation]</label>
-</div></div></td></tr><tr>
-<td>10</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChengDing_2022_11_07_Clusterconsistency">
 <div class="citation">
 Ding C, Guo Z, Shah A, Clifford GD, Rudin C, Hu X. <a href="https://arxiv.org/abs/2211.03333">Cluster consistency: Simple yet effect robust learning algorithm on large-scale photoplethysmography for atrial fibrillation detection in the presence of real-world label noise</a>. arXiv preprint arXiv:2211.03333 2022 November 7.
@@ -11189,7 +11228,7 @@ Ding C, Guo Z, Shah A, Clifford GD, Rudin C, Hu X. <a href="https://arxiv.org/ab
 <div class="hidebibtex">
 <label for="ChengDing_2022_11_07_Clusterconsistency">[show citation]</label>
 </div></div></td></tr><tr>
-<td>9</td>
+<td>10</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NasimKatebi_2022_01_28_DeepSequence">
 <div class="citation">
@@ -11210,6 +11249,28 @@ Katebi N, Clifford GD. <a href="https://www.medrxiv.org/content/10.1101/2022.01.
 </div>
 <div class="hidebibtex">
 <label for="NasimKatebi_2022_01_28_DeepSequence">[show citation]</label>
+</div></div></td></tr><tr>
+<td>9</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="PBSuresha_2012_AnEdge">
+<div class="citation">
+Suresha P, Hegde C, Jiang Z, Clifford G. <a href="https://scholar.archive.org/work/3vqggzgikna3nbqe43mkasxuqa/access/wayback/https://www.preprints.org/manuscript/202202.0246/v1/download">An Edge Computing and Ambient Data Capture System. Preprints 2022, 1, 0</a>. 2022.
+</div>
+<div class="bibtex_source"><pre>@misc{PBSuresha_2012_AnEdge,
+    author = "Suresha, PB and Hegde, C and Jiang, Z and Clifford, GD",
+    title = "An Edge Computing and Ambient Data Capture System. Preprints 2022, 1, 0",
+    date = "2022",
+    url = "https://scholar.archive.org/work/3vqggzgikna3nbqe43mkasxuqa/access/wayback/https://www.preprints.org/manuscript/202202.0246/v1/download",
+    pages = "1-10",
+    volume = "19",
+    note = "Publisher: s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affil-iations."
+}
+</pre>
+</div><div class="showbibtex">
+<label for="PBSuresha_2012_AnEdge">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="PBSuresha_2012_AnEdge">[show citation]</label>
 </div></div></td></tr><tr>
 <td>8</td>
 <td><div class="citation_container">
@@ -11473,28 +11534,6 @@ Li Q, Clifford GD. <a href="https://drive.google.com/file/d/1uJPJqYXufV9oBR0BVSe
 </div></div></td></tr><tr>
 <td>10</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="ArvindRaghu_2015_Lessonsfrom">
-<div class="citation">
-Raghu A, Praveen D, Peiris D, Tarassenko L, Clifford GD. <a href="https://drive.google.com/file/d/1dZQWtqrerXf5VJ9sxSVzerOykmUFML6I/view?usp=sharing">"Lessons from the evaluation of a clinical decision support tool for cardiovascular disease risk management in rural india" in <i>Technologies for Development: What is Essential?</i></a>. 2015. pp. 199-209.
-</div>
-<div class="bibtex_source"><pre>@inbook{ArvindRaghu_2015_Lessonsfrom,
-    author = "Raghu, Arvind and Praveen, Devarsetty and Peiris, David and Tarassenko, Lionel and Clifford, Gari D",
-    title = "Lessons from the evaluation of a clinical decision support tool for cardiovascular disease risk management in rural india",
-    date = "2015",
-    booktitle = "Technologies for Development: What is Essential?",
-    url = "https://drive.google.com/file/d/1dZQWtqrerXf5VJ9sxSVzerOykmUFML6I/view?usp=sharing",
-    pages = "199-209",
-    publisher = "Springer International Publishing"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="ArvindRaghu_2015_Lessonsfrom">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="ArvindRaghu_2015_Lessonsfrom">[show citation]</label>
-</div></div></td></tr><tr>
-<td>9</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="Oster_2015">
 <div class="citation">
 Oster J, Clifford GD. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-idWdCeG1CdFp5ZDdiNTY3MDY3XzQ4cldSaUpZ/view?usp=sharing&resourcekey=0-5hHaw4WHQv5zbHKFb9qZ1g">"Signal quality indices for state space electrophysiological signal processing and vice versa" in <i>Advanced State Space Methods for Neural and Clinical Data</i></a>. 2015 September. pp. 345--366. DOI: <a href="https://doi.org/10.1017/cbo9781139941433.016">10.1017/cbo9781139941433.016</a>.
@@ -11516,6 +11555,28 @@ Oster J, Clifford GD. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-idWdC
 </div>
 <div class="hidebibtex">
 <label for="Oster_2015">[show citation]</label>
+</div></div></td></tr><tr>
+<td>9</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="ArvindRaghu_2015_Lessonsfrom">
+<div class="citation">
+Raghu A, Praveen D, Peiris D, Tarassenko L, Clifford GD. <a href="https://drive.google.com/file/d/1dZQWtqrerXf5VJ9sxSVzerOykmUFML6I/view?usp=sharing">"Lessons from the evaluation of a clinical decision support tool for cardiovascular disease risk management in rural india" in <i>Technologies for Development: What is Essential?</i></a>. 2015. pp. 199-209.
+</div>
+<div class="bibtex_source"><pre>@inbook{ArvindRaghu_2015_Lessonsfrom,
+    author = "Raghu, Arvind and Praveen, Devarsetty and Peiris, David and Tarassenko, Lionel and Clifford, Gari D",
+    title = "Lessons from the evaluation of a clinical decision support tool for cardiovascular disease risk management in rural india",
+    date = "2015",
+    booktitle = "Technologies for Development: What is Essential?",
+    url = "https://drive.google.com/file/d/1dZQWtqrerXf5VJ9sxSVzerOykmUFML6I/view?usp=sharing",
+    pages = "199-209",
+    publisher = "Springer International Publishing"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="ArvindRaghu_2015_Lessonsfrom">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="ArvindRaghu_2015_Lessonsfrom">[show citation]</label>
 </div></div></td></tr><tr>
 <td>8</td>
 <td><div class="citation_container">
@@ -12095,7 +12156,28 @@ Clifford GD. Statistical Conformal Field Theory and Information Loss in the Reno
 
 <table>
 <tr>
-<td>28</td>
+<td>31</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="MameMadjigueneKA_2024_11_20_Promotionof">
+<div class="citation">
+KA MM, Gaye ND, Ahadzi D, Baker-Smith CM, Ndao SCT, Wambugu V, Singh G, Gueye K, Seck D, Dia K, Allen NB, Ba A, Mboup WN, Yassine R, Guiss<span class="bibtex-protected">é</span> PM, Anne M, Aw F, B<span class="bibtex-protected">è</span>ye SM, Diouf MT, Diaw M, Belkhadir J, Wone I, Kohen JE, Mbaye MN, Ngaide AA, Liyong EA, Sougou NM, Lalika M, Ale BM, Jaiteh L, Mekonnen D, Bukachi F, Lorenz T, Ntabadde K, Mampuya W, Houinato D, Kitara DL, Kane A, Seck SM, Fall IS, Tshilolo L, Samb A, Owolabi M, Diouf M, Lamptey R, Kengne AP, Maffia P, Clifford GD, Sattler ELP, Mboup MC, Jobe M, Gaye B. <a href="https://www.sciencedirect.com/science/article/pii/S2772963X24006562">Promotion of cardiovascular health in Africa: the alliance for medical research in Africa (AMedRA) expert panel</a>. 2024 November 20.
+</div>
+<div class="bibtex_source"><pre>@misc{MameMadjigueneKA_2024_11_20_Promotionof,
+    author = {KA, Mame Madjiguene and Gaye, Ngone Diaba and Ahadzi, Dzifa and Baker-Smith, Carissa M and Ndao, Serigne Cheikh Tidiane and Wambugu, Vivien and Singh, Gurbinder and Gueye, Khadidiatou and Seck, Daouda and Dia, Khadidiatou and Allen, Norrina Bai and Ba, Awa and Mboup, Waly Niang and Yassine, Rabab and Guiss{\'e}, Pape Momar and Anne, Malick and Aw, Fatou and B{\`e}ye, Serigne Mor and Diouf, Marguerite Tening and Diaw, Mor and Belkhadir, Jamal and Wone, Issa and Kohen, Jamal Eddine and Mbaye, Ma{\"\i}mouna Ndour and Ngaide, Aliou Alassane and Liyong, Elisabeth Alice and Sougou, Ndeye Mari{\`e}me and Lalika, Mathias and Ale, Boni Maxime and Jaiteh, Lamin and Mekonnen, Demeke and Bukachi, Fred and Lorenz, Thiess and Ntabadde, Kauthrah and Mampuya, Warner and Houinato, Dismand and Kitara, David Lagoro and Kane, Abdoul and Seck, Sidy Mouhamed and Fall, Ibrahima Soc{\'e} and Tshilolo, L{\'e}on and Samb, Abdoulaye and Owolabi, Mayowa and Diouf, Massamba and Lamptey, Roberta and Kengne, Andr{\'e} Pascal and Maffia, Pasquale and Clifford, Gari D and Sattler, Elisabeth Lilian Pia and Mboup, Mouhamed Ch{\'e}rif and Jobe, Modou and Gaye, Bamba},
+    title = "Promotion of cardiovascular health in Africa: the alliance for medical research in Africa (AMedRA) expert panel",
+    date = "2024-11-20",
+    url = "https://www.sciencedirect.com/science/article/pii/S2772963X24006562",
+    pages = "101376",
+    note = "Publisher: Elsevier"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="MameMadjigueneKA_2024_11_20_Promotionof">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="MameMadjigueneKA_2024_11_20_Promotionof">[show citation]</label>
+</div></div></td></tr><tr>
+<td>30</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="WeitaoTang_2024_AdvancingFetal">
 <div class="citation">
@@ -12115,7 +12197,7 @@ Tang W, Tran N, Katebi N, Sameni R, Clifford GD, Walker D, Horlali V, Taylor C, 
 <div class="hidebibtex">
 <label for="WeitaoTang_2024_AdvancingFetal">[show citation]</label>
 </div></div></td></tr><tr>
-<td>27</td>
+<td>29</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="XingyaoWang_2021_06_ParoxysmalAtrial">
 <div class="citation">
@@ -12135,7 +12217,7 @@ Wang X, Ma C, Zhang X, Gao H, Clifford GD, Liu C. <a href="https://www.physionet
 <div class="hidebibtex">
 <label for="XingyaoWang_2021_06_ParoxysmalAtrial">[show citation]</label>
 </div></div></td></tr><tr>
-<td>26</td>
+<td>28</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="BMoody_2020_Mimiciiiwaveform">
 <div class="citation">
@@ -12155,6 +12237,46 @@ Moody B, Moody G, Villarroel M, Clifford G, Silva I. <a href="https://scholar.go
 </div>
 <div class="hidebibtex">
 <label for="BMoody_2020_Mimiciiiwaveform">[show citation]</label>
+</div></div></td></tr><tr>
+<td>27</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="AhmedAbbasi_2018_08_01_MakeFairness">
+<div class="citation">
+Abbasi A, Li J, Clifford GD, Taylor HA. <a href="https://scholar.google.com/scholar?cluster=4776412726756249453&hl=en&oi=scholarr">Make 'fairness by design' part of machine learning</a>. 2018 August 1.
+</div>
+<div class="bibtex_source"><pre>@misc{AhmedAbbasi_2018_08_01_MakeFairness,
+    author = "Abbasi, Ahmed and Li, Jingjing and Clifford, Gari D and Taylor, Herman A",
+    title = "Make 'fairness by design' part of machine learning",
+    date = "2018-08-01",
+    url = "https://scholar.google.com/scholar?cluster=4776412726756249453\&hl=en\&oi=scholarr",
+    pages = "https://hbr.org/2018/08/make-fairness-by",
+    number = "https://hbr.org/2018/08/make-fairness-by"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="AhmedAbbasi_2018_08_01_MakeFairness">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="AhmedAbbasi_2018_08_01_MakeFairness">[show citation]</label>
+</div></div></td></tr><tr>
+<td>26</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="ShriBHAnilKumar_2018_07_17_Theteam">
+<div class="citation">
+Kumar SBA, Buchman T, Clifford GD, Nemati S, Li Q, Arar B, Stanley M, Holder A, Koppisetty V, Prajwal S. <a href="http://nidm.gov.in/pdf/trgreports/2018/july/17-18_nidm.pdf">The team</a>. 2018 July 17.
+</div>
+<div class="bibtex_source"><pre>@misc{ShriBHAnilKumar_2018_07_17_Theteam,
+    author = "Kumar, Shri BH Anil and Buchman, Tim and Clifford, Gari D and Nemati, Shamim and Li, Qiao and Arar, Benjamin and Stanley, Matt and Holder, Andre and Koppisetty, Veera and Prajwal, Supreeth",
+    title = "The team",
+    date = "2018-07-17",
+    url = "http://nidm.gov.in/pdf/trgreports/2018/july/17-18\_nidm.pdf"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="ShriBHAnilKumar_2018_07_17_Theteam">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="ShriBHAnilKumar_2018_07_17_Theteam">[show citation]</label>
 </div></div></td></tr><tr>
 <td>25</td>
 <td><div class="citation_container">
@@ -12198,46 +12320,6 @@ Liu C, Lehman L, Moody B, Li Q, Clifford G. <a href="https://drive.google.com/fi
 </div></div></td></tr><tr>
 <td>23</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="AhmedAbbasi_2018_08_01_MakeFairness">
-<div class="citation">
-Abbasi A, Li J, Clifford GD, Taylor HA. <a href="https://scholar.google.com/scholar?cluster=4776412726756249453&hl=en&oi=scholarr">Make 'fairness by design' part of machine learning</a>. 2018 August 1.
-</div>
-<div class="bibtex_source"><pre>@misc{AhmedAbbasi_2018_08_01_MakeFairness,
-    author = "Abbasi, Ahmed and Li, Jingjing and Clifford, Gari D and Taylor, Herman A",
-    title = "Make 'fairness by design' part of machine learning",
-    date = "2018-08-01",
-    url = "https://scholar.google.com/scholar?cluster=4776412726756249453\&hl=en\&oi=scholarr",
-    pages = "https://hbr.org/2018/08/make-fairness-by",
-    number = "https://hbr.org/2018/08/make-fairness-by"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="AhmedAbbasi_2018_08_01_MakeFairness">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="AhmedAbbasi_2018_08_01_MakeFairness">[show citation]</label>
-</div></div></td></tr><tr>
-<td>22</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="ShriBHAnilKumar_2018_07_17_Theteam">
-<div class="citation">
-Kumar SBA, Buchman T, Clifford GD, Nemati S, Li Q, Arar B, Stanley M, Holder A, Koppisetty V, Prajwal S. <a href="http://nidm.gov.in/pdf/trgreports/2018/july/17-18_nidm.pdf">The team</a>. 2018 July 17.
-</div>
-<div class="bibtex_source"><pre>@misc{ShriBHAnilKumar_2018_07_17_Theteam,
-    author = "Kumar, Shri BH Anil and Buchman, Tim and Clifford, Gari D and Nemati, Shamim and Li, Qiao and Arar, Benjamin and Stanley, Matt and Holder, Andre and Koppisetty, Veera and Prajwal, Supreeth",
-    title = "The team",
-    date = "2018-07-17",
-    url = "http://nidm.gov.in/pdf/trgreports/2018/july/17-18\_nidm.pdf"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="ShriBHAnilKumar_2018_07_17_Theteam">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="ShriBHAnilKumar_2018_07_17_Theteam">[show citation]</label>
-</div></div></td></tr><tr>
-<td>21</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GiuliaDaPoian_2017_03_23_Exploitingsparsity">
 <div class="citation">
 Poian GD. <a href="https://air.uniud.it/retrieve/e27ce0c5-623c-055e-e053-6605fe0a7873/10990_793_dapoian_phdthesis_final.pdf">Exploiting sparsity for efficient compression and analysis of ECG and fetal-ECG signals</a>. 2017 March 23.
@@ -12256,7 +12338,7 @@ Poian GD. <a href="https://air.uniud.it/retrieve/e27ce0c5-623c-055e-e053-6605fe0
 <div class="hidebibtex">
 <label for="GiuliaDaPoian_2017_03_23_Exploitingsparsity">[show citation]</label>
 </div></div></td></tr><tr>
-<td>20</td>
+<td>22</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ArvindRaghuArvindRaghu_2015_11_04_Implicationsof">
 <div class="citation">
@@ -12278,7 +12360,7 @@ Raghu ARA, Praveen DPD, Peiris D, Tarassenko L, Clifford G. <a href="https://www
 <div class="hidebibtex">
 <label for="ArvindRaghuArvindRaghu_2015_11_04_Implicationsof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>19</td>
+<td>21</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="TTZhu_2015_05_27_Theframework">
 <div class="citation">
@@ -12297,7 +12379,7 @@ Zhu T, Dunkley N, Behar J, Clifton D, Clifford G, Pimentel M. <a href="https://w
 <div class="hidebibtex">
 <label for="TTZhu_2015_05_27_Theframework">[show citation]</label>
 </div></div></td></tr><tr>
-<td>18</td>
+<td>20</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GlennSteeleJr_2015_04_02_USHealthcare">
 <div class="citation">
@@ -12316,7 +12398,7 @@ Jr GS, Erskine A, Clifford GD, Braunstein M, Simpson DR. <a href="https://www.hi
 <div class="hidebibtex">
 <label for="GlennSteeleJr_2015_04_02_USHealthcare">[show citation]</label>
 </div></div></td></tr><tr>
-<td>17</td>
+<td>19</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShannonFischer_2014_09_IEEEpULse">
 <div class="citation">
@@ -12335,7 +12417,7 @@ Fischer S, Grifantini K, Clifford GD, Gederi E, Heneghan C, Hirshkowitz M, Jan<s
 <div class="hidebibtex">
 <label for="ShannonFischer_2014_09_IEEEpULse">[show citation]</label>
 </div></div></td></tr><tr>
-<td>16</td>
+<td>18</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MaximOsipov_2014_08_14_Towardsautomated">
 <div class="citation">
@@ -12354,7 +12436,7 @@ Osipov M, Clifford GD. <a href="https://arxiv.org/pdf/1908.06013.pdf">Towards au
 <div class="hidebibtex">
 <label for="MaximOsipov_2014_08_14_Towardsautomated">[show citation]</label>
 </div></div></td></tr><tr>
-<td>15</td>
+<td>17</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LouisMayaud_2012_10_11_GeneticAlgorithm">
 <div class="citation">
@@ -12373,7 +12455,7 @@ Mayaud L, Tarassenko L, Clifford GD. <a href="https://www.researchgate.net/profi
 <div class="hidebibtex">
 <label for="LouisMayaud_2012_10_11_GeneticAlgorithm">[show citation]</label>
 </div></div></td></tr><tr>
-<td>14</td>
+<td>16</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MohammedSaeed_2011_MIMICIIClinical">
 <div class="citation">
@@ -12395,7 +12477,7 @@ Saeed M, Villarroel M, Reisner A, Clifford GD, Lehman L, Moody G, Heldt T, Kyaw 
 <div class="hidebibtex">
 <label for="MohammedSaeed_2011_MIMICIIClinical">[show citation]</label>
 </div></div></td></tr><tr>
-<td>13</td>
+<td>15</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="KatherineLKuan_2010_Aframework">
 <div class="citation">
@@ -12414,7 +12496,7 @@ Kuan KL, Szolovits P, Clifford GD. <a href="https://dspace.mit.edu/handle/1721.1
 <div class="hidebibtex">
 <label for="KatherineLKuan_2010_Aframework">[show citation]</label>
 </div></div></td></tr><tr>
-<td>12</td>
+<td>14</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GClifford_2010_Userguide">
 <div class="citation">
@@ -12433,7 +12515,7 @@ Clifford G, Scott D, Villarroel M. <a href="https://archive.physionet.org/mimic2
 <div class="hidebibtex">
 <label for="GClifford_2010_Userguide">[show citation]</label>
 </div></div></td></tr><tr>
-<td>11</td>
+<td>13</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariClifford_2008_TheEmerging">
 <div class="citation">
@@ -12452,7 +12534,7 @@ Clifford GD. <a href="https://d1wqtxts1xzle7.cloudfront.net/30707561/lec14_gari-
 <div class="hidebibtex">
 <label for="GariClifford_2008_TheEmerging">[show citation]</label>
 </div></div></td></tr><tr>
-<td>10</td>
+<td>12</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GDClifford_2007_Coursematerials">
 <div class="citation">
@@ -12471,6 +12553,51 @@ Clifford G. <a href="https://scholar.google.com/scholar?cluster=4552201191896152
 </div>
 <div class="hidebibtex">
 <label for="GDClifford_2007_Coursematerials">[show citation]</label>
+</div></div></td></tr><tr>
+<td>11</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="GariDClifford_2006_12_01_Reviewof">
+<div class="citation">
+Clifford GD. <a href="https://drive.google.com/file/d/1LzA_LAXMbf0F09EPN8WEZpOTr5zS-pDT/view?usp=sharing">Review of "Biomedical Informatics; Computer Applications in Health Care and Biomedicine" by Shortliffe Edward H, Cimino James J</a>. 2006 November 21. DOI: <a href="https://doi.org/10.1186/1475-925X-5-61">10.1186/1475-925X-5-61</a>.
+</div>
+<div class="bibtex_source"><pre>@misc{GariDClifford_2006_12_01_Reviewof,
+    author = "Clifford, Gari D",
+    title = {Review of {"}Biomedical Informatics; Computer Applications in Health Care and Biomedicine{"} by Shortliffe Edward H, Cimino James J},
+    date = "2006-11-21",
+    issue = "1",
+    journal = "BioMedical Engineering OnLine",
+    pages = "1-3",
+    volume = "5",
+    url = "https://drive.google.com/file/d/1LzA\_LAXMbf0F09EPN8WEZpOTr5zS-pDT/view?usp=sharing",
+    doi = "10.1186/1475-925X-5-61",
+    note = "Publisher: BioMed Central"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="GariDClifford_2006_12_01_Reviewof">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="GariDClifford_2006_12_01_Reviewof">[show citation]</label>
+</div></div></td></tr><tr>
+<td>10</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="PEMcSharry_2006_03_ECGSYNarealistic">
+<div class="citation">
+McSharry P, Clifford G. <a href="https://scholar.google.com/scholar?cluster=1830149091360830882&hl=en&oi=scholarr">ECGSYN-a realistic ECG waveform generator</a>. 2006 March.
+</div>
+<div class="bibtex_source"><pre>@misc{PEMcSharry_2006_03_ECGSYNarealistic,
+    author = "McSharry, PE and Clifford, GD",
+    title = "ECGSYN-a realistic ECG waveform generator",
+    date = "2006-03",
+    url = "https://scholar.google.com/scholar?cluster=1830149091360830882\&hl=en\&oi=scholarr",
+    volume = "10"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="PEMcSharry_2006_03_ECGSYNarealistic">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="PEMcSharry_2006_03_ECGSYNarealistic">[show citation]</label>
 </div></div></td></tr><tr>
 <td>9</td>
 <td><div class="citation_container">
@@ -12554,50 +12681,25 @@ Clifford GD. Ectopic Beats, Activity Effects and Heart Rate Turbulence. 2006.
 </div></div></td></tr><tr>
 <td>5</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="GariDClifford_2006_12_01_Reviewof">
+<input type="checkbox" class="toggle-button" id="GDClifford_2005_04_07_Fetal">
 <div class="citation">
-Clifford GD. <a href="https://drive.google.com/file/d/1LzA_LAXMbf0F09EPN8WEZpOTr5zS-pDT/view?usp=sharing">Review of "Biomedical Informatics; Computer Applications in Health Care and Biomedicine" by Shortliffe Edward H, Cimino James J</a>. 2006 November 21. DOI: <a href="https://doi.org/10.1186/1475-925X-5-61">10.1186/1475-925X-5-61</a>.
+Clifford G. <a href="https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=a89a40c9d66dab5c9ed99443c122910f36afbf94">Fetal & Maternal ECG Blind Source Separation Lab</a>. 2005 April 7.
 </div>
-<div class="bibtex_source"><pre>@misc{GariDClifford_2006_12_01_Reviewof,
-    author = "Clifford, Gari D",
-    title = {Review of {"}Biomedical Informatics; Computer Applications in Health Care and Biomedicine{"} by Shortliffe Edward H, Cimino James J},
-    date = "2006-11-21",
-    issue = "1",
-    journal = "BioMedical Engineering OnLine",
-    pages = "1-3",
-    volume = "5",
-    url = "https://drive.google.com/file/d/1LzA\_LAXMbf0F09EPN8WEZpOTr5zS-pDT/view?usp=sharing",
-    doi = "10.1186/1475-925X-5-61",
-    note = "Publisher: BioMed Central"
+<div class="bibtex_source"><pre>@misc{GDClifford_2005_04_07_Fetal,
+    author = "Clifford, GD",
+    title = "Fetal {\\&} Maternal ECG Blind Source Separation Lab",
+    date = "2005-04-07",
+    url = "https://citeseerx.ist.psu.edu/document?repid=rep1\&type=pdf\&doi=a89a40c9d66dab5c9ed99443c122910f36afbf94",
+    note = "Publisher: April"
 }
 </pre>
 </div><div class="showbibtex">
-<label for="GariDClifford_2006_12_01_Reviewof">[show BibTeX]</label>
+<label for="GDClifford_2005_04_07_Fetal">[show BibTeX]</label>
 </div>
 <div class="hidebibtex">
-<label for="GariDClifford_2006_12_01_Reviewof">[show citation]</label>
+<label for="GDClifford_2005_04_07_Fetal">[show citation]</label>
 </div></div></td></tr><tr>
 <td>4</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="PEMcSharry_2006_03_ECGSYNarealistic">
-<div class="citation">
-McSharry P, Clifford G. <a href="https://scholar.google.com/scholar?cluster=1830149091360830882&hl=en&oi=scholarr">ECGSYN-a realistic ECG waveform generator</a>. 2006 March.
-</div>
-<div class="bibtex_source"><pre>@misc{PEMcSharry_2006_03_ECGSYNarealistic,
-    author = "McSharry, PE and Clifford, GD",
-    title = "ECGSYN-a realistic ECG waveform generator",
-    date = "2006-03",
-    url = "https://scholar.google.com/scholar?cluster=1830149091360830882\&hl=en\&oi=scholarr",
-    volume = "10"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="PEMcSharry_2006_03_ECGSYNarealistic">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="PEMcSharry_2006_03_ECGSYNarealistic">[show citation]</label>
-</div></div></td></tr><tr>
-<td>3</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2005_01_BlindSource">
 <div class="citation">
@@ -12617,25 +12719,43 @@ Clifford GD. <a href="https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf
 <div class="hidebibtex">
 <label for="GariDClifford_2005_01_BlindSource">[show citation]</label>
 </div></div></td></tr><tr>
-<td>2</td>
+<td>3</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="GDClifford_2005_04_07_Fetal">
+<input type="checkbox" class="toggle-button" id="ArjunMalpani_UnknownDate_ATransfer">
 <div class="citation">
-Clifford G. <a href="https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=a89a40c9d66dab5c9ed99443c122910f36afbf94">Fetal & Maternal ECG Blind Source Separation Lab</a>. 2005 April 7.
+Malpani A, Xue J, Albert D, Clifford G. <a href="https://cinc.org/archives/2024/pdf/CinC2024-357.pdf">A Transfer Learning Model-Based Patient-Specific ECG Lead Synthesis Algorithm</a>. No Date.
 </div>
-<div class="bibtex_source"><pre>@misc{GDClifford_2005_04_07_Fetal,
-    author = "Clifford, GD",
-    title = "Fetal {\\&} Maternal ECG Blind Source Separation Lab",
-    date = "2005-04-07",
-    url = "https://citeseerx.ist.psu.edu/document?repid=rep1\&type=pdf\&doi=a89a40c9d66dab5c9ed99443c122910f36afbf94",
-    note = "Publisher: April"
+<div class="bibtex_source"><pre>@misc{ArjunMalpani_UnknownDate_ATransfer,
+    author = "Malpani, Arjun and Xue, Joel and Albert, David and Clifford, Gari",
+    title = "A Transfer Learning Model-Based Patient-Specific ECG Lead Synthesis Algorithm",
+    date = "No Date",
+    url = "https://cinc.org/archives/2024/pdf/CinC2024-357.pdf"
 }
 </pre>
 </div><div class="showbibtex">
-<label for="GDClifford_2005_04_07_Fetal">[show BibTeX]</label>
+<label for="ArjunMalpani_UnknownDate_ATransfer">[show BibTeX]</label>
 </div>
 <div class="hidebibtex">
-<label for="GDClifford_2005_04_07_Fetal">[show citation]</label>
+<label for="ArjunMalpani_UnknownDate_ATransfer">[show citation]</label>
+</div></div></td></tr><tr>
+<td>2</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="JoelXue_UnknownDate_Doesa">
+<div class="citation">
+Xue J, Dwivedi T, Barnett K, Vlasenko A, Kirsch M, Parekh A, Yuan R, Clifford G, Albert D. <a href="https://cinc.org/archives/2024/pdf/CinC2024-473.pdf">Does a Reduced ECG Lead Set Contain the Full 12-lead ECG Information for Interpretation?</a>. No Date.
+</div>
+<div class="bibtex_source"><pre>@misc{JoelXue_UnknownDate_Doesa,
+    author = "Xue, Joel and Dwivedi, Trisha and Barnett, Kim and Vlasenko, Aleksandr and Kirsch, Miguel and Parekh, Aarya and Yuan, Reena and Clifford, Gari and Albert, David",
+    title = "Does a Reduced ECG Lead Set Contain the Full 12-lead ECG Information for Interpretation?",
+    date = "No Date",
+    url = "https://cinc.org/archives/2024/pdf/CinC2024-473.pdf"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="JoelXue_UnknownDate_Doesa">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="JoelXue_UnknownDate_Doesa">[show citation]</label>
 </div></div></td></tr><tr>
 <td>1</td>
 <td><div class="citation_container">
