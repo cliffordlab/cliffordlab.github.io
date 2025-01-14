@@ -15,15 +15,15 @@ permalink: /publications
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AlbertJRogers_2025_01_11_Identificationof">
 <div class="citation">
-Rogers AJ, Bhatia NK, Bandyopadhyay S, Tooley J, Ansari R, Thakkar V, Xu J, Soto JT, Tung JS, Alhusseini MI, Clopton P, Sameni R, Clifford GD, Hughes JW, Ashley EA, Perez MV, Zaharia M, Narayan SM. <a href="https://www.nature.com/articles/s41746-024-01407-y">Identification of cardiac wall motion abnormalities in diverse populations by deep learning of the electrocardiogram</a>. npj Digital Medicine 2025 January 11; 8 (1): p. 21.
+Rogers AJ, Bhatia NK, Bandyopadhyay S, Tooley J, Ansari R, Thakkar V, Xu J, Soto JT, Tung JS, Alhusseini MI, Clopton P, Sameni R, Clifford GD, Hughes JW, Ashley EA, Perez MV, Zaharia M, Narayan SM. <a href="https://drive.google.com/file/d/1-9u6SaczzL0UDRRTavoC0-wngv_lvyGb/view?usp=sharing">Identification of cardiac wall motion abnormalities in diverse populations by deep learning of the electrocardiogram</a>. NPJ Digital Medicine 2025 January 11; 8 (1): p. 21.
 </div>
 <div class="bibtex_source"><pre>@article{AlbertJRogers_2025_01_11_Identificationof,
     author = "Rogers, Albert J and Bhatia, Neal K and Bandyopadhyay, Sabyasachi and Tooley, James and Ansari, Rayan and Thakkar, Vyom and Xu, Justin and Soto, Jessica Torres and Tung, Jagteshwar S and Alhusseini, Mahmood I and Clopton, Paul and Sameni, Reza and Clifford, Gari D and Hughes, J Weston and Ashley, Euan A and Perez, Marco V and Zaharia, Matei and Narayan, Sanjiv M",
     title = "Identification of cardiac wall motion abnormalities in diverse populations by deep learning of the electrocardiogram",
     date = "2025-01-11",
     issue = "1",
-    journal = "npj Digital Medicine",
-    url = "https://www.nature.com/articles/s41746-024-01407-y",
+    journal = "NPJ Digital Medicine",
+    url = "https://drive.google.com/file/d/1-9u6SaczzL0UDRRTavoC0-wngv\_lvyGb/view?usp=sharing",
     pages = "21",
     volume = "8",
     note = "Publisher: Nature Publishing Group UK"
