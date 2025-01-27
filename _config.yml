@@ -64,6 +64,7 @@ header_pages:
   - info.md
   - jobs.md
   - ethics.md
+  - rand()
 
 people_pages:
   - people/gari/index.md
