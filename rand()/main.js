@@ -18,7 +18,7 @@ const strategies = [
 "Ask your body",
 "Assemble some of the instruments in a group and treat the group",
 "Balance the consistency principle with the inconsistency principle",
-"Be dirty",
+"Add noise or dirt",
 "Breathe more deeply",
 "Bridges -build -burn",
 "Cascades",
@@ -57,7 +57,7 @@ const strategies = [
     "Get your neck massaged",
 "Ghost echoes",
 "Give the game away",
-"Give way to your worst impulse",
+"Give way to an impulse",
 "Go slowly all the way round the outside",
 "Honor thy error as a hidden intention",
 "How would you have done it?",
@@ -110,7 +110,7 @@ const strategies = [
 "Use fewer notes",
 "Use filters",
 "Use 'unqualified' people",
-    "Short circuit (example; a man eating peas with the idea that they will improve his virility shovels them straight into his lap)",
+    "Short circuit",
 "Water",
 "What are you really thinking about just now? Incorporate",
     "What is the reality of the situation?",
@@ -121,7 +121,7 @@ const strategies = [
 "You are an engineer",
 "You can only make one dot at a time",
 "You don't have to be ashamed of using your own ideas",
-    ""
+    "Do nothing"
 ]
 
 //test font size
