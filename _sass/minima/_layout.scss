@@ -380,6 +380,7 @@ table {border-collapse: collapse;}
   }
 
   #link-list {
+    z-index: 2;
   	max-height: 0;
   	overflow-y: hidden;
   	display: block;
