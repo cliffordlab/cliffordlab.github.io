@@ -11112,6 +11112,27 @@ Roeckner A, Lin ER, Hinrichs R, Harnett NG, Lebois L, Rooij SJ, Ely TD, Jovanovi
 </div></div></td></tr><tr>
 <td>22</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="StephanieHaering_2023_08_Sexdependentdifferences">
+<div class="citation">
+Haering S, Seligowski AV, Linnstaedt SD, Michopoulos V, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Gentile NT, Hudak LA, Pascual JL, Seamon MJ, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sanchez LD, Bruce SE, Harte SE, McLean SA, Kessler RC, Koenen KC, Stevens JS, Powers A. <a href="https://psyarxiv.com/57vjw/">Sex-dependent differences in vulnerability to early risk factors for posttraumatic stress disorder: results from the AURORA study</a>. 2023 August. DOI: <a href="https://doi.org/10.31234/osf.io">10.31234/osf.io</a>.
+</div>
+<div class="bibtex_source"><pre>@unpublished{StephanieHaering_2023_08_Sexdependentdifferences,
+    author = "Haering, Stephanie and Seligowski, Antonia V and Linnstaedt, Sarah D and Michopoulos, Vasiliki and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Neylan, Thomas C and Clifford, Gari D and Germine, Laura T and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and Gentile, Nina T and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sanchez, Leon D and Bruce, Steven E and Harte, Steven E and McLean, Samuel A and Kessler, Ronald C and Koenen, Karestan C and Stevens, Jennifer S and Powers, Abigail",
+    title = "Sex-dependent differences in vulnerability to early risk factors for posttraumatic stress disorder: results from the AURORA study",
+    date = "2023-08",
+    url = "https://psyarxiv.com/57vjw/",
+    note = "Publisher: PsyArXiv",
+    doi = "10.31234/osf.io/vyz9p"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="StephanieHaering_2023_08_Sexdependentdifferences">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="StephanieHaering_2023_08_Sexdependentdifferences">[show citation]</label>
+</div></div></td></tr><tr>
+<td>21</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="EdilbertoAmorim_2023_08_28_TheInternational">
 <div class="citation">
 Amorim E, Zheng W, Ghassemi MM, Aghaeeaval M, Kandhare P, Karukonda V, Lee JW, Herman ST, Sivaraju A, Gaspard N, Hofmeijer J, Putten MJ, Sameni R, Reyna MA, Clifford GD, Westover MB. <a href="https://www.medrxiv.org/content/10.1101/2023.08.28.23294672v1.full.pdf">The International Cardiac Arrest Research (I-CARE) Consortium Electroencephalography Database</a>. 2023 August 28. DOI: <a href="https://doi.org/10.1101/2023.08.28.23294672">10.1101/2023.08.28.23294672</a>.
@@ -11131,27 +11152,6 @@ Amorim E, Zheng W, Ghassemi MM, Aghaeeaval M, Kandhare P, Karukonda V, Lee JW, H
 </div>
 <div class="hidebibtex">
 <label for="EdilbertoAmorim_2023_08_28_TheInternational">[show citation]</label>
-</div></div></td></tr><tr>
-<td>21</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="StephanieHaering_2023_08_Sexdependentdifferences">
-<div class="citation">
-Haering S, Seligowski AV, Linnstaedt SD, Michopoulos V, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Gentile NT, Hudak LA, Pascual JL, Seamon MJ, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sanchez LD, Bruce SE, Harte SE, McLean SA, Kessler RC, Koenen KC, Stevens JS, Powers A. <a href="https://psyarxiv.com/57vjw/">Sex-dependent differences in vulnerability to early risk factors for posttraumatic stress disorder: results from the AURORA study</a>. 2023 August. DOI: <a href="https://doi.org/10.31234/osf.io">10.31234/osf.io</a>.
-</div>
-<div class="bibtex_source"><pre>@unpublished{StephanieHaering_2023_08_Sexdependentdifferences,
-    author = "Haering, Stephanie and Seligowski, Antonia V and Linnstaedt, Sarah D and Michopoulos, Vasiliki and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Neylan, Thomas C and Clifford, Gari D and Germine, Laura T and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and Gentile, Nina T and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sanchez, Leon D and Bruce, Steven E and Harte, Steven E and McLean, Samuel A and Kessler, Ronald C and Koenen, Karestan C and Stevens, Jennifer S and Powers, Abigail",
-    title = "Sex-dependent differences in vulnerability to early risk factors for posttraumatic stress disorder: results from the AURORA study",
-    date = "2023-08",
-    url = "https://psyarxiv.com/57vjw/",
-    note = "Publisher: PsyArXiv",
-    doi = "10.31234/osf.io/vyz9p"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="StephanieHaering_2023_08_Sexdependentdifferences">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="StephanieHaering_2023_08_Sexdependentdifferences">[show citation]</label>
 </div></div></td></tr><tr>
 <td>20</td>
 <td><div class="citation_container">
@@ -11363,28 +11363,6 @@ Ding C, Guo Z, Shah A, Clifford GD, Rudin C, Hu X. <a href="https://arxiv.org/ab
 </div></div></td></tr><tr>
 <td>10</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="NasimKatebi_2022_01_28_DeepSequence">
-<div class="citation">
-Katebi N, Clifford GD. <a href="https://www.medrxiv.org/content/10.1101/2022.01.26.22269921.abstract">Deep Sequence Learning for Assessing Hypertension in Pregnancy from Doppler Signals</a>. medRxiv 2022 January 28; p. 2022.01. 26.22269921.
-</div>
-<div class="bibtex_source"><pre>@article{NasimKatebi_2022_01_28_DeepSequence,
-    author = "Katebi, Nasim and Clifford, Gari D",
-    title = "Deep Sequence Learning for Assessing Hypertension in Pregnancy from Doppler Signals",
-    date = "2022-01-28",
-    journal = "medRxiv",
-    url = "https://www.medrxiv.org/content/10.1101/2022.01.26.22269921.abstract",
-    pages = "2022.01. 26.22269921",
-    note = "Publisher: Cold Spring Harbor Laboratory Press"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="NasimKatebi_2022_01_28_DeepSequence">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="NasimKatebi_2022_01_28_DeepSequence">[show citation]</label>
-</div></div></td></tr><tr>
-<td>9</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="PBSuresha_2012_AnEdge">
 <div class="citation">
 Suresha P, Hegde C, Jiang Z, Clifford G. <a href="https://scholar.archive.org/work/3vqggzgikna3nbqe43mkasxuqa/access/wayback/https://www.preprints.org/manuscript/202202.0246/v1/download">An Edge Computing and Ambient Data Capture System. Preprints 2022, 1, 0</a>. 2022.
@@ -11404,6 +11382,28 @@ Suresha P, Hegde C, Jiang Z, Clifford G. <a href="https://scholar.archive.org/wo
 </div>
 <div class="hidebibtex">
 <label for="PBSuresha_2012_AnEdge">[show citation]</label>
+</div></div></td></tr><tr>
+<td>9</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="NasimKatebi_2022_01_28_DeepSequence">
+<div class="citation">
+Katebi N, Clifford GD. <a href="https://www.medrxiv.org/content/10.1101/2022.01.26.22269921.abstract">Deep Sequence Learning for Assessing Hypertension in Pregnancy from Doppler Signals</a>. medRxiv 2022 January 28; p. 2022.01. 26.22269921.
+</div>
+<div class="bibtex_source"><pre>@article{NasimKatebi_2022_01_28_DeepSequence,
+    author = "Katebi, Nasim and Clifford, Gari D",
+    title = "Deep Sequence Learning for Assessing Hypertension in Pregnancy from Doppler Signals",
+    date = "2022-01-28",
+    journal = "medRxiv",
+    url = "https://www.medrxiv.org/content/10.1101/2022.01.26.22269921.abstract",
+    pages = "2022.01. 26.22269921",
+    note = "Publisher: Cold Spring Harbor Laboratory Press"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="NasimKatebi_2022_01_28_DeepSequence">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="NasimKatebi_2022_01_28_DeepSequence">[show citation]</label>
 </div></div></td></tr><tr>
 <td>8</td>
 <td><div class="citation_container">
