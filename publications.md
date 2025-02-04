@@ -11,6 +11,26 @@ permalink: /publications
 
 <table>
 <tr>
+<td>278</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="MohammadSendi_2024_03_08_Braindynamics">
+<div class="citation">
+Sendi M, Fu Z, Harnett N, Rooij S, Vergara V, Pizzagalli D, Daskalakis N, House S, Beaudoin F, An X, Neylan T, Clifford GD, Jovanovic T, Linnstaedt S, Germine L, Bollen K, Rauch S, Haran J, Storrow A, Lewandowski C, Jr PM, Hendry P, Sheikh S, Jones C, Punches B, Swor R, Gentile N, Murty V, Hudak L, Pascual J, Seamon M, Harris E, Chang A, Pearson C, Peak D, Merchant R, Domeier R, Rathlev N, O'Neil B, Sergot P, Sanchez L, Bruce S, Sheridan J, Harte S, Kessler R, Koenen K, McLean S, Stevens J, Calhoun V, Ressler K. <a href="https://drive.google.com/file/d/1jZ3dekTFlOJRwKn3rhQO88h9r81YO7SX/view?usp=sharing">Brain dynamics reflecting an intra-network brain state is associated with increased posttraumatic stress symptoms in the early aftermath of trauma</a>. Nature Mental Health 2025 October 20.
+</div>
+<div class="bibtex_source"><pre>@article{MohammadSendi_2024_03_08_Braindynamics,
+    author = "Sendi, Mohammad and Fu, Zening and Harnett, Nathaniel and van Rooij, Sanne and Vergara, Victor and Pizzagalli, Diego and Daskalakis, Nikolaos and House, Stacey and Beaudoin, Francesca and An, Xinming and Neylan, Thomas and Clifford, Gari D and Jovanovic, Tanja and Linnstaedt, Sarah and Germine, Laura and Bollen, Kenneth and Rauch, Scott and Haran, John and Storrow, Alan and Lewandowski, Christopher and Jr, Paul Musey and Hendry, Phyllis and Sheikh, Sophia and Jones, Christopher and Punches, Brittany and Swor, Robert and Gentile, Nina and Murty, Vishnu and Hudak, Lauren and Pascual, Jose and Seamon, Mark and Harris, Erica and Chang, Anna and Pearson, Claire and Peak, David and Merchant, Roland and Domeier, Robert and Rathlev, Niels and O'Neil, Brian and Sergot, Paulina and Sanchez, Leon and Bruce, Steven and Sheridan, John and Harte, Steven and Kessler, Ronald and Koenen, Karestan and McLean, Samuel and Stevens, Jennifer and Calhoun, Vince and Ressler, Kerry",
+    title = "Brain dynamics reflecting an intra-network brain state is associated with increased posttraumatic stress symptoms in the early aftermath of trauma",
+    date = "2025-10-20",
+    url = "https://drive.google.com/file/d/1jZ3dekTFlOJRwKn3rhQO88h9r81YO7SX/view?usp=sharing",
+    journal = "Nature Mental Health"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="MohammadSendi_2024_03_08_Braindynamics">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="MohammadSendi_2024_03_08_Braindynamics">[show citation]</label>
+</div></div></td></tr><tr>
 <td>277</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AlbertJRogers_2025_01_11_Identificationof">
