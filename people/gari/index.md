@@ -41,7 +41,7 @@ working closely with industry as an advisor to multiple companies,
 co-founding and serving as CTO of an MIT fetal monitoring spin-out 
 (MindChild Medical) since 2009.  Dr. Clifford was elected as a Fellow of 
 the IEEE for contributions to machine learning applications in 
-cardiovascular time series in 2003. 
+cardiovascular time series in 2023. 
 Dr Clifford is also a strong supporter of open-access data and open-source 
 software in medicine, particularly through his leadership of the 
 [PhysioNet/CinC Challenges](https://physionetchallenges.org) and contributions to the PhysioNet Resource over 
