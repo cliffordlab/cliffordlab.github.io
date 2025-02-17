@@ -15,15 +15,16 @@ permalink: /publications
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="HenriMGarrisonDesany_2025_02_07_Multilevelsocioeconomic">
 <div class="citation">
-Garrison-Desany HM, Meyers JL, Linnstaedt SD, Koenen KC, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Jovanovic T, Germine LT, Bollen KA, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Pascual JL, Seamon MJ, Harris E, Pearson C, Peak DA, Domeier RM, Rathlev NK, O<span class="bibtex-protected">\textquoteright </span>Neil BJ, Sergot P, Bruce SE, McLean SA, Denckla CA. <a href="https://link.springer.com/article/10.1007/s00127-025-02821-7">Multi-level socioeconomic modifiers of the comorbidity of post-traumatic stress and tobacco, alcohol, and cannabis use: the importance of income</a>. Social Psychiatry and Psychiatric Epidemiology 2025 February 7; pp. 1-15.
+Garrison-Desany HM, Meyers JL, Linnstaedt SD, Koenen KC, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Jovanovic T, Germine LT, Bollen KA, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Pascual JL, Seamon MJ, Harris E, Pearson C, Peak DA, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Bruce SE, McLean SA, Denckla CA. <a href="https://drive.google.com/file/d/1ewv0BJsOHm93s4PSp_par047i9ud-3rr/view?usp=sharing">Multi-level socioeconomic modifiers of the comorbidity of post-traumatic stress and tobacco, alcohol, and cannabis use: the importance of income</a>. Social Psychiatry and Psychiatric Epidemiology 2025 February 7; pp. 1-15. DOI: <a href="https://doi.org/10.1007/s00127-025-02821-7">10.1007/s00127-025-02821-7</a>.
 </div>
 <div class="bibtex_source"><pre>@article{HenriMGarrisonDesany_2025_02_07_Multilevelsocioeconomic,
-    author = "Garrison-Desany, Henri M and Meyers, Jacquelyn L and Linnstaedt, Sarah D and Koenen, Karestan C and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Neylan, Thomas C and Clifford, Gari D and Jovanovic, Tanja and Germine, Laura T and Bollen, Kenneth A and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Pascual, Jose L and Seamon, Mark J and Harris, Erica and Pearson, Claire and Peak, David A and Domeier, Robert M and Rathlev, Niels K and O{\textquoteright}Neil, Brian J and Sergot, Paulina and Bruce, Steven E and McLean, Samuel A and Denckla, Christy A",
+    author = "Garrison-Desany, Henri M and Meyers, Jacquelyn L and Linnstaedt, Sarah D and Koenen, Karestan C and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Neylan, Thomas C and Clifford, Gari D and Jovanovic, Tanja and Germine, Laura T and Bollen, Kenneth A and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Pascual, Jose L and Seamon, Mark J and Harris, Erica and Pearson, Claire and Peak, David A and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sergot, Paulina and Bruce, Steven E and McLean, Samuel A and Denckla, Christy A",
     title = "Multi-level socioeconomic modifiers of the comorbidity of post-traumatic stress and tobacco, alcohol, and cannabis use: the importance of income",
     date = "2025-02-07",
     journal = "Social Psychiatry and Psychiatric Epidemiology",
-    url = "https://link.springer.com/article/10.1007/s00127-025-02821-7",
+    url = "https://drive.google.com/file/d/1ewv0BJsOHm93s4PSp\_par047i9ud-3rr/view?usp=sharing",
     pages = "1-15",
+    doi = "10.1007/s00127-025-02821-7",
     note = "Publisher: Springer Berlin Heidelberg"
 }
 </pre>
@@ -37,7 +38,7 @@ Garrison-Desany HM, Meyers JL, Linnstaedt SD, Koenen KC, House SL, Beaudoin FL, 
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MohammadSendi_2024_03_08_Braindynamics">
 <div class="citation">
-Sendi M, Fu Z, Harnett N, Rooij S, Vergara V, Pizzagalli D, Daskalakis N, House S, Beaudoin F, An X, Neylan T, Clifford GD, Jovanovic T, Linnstaedt S, Germine L, Bollen K, Rauch S, Haran J, Storrow A, Lewandowski C, Jr PM, Hendry P, Sheikh S, Jones C, Punches B, Swor R, Gentile N, Murty V, Hudak L, Pascual J, Seamon M, Harris E, Chang A, Pearson C, Peak D, Merchant R, Domeier R, Rathlev N, O'Neil B, Sergot P, Sanchez L, Bruce S, Sheridan J, Harte S, Kessler R, Koenen K, McLean S, Stevens J, Calhoun V, Ressler K. <a href="https://drive.google.com/file/d/1jZ3dekTFlOJRwKn3rhQO88h9r81YO7SX/view?usp=sharing">Brain dynamics reflecting an intra-network brain state is associated with increased posttraumatic stress symptoms in the early aftermath of trauma</a>. Nature Mental Health 2025 January 20; 1 (10): pp. 736-750. DOI: <a href="https://doi.org/10.1038/s44220-023-00120-1">10.1038/s44220-023-00120-1</a>.
+Sendi M, Fu Z, Harnett N, Rooij S, Vergara V, Pizzagalli D, Daskalakis N, House S, Beaudoin F, An X, Neylan T, Clifford GD, Jovanovic T, Linnstaedt S, Germine L, Bollen K, Rauch S, Haran J, Storrow A, Lewandowski C, Jr PM, Hendry P, Sheikh S, Jones C, Punches B, Swor R, Gentile N, Murty V, Hudak L, Pascual J, Seamon M, Harris E, Chang A, Pearson C, Peak D, Merchant R, Domeier R, Rathlev N, O'Neil B, Sergot P, Sanchez L, Bruce S, Sheridan J, Harte S, Kessler R, Koenen K, McLean S, Stevens J, Calhoun V, Ressler K. <a href="https://drive.google.com/file/d/1jZ3dekTFlOJRwKn3rhQO88h9r81YO7SX/view?usp=sharing">Brain dynamics reflecting an intra-network brain state is associated with increased posttraumatic stress symptoms in the early aftermath of trauma</a>. Nature Mental Health 2025 January 20; 3: pp. 185-198. DOI: <a href="https://doi.org/10.1038/s44220-023-00120-1">10.1038/s44220-023-00120-1</a>.
 </div>
 <div class="bibtex_source"><pre>@article{MohammadSendi_2024_03_08_Braindynamics,
     author = "Sendi, Mohammad and Fu, Zening and Harnett, Nathaniel and van Rooij, Sanne and Vergara, Victor and Pizzagalli, Diego and Daskalakis, Nikolaos and House, Stacey and Beaudoin, Francesca and An, Xinming and Neylan, Thomas and Clifford, Gari D and Jovanovic, Tanja and Linnstaedt, Sarah and Germine, Laura and Bollen, Kenneth and Rauch, Scott and Haran, John and Storrow, Alan and Lewandowski, Christopher and Jr, Paul Musey and Hendry, Phyllis and Sheikh, Sophia and Jones, Christopher and Punches, Brittany and Swor, Robert and Gentile, Nina and Murty, Vishnu and Hudak, Lauren and Pascual, Jose and Seamon, Mark and Harris, Erica and Chang, Anna and Pearson, Claire and Peak, David and Merchant, Roland and Domeier, Robert and Rathlev, Niels and O'Neil, Brian and Sergot, Paulina and Sanchez, Leon and Bruce, Steven and Sheridan, John and Harte, Steven and Kessler, Ronald and Koenen, Karestan and McLean, Samuel and Stevens, Jennifer and Calhoun, Vince and Ressler, Kerry",
@@ -45,9 +46,8 @@ Sendi M, Fu Z, Harnett N, Rooij S, Vergara V, Pizzagalli D, Daskalakis N, House 
     date = "2025-01-20",
     url = "https://drive.google.com/file/d/1jZ3dekTFlOJRwKn3rhQO88h9r81YO7SX/view?usp=sharing",
     journal = "Nature Mental Health",
-    pages = "736-750",
-    volume = "1",
-    issue = "10",
+    pages = "185-198",
+    volume = "3",
     doi = "10.1038/s44220-023-00120-1"
 }
 </pre>
