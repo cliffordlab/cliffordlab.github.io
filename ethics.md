@@ -8,12 +8,15 @@ If you are in a class I am teaching or working with me, here is a
 description of the standards by which I try to work (over and above
 those required by my employer, host institutions and professional bodies
 to which I belong). While I understand that different cultures have
-different standards on issues such as plagiarism and authorship, I have
-outlined a non-exhaustive acceptable set of practices below.
+different behavioral standards on issues such as plagiarism and authorship, 
+I have outlined a non-exhaustive acceptable set of practices below.
 
 If you want to work with me, please email this page back to me with a
 statement that you have read it and agree to try to stick to the
 guidelines.
+
+I've also added some information on what you can expect when working
+in my research group. If you have any suggestions for changes, let me know.
 
 ## Table of Contents
 
@@ -30,7 +33,7 @@ guidelines.
 -   [Presentations, conferences and other
     ‘publications’](#presentations)
 -   [Sharing results before publication](#sharing)
--   [Working expectations](#expectations)
+-   [Work environmnet/expectations](#expectations)
 -   [Attendance](#attendance)
 -   [Correspondence](#correspondence)
 -   [Recommendations](#recommendations)
@@ -474,43 +477,57 @@ I share your research with select colleagues without discussing this
 with you first. I don’t expect to have to pre-approve every
 communication I have with colleagues.
 
-## <a name="expectations"></a> Working expectations
+## <a name="expectations"></a> Work environment/expectations
 
-A DPhil / PhD is rather like working in a startup, or an apprenticeship.
+Graduate study is rather like working in a startup, or an apprenticeship.
 You will do a bit of everything from data collection, to fixing
 computers and entertaining visitors. Clearly a large part of your time
 will be spent coding and writing up reports. As your supervisor I will
 try to meet with you for an hour every other week - sometimes more,
-sometimes less. I’ll respond to emails almost daily and I’ll expect
-you to do the same, except during holidays. You can take your holidays
-when you like, but let me know in advance if possible, just in case
-there’s an important funder turning up.
+sometimes less. You'll see me in group meetings much more often, except
+when I'm traveling, or I'm on holiday. I’ll respond to emails almost daily 
+and I’ll expect you to do the same, except during holidays and weekends. 
+I often miss emails (extreme inbox overload) so don't be afraid to email
+me a few times to remind me. Generally I'm really flexible about vacation 
+time and I want you to take your holidays when you like or when you most 
+need them ... your mental (and physical) health is the most important
+part of your development, and if you don't take breaks you will burn out.
+
+Please let me know when you plan to leave well in advance, just in case
+there’s an important visitor turning up or we have critical deadlines.
+Make sure your shared calendar clearly indicates you are out of office ..
+please don't expect me to remember when you said you would be away.
 
 As far as academic freedom goes, your independence is extremely
 important, and you must plot your own course (to a large extent) through
-your degree. However, your freedom cannot be unlimited for three main
+your research. However, your freedom cannot be unlimited for three main
 reasons:
 
 1.  Your funders usually have some restrictions, such as a particular
     focus area, an internship with a company, etc.
 2.  You don’t work alone. You will be working in a group, and so you
     have to consider the needs of others, making sure your research
-    doesn’t overlap too heavily.
+    dovetails, and doesn’t overlap too heavily.
 3.  As you are putting your career in my hands, I am also putting my
-    academic reputation in your hands, In that sense, it’s a 50:50
-    relationship. If I am giving my time, then I will from time to time
+    academic reputation in your hands. In that sense, it’s an equal
+    partnership. If I am giving my time, then I will occasionally
     (but certainly not always) veto certain paths in your research which
     I am pretty sure will be fruitless. That’s my responsibility after
-    all.
+    all. I won't always be right, but I'm likely to be right more
+    often than I'm wrong. Ultimately, the buck stops with me, and I
+    have to justify our choices to the funding entities, so it's my
+    duty and perogative to make these calls.
 
 ## <a name="attendance"></a> Attendance
 
-I don’t have core hours, but I expect you to be in the office on
-average 40 hours a week (or whatever your contract/agreement states)
-Monday through Friday.
+In general I expect you to be in the office at least 25 hours a week 
+(or whatever your contract/agreement states) Monday through Friday. 
+I'm open to occasional remote work, but we need to discuss it and make 
+sure it fits with the other team members. Optimizing interactions is impoartant.
 
-Try to be around 10am-3pm at least every day. It’s important you
-communicate with the group for most of the day, are able to share
+Try to be around 10am-3pm at least 3-4 days a week (although your visa or
+contract may require more than this). It’s important you communicate with 
+the group for most of the working week, and you are able to share
 knowledge and absorb it to move quickly as a team. Research groups work
 as a cascade of knowledge down the gradient of age (and often up). The
 lifeblood of research is mentorship, and you will absorb lots in the
@@ -531,14 +548,14 @@ It’s important you make any meeting I schedule and these might be early
 morning or late afternoon because my collaborators are clinicians. The
 flexibility goes both ways though \... if you decide you want to come in
 at lunch time one day, good for you. I want you to work when you feel at
-your best. Get sleep, work out, get good food, spend time with loved
+your best. Get sleep, work out, eat good food, spend time with loved
 ones. I hate presenteeism. Learn your own optimal times for working (but
 balance it with the need to communicate with the group and have some
 core hours on most days). If we do have a meeting though then I expect
 you to be prompt at meetings.
 
-I have a tight calendar, so if you are 10 minutes late to a meeting it
-significantly impacts it. I’m pretty relaxed, but it results in a poor
+I have a tight calendar, so if you are late to a meeting it can 
+significantly impact utility. I’m pretty relaxed, but it results in a poor
 impression on my collaborators.
 
 It subconsciously sends the message that you think your time is more
@@ -642,12 +659,12 @@ can’t be hyperbolic and over-effusive in your reference, and I’ll
 delete any exaggerations, so please be truthful and balanced (but not
 modest) and it’ll save us all time. I’ll note my cultural bias (to
 under- rather than over-state) so the reader knows how to normalise your
-reference against the other ludicrous ‘future world leader’ references
+reference against the other hyperbolic ‘future world leader’ references
 they receive).
 
 Please note that you must waive your right to access the reference I
 write for you. (Most referees will require this, so I suggest you do
-this for all of your referees.) I’m not willing to spend time haggling
+this for all of your referees.) I’m not able to spend time haggling
 over the nuances of a reference. I will most likely have already
 discussed it with you in detail if you took the initiative to provide me
 a draft. I am likely to tell you before hand if the reference will be
@@ -677,6 +694,7 @@ Also, none of the code you find here is warranted for any purposes.
 Don’t just download it and run it. Think about it, test it, improve it,
 and test it again.
 
-I hope that covers it. Feel free to drop by and discuss this with me. If
-you see me stray from these guidelines, please do call me out; nobody is
-perfect!
+I hope that covers it. Feel free to drop by and discuss this with me. 
+If you read this page and can think of improvements, feel free to email
+me, and if you see me stray from these guidelines, please do call me out; 
+nobody is perfect!
