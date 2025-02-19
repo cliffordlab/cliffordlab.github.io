@@ -34,7 +34,7 @@ in my research group. If you have any suggestions for changes, let me know.
     ‘publications’](#presentations)
 -   [Sharing results before publication](#sharing)
 -   [Work environmnet/expectations](#expectations)
--   [Attendance](#attendance)
+-   [Attendance and well-being](#attendance)
 -   [Correspondence](#correspondence)
 -   [Recommendations](#recommendations)
 -   [Disclaimer](#disclaimer)
@@ -126,14 +126,14 @@ If you work in my research group you will be expected to co-author with
 other researchers and academic or clinical staff. Unless the article is
 in a completely unrelated discipline, you will be expected to pass all
 potential publications to me before presenting in public, placing on any
-website, submitting to a journal/conference/workshop etc, or
+website, submitting to a journal/conference/workshop, etc, or
 presenting/publishing in any public way. This is to protect the
 professional reputations of all involved. If you wish to claim sole
 authorship of a work (such as an article or patent), this will be
 considered by myself in the first instance, and then if I disagree, by a
 departmental committee.
 
-Authorship order is often contentious. Generally the first author has to
+Authorship order is often contentious. Generally, the first author has to
 contribute the majority of the intellectual input, work on the project,
 and work in the manuscript and the senior (last) author is the person
 who ran the project, designed a lot of the data collection and analysis.
@@ -164,12 +164,12 @@ grant PI(s) and decide if you agree on the list. Resolve these
 differences before involving all the authors. Err on the generous side
 initially. Push disputes up the line, not sidewards to those uninvolved
 in the process. This all needs to happen at least three weeks in advance
-of any deadline. Any less is rude and doesn’t give time for those on
+of any deadline. Any less is thoughtless and doesn’t give time for those on
 holiday to respond or check for the inevitable errors. Check your
 contracts too - some research agreements require you to provide a draft
 copy of the intended publication to the sponsor (particularly if the
 research is partly or fully industry-sponsored) so that it can be
-reviewed for patentability, trade secrets etc. In these cases you need
+reviewed for patentability, trade secrets, etc. In these cases you need
 to start this process at least three weeks \*plus\* that review period
 in advance of any deadline. If you work for me and don’t do this, then
 I’ll refuse to let you submit. You do need your PI’s permission to
@@ -377,17 +377,17 @@ well on more than a few examples.
 
 If you want to patent something you are working on with me, please come
 and see me to discuss this as early as possible. If you’ve already
-published it, you can probably still patent it (in the US only up to 12
-months from the initial public disclosure for as little as an intial
+published it, you can probably still patent it (in the US, only up to 12
+months from the initial public disclosure for as little as an initial
 cost of \$100). Costs mount over time as you have to file a full patent
-and probably use lawyers, and then a few years later start paying
+and probably use lawyers, and then a few years later, start paying
 maintenance costs.
 
 ## Source code and open source
 
 Please DO NOT post any code you write that is related to research in our
-department (or elsewhere) in a public repo. Use a private github repo in
-the lab (not personal) github group.
+department (or elsewhere) in a public repo. Use a private Github repo in
+the lab (not personal) Github group.
 
 There are many reasons for not posting code at an early stage:
 
@@ -444,7 +444,7 @@ though please check with me. Also check:
     indicating the author(s), license, date of publication and date of
     last change (and what the conceptual change was - e.g. ‘minor bug
     fix to stop buffer overflow in zoom’, or ‘major redesign of
-    annotation interface to allow zooming in x and y’ etc).
+    annotation interface to allow zooming in x and y’, etc).
 4.  A publication referring to the code is posted on the site where the
     code is located - probably in a readme file (so this means generally
     waiting until we’ve published at least one paper on the use of the
@@ -518,7 +518,7 @@ reasons:
     have to justify our choices to the funding entities, so it's my
     duty and perogative to make these calls.
 
-## <a name="attendance"></a> Attendance
+## <a name="attendance"></a> Attendance and well-being
 
 In general I expect you to be in the office at least 25 hours a week 
 (or whatever your contract/agreement states) Monday through Friday. 
@@ -532,41 +532,48 @@ knowledge and absorb it to move quickly as a team. Research groups work
 as a cascade of knowledge down the gradient of age (and often up). The
 lifeblood of research is mentorship, and you will absorb lots in the
 first year or so and then increasingly pay it forward to the incoming
-cohorts. For that reason I don’t allow remote working, except on the
-rare occasion.
+cohorts. It's very hard to mentor remotely, with the exception of very
+long-term research staff, everyone has to some in person multiple times
+a week.
 
 Even if you are a student, and all your courses are over, you still must
-be in the research group physically or you are wasting my time and
-absorbing knowledge without paying it forward to the upcoming cohorts of
-students. We stand on each other’s shoulders.
+be in the research group physically so that you can contribute to the 
+upcoming cohorts of students. We stand on each other’s shoulders.
 
 If you want to do a rotation with me, make sure your course load is low,
 so you can spend sufficient time with my team to make it worth the
-effort (on both sides).
+effort (on both sides). This will also help you avoid burn-out.
 
-It’s important you make any meeting I schedule and these might be early
+It’s important you attend any meeting I schedule and these might be early
 morning or late afternoon because my collaborators are clinicians. The
 flexibility goes both ways though \... if you decide you want to come in
 at lunch time one day, good for you. I want you to work when you feel at
 your best. Get sleep, work out, eat good food, spend time with loved
-ones. I hate presenteeism. Learn your own optimal times for working (but
-balance it with the need to communicate with the group and have some
-core hours on most days). If we do have a meeting though then I expect
-you to be prompt at meetings.
+ones. I see no point in presenteeism. Learn your own optimal times 
+for working (but balance it with the need to communicate with the group 
+and have some core hours on most days). 
 
+If we do have a meeting, then I expect you to be prompt at meetings.
 I have a tight calendar, so if you are late to a meeting it can 
-significantly impact utility. I’m pretty relaxed, but it results in a poor
-impression on my collaborators.
-
-It subconsciously sends the message that you think your time is more
-important than theirs. I know - I can hear my family laughing at me.
+significantly impact utility. I’m pretty relaxed, but even minor
+tardiness results in a poor impression on my collaborators and can
+lead to a loss of funding and impaired reputation. Tardiness
+sends a subconscious message that you think your time is more
+important than other's. I know - I can hear my family laughing at me.
 I’m terribly guilty of this. I’m working on it myself. I’m sorry
 about that, but please don’t copy me. I don’t role model time keeping
-well.
+well. This is one reason I need you to help me. Don't be afraid to 
+point out that the meeting is about to finish and we need to move
+on to the next one.
 
 Taking days off with holiday pay or flex time is fine with me but please
 check in advance and drop it in the calendar so I don’t try to schedule
-meetings with you or try to ask you a question while you are out.
+meetings with you or try to ask you a question while you are out. As noted
+above, generally I'm really flexible about vacation time and I want you 
+to take your holidays when you like or when you most need them ... your 
+mental (and physical) health is the most important part of your development, 
+and if you don't take real breaks you will burn out. Holidays give you 
+a good perspective on your work and career.
 
 ## Correspondence
 
@@ -679,7 +686,7 @@ very useful. When you contact them for a reference, send them a copy of
 the last reference they wrote for you (if they shared it), and ask them
 if they would like you to highlight anything in your CV that directly
 pertains to the application. If you can’t identify this information
-yourself then you are not going to fare well in the interview.
+yourself, then you are not going to fare well in the interview.
 
 ## Disclaimer
 
