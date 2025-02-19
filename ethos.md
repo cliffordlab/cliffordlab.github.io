@@ -1,4 +1,3 @@
-# Leadership and Mentorship Philosophy
 
 My leadership and mentorship philosophy can be characterized as a mixture of Learning, Participative, and Transformational. Generally, I make learning and teaching a top priority and promote a culture of continuous learning that encourages growth, with data-driven evidence-based decision-making, democratic inclusivity, and autonomy.
 
