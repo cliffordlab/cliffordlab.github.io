@@ -4,6 +4,8 @@ layout: page
 permalink: /ethics
 ---
 
+My leadership and mentorship philosophy can be found [here](https://gdclifford.info/ethos.html).
+
 If you are in a class I am teaching or working with me, here is a
 description of the standards by which I try to work (over and above
 those required by my employer, host institutions and professional bodies
