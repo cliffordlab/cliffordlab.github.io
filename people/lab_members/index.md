@@ -69,7 +69,7 @@ Emory University
 Department of Biomedical Informatics  
 Emory University
 
-## Yashar Kiarashi, PhD
+## [Yashar Kiarashi, PhD](https://yashkia.github.io)
 ![lab-member](/people/lab_members/yash.jpg)
 
 <div class="small-icons"></div>
