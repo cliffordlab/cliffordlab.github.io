@@ -11,7 +11,54 @@ permalink: /publications
 
 <table>
 <tr>
+<td>284</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="RuiyangQin_2024_LanguageModels">
+<div class="citation">
+Qin R, Cook R, Yang K, Abbasi A, Dobolyi D, Seyedi S, Griner E, Kwon H, Cotes R, Jiang Z, Clifford GD. <a href="https://drive.google.com/file/d/19gD3AS_pEWmG71ASRxjFzt34S0CH-sgi/view?usp=sharing">Language Models for Online Depression Detection: A Review and Benchmark Analysis on Remote Interviews</a>. 2025 March 13; 16 (2): pp. 1-35. DOI: <a href="https://doi.org/10.1145/3673906">10.1145/3673906</a>.
+</div>
+<div class="bibtex_source"><pre>@article{RuiyangQin_2024_LanguageModels,
+    author = "Qin, Ruiyang and Cook, Ryan and Yang, Kai and Abbasi, Ahmed and Dobolyi, David and Seyedi, Salman and Griner, Emily and Kwon, Hyeokhyen and Cotes, Robert and Jiang, Zifan and Clifford, Gari D",
+    title = "Language Models for Online Depression Detection: A Review and Benchmark Analysis on Remote Interviews",
+    date = "2025-03-13",
+    url = "https://drive.google.com/file/d/19gD3AS\_pEWmG71ASRxjFzt34S0CH-sgi/view?usp=sharing",
+    volume = "16",
+    issue = "2",
+    pages = "1-35",
+    doi = "10.1145/3673906",
+    note = "Publisher: ACM"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="RuiyangQin_2024_LanguageModels">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="RuiyangQin_2024_LanguageModels">[show citation]</label>
+</div></div></td></tr><tr>
 <td>283</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="ChaitraHegde_2024_08_19_Feasibilityof">
+<div class="citation">
+Hegde C, Kiarashi Y, Levey AI, Rodriguez AD, Kwon H, Clifford GD. <a href="https://drive.google.com/file/d/1xtjLEdhOoVLZrwHsCREjGiLKXpCSKk52/view?usp=sharing">Feasibility of assessing cognitive impairment via distributed camera network and privacy-preserving edge computing</a>. Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring 2025 February 24; 17 (1). DOI: <a href="https://doi.org/10.1002/dad2.70085">10.1002/dad2.70085</a>.
+</div>
+<div class="bibtex_source"><pre>@article{ChaitraHegde_2024_08_19_Feasibilityof,
+    author = "Hegde, Chaitra and Kiarashi, Yashar and Levey, Allan I and Rodriguez, Amy D and Kwon, Hyeokhyen and Clifford, Gari D",
+    title = "Feasibility of assessing cognitive impairment via distributed camera network and privacy-preserving edge computing",
+    date = "2025-02-24",
+    journal = "Alzheimer's \& Dementia: Diagnosis, Assessment \& Disease Monitoring",
+    volume = "17",
+    issue = "1",
+    doi = "10.1002/dad2.70085",
+    url = "https://drive.google.com/file/d/1xtjLEdhOoVLZrwHsCREjGiLKXpCSKk52/view?usp=sharing"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="ChaitraHegde_2024_08_19_Feasibilityof">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="ChaitraHegde_2024_08_19_Feasibilityof">[show citation]</label>
+</div></div></td></tr><tr>
+<td>282</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="HenriMGarrisonDesany_2025_02_07_Multilevelsocioeconomic">
 <div class="citation">
@@ -34,7 +81,7 @@ Garrison-Desany HM, Meyers JL, Linnstaedt SD, Koenen KC, House SL, Beaudoin FL, 
 <div class="hidebibtex">
 <label for="HenriMGarrisonDesany_2025_02_07_Multilevelsocioeconomic">[show citation]</label>
 </div></div></td></tr><tr>
-<td>282</td>
+<td>281</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MohammadSendi_2024_03_08_Braindynamics">
 <div class="citation">
@@ -57,7 +104,7 @@ Sendi M, Fu Z, Harnett N, Rooij S, Vergara V, Pizzagalli D, Daskalakis N, House 
 <div class="hidebibtex">
 <label for="MohammadSendi_2024_03_08_Braindynamics">[show citation]</label>
 </div></div></td></tr><tr>
-<td>281</td>
+<td>280</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SoheilSaghafi_2025_01_IndoorLocalization">
 <div class="citation">
@@ -80,7 +127,7 @@ Saghafi S, Kiarashi Y, Rodriguez AD, Levey AI, Kwon H, Clifford GD. <a href="htt
 <div class="hidebibtex">
 <label for="SoheilSaghafi_2025_01_IndoorLocalization">[show citation]</label>
 </div></div></td></tr><tr>
-<td>280</td>
+<td>279</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AlbertJRogers_2025_01_11_Identificationof">
 <div class="citation">
@@ -104,7 +151,7 @@ Rogers AJ, Bhatia NK, Bandyopadhyay S, Tooley J, Ansari R, Thakkar V, Xu J, Soto
 <div class="hidebibtex">
 <label for="AlbertJRogers_2025_01_11_Identificationof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>279</td>
+<td>278</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AliBahramiRad_2025_01_02_Frommotion">
 <div class="citation">
@@ -124,7 +171,7 @@ Rad AB, Villavicencio T, Kiarashi Y, Anderson C, Foster J, Kwon H, Hamlin T, Lan
 <div class="hidebibtex">
 <label for="AliBahramiRad_2025_01_02_Frommotion">[show citation]</label>
 </div></div></td></tr><tr>
-<td>278</td>
+<td>277</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MameMadjigueneKA_2024_11_20_Promotionof">
 <div class="citation">
@@ -148,7 +195,7 @@ KA MM, Gaye ND, Ahadzi D, Baker-Smith CM, Ndao SCT, Wambugu V, Singh G, Gueye K,
 <div class="hidebibtex">
 <label for="MameMadjigueneKA_2024_11_20_Promotionof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>277</td>
+<td>276</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LaurianeGuichard_2024_11_07_HeartRate">
 <div class="citation">
@@ -171,7 +218,7 @@ Guichard L, An X, Neylan TC, Clifford GD, Li Q, Ji Y, Macchio L, Baker J, Beaudo
 <div class="hidebibtex">
 <label for="LaurianeGuichard_2024_11_07_HeartRate">[show citation]</label>
 </div></div></td></tr><tr>
-<td>276</td>
+<td>275</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RuoqiWei_2024_11_06_AutomatedMedical">
 <div class="citation">
@@ -192,7 +239,7 @@ Wei R, Buss SS, Milde R, Fernandes M, Sumsion D, Davis E, Kong W, Xiong Y, Velti
 <div class="hidebibtex">
 <label for="RuoqiWei_2024_11_06_AutomatedMedical">[show citation]</label>
 </div></div></td></tr><tr>
-<td>275</td>
+<td>274</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChiyoungLee_2024_11_06_UnderstandingOnset">
 <div class="citation">
@@ -213,7 +260,7 @@ Lee C, House SL, Beaudoin FL, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT,
 <div class="hidebibtex">
 <label for="ChiyoungLee_2024_11_06_UnderstandingOnset">[show citation]</label>
 </div></div></td></tr><tr>
-<td>274</td>
+<td>273</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NasimKatebi_2024_AutomatedImage">
 <div class="citation">
@@ -237,7 +284,7 @@ Katebi N, Bremer W, Nguyen T, Phan D, Jeff J, Armstrong K, Phabian-Millbrook P, 
 <div class="hidebibtex">
 <label for="NasimKatebi_2024_AutomatedImage">[show citation]</label>
 </div></div></td></tr><tr>
-<td>273</td>
+<td>272</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZuzanaKoscova_2024_FromSleep">
 <div class="citation">
@@ -261,7 +308,7 @@ Koscova Z, Rad AB, Nasiri S, Reyna MA, Sameni R, Trotti LM, Sun H, Turley N, Sto
 <div class="hidebibtex">
 <label for="ZuzanaKoscova_2024_FromSleep">[show citation]</label>
 </div></div></td></tr><tr>
-<td>272</td>
+<td>271</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="EdlynRamos_2024_09_01_MobilMonitoring">
 <div class="citation">
@@ -286,7 +333,7 @@ Ramos E, Palax IP, Cuxil ES, Iquic ES, Ajqui AC, Miller AC, Chandrasekaran S, Ha
 <div class="hidebibtex">
 <label for="EdlynRamos_2024_09_01_MobilMonitoring">[show citation]</label>
 </div></div></td></tr><tr>
-<td>271</td>
+<td>270</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="YasharKiarashi_2024_09_06_OffbodySleep">
 <div class="citation">
@@ -309,7 +356,7 @@ Kiarashi Y, Suresha PB, Rad AB, Reyna MA, Anderson C, Foster J, Lantz J, Villavi
 <div class="hidebibtex">
 <label for="YasharKiarashi_2024_09_06_OffbodySleep">[show citation]</label>
 </div></div></td></tr><tr>
-<td>270</td>
+<td>269</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AliBahramiRad_2024_09_02_ACrowdsourced">
 <div class="citation">
@@ -334,7 +381,7 @@ Rad AB, Kirsch M, Li Q, Xue J, Sameni R, Albert D, Clifford GD. <a href="https:/
 <div class="hidebibtex">
 <label for="AliBahramiRad_2024_09_02_ACrowdsourced">[show citation]</label>
 </div></div></td></tr><tr>
-<td>269</td>
+<td>268</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AntoniaVSeligowski_2024_06_07_Probingthe">
 <div class="citation">
@@ -358,7 +405,7 @@ Seligowski AV, Harnett NG, Ellis RA, Grasser LR, Hanif M, Wiltshire C, Ely TD, L
 <div class="hidebibtex">
 <label for="AntoniaVSeligowski_2024_06_07_Probingthe">[show citation]</label>
 </div></div></td></tr><tr>
-<td>268</td>
+<td>267</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="CourtlandSHyatt_2024_08_16_Longitudinalassociations">
 <div class="citation">
@@ -380,27 +427,6 @@ Hyatt CS, Reddi PJ, Sharpe BM, Michopoulos V, Rooij SJ, House SL, Beaudoin FL, A
 </div>
 <div class="hidebibtex">
 <label for="CourtlandSHyatt_2024_08_16_Longitudinalassociations">[show citation]</label>
-</div></div></td></tr><tr>
-<td>267</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="RuiyangQin_2024_LanguageModels">
-<div class="citation">
-Qin R, Cook R, Yang K, Abbasi A, Dobolyi D, Seyedi S, Griner E, Kwon H, Cotes R, Jiang Z, Clifford GD. <a href="https://drive.google.com/file/d/19gD3AS_pEWmG71ASRxjFzt34S0CH-sgi/view?usp=sharing">Language Models for Online Depression Detection: A Review and Benchmark Analysis on Remote Interviews</a>. 2024 August 13. DOI: <a href="https://doi.org/10.1145/3673906">10.1145/3673906</a>.
-</div>
-<div class="bibtex_source"><pre>@article{RuiyangQin_2024_LanguageModels,
-    author = "Qin, Ruiyang and Cook, Ryan and Yang, Kai and Abbasi, Ahmed and Dobolyi, David and Seyedi, Salman and Griner, Emily and Kwon, Hyeokhyen and Cotes, Robert and Jiang, Zifan and Clifford, Gari D",
-    title = "Language Models for Online Depression Detection: A Review and Benchmark Analysis on Remote Interviews",
-    date = "2024-08-13",
-    url = "https://drive.google.com/file/d/19gD3AS\_pEWmG71ASRxjFzt34S0CH-sgi/view?usp=sharing",
-    doi = "10.1145/3673906",
-    note = "Publisher: ACM"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="RuiyangQin_2024_LanguageModels">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="RuiyangQin_2024_LanguageModels">[show citation]</label>
 </div></div></td></tr><tr>
 <td>266</td>
 <td><div class="citation_container">
@@ -10854,7 +10880,7 @@ Clifford G, Tarassenko L, Townsend N. <a href="https://drive.google.com/file/d/1
 
 <table>
 <tr>
-<td>47</td>
+<td>46</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="TianyiLi_2025_Childhoodadversity">
 <div class="citation">
@@ -10876,7 +10902,7 @@ Li T, Huibregtse ME, Ely TD, Rooij SJ, Lebois LA, Webb EK, Jovanovic T, House SL
 <div class="hidebibtex">
 <label for="TianyiLi_2025_Childhoodadversity">[show citation]</label>
 </div></div></td></tr><tr>
-<td>46</td>
+<td>45</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NasimKatebi_2025_03_12_EdgeAI">
 <div class="citation">
@@ -10896,7 +10922,7 @@ Katebi N, Ahmad M, Motie-Shirazi M, Phan D, Kolesnikova E, Nikookar S, Rafiei A,
 <div class="hidebibtex">
 <label for="NasimKatebi_2025_03_12_EdgeAI">[show citation]</label>
 </div></div></td></tr><tr>
-<td>45</td>
+<td>44</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SophiaSLiang_2025_Associationsbetween">
 <div class="citation">
@@ -10918,7 +10944,7 @@ Liang SS, Roeckner AR, Ely TD, Lebois LA, Rooij SJ, Bruce SE, Jovanovic T, House
 <div class="hidebibtex">
 <label for="SophiaSLiang_2025_Associationsbetween">[show citation]</label>
 </div></div></td></tr><tr>
-<td>44</td>
+<td>43</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="DeannaMKaplan_UnknownDate_FablaA">
 <div class="citation">
@@ -10939,7 +10965,7 @@ Kaplan DM, Alvarez SJA, Palitsky R, Choi H, Clifford GD, Crozier M, Dunlop BW, G
 <div class="hidebibtex">
 <label for="DeannaMKaplan_UnknownDate_FablaA">[show citation]</label>
 </div></div></td></tr><tr>
-<td>43</td>
+<td>42</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="XiaofanMu_2024_12_12_DetectingCognitive">
 <div class="citation">
@@ -10959,7 +10985,7 @@ Mu X, Seyedi S, Zheng I, Jiang Z, Chen L, Omofojoye B, Hershenberg R, Levey AI, 
 <div class="hidebibtex">
 <label for="XiaofanMu_2024_12_12_DetectingCognitive">[show citation]</label>
 </div></div></td></tr><tr>
-<td>42</td>
+<td>41</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LaurenAMcKibben_2024_PeritraumaticCreactive">
 <div class="citation">
@@ -10981,7 +11007,7 @@ McKibben LA, Layne MN, Albertorio-Saez EM, Zhao Y, Branham EM, House SL, Beaudoi
 <div class="hidebibtex">
 <label for="LaurenAMcKibben_2024_PeritraumaticCreactive">[show citation]</label>
 </div></div></td></tr><tr>
-<td>41</td>
+<td>40</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SajjadKarimi_2024_10_25_ElectromechanicalDynamics">
 <div class="citation">
@@ -11001,7 +11027,7 @@ Karimi S, Karimi S, Shah AJ, Clifford GD, Sameni R. <a href="https://drive.googl
 <div class="hidebibtex">
 <label for="SajjadKarimi_2024_10_25_ElectromechanicalDynamics">[show citation]</label>
 </div></div></td></tr><tr>
-<td>40</td>
+<td>39</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="WeitaoTang_2024_AdvancingFetal">
 <div class="citation">
@@ -11021,7 +11047,7 @@ Tang W, Tran N, Katebi N, Sameni R, Clifford GD, Walker D, Horlali V, Taylor C, 
 <div class="hidebibtex">
 <label for="WeitaoTang_2024_AdvancingFetal">[show citation]</label>
 </div></div></td></tr><tr>
-<td>39</td>
+<td>38</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="CeciliaHinojosa_UnknownDate_Thereciprocal">
 <div class="citation">
@@ -11042,7 +11068,7 @@ Hinojosa C, Rooij SJ, Fani N, Ellis RA, Garrison-Desany HM, House SL, Beaudoin F
 <div class="hidebibtex">
 <label for="CeciliaHinojosa_UnknownDate_Thereciprocal">[show citation]</label>
 </div></div></td></tr><tr>
-<td>38</td>
+<td>37</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JunLi_2024_10_05_AnElectrocardiogram">
 <div class="citation">
@@ -11062,7 +11088,7 @@ Li J, Aguirre A, Moura J, Liu C, Zhong L, Sun C, Clifford G, Westover B, Hong S.
 <div class="hidebibtex">
 <label for="JunLi_2024_10_05_AnElectrocardiogram">[show citation]</label>
 </div></div></td></tr><tr>
-<td>37</td>
+<td>36</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MatthewAReyna_2024_09_25_ECGImageDatabaseA">
 <div class="citation">
@@ -11082,7 +11108,7 @@ Reyna MA, Weigle J, Koscova Z, Campbell K, Shivashankara KK, Saghafi S, Nikookar
 <div class="hidebibtex">
 <label for="MatthewAReyna_2024_09_25_ECGImageDatabaseA">[show citation]</label>
 </div></div></td></tr><tr>
-<td>36</td>
+<td>35</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="YasharKiarashi_2024_09_06_ForecastingHighRisk">
 <div class="citation">
@@ -11101,26 +11127,6 @@ Kiarashi Y, Lantz J, Reyna MA, Anderson C, Rad AB, Foster J, Villavicencio T, Ha
 </div>
 <div class="hidebibtex">
 <label for="YasharKiarashi_2024_09_06_ForecastingHighRisk">[show citation]</label>
-</div></div></td></tr><tr>
-<td>35</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="ChaitraHegde_2024_08_19_Feasibilityof">
-<div class="citation">
-Hegde C, Kiarashi Y, Levey AI, Rodriguez AD, Kwon H, Clifford GD. <a href="https://arxiv.org/abs/2408.10442">Feasibility of assessing cognitive impairment via distributed camera network and privacy-preserving edge computing</a>. arXiv preprint arXiv:2408.10442 2024 August 19.
-</div>
-<div class="bibtex_source"><pre>@article{ChaitraHegde_2024_08_19_Feasibilityof,
-    author = "Hegde, Chaitra and Kiarashi, Yashar and Levey, Allan I and Rodriguez, Amy D and Kwon, Hyeokhyen and Clifford, Gari D",
-    title = "Feasibility of assessing cognitive impairment via distributed camera network and privacy-preserving edge computing",
-    date = "2024-08-19",
-    journal = "arXiv preprint arXiv:2408.10442",
-    url = "https://arxiv.org/abs/2408.10442"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="ChaitraHegde_2024_08_19_Feasibilityof">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="ChaitraHegde_2024_08_19_Feasibilityof">[show citation]</label>
 </div></div></td></tr><tr>
 <td>34</td>
 <td><div class="citation_container">
