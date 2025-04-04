@@ -15,7 +15,7 @@ permalink: /publications
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RobynAEllis_2025_04_LongitudinalAssociations">
 <div class="citation">
-Ellis RA, Webber TK, Noble NC, Linnstaedt SD, Hinrichs R, Wiltshire C, Reda MH, Davie W, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Punches BE, Pascual JL, Seamon MJ, Datner EM, Pearson C, Peak DA, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Bruce SE, Joormann J, Kessler RC, Ressler KJ, Koenen KC, McLean SA, Stevens JS, Jovanovic T, Seligowski AV. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/smi.3522">Longitudinal Associations Between Peritraumatic Oestradiol and Fear Responding in Women and Men</a>. Stress and Health 2025 April; 41 (2): p. e3522.
+Ellis RA, Webber TK, Noble NC, Linnstaedt SD, Hinrichs R, Wiltshire C, Reda MH, Davie W, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Punches BE, Pascual JL, Seamon MJ, Datner EM, Pearson C, Peak DA, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Bruce SE, Joormann J, Kessler RC, Ressler KJ, Koenen KC, McLean SA, Stevens JS, Jovanovic T, Seligowski AV. <a href="https://drive.google.com/file/d/1J-H4b7l7uHL0mb2TQYmFhGcMgtI7rwRQ/view?usp=sharing">Longitudinal Associations Between Peritraumatic Oestradiol and Fear Responding in Women and Men</a>. Stress and Health 2025 April; 41 (2): p. e3522.
 </div>
 <div class="bibtex_source"><pre>@article{RobynAEllis_2025_04_LongitudinalAssociations,
     author = "Ellis, Robyn A and Webber, Theresa K and Noble, Natalie C and Linnstaedt, Sarah D and Hinrichs, Rebecca and Wiltshire, Charis and Reda, Mariam H and Davie, William and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Neylan, Thomas C and Clifford, Gari D and Germine, Laura T and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Punches, Brittany E and Pascual, Jose L and Seamon, Mark J and Datner, Elizabeth M and Pearson, Claire and Peak, David A and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sergot, Paulina and Sanchez, Leon D and Bruce, Steven E and Joormann, Jutta and Kessler, Ronald C and Ressler, Kerry J and Koenen, Karestan C and McLean, Samuel A and Stevens, Jennifer S and Jovanovic, Tanja and Seligowski, Antonia V",
@@ -23,7 +23,7 @@ Ellis RA, Webber TK, Noble NC, Linnstaedt SD, Hinrichs R, Wiltshire C, Reda MH, 
     date = "2025-04",
     issue = "2",
     journal = "Stress and Health",
-    url = "https://onlinelibrary.wiley.com/doi/abs/10.1002/smi.3522",
+    url = "https://drive.google.com/file/d/1J-H4b7l7uHL0mb2TQYmFhGcMgtI7rwRQ/view?usp=sharing",
     pages = "e3522",
     volume = "41"
 }
@@ -10927,14 +10927,14 @@ Clifford G, Tarassenko L, Townsend N. <a href="https://drive.google.com/file/d/1
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="TianyiLi_2025_Childhoodadversity">
 <div class="citation">
-Li T, Huibregtse ME, Ely TD, Rooij SJ, Lebois LA, Webb EK, Jovanovic T, House SL, Bruce SE, Murty VP, Beaudoin FL, An X, Neylan TC, Clifford GD, Linnstaedt SD, Bollen KA, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Hudak LA, Pascual JL, Seamon MJ, Datner EM, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Sheridan JF, Kessler RC, Koenen KC, Ressler KJ, McLean SA, Stevens JS, Harnett NG. <a href="https://www.medrxiv.org/content/10.1101/2025.03.08.25323425.abstract">Childhood adversity is associated with longitudinal white matter changes after adulthood trauma</a>. medRxiv 2025; p. 2025.03. 08.25323425.
+Li T, Huibregtse ME, Ely TD, Rooij SJ, Lebois LA, Webb EK, Jovanovic T, House SL, Bruce SE, Murty VP, Beaudoin FL, An X, Neylan TC, Clifford GD, Linnstaedt SD, Bollen KA, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Hudak LA, Pascual JL, Seamon MJ, Datner EM, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Sheridan JF, Kessler RC, Koenen KC, Ressler KJ, McLean SA, Stevens JS, Harnett NG. <a href="https://drive.google.com/file/d/1twAhaX4OUWSll1gRztyxr5HkvvYsYB5o/view?usp=sharing">Childhood adversity is associated with longitudinal white matter changes after adulthood trauma</a>. medRxiv 2025; p. 2025.03. 08.25323425.
 </div>
 <div class="bibtex_source"><pre>@article{TianyiLi_2025_Childhoodadversity,
     author = "Li, Tianyi and Huibregtse, Megan E and Ely, Timothy D and van Rooij, Sanne JH and Lebois, Lauren AM and Webb, E Kate and Jovanovic, Tanja and House, Stacey L and Bruce, Steven E and Murty, Vishnu P and Beaudoin, Francesca L and An, Xinming and Neylan, Thomas C and Clifford, Gari D and Linnstaedt, Sarah D and Bollen, Kenneth A and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Datner, Elizabeth M and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sergot, Paulina and Sanchez, Leon D and Sheridan, John F and Kessler, Ronald C and Koenen, Karestan C and Ressler, Kerry J and McLean, Samuel A and Stevens, Jennifer S and Harnett, Nathaniel G",
     title = "Childhood adversity is associated with longitudinal white matter changes after adulthood trauma",
     date = "2025",
     journal = "medRxiv",
-    url = "https://www.medrxiv.org/content/10.1101/2025.03.08.25323425.abstract",
+    url = "https://drive.google.com/file/d/1twAhaX4OUWSll1gRztyxr5HkvvYsYB5o/view?usp=sharing",
     pages = "2025.03. 08.25323425",
     note = "Publisher: Cold Spring Harbor Laboratory Press"
 }
@@ -10949,13 +10949,13 @@ Li T, Huibregtse ME, Ely TD, Rooij SJ, Lebois LA, Webb EK, Jovanovic T, House SL
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NasimKatebi_2025_03_12_EdgeAI">
 <div class="citation">
-Katebi N, Ahmad M, Motie-Shirazi M, Phan D, Kolesnikova E, Nikookar S, Rafiei A, Korikana MK, Hall-Clifford R, Castro E, Sut R, Coyote E, Strader AV, Ramos E, Rohloff P, Sameni R, Clifford GD. <a href="https://arxiv.org/abs/2503.09659">Edge AI for Real-time Fetal Assessment in Rural Guatemala</a>. arXiv preprint arXiv:2503.09659 2025 March 12.
+Katebi N, Ahmad M, Motie-Shirazi M, Phan D, Kolesnikova E, Nikookar S, Rafiei A, Korikana MK, Hall-Clifford R, Castro E, Sut R, Coyote E, Strader AV, Ramos E, Rohloff P, Sameni R, Clifford GD. <a href="https://arxiv.org/abs/2503.09659">Edge AI for Real-time Fetal Assessment in Rural Guatemala</a>. https://drive.google.com/file/d/1PWKxsfp6HcGiA8FMRDeMoYewWrd6MLD0/view?usp=sharing 2025 March 12.
 </div>
 <div class="bibtex_source"><pre>@article{NasimKatebi_2025_03_12_EdgeAI,
     author = "Katebi, Nasim and Ahmad, Mohammad and Motie-Shirazi, Mohsen and Phan, Daniel and Kolesnikova, Ellen and Nikookar, Sepideh and Rafiei, Alireza and Korikana, Murali K and Hall-Clifford, Rachel and Castro, Esteban and Sut, Rosibely and Coyote, Enma and Strader, Anahi Venzor and Ramos, Edlyn and Rohloff, Peter and Sameni, Reza and Clifford, Gari D",
     title = "Edge AI for Real-time Fetal Assessment in Rural Guatemala",
     date = "2025-03-12",
-    journal = "arXiv preprint arXiv:2503.09659",
+    journal = "https://drive.google.com/file/d/1PWKxsfp6HcGiA8FMRDeMoYewWrd6MLD0/view?usp=sharing",
     url = "https://arxiv.org/abs/2503.09659"
 }
 </pre>
