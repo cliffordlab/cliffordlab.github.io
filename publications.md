@@ -11406,10 +11406,10 @@ Mousavi SS, Reyna MA, Clifford GD, Sameni R. <a href="https://arxiv.org/abs/2306
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="YasharKiarashi_2023_05_30_IndoorLocalization">
 <div class="citation">
-Kiarashi Y, Hedge C, Madala VSK, Nakum A, Singh R, Tweedy R, Clifford GD, Kwon H. <a href="https://arxiv.org/abs/2305.19342">Indoor Localization using Bluetooth and Inertial Motion Sensors in Distributed Edge and Cloud Computing Environment</a>. arXiv preprint arXiv:2305.19342 2023 May 30.
+Kiarashi Y, Hegde C, Madala VSK, Nakum A, Singh R, Tweedy R, Clifford GD, Kwon H. <a href="https://arxiv.org/abs/2305.19342">Indoor Localization using Bluetooth and Inertial Motion Sensors in Distributed Edge and Cloud Computing Environment</a>. arXiv preprint arXiv:2305.19342 2023 May 30.
 </div>
 <div class="bibtex_source"><pre>@article{YasharKiarashi_2023_05_30_IndoorLocalization,
-    author = "Kiarashi, Yashar and Hedge, Chaitra and Madala, Venkata Siva Krishna and Nakum, ArjunSinh and Singh, Ratan and Tweedy, Robert and Clifford, Gari D and Kwon, Hyeokhyen",
+    author = "Kiarashi, Yashar and Hegde, Chaitra and Madala, Venkata Siva Krishna and Nakum, ArjunSinh and Singh, Ratan and Tweedy, Robert and Clifford, Gari D and Kwon, Hyeokhyen",
     title = "Indoor Localization using Bluetooth and Inertial Motion Sensors in Distributed Edge and Cloud Computing Environment",
     date = "2023-05-30",
     journal = "arXiv preprint arXiv:2305.19342",
@@ -11426,10 +11426,10 @@ Kiarashi Y, Hedge C, Madala VSK, Nakum A, Singh R, Tweedy R, Clifford GD, Kwon H
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="HyeokhyenKwon_2023_05_08_IndoorLocalization">
 <div class="citation">
-Kwon H, Hedge C, Kiarashi Y, Madala VSK, Singh R, Nakum A, Tweedy R, Tonetto LM, Zimring CM, Clifford GD. <a href="https://arxiv.org/abs/2305.05062">Indoor Localization and Multi-person Tracking Using Privacy Preserving Distributed Camera Network with Edge Computing</a>. arXiv preprint arXiv:2305.05062 2023 May 8.
+Kwon H, Hegde C, Kiarashi Y, Madala VSK, Singh R, Nakum A, Tweedy R, Tonetto LM, Zimring CM, Clifford GD. <a href="https://arxiv.org/abs/2305.05062">Indoor Localization and Multi-person Tracking Using Privacy Preserving Distributed Camera Network with Edge Computing</a>. arXiv preprint arXiv:2305.05062 2023 May 8.
 </div>
 <div class="bibtex_source"><pre>@article{HyeokhyenKwon_2023_05_08_IndoorLocalization,
-    author = "Kwon, Hyeokhyen and Hedge, Chaitra and Kiarashi, Yashar and Madala, Venkata Siva Krishna and Singh, Ratan and Nakum, ArjunSinh and Tweedy, Robert and Tonetto, Leandro Miletto and Zimring, Craig M and Clifford, Gari D",
+    author = "Kwon, Hyeokhyen and Hegde, Chaitra and Kiarashi, Yashar and Madala, Venkata Siva Krishna and Singh, Ratan and Nakum, ArjunSinh and Tweedy, Robert and Tonetto, Leandro Miletto and Zimring, Craig M and Clifford, Gari D",
     title = "Indoor Localization and Multi-person Tracking Using Privacy Preserving Distributed Camera Network with Edge Computing",
     date = "2023-05-08",
     journal = "arXiv preprint arXiv:2305.05062",
