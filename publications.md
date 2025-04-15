@@ -7096,7 +7096,7 @@ Ding C, Guo Z, Rudin C, Xiao R, Shah A, Do DH, Lee RJ, Clifford G, Nahab FB, Hu 
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AmitShah_2023_05_01_ASSOCIATIONOF">
 <div class="citation">
-Shah A, Huang M, Ko Y, Ma X, Levantsevych O, Goldberg J, Mousselli I, Johnson D, Clifford GD, Bremner JD, Hall M, Vaccarino V. <a href="https://scholar.google.com/scholar?cluster=11795082134655064291&hl=en&oi=scholarr">ASSOCIATION OF POSTTRAUMATIC STRESS DISORDER WITH OBSTRUCTIVE SLEEP APNEA: A TWIN STUDY</a>. PSYCHOSOMATIC MEDICINE 2023 May 1; 85 (4): pp. A146-A146.
+Shah A, Huang M, Ko Y, Ma X, Levantsevych O, Goldberg J, Mousselli I, Johnson D, Clifford GD, Bremner JD, Hall M, Vaccarino V. <a href="https://drive.google.com/file/d/1xhvgur9IlJ1Ec8VMq-chmC27kjJ0Jhmv/view?usp=sharing">ASSOCIATION OF POSTTRAUMATIC STRESS DISORDER WITH OBSTRUCTIVE SLEEP APNEA: A TWIN STUDY</a>. PSYCHOSOMATIC MEDICINE 2023 May 1; 85 (4): pp. A146-A146.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{AmitShah_2023_05_01_ASSOCIATIONOF,
     author = "Shah, Amit and Huang, Minxuan and Ko, Yi-An and Ma, Xin and Levantsevych, Oleksiy and Goldberg, Jack and Mousselli, Iman and Johnson, Dayna and Clifford, Gari D and Bremner, J Douglas and Hall, Martica and Vaccarino, Viola",
@@ -7104,7 +7104,7 @@ Shah A, Huang M, Ko Y, Ma X, Levantsevych O, Goldberg J, Mousselli I, Johnson D,
     date = "2023-05-01",
     booktitle = "PSYCHOSOMATIC MEDICINE",
     issue = "4",
-    url = "https://scholar.google.com/scholar?cluster=11795082134655064291\&hl=en\&oi=scholarr",
+    url = "https://drive.google.com/file/d/1xhvgur9IlJ1Ec8VMq-chmC27kjJ0Jhmv/view?usp=sharing",
     pages = "A146-A146",
     volume = "85",
     publisher = "LIPPINCOTT WILLIAMS {\\&} WILKINS"
@@ -9098,14 +9098,14 @@ Tateishi Y, Clifford GD, Hopkins M, Thomas T. <a href="https://journals.lww.com/
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JoachimBehar_2013_12_10_AnEcho">
 <div class="citation">
-Behar J, Johnson AE, Oster J, Clifford GD. <a href="https://www.physionet.org/files/random-search/1.0.0/BeharJohnsonOsterClifford_RS_example.pdf">An echo state neural network for foetal ECG extraction optimised by random search</a>. Machine Learning for Clinical Data Analysis and Healthcare, NIPS Workshop 2013, Lake Tahoe, Nevada, USA 2013 December 10.
+Behar J, Johnson AE, Oster J, Clifford GD. <a href="https://drive.google.com/file/d/15RiTbq7quS8inoT48x-qXvU9Q57DuMn5/view?usp=sharing">An echo state neural network for foetal ECG extraction optimised by random search</a>. Machine Learning for Clinical Data Analysis and Healthcare, NIPS Workshop 2013, Lake Tahoe, Nevada, USA 2013 December 10.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{JoachimBehar_2013_12_10_AnEcho,
     author = "Behar, Joachim and Johnson, Alistair EW and Oster, Julien and Clifford, Gari D",
     title = "An echo state neural network for foetal ECG extraction optimised by random search",
     date = "2013-12-10",
     booktitle = "Machine Learning for Clinical Data Analysis and Healthcare, NIPS Workshop 2013, Lake Tahoe, Nevada, USA",
-    url = "https://www.physionet.org/files/random-search/1.0.0/BeharJohnsonOsterClifford\_RS\_example.pdf"
+    url = "https://drive.google.com/file/d/15RiTbq7quS8inoT48x-qXvU9Q57DuMn5/view?usp=sharing"
 }
 </pre>
 </div><div class="showbibtex">
