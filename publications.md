@@ -6658,7 +6658,7 @@ Clifford GD, Tarassenko L, Townsend N. <a href="https://drive.google.com/file/d/
 
 <table>
 <tr>
-<td>188</td>
+<td>189</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AlirezaRafiei_UnknownDate_AutoFEDUSAutoregressive">
 <div class="citation">
@@ -6678,7 +6678,7 @@ Rafiei A, Clifford G, Katebi N. <a href="https://drive.google.com/file/d/19Fliyi
 <div class="hidebibtex">
 <label for="AlirezaRafiei_UnknownDate_AutoFEDUSAutoregressive">[show citation]</label>
 </div></div></td></tr><tr>
-<td>187</td>
+<td>188</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AmitShah_2024_11_12_SexDifferences">
 <div class="citation">
@@ -6702,7 +6702,7 @@ Shah A, She H, elon , Li Q, Roberts T, Stefanos L, Haddad G, Gupta S, Tarlapally
 <div class="hidebibtex">
 <label for="AmitShah_2024_11_12_SexDifferences">[show citation]</label>
 </div></div></td></tr><tr>
-<td>186</td>
+<td>187</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AmitShah_2024_11_12_BluntedHemodynamic">
 <div class="citation">
@@ -6725,6 +6725,27 @@ Shah A, She H, elon , Roberts T, Stefanos L, Haddad G, Osei J, Suvada K, Okoh A,
 </div>
 <div class="hidebibtex">
 <label for="AmitShah_2024_11_12_BluntedHemodynamic">[show citation]</label>
+</div></div></td></tr><tr>
+<td>186</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="WeitaoTang_2024_AdvancingFetal">
+<div class="citation">
+Tang W, Tran N, Katebi N, Sameni R, Clifford GD, Walker D, Horlali V, Taylor C, Galinsky R, Marzbanrad F. <a href="https://drive.google.com/file/d/1jxDXRBmwlkjuZFenhO9lYeD8qQFrWHea/view?usp=sharing">Advancing Fetal Surveillance with Physiological Sensing: Detecting Hypoxia in Fetal Sheep</a>. 2024 October 20.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{WeitaoTang_2024_AdvancingFetal,
+    author = "Tang, Weitao and Tran, Nhi and Katebi, Nasim and Sameni, Reza and Clifford, Gari D and Walker, David and Horlali, Vaishnavi and Taylor, Callum and Galinsky, Robert and Marzbanrad, Faezeh",
+    title = "Advancing Fetal Surveillance with Physiological Sensing: Detecting Hypoxia in Fetal Sheep",
+    date = "2024-10-20",
+    journal = "2024 IEEE SENSORS, Kobe, Japan",
+    url = "https://drive.google.com/file/d/1jxDXRBmwlkjuZFenhO9lYeD8qQFrWHea/view?usp=sharing",
+    note = "Publisher: Feb"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="WeitaoTang_2024_AdvancingFetal">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="WeitaoTang_2024_AdvancingFetal">[show citation]</label>
 </div></div></td></tr><tr>
 <td>185</td>
 <td><div class="citation_container">
@@ -10867,7 +10888,7 @@ Clifford G, Tarassenko L, Townsend N. <a href="https://drive.google.com/file/d/1
 
 <table>
 <tr>
-<td>44</td>
+<td>43</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="TianyiLi_2025_Childhoodadversity">
 <div class="citation">
@@ -10889,7 +10910,7 @@ Li T, Huibregtse ME, Ely TD, Rooij SJ, Lebois LA, Webb EK, Jovanovic T, House SL
 <div class="hidebibtex">
 <label for="TianyiLi_2025_Childhoodadversity">[show citation]</label>
 </div></div></td></tr><tr>
-<td>43</td>
+<td>42</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NasimKatebi_2025_03_12_EdgeAI">
 <div class="citation">
@@ -10909,7 +10930,7 @@ Katebi N, Ahmad M, Motie-Shirazi M, Phan D, Kolesnikova E, Nikookar S, Rafiei A,
 <div class="hidebibtex">
 <label for="NasimKatebi_2025_03_12_EdgeAI">[show citation]</label>
 </div></div></td></tr><tr>
-<td>42</td>
+<td>41</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SophiaSLiang_2025_Associationsbetween">
 <div class="citation">
@@ -10931,7 +10952,7 @@ Liang SS, Roeckner AR, Ely TD, Lebois LA, Rooij SJ, Bruce SE, Jovanovic T, House
 <div class="hidebibtex">
 <label for="SophiaSLiang_2025_Associationsbetween">[show citation]</label>
 </div></div></td></tr><tr>
-<td>41</td>
+<td>40</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="DeannaMKaplan_UnknownDate_FablaA">
 <div class="citation">
@@ -10952,7 +10973,7 @@ Kaplan DM, Alvarez SJA, Palitsky R, Choi H, Clifford GD, Crozier M, Dunlop BW, G
 <div class="hidebibtex">
 <label for="DeannaMKaplan_UnknownDate_FablaA">[show citation]</label>
 </div></div></td></tr><tr>
-<td>40</td>
+<td>39</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="XiaofanMu_2024_12_12_DetectingCognitive">
 <div class="citation">
@@ -10972,7 +10993,7 @@ Mu X, Seyedi S, Zheng I, Jiang Z, Chen L, Omofojoye B, Hershenberg R, Levey AI, 
 <div class="hidebibtex">
 <label for="XiaofanMu_2024_12_12_DetectingCognitive">[show citation]</label>
 </div></div></td></tr><tr>
-<td>39</td>
+<td>38</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LaurenAMcKibben_2024_PeritraumaticCreactive">
 <div class="citation">
@@ -10994,7 +11015,7 @@ McKibben LA, Layne MN, Albertorio-Saez EM, Zhao Y, Branham EM, House SL, Beaudoi
 <div class="hidebibtex">
 <label for="LaurenAMcKibben_2024_PeritraumaticCreactive">[show citation]</label>
 </div></div></td></tr><tr>
-<td>38</td>
+<td>37</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SajjadKarimi_2024_10_25_ElectromechanicalDynamics">
 <div class="citation">
@@ -11013,26 +11034,6 @@ Karimi S, Karimi S, Shah AJ, Clifford GD, Sameni R. <a href="https://drive.googl
 </div>
 <div class="hidebibtex">
 <label for="SajjadKarimi_2024_10_25_ElectromechanicalDynamics">[show citation]</label>
-</div></div></td></tr><tr>
-<td>37</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="WeitaoTang_2024_AdvancingFetal">
-<div class="citation">
-Tang W, Tran N, Katebi N, Sameni R, Clifford GD, Walker D, Horlali V, Taylor C, Galinsky R, Marzbanrad F. <a href="https://drive.google.com/file/d/1jxDXRBmwlkjuZFenhO9lYeD8qQFrWHea/view?usp=sharing">Advancing Fetal Surveillance with Physiological Sensing: Detecting Hypoxia in Fetal Sheep</a>. 2024 October.
-</div>
-<div class="bibtex_source"><pre>@unpublished{WeitaoTang_2024_AdvancingFetal,
-    author = "Tang, Weitao and Tran, Nhi and Katebi, Nasim and Sameni, Reza and Clifford, Gari D and Walker, David and Horlali, Vaishnavi and Taylor, Callum and Galinsky, Robert and Marzbanrad, Faezeh",
-    title = "Advancing Fetal Surveillance with Physiological Sensing: Detecting Hypoxia in Fetal Sheep",
-    date = "2024-10",
-    url = "https://drive.google.com/file/d/1jxDXRBmwlkjuZFenhO9lYeD8qQFrWHea/view?usp=sharing",
-    note = "Publisher: Feb"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="WeitaoTang_2024_AdvancingFetal">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="WeitaoTang_2024_AdvancingFetal">[show citation]</label>
 </div></div></td></tr><tr>
 <td>36</td>
 <td><div class="citation_container">
