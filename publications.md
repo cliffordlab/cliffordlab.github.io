@@ -6730,13 +6730,14 @@ Shah A, She H, elon , Roberts T, Stefanos L, Haddad G, Osei J, Suvada K, Okoh A,
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="WeitaoTang_2024_AdvancingFetal">
 <div class="citation">
-Tang W, Tran N, Katebi N, Sameni R, Clifford GD, Walker D, Horlali V, Taylor C, Galinsky R, Marzbanrad F. <a href="https://drive.google.com/file/d/1jxDXRBmwlkjuZFenhO9lYeD8qQFrWHea/view?usp=sharing">Advancing Fetal Surveillance with Physiological Sensing: Detecting Hypoxia in Fetal Sheep</a>. 2024 IEEE SENSORS, Kobe, Japan 2024 October 20.
+Tang W, Tran N, Katebi N, Sameni R, Clifford GD, Walker D, Horlali V, Taylor C, Galinsky R, Marzbanrad F. <a href="https://drive.google.com/file/d/1jxDXRBmwlkjuZFenhO9lYeD8qQFrWHea/view?usp=sharing">Advancing Fetal Surveillance with Physiological Sensing: Detecting Hypoxia in Fetal Sheep</a>. 2024 IEEE SENSORS, Kobe, Japan 2024 October 20; pp. 1-4.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{WeitaoTang_2024_AdvancingFetal,
     author = "Tang, Weitao and Tran, Nhi and Katebi, Nasim and Sameni, Reza and Clifford, Gari D and Walker, David and Horlali, Vaishnavi and Taylor, Callum and Galinsky, Robert and Marzbanrad, Faezeh",
     title = "Advancing Fetal Surveillance with Physiological Sensing: Detecting Hypoxia in Fetal Sheep",
     date = "2024-10-20",
     booktitle = "2024 IEEE SENSORS, Kobe, Japan",
+    pages = "1-4",
     url = "https://drive.google.com/file/d/1jxDXRBmwlkjuZFenhO9lYeD8qQFrWHea/view?usp=sharing",
     note = "Publisher: Feb"
 }
