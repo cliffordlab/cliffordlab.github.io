@@ -6890,30 +6890,6 @@ Bhatia N, Rogers A, Sameni R, Iravanian S, Reyna M, Li N, Lloyd M, El-Chami M, C
 </div></div></td></tr><tr>
 <td>178</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="QiaoLi_2024_05_01_Acomparison">
-<div class="citation">
-Li Q, Barnett K, Xue J, Albert D, Deepanshi F, Rad AB, Sameni R, Clifford GD. <a href="https://drive.google.com/file/d/1mwFzb5_0F0nn5QPD65H4H3s-cKQItY6l/view?usp=sharing">A comparison of QT algorithms on a South African population using a mobile ECG</a>. Journal of Electrocardiology 2024 May; 84: p. 23. DOI: <a href="https://doi.org/10.1016/j.jelectrocard.2024.05.045">10.1016/j.jelectrocard.2024.05.045</a>.
-</div>
-<div class="bibtex_source"><pre>@inproceedings{QiaoLi_2024_05_01_Acomparison,
-    author = "Li, Qiao and Barnett, Kim and Xue, Joel and Albert, Dave and Deepanshi, Fnu and Rad, Ali Bahrami and Sameni, Reza and Clifford, Gari D",
-    title = "A comparison of QT algorithms on a South African population using a mobile ECG",
-    date = "2024-05",
-    booktitle = "Journal of Electrocardiology",
-    url = "https://drive.google.com/file/d/1mwFzb5\_0F0nn5QPD65H4H3s-cKQItY6l/view?usp=sharing",
-    pages = "23",
-    volume = "84",
-    doi = "10.1016/j.jelectrocard.2024.05.045",
-    note = "Publisher: Churchill Livingstone"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="QiaoLi_2024_05_01_Acomparison">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="QiaoLi_2024_05_01_Acomparison">[show citation]</label>
-</div></div></td></tr><tr>
-<td>177</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="OliverHolmes_2024_05_15_371ObjectivelyCharacterized">
 <div class="citation">
 Holmes O, Bucher M, Neylan T, Clifford GD, Li Q, Li Q, Dougherty R, Baker J, Linnstaedt S, Jovanovic T, Stevens J, House S, Ressler K, Kessler R, McLean S, An X. <a href="https://drive.google.com/file/d/1P06ncFbpdIKVRbuqLRAQkWfaBp1LWSVG/view?usp=sharing">371. Objectively-Characterized Peritraumatic Sleep Phenotypes Are Associated With Both Pre-Trauma Characteristics and Peritraumatic Symptom Outcomes</a>. The 2024 Society of Biological Psychiatry Annual Meeting, Austin, Texas, USA 2024 May 9; 95 (10): pp. S251-S252.
@@ -6936,17 +6912,41 @@ Holmes O, Bucher M, Neylan T, Clifford GD, Li Q, Li Q, Dougherty R, Baker J, Lin
 <div class="hidebibtex">
 <label for="OliverHolmes_2024_05_15_371ObjectivelyCharacterized">[show citation]</label>
 </div></div></td></tr><tr>
+<td>177</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="QiaoLi_2024_05_01_Acomparison">
+<div class="citation">
+Li Q, Barnett K, Xue J, Albert D, Deepanshi F, Rad AB, Sameni R, Clifford GD. <a href="https://drive.google.com/file/d/1mwFzb5_0F0nn5QPD65H4H3s-cKQItY6l/view?usp=sharing">A comparison of QT algorithms on a South African population using a mobile ECG</a>. International Society for Computerized Electrocardiology,48th Annual Conference, Chateau Elan, Braselton GA, USA 2024 April 3; 84: p. 23. DOI: <a href="https://doi.org/10.1016/j.jelectrocard.2024.05.045">10.1016/j.jelectrocard.2024.05.045</a>.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{QiaoLi_2024_05_01_Acomparison,
+    author = "Li, Qiao and Barnett, Kim and Xue, Joel and Albert, Dave and Deepanshi, Fnu and Rad, Ali Bahrami and Sameni, Reza and Clifford, Gari D",
+    title = "A comparison of QT algorithms on a South African population using a mobile ECG",
+    date = "2024-04-03",
+    booktitle = "International Society for Computerized Electrocardiology,48th Annual Conference, Chateau Elan, Braselton GA, USA",
+    url = "https://drive.google.com/file/d/1mwFzb5\_0F0nn5QPD65H4H3s-cKQItY6l/view?usp=sharing",
+    pages = "23",
+    volume = "84",
+    doi = "10.1016/j.jelectrocard.2024.05.045",
+    note = "Publisher: Churchill Livingstone"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="QiaoLi_2024_05_01_Acomparison">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="QiaoLi_2024_05_01_Acomparison">[show citation]</label>
+</div></div></td></tr><tr>
 <td>176</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JoelXue_2024_05_01_ADNNmodelbased">
 <div class="citation">
-Xue J, Dewivedi T, Vlasenko O, Yuan R, Kirsch M, Albert D, Li Q, Rad AB, Sameni R, Clifford GD. <a href="https://drive.google.com/file/d/1fdbfW6qgf8Sb-kUVNI5sbaRlSDD-8FRY/view?usp=sharing">A DNN-model-based reduced lead algorithm for robust electrode positioning tolerance</a>. International Society for Computerized Electrocardiology 48th Annual Conference, Chateau elan, Braselton GA, USA 2024 April 3; 84: pp. 19-20.
+Xue J, Dewivedi T, Vlasenko O, Yuan R, Kirsch M, Albert D, Li Q, Rad AB, Sameni R, Clifford GD. <a href="https://drive.google.com/file/d/1fdbfW6qgf8Sb-kUVNI5sbaRlSDD-8FRY/view?usp=sharing">A DNN-model-based reduced lead algorithm for robust electrode positioning tolerance</a>. International Society for Computerized Electrocardiology 48th Annual Conference, Chateau Elan, Braselton GA, USA 2024 April 3; 84: pp. 19-20.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{JoelXue_2024_05_01_ADNNmodelbased,
     author = "Xue, Joel and Dewivedi, Trisha and Vlasenko, Oleksandr and Yuan, Reena and Kirsch, Miguel and Albert, Dave and Li, Qiao and Rad, Ali Bahrami and Sameni, Reza and Clifford, Gari D",
     title = "A DNN-model-based reduced lead algorithm for robust electrode positioning tolerance",
     date = "2024-04-03",
-    booktitle = "International Society for Computerized Electrocardiology 48th Annual Conference, Chateau elan, Braselton GA, USA",
+    booktitle = "International Society for Computerized Electrocardiology 48th Annual Conference, Chateau Elan, Braselton GA, USA",
     url = "https://drive.google.com/file/d/1fdbfW6qgf8Sb-kUVNI5sbaRlSDD-8FRY/view?usp=sharing",
     pages = "19-20",
     volume = "84",
