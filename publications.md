@@ -6730,13 +6730,13 @@ Shah A, She H, elon , Roberts T, Stefanos L, Haddad G, Osei J, Suvada K, Okoh A,
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="WeitaoTang_2024_AdvancingFetal">
 <div class="citation">
-Tang W, Tran N, Katebi N, Sameni R, Clifford GD, Walker D, Horlali V, Taylor C, Galinsky R, Marzbanrad F. <a href="https://drive.google.com/file/d/1jxDXRBmwlkjuZFenhO9lYeD8qQFrWHea/view?usp=sharing">Advancing Fetal Surveillance with Physiological Sensing: Detecting Hypoxia in Fetal Sheep</a>. 2024 October 20.
+Tang W, Tran N, Katebi N, Sameni R, Clifford GD, Walker D, Horlali V, Taylor C, Galinsky R, Marzbanrad F. <a href="https://drive.google.com/file/d/1jxDXRBmwlkjuZFenhO9lYeD8qQFrWHea/view?usp=sharing">Advancing Fetal Surveillance with Physiological Sensing: Detecting Hypoxia in Fetal Sheep</a>. 2024 IEEE SENSORS, Kobe, Japan 2024 October 20.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{WeitaoTang_2024_AdvancingFetal,
     author = "Tang, Weitao and Tran, Nhi and Katebi, Nasim and Sameni, Reza and Clifford, Gari D and Walker, David and Horlali, Vaishnavi and Taylor, Callum and Galinsky, Robert and Marzbanrad, Faezeh",
     title = "Advancing Fetal Surveillance with Physiological Sensing: Detecting Hypoxia in Fetal Sheep",
     date = "2024-10-20",
-    journal = "2024 IEEE SENSORS, Kobe, Japan",
+    booktitle = "2024 IEEE SENSORS, Kobe, Japan",
     url = "https://drive.google.com/file/d/1jxDXRBmwlkjuZFenhO9lYeD8qQFrWHea/view?usp=sharing",
     note = "Publisher: Feb"
 }
@@ -7123,13 +7123,13 @@ Reyna MA, Amorim E, Sameni R, Weigle J, Elola A, Rad AB, Seyedi S, Kwon H, Zheng
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChengDing_2023_Learningfrom">
 <div class="citation">
-Ding C, Guo Z, Rudin C, Xiao R, Shah A, Do DH, Lee RJ, Clifford G, Nahab FB, Hu X. <a href="https://drive.google.com/file/d/1YmiQ5NlX7QMSj5Eqcwtmun3Q3UgUg6oE/view?usp=sharing">Learning from alarms: a novel robust learning approach to learn an accurate photoplethysmography-based atrial fibrillation detector using eight million samples labeled with imprecise arrhythmia alarms</a>. 2023 October 1.
+Ding C, Guo Z, Rudin C, Xiao R, Shah A, Do DH, Lee RJ, Clifford G, Nahab FB, Hu X. <a href="https://drive.google.com/file/d/1YmiQ5NlX7QMSj5Eqcwtmun3Q3UgUg6oE/view?usp=sharing">Learning from alarms: a novel robust learning approach to learn an accurate photoplethysmography-based atrial fibrillation detector using eight million samples labeled with imprecise arrhythmia alarms</a>. 50th Computing in Cardiology Conference, Atlanta, Georgia, USA 2023 October 1.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{ChengDing_2023_Learningfrom,
     author = "Ding, Cheng and Guo, ZhiCheng and Rudin, Cynthia and Xiao, Ran and Shah, Amit and Do, Duc H and Lee, Randall J and Clifford, Gari and Nahab, Fadi B and Hu, Xiao",
     title = "Learning from alarms: a novel robust learning approach to learn an accurate photoplethysmography-based atrial fibrillation detector using eight million samples labeled with imprecise arrhythmia alarms",
     date = "2023-10-01",
-    journal = "50th Computing in Cardiology Conference, Atlanta, Georgia, USA",
+    booktitle = "50th Computing in Cardiology Conference, Atlanta, Georgia, USA",
     url = "https://drive.google.com/file/d/1YmiQ5NlX7QMSj5Eqcwtmun3Q3UgUg6oE/view?usp=sharing"
 }
 </pre>
@@ -7679,14 +7679,14 @@ Seyedi S, Xiong L, Nemati S, Clifford GD. <a href="https://drive.google.com/file
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZhongCao_2021_02_01_Freedropsimulation">
 <div class="citation">
-Cao Z, Li W, Chen Z, Wang F, Shang W. <a href="https://drive.google.com/file/d/1fAP7tK0RkVDJKgRv9kErS81W9TD93Q0J/view?usp=sharing">Free-drop simulation and analysis of Full-screen smartphone based on ABAQUS/CAE</a>. 2020 December 25; 1786 (1): p. 012015.
+Cao Z, Li W, Chen Z, Wang F, Shang W. <a href="https://drive.google.com/file/d/1fAP7tK0RkVDJKgRv9kErS81W9TD93Q0J/view?usp=sharing">Free-drop simulation and analysis of Full-screen smartphone based on ABAQUS/CAE</a>. The 11th Asia Conference on Mechanical and Aerospace Engineering ACMAE (2020), Chengdu, China 2020 December 25; 1786 (1): p. 012015.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{ZhongCao_2021_02_01_Freedropsimulation,
     author = "Cao, Zhong and Li, Weijie and Chen, Zhuo and Wang, Feng and Shang, Wenli",
     title = "Free-drop simulation and analysis of Full-screen smartphone based on ABAQUS/CAE",
     date = "2020-12-25",
     issue = "1",
-    journal = "The 11th Asia Conference on Mechanical and Aerospace Engineering ACMAE (2020), Chengdu, China",
+    booktitle = "The 11th Asia Conference on Mechanical and Aerospace Engineering ACMAE (2020), Chengdu, China",
     url = "https://drive.google.com/file/d/1fAP7tK0RkVDJKgRv9kErS81W9TD93Q0J/view?usp=sharing",
     pages = "012015",
     volume = "1786",
@@ -7789,14 +7789,14 @@ Rogers AJ, Tooley J, Thakkar V, Torres J, Xu J, Bhatia NK, Tung J, Alhusseini M,
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="KayciVickers_2020_11_01_CognitiveEmpowerment">
 <div class="citation">
-Vickers K, Rodriguez A, Goldstein F, Ariyo A, Binford S, Campiglia G, Clifford G, DuBose J, Mynatt E, Nare M, Williams A, Witteveen M, Zimring C, Levey A. <a href="https://drive.google.com/file/d/1TdkW-fJN00w6YhjUvy9Orxl-d0LHsfTj/view?usp=sharing">Cognitive Empowerment Program for Individuals with Mild Cognitive Impairment: Description and Preliminary Satisfaction Ratings</a>. 2020 October 21; 101 (11): p. e107.
+Vickers K, Rodriguez A, Goldstein F, Ariyo A, Binford S, Campiglia G, Clifford G, DuBose J, Mynatt E, Nare M, Williams A, Witteveen M, Zimring C, Levey A. <a href="https://drive.google.com/file/d/1TdkW-fJN00w6YhjUvy9Orxl-d0LHsfTj/view?usp=sharing">Cognitive Empowerment Program for Individuals with Mild Cognitive Impairment: Description and Preliminary Satisfaction Ratings</a>. Archives of Physical Medicine and Rehabilitation 2020 October 21; 101 (11): p. e107.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{KayciVickers_2020_11_01_CognitiveEmpowerment,
     author = "Vickers, Kayci and Rodriguez, Amy and Goldstein, Felicia and Ariyo, Ayotoni and Binford, Suzette and Campiglia, Gabrielle and Clifford, Gari and DuBose, Jennifer and Mynatt, Elizabeth and Nare, Megan and Williams, Amanda and Witteveen, Margot and Zimring, Craig and Levey, Allan",
     title = "Cognitive Empowerment Program for Individuals with Mild Cognitive Impairment: Description and Preliminary Satisfaction Ratings",
     date = "2020-10-21",
     issue = "11",
-    journal = "Archives of Physical Medicine and Rehabilitation",
+    booktitle = "Archives of Physical Medicine and Rehabilitation",
     url = "https://drive.google.com/file/d/1TdkW-fJN00w6YhjUvy9Orxl-d0LHsfTj/view?usp=sharing",
     pages = "e107",
     volume = "101",
