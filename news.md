@@ -3,7 +3,22 @@ title: News
 layout: page
 permalink: /news
 ---
+<details open><summary><font size="6">2025</font></summary>
+<div onclick="">
+	<font size="5">Dr. Clifford has been inducted into AIMBE Collage of Fellows.</font>
+ <br>
+ 	<em>March 2025</em> - At the end of March, the <a href="https://aimbe.org/">American Institute for Medical and Biological Engineering (AIMBE)</a> inducted <a href="https://med.emory.edu/departments/biomedical-informatics/_images/aimbe-gari-clifford.pdf">Dr. Gari Clifford</a> into its <a href="https://aimbe.org/gari-clifford-inducted-into-the-2025-class-of-the-aimbe-college-of-fellows/">College of Fellows</a>.  AIMBE Fellows are among the most distinguished medical and biological engineers including four Nobel Prize laureates and 27 recipients of the Presidential Medal of Science and/or Technology and Innovation.  Fellows are nominated and evaluated by their peers prior to election so this honor is of special significance to Dr. Clifford. At the ceremony in Washington, DC, he said, “It's a privilege to be selected by my peers for this honor, and I hope to be able to use this opportunity to advocate for the health of the underserved and make some 'good trouble'.”
+</div>
+	
+<br>
 <details open><summary><font size="6">2024</font></summary>
+<div onclick="">
+	<font size="5">Dr. Clifford has received a new NIH grant</font>
+ <br>
+ 	<em>October 2024</em> - Dr. Gari Clifford received a new NIH grant (R56AG083845) from the <a href="https://www.nia.nih.gov/">National Institute of Aging</a> entitled ‘Multimodal Deep Learning to Assess Cognitive Processes and a Validation of a Visuospatial Memory EyeTracking Test in Diverse Population’. This work, in collaboration with <a href="https://med.emory.edu/directory/profile/?u=ALEVEY">Dr. Allan Levey</a> - the Director of the <a href="https://research.emory.edu/research-centers/goizueta-institute.html">Goizueta Institute at Emory Brain Health</a>, focuses on expanding our VisMET system for tracking cognitive impairment to a larger and more diverse population, to explore VisMET’s ability to detect preclinical memory decline as well as longitudinal change in a preclinical sample, and to develop novel analytical methods and metrics that will associate performance on the same brief task with executive function, processing speed, and emotion, thereby supporting broader clinical utility. 
+</div>
+ 
+<br>
 <div onclick="">
 	<font size="5">Dr. Clifford wrapped up the George B. Moody PhysioNet Challenge 2024</font>
 <br>
@@ -51,7 +66,7 @@ The competition will take place at <a href="https://www.isce.org/page/annualconf
 </details>
 
 <br>
-<details open><summary><font size="6">2023</font></summary>
+<details><summary><font size="6">2023</font></summary>
 <div onclick="">
 	<font size="5">A postdoctoral fellow's paper won the 'Best Thematic Paper Award' at ML4H conference</font>
 <br>
