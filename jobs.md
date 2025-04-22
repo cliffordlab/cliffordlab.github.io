@@ -10,5 +10,4 @@ Please send a full CV with a covering letter/email describing your skills and ca
 
 ### **Open Postdoctoral Fellow Positions**
 * [Job Number 128072](https://faculty-emory.icims.com/jobs/128072/post-doctoral-fellow---department-of-biomedical-informatics/job)
-* [ Job Number 61911](https://faculty-emory.icims.com/jobs/61911/post-doctoral-fellow---department-of-biomedical-informatics/job)
 
