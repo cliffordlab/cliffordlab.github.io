@@ -37,7 +37,7 @@ in my research group. If you have any suggestions for changes, let me know.
 -   [Sharing results before publication](#sharing)
 -   [Work environmnet/expectations](#expectations)
 -   [Attendance and well-being](#attendance)
--   [Correspondence](#correspondence)
+-   [Correspondence and communication](#correspondence)
 -   [Recommendations](#recommendations)
 -   [Disclaimer](#disclaimer)
 
@@ -577,11 +577,20 @@ mental (and physical) health is the most important part of your development,
 and if you don't take real breaks you will burn out. Holidays give you 
 a good perspective on your work and career.
 
-## Correspondence
+## Correspondence and communication
 
-When you work as part of my team, you represent it. When you email
-anyone, please try to be formal enough.
+Communication is the most important aspect of research. We work as a 
+group, and communicating what you are doing, any road blocks, and 
+timelines to the people who depend on your work (including supervisors 
+and project managers) is essential. In general you should check your email 
+3-4 times a day to look out for urgent issues that would benefit from a 
+response in 1-2 hours. Most emails should be answered within 24 hours
+of receiving them. (I receive too many emails to do this, but as you
+are working on 1 or 2 specific projects, you should be able to deal with 
+the volume of emails - if you can't, let me know immediately.)
 
+External correspondence is different. When you work as part of my team, 
+you represent it. When you communicate with anyone, please try to be formal enough.
 Use titles until they request that you don’t or have written back to
 you (directly) using their first name only in the signature at least 3
 times.
@@ -602,6 +611,11 @@ administrative assistant, and cc me on the email so I know who you are
 and why you are requesting a meeting. I will then email my assistant
 back to let her know the priority of the meeting. My assistant will not
 make a meeting time for you without checking with me first.
+
+Posting on social media or other public fora. My advice is - don't - 
+it's usually a mistake. Please do not post information about your research or 
+lab activities without clearing it with me first. It could cause issues
+with IP, contracts or funding.
 
 ## Recommendations
 
