@@ -10891,14 +10891,14 @@ Li T, Huibregtse ME, Ely TD, Rooij SJ, Lebois LA, Webb EK, Jovanovic T, House SL
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZuzanaKoscova_2025_04_25_ANoiseRobust">
 <div class="citation">
-Koscova Z, Shah A, Rad AB, Li Q, Clifford GD, Sameni R. <a href="https://arxiv.org/abs/2504.18101">A Noise-Robust Model-Based Approach to T-Wave Amplitude Measurement and Alternans Detection</a>. arXiv preprint arXiv:2504.18101 2025 April 25.
+Koscova Z, Shah A, Rad AB, Li Q, Clifford GD, Sameni R. <a href="https://drive.google.com/file/d/1f6mKPC8Zosv-Yl1VdJtOpsKwMmzlLPH3/view?usp=sharing">A Noise-Robust Model-Based Approach to T-Wave Amplitude Measurement and Alternans Detection</a>. arXiv preprint arXiv:2504.18101 2025 April 25.
 </div>
 <div class="bibtex_source"><pre>@article{ZuzanaKoscova_2025_04_25_ANoiseRobust,
     author = "Koscova, Zuzana and Shah, Amit and Rad, Ali Bahrami and Li, Qiao and Clifford, Gari D and Sameni, Reza",
     title = "A Noise-Robust Model-Based Approach to T-Wave Amplitude Measurement and Alternans Detection",
     date = "2025-04-25",
     journal = "arXiv preprint arXiv:2504.18101",
-    url = "https://arxiv.org/abs/2504.18101"
+    url = "https://drive.google.com/file/d/1f6mKPC8Zosv-Yl1VdJtOpsKwMmzlLPH3/view?usp=sharing"
 }
 </pre>
 </div><div class="showbibtex">
