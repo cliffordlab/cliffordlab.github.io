@@ -31,11 +31,11 @@ in my research group. If you have any suggestions for changes, let me know.
 -   [Copyright](#copyright)
 -   [Conflicts of interest](#coi)
 -   [Patents](#patents)
--   [Source code and open source](#opensource)
+-   [Source code and open-source](#opensource)
 -   [Presentations, conferences and other
     ‘publications’](#presentations)
 -   [Sharing results before publication](#sharing)
--   [Work environmnet/expectations](#expectations)
+-   [Work environment/expectations](#expectations)
 -   [Attendance and well-being](#attendance)
 -   [Correspondence and communication](#correspondence)
 -   [Recommendations](#recommendations)
@@ -128,7 +128,7 @@ If you work in my research group you will be expected to co-author with
 other researchers and academic or clinical staff. Unless the article is
 in a completely unrelated discipline, you will be expected to pass all
 potential publications to me before presenting in public, placing on any
-website, submitting to a journal/conference/workshop, etc, or
+website, submitting to a journal/conference/workshop, etc., or
 presenting/publishing in any public way. This is to protect the
 professional reputations of all involved. If you wish to claim sole
 authorship of a work (such as an article or patent), this will be
@@ -148,10 +148,10 @@ authorship, although my general policy is to appoint a first author, and
 ask them to draft author order based on their own perceptions of
 contributions. It should be noted, however, the primary author must
 continue to take the lead on research and publication throughout, even
-throughout submission, review and final reporting. Faliure to do so will
+throughout submission, review and final reporting. Failure to do so will
 mean first authorship is assigned to another author, who is willing to
 step up, except in rare cases (such as serious illness during the later
-stages - e.g. submission and review).
+stages - e.g., submission and review).
 
 One caveat. If you do not answer emails in a reasonable period of time
 (or leave a forwarding email), I may choose to publish some of your work
@@ -161,17 +161,17 @@ despite your omission.
 ### Timing is everything
 
 Once you’ve created your shortlist of authors, contact your supervisor
-before the other authors, or if you are the PI on the study, the other
+before contacting the other authors, or if you are the PI on the study, the other
 grant PI(s) and decide if you agree on the list. Resolve these
 differences before involving all the authors. Err on the generous side
-initially. Push disputes up the line, not sidewards to those uninvolved
+initially. Push disputes up the line, not sideways to those uninvolved
 in the process. This all needs to happen at least three weeks in advance
 of any deadline. Any less is thoughtless and doesn’t give time for those on
 holiday to respond or check for the inevitable errors. Check your
 contracts too - some research agreements require you to provide a draft
 copy of the intended publication to the sponsor (particularly if the
 research is partly or fully industry-sponsored) so that it can be
-reviewed for patentability, trade secrets, etc. In these cases you need
+reviewed for patentability, trade secrets, etc. In these cases, you need
 to start this process at least three weeks \*plus\* that review period
 in advance of any deadline. If you work for me and don’t do this, then
 I’ll refuse to let you submit. You do need your PI’s permission to
@@ -202,13 +202,13 @@ instructions for authors:
 
 It is important that all (key) relevant materials are cited in your
 publication. This includes anyone who’s work you have used, and any
-work you have considered but rejected. When citing the work you should
+work you have considered but rejected. When citing the work, you should
 be careful to indicate why you have used or rejected the material. Note
 that if the source you cite is not primary, you need to cite the primary
 source as well (or instead). Note, you cannot cite a paper to justify or
-explain a technique which does little more than cite another paper to
+explain a technique that does little more than cite another paper to
 justify or explain a technique. It is important that the format of the
-references remains consistent. Although some journals require the
+references remain consistent. Although some journals require the
 [Harvard](http://libweb.anglia.ac.uk/referencing/harvard.htm) style, I
 prefer
 [Vancouver](http://www.lib.monash.edu.au/tutorials/citing/vancouver.html).
@@ -236,7 +236,7 @@ there are.
 
 Web links and URLs should be included in the reference list.” They
 should be provided in full, including both the title of the site and the
-URL, an author (if known) and the date accessed (since the web is
+URL, an author (if known), and the date accessed (since the web is
 ephemeral). Note that a thesis can be considered a peer-reviewed
 publication to cite, but it is of little use if the thesis is not
 readily available. If a paper exists, it is best to cite that instead
@@ -249,7 +249,7 @@ If your work involved living subjects other than yourself, you (or
 whoever collected the data) must have obtained ethical approval for the
 study. Again,
 [BMEO](http://www.biomedical-engineering-online.com/info/instructions/)’s
-policy provides an excellent guide which I paraphrase here:
+policy provides an excellent guide, which I paraphrase here:
 
 Any experimental research that is reported in the manuscript must have
 been performed with the approval of an appropriate ethics committee.
@@ -258,35 +258,35 @@ Declaration](http://en.wikipedia.org/wiki/Declaration_of_Helsinki), and
 any experimental research on animals must follow internationally
 recognized guidelines. A statement to this effect is generally required
 in the Methods section of the manuscript (particularly in medical
-journals), including the name of the body which gave approval, with a
+journals), including the name of the body that gave approval, with a
 reference number where appropriate. Informed consent must also be
 documented. Manuscripts may be rejected if the editorial office
 considers that the research has not been carried out within an ethical
-framework, e.g. if the severity of the experimental procedure is not
+framework, e.g., if the severity of the experimental procedure is not
 justified by the value of the knowledge gained.
 
 The
-[NHS](http://www.nres.npsa.nhs.uk/applications/approval-requirements/ethical-review-requirements/)
+[NHS]([http://www.nres.npsa.nhs.uk/applications/approval-requirements/ethical-review-requirements/](https://www.hra.nhs.uk/approvals-amendments/what-approvals-do-i-need/research-ethics-committee-review/))
 provides a quick lookup sheet
-[here](http://www.nres.npsa.nhs.uk/EasySiteWeb/GatewayLink.aspx?alId=134016).
+[here](https://web.archive.org/web/20111108164156/http://www.nres.npsa.nhs.uk/EasysiteWeb/getresource.axd?AssetID=134016&type=full&servicetype=Attachment).
 There appear to be some circumstances in which ethics approval is not
-required, but you need to check the current / local rules and note that
+required, but you need to check the current/local rules and note that
 IRB/ethics approval requirements change from time to time.
 
 ## <a name="double"></a> Double publishing
 
 Any manuscripts submitted to a journal must not already have been
-published in another journal or be under consideration by any other
+published in another journal or under consideration by any other
 journal, although it may have been deposited on a preprint server.
 Manuscripts must not have already been published in any journal or other
 citable form, with the exception that the journal is willing to consider
 peer-reviewing manuscripts that are translations of articles originally
 published in another language. In this case, the consent of the journal
-in which the article was originally published must be obtained and the
+in which the article was originally published must be obtained, and the
 fact that the article has already been published must be made clear on
 submission and stated in the abstract. Manuscripts that are derived from
 papers presented at conferences can be submitted unless they have been
-published as part of the conference proceedings in a peer reviewed
+published as part of the conference proceedings in a peer-reviewed
 journal. Authors are required to ensure that no material submitted as
 part of a manuscript infringes existing copyrights, or the rights of a
 third party.
@@ -307,7 +307,7 @@ are infringing on copyright. For example, you can photocopy or print a
 certain percentage of many copyrighted journals or books for personal or
 teaching use.
 
-Some journals require you sign over your copyright to them. I would
+Some journals require you to sign over your copyright to them. I would
 discourage this practice. See this
 [webcast](http://news-libraries.mit.edu/blog/podcast-abelson/1044/) of
 Hal Abelson from MIT for a good justification on why we shouldn’t trade
@@ -334,7 +334,7 @@ body, are likely to be compromised, or may appear to be compromised, by:
     or body.
 
 There can be situations in which the appearance of conflict of interest
-is present even when no conflict actually exists. Thus it is important
+is present even when no conflict actually exists. Thus, it is important
 for all staff and students when evaluating a potential conflict of
 interest to consider how it might be perceived by others. The duty to
 declare a possible conflict applies to the perception of the situation
@@ -371,10 +371,10 @@ However, patents can limit from where you can receive funding (because
 of conflicts of interest). Patenting an idea may also disincentivize
 others to work in this area, diminishing the impact of your research.
 It’s also an expensive and time-consuming process unless someone else
-is willing to do all the leg work for you (which is unlikely).
+is willing to do all the legwork for you (which is unlikely).
 
 I am against bad patents, or arbitrary patenting of concepts on which
-the inventor hasn’t spent much time or demonstrated the system works
+the inventor hasn’t spent much time or demonstrated that the system works
 well on more than a few examples.
 
 If you want to patent something you are working on with me, please come
@@ -385,7 +385,7 @@ cost of \$100). Costs mount over time as you have to file a full patent
 and probably use lawyers, and then a few years later, start paying
 maintenance costs.
 
-## Source code and open source
+## Source code and open-source
 
 Please DO NOT post any code you write that is related to research in our
 department (or elsewhere) in a public repo. Use a private Github repo in
@@ -397,7 +397,7 @@ There are many reasons for not posting code at an early stage:
     [here](http://gdclifford.info/ethics#sharing)
 2.  You are giving away your (and my) ideas to others so they can beat
     us to publication and grants. It literally risks our careers.
-3.  It’s a work in progress so it’s likely to be wrong - you are doing
+3.  It’s a work in progress, so it’s likely to be wrong - you are doing
     a disservice to science
 4.  It makes us look bad and harms our professional reputations
 5.  It hasn’t been reviewed, so it’s probably contravening the
@@ -410,48 +410,48 @@ Eventually your code will become public, but not until several of us
 (including me) have reviewed it and I’ve signed off on it.
 
 Most code you find online will carry a license with it. If it doesn’t,
-it probably isn’t free and you shouldn’t use it. It’s hard to cite
+it probably isn’t free, and you shouldn’t use it. It’s hard to cite
 it, but it still isn’t yours. Licenses vary in the extent to which you
-can use, copy or embed them in other code, and often their licenses
+can use, copy, or embed them in other code, and often their licenses
 require you to inherit their licenses (‘copyleft’). As Richard
 Stallman will tell you, ‘free’ doesn’t mean free as in beer, it means
 liberated, as in open to scrutiny, which is what science should be. You
-can copyright your code, and license it to third parties, retaining
+can copyright your code and license it to third parties, retaining
 extensive rights for yourself and others. You can even patent code.
 
 If you work in my research group, your code will probably inherit an
-open source license and end up in the public domain. If you are unhappy
-with this idea, let me know up front (N.B. You can still patent the idea
-for which you have released open source code! If it is after you
+open-source license and end up in the public domain. If you are unhappy
+with this idea, let me know up front. N.B. You can still patent the idea
+for which you have released open-source code! If it is after you
 publicly released the code, then only in the US - where you have 12
-months to file a provisional or full patent.).
+months to file a provisional or full patent.
 
 If you are confused about which free software license to use (and have
 the liberty to choose), please see this [quick look-up
 chart](http://en.wikipedia.org/wiki/Comparison_of_free_software_licenses).
 
-Generally I want to open source code. I think it’s good for everyone
+Generally, I want to open-source code. I think it’s good for everyone
 and certainly for scientific repeatability. Before posting anything
 though please check with me. Also check:
 
 1.  Any other authors who have made ‘substantial’ [\*](#ast) contributions
     (materially or intellectually) to the code are happy too. If they
     are not, let me know and I’ll adjudicate a reasonable timeline for
-    posting. If you are unsure of authors, please contact me.
+    posting. If you are unsure of the authors, please contact me.
 2.  The code doesn’t contain any passwords or PHI (whether you
     introduced it or not).
 3.  The code has a list of authors, dates and open bugs, limitations,
-    and is commented at each line to show specifically what is yours and
+    and is commented at each line to show specifically what is yours, and
     when it was done. Notably, each source file should contain a header
     indicating the author(s), license, date of publication and date of
-    last change (and what the conceptual change was - e.g. ‘minor bug
-    fix to stop buffer overflow in zoom’, or ‘major redesign of
-    annotation interface to allow zooming in x and y’, etc).
+    last change, and what the conceptual change was - e.g. ‘minor bug
+    fix to stop buffer overflow during zoom’, or ‘major redesign of
+    annotation interface to allow zooming in x and y’, etc.
 4.  A publication referring to the code is posted on the site where the
     code is located - probably in a readme file (so this means generally
     waiting until we’ve published at least one paper on the use of the
     code).
-5.  Double check with Gari and let him know in an email that all the
+5.  Double check with me, and let me know in an email that all the
     above steps have been done.
 
 <a name="ast"></a>\* ‘Substantial’ is open to interpretation, but generally is along
@@ -473,7 +473,7 @@ correct errors or contradictions. You rarely work alone!
 ## <a name="sharing"></a> Sharing results before publication
 
 You should talk to me before sharing research and results with other
-groups or individuals. Generally I like to share and work in an ’open’
+groups or individuals. Generally, I like to share and work in an ’open’
 manner, but sometimes this can be sensitive. However, you may find that
 I share your research with select colleagues without discussing this
 with you first. I don’t expect to have to pre-approve every
@@ -481,19 +481,19 @@ communication I have with colleagues.
 
 ## <a name="expectations"></a> Work environment/expectations
 
-Graduate study is rather like working in a startup, or an apprenticeship.
-You will do a bit of everything from data collection, to fixing
-computers and entertaining visitors. Clearly a large part of your time
+Graduate study is rather like working in a startup or an apprenticeship.
+You may do a bit of everything from data collection to fixing
+computers and entertaining visitors. Clearly, a large part of your time
 will be spent coding and writing up reports. As your supervisor I will
 try to meet with you for an hour every other week - sometimes more,
 sometimes less. You'll see me in group meetings much more often, except
-when I'm traveling, or I'm on holiday. I’ll respond to emails almost daily 
+when I'm traveling or I'm on holiday. I’ll respond to emails almost daily, 
 and I’ll expect you to do the same, except during holidays and weekends. 
-I often miss emails (extreme inbox overload) so don't be afraid to email
-me a few times to remind me. Generally I'm really flexible about vacation 
+I often miss emails (extreme inbox overload), so don't be afraid to email
+me a few times to remind me. Generally, I'm really flexible about vacation 
 time and I want you to take your holidays when you like or when you most 
 need them ... your mental (and physical) health is the most important
-part of your development, and if you don't take breaks you will burn out.
+part of your development, and if you don't take breaks, you will burn out.
 
 Please let me know when you plan to leave well in advance, just in case
 there’s an important visitor turning up or we have critical deadlines.
@@ -509,80 +509,104 @@ reasons:
     focus area, an internship with a company, etc.
 2.  You don’t work alone. You will be working in a group, and so you
     have to consider the needs of others, making sure your research
-    dovetails, and doesn’t overlap too heavily.
+    dovetails and doesn’t overlap too heavily.
 3.  As you are putting your career in my hands, I am also putting my
     academic reputation in your hands. In that sense, it’s an equal
     partnership. If I am giving my time, then I will occasionally
-    (but certainly not always) veto certain paths in your research which
+    (but certainly not always) veto certain paths in your research, which
     I am pretty sure will be fruitless. That’s my responsibility after
     all. I won't always be right, but I'm likely to be right more
     often than I'm wrong. Ultimately, the buck stops with me, and I
     have to justify our choices to the funding entities, so it's my
-    duty and perogative to make these calls.
+    duty and prerogative to make these calls.
 
 ## <a name="attendance"></a> Attendance and well-being
 
-In general I expect you to be in the office at least 25 hours a week 
-(or whatever your contract/agreement states) Monday through Friday. 
-I'm open to occasional remote work, but we need to discuss it and make 
-sure it fits with the other team members. Optimizing interactions is impoartant.
+First, your health is the most important thing. If you aren't looking
+after yourself, then your health, home life, and work will suffer.
+Don't come to work if you feel sick. Work remotely, or take a rest.
+You'll find it's more efficient in the long run, and you will also 
+keep others safe. If you feel you have to come in, but are not feeling
+100%, please wear a well-fitting N95 mask (we provide them for free)
+and be extra attentive about hand washing. 
+Unless you can't physically manage it, please let your direct report
+that you are out sick as soon as safely possible, and if you feel you 
+can, send materials to others so they can pick up where you left off.
+(In general, you should make sure that your work is backed up daily and
+shared with someone who can pick up where you left off on any given day
+- so your documentation should be high quality.) 
 
-Try to be around 10am-3pm at least 3-4 days a week (although your visa or
-contract may require more than this). It’s important you communicate with 
-the group for most of the working week, and you are able to share
-knowledge and absorb it to move quickly as a team. Research groups work
-as a cascade of knowledge down the gradient of age (and often up). The
-lifeblood of research is mentorship, and you will absorb lots in the
-first year or so and then increasingly pay it forward to the incoming
-cohorts. It's very hard to mentor remotely, with the exception of very
-long-term research staff, everyone has to some in person multiple times
-a week.
+While you are not our sick, in general I expect you to be in the office 
+at least 25 hours a week (or whatever your contract/agreement states), 
+Monday through Friday. I'm open to occasional remote work, especially if 
+you have any caregiving or health issues, but we need to discuss it and make 
+sure it fits with the other team members' schedules. Optimizing interactions 
+between research team members is important to a functional project/lab.
+It's very rare that we are working in isolation at any point in our careers.
 
-Even if you are a student, and all your courses are over, you still must
-be in the research group physically so that you can contribute to the 
+Try to be around 10 am to 3 pm at least 3-4 days a week (unless your visa or
+contract requires more than this, or you feel like being in the office 
+more often. It’s important you communicate regularly and rapidly with 
+the other lab members for most of the working week, and you are able to 
+share knowledge and absorb it to move quickly as a team. Research groups 
+function best when they cascade knowledge down the gradient of age 
+(and sometimes up the age gradient). The lifeblood of research is mentorship, 
+and you will absorb lots in the first year or so and then increasingly pay 
+it forward to the incoming cohorts. It's very hard to mentor remotely, 
+with the exception of very long-term research staff, and almost everyone 
+comes in person multiple times a week.
+
+Even if you are a student, and all your courses are over, you should still
+be physically present so that you can contribute to the 
 upcoming cohorts of students. We stand on each other’s shoulders.
 
-If you want to do a rotation with me, make sure your course load is low,
-so you can spend sufficient time with my team to make it worth the
-effort (on both sides). This will also help you avoid burn-out.
+If you want to do a rotation with me, make sure your course load is 
+manageably low, so you can spend sufficient time with my team to make it 
+worth the effort (on both sides). This will also help you avoid burn-out.
 
-It’s important you attend any meeting I schedule and these might be early
-morning or late afternoon because my collaborators are clinicians. The
-flexibility goes both ways though \... if you decide you want to come in
+It’s important you attend any meeting I schedule with you (individually and 
+in teams) and you turn up before the meeting starts. 
+Meetings sometimes take place early in the morning (although not if I can help it)
+or late afternoon because my collaborators are clinicians, or are located in 
+time zones across the world. 
+The flexibility goes both ways, though \... if you decide you want to come in
 at lunch time one day, good for you. I want you to work when you feel at
-your best. Get sleep, work out, eat good food, spend time with loved
+your best. Get sleep, work out, eat good food, and spend time with loved
 ones. I see no point in presenteeism. Learn your own optimal times 
 for working (but balance it with the need to communicate with the group 
 and have some core hours on most days). 
 
-If we do have a meeting, then I expect you to be prompt at meetings.
-I have a tight calendar, so if you are late to a meeting it can 
+If we do have a meeting, then I expect you to be prepared, with notes from 
+the last meeting, to take (and share) new notes, and to be prompt.
+I have a tight calendar, so if you are late to a meeting, it can 
 significantly impact utility. I’m pretty relaxed, but even minor
-tardiness results in a poor impression on my collaborators and can
+tardiness results in a poor impression on my collaborators. It can even 
 lead to a loss of funding and impaired reputation. Tardiness
 sends a subconscious message that you think your time is more
-important than other's. I know - I can hear my family laughing at me.
-I’m terribly guilty of this. I’m working on it myself. I’m sorry
-about that, but please don’t copy me. I don’t role model time keeping
-well. This is one reason I need you to help me. Don't be afraid to 
-point out that the meeting is about to finish and we need to move
-on to the next one.
+important than others' time. I know - I can hear my family laughing at me.
+I’m terribly guilty of this. But I've worked on that, and if I'm late, it's
+because the previous meeting ran over (against my will). I am guilty of 
+letting meetings run over, but that's because people often don't bring up
+critical issues until 3 minutes to the hour. I don’t role model time keeping
+well, so don't copy me. This is one reason I need you to help me. Don't 
+be afraid to point out that the meeting is about to finish and we need 
+to move on to the next one.
 
-Taking days off with holiday pay or flex time is fine with me but please
+Taking days off with holiday pay or flex time is fine with me, but please
 check in advance and drop it in the calendar so I don’t try to schedule
 meetings with you or try to ask you a question while you are out. As noted
-above, generally I'm really flexible about vacation time and I want you 
+above, generally, I'm really flexible about vacation time and I want you 
 to take your holidays when you like or when you most need them ... your 
 mental (and physical) health is the most important part of your development, 
-and if you don't take real breaks you will burn out. Holidays give you 
+and if you don't take real breaks, you will burn out. Holidays give you 
 a good perspective on your work and career.
 
 ## Correspondence and communication
 
 Communication is the most important aspect of research. We work as a 
-group, and communicating what you are doing, any road blocks, and 
+group, and communicating what you are doing, any roadblocks, and 
 timelines to the people who depend on your work (including supervisors 
-and project managers) is essential. In general you should check your email 
+and project managers) is essential. In general, you should check your email 
 3-4 times a day to look out for urgent issues that would benefit from a 
 response in 1-2 hours. Most emails should be answered within 24 hours
 of receiving them. (I receive too many emails to do this, but as you
@@ -601,8 +625,11 @@ research group you work.
 Do not chat, instant/text message or cold call someone until they have
 responded to the email and indicated this is OK.
 
-If you chat me through any of my devices I’ll block you and be less
-inclined to answer your emails because I find it intrusive.
+If you initiate a chat with me through social media, I’ll probably accidentally 
+ignore it for many months, I may block you when I see it, and may be less 
+inclined to answer your emails because I find instant messaging intrusive. 
+My research group knows when to chat me (e.g., on an urgent topic that might 
+result in harm to my projects, or a missed opportunity for their careers).
 
 I use chat/instant messenger type applications for colleagues (including
 students) I know well. Please don’t leave me voice messages, as they
@@ -612,10 +639,10 @@ and why you are requesting a meeting. I will then email my assistant
 back to let her know the priority of the meeting. My assistant will not
 make a meeting time for you without checking with me first.
 
-Posting on social media or other public fora. My advice is - don't - 
+Posting on social media or other public forums. My advice is - don't - 
 it's usually a mistake. Please do not post information about your research or 
 lab activities without clearing it with me first. It could cause issues
-with IP, contracts or funding.
+with IP, contracts, future publications, or funding.
 
 ## Recommendations
 
@@ -624,14 +651,14 @@ have spent a substantial amount of time under my direct supervision,
 either in class or as part of my group.
 
 If you need a reference, please email me at least 4 weeks in advance to
-ask me if I can do it. You may have to email me me a few times to
+ask me if I can do it. You may have to email me a few times to
 receive a response, as my volume of emails means I must triage my funded
 projects and job responsibilities out to the top of the pile.
 
 Please forgive me if I don’t respond. If you have emailed me three
 times (5 days apart) and received no response, then I would strongly
 advise looking for a more responsive human. If I do respond positively,
-I need several pieces of information from you, described here.
+I need several pieces of information from you: 
 
 First, please provide a **short** synopsis of the position for which you
 are applying with a link to the opportunity on the web.
@@ -661,7 +688,8 @@ attributes/achievements that address the specific needs of the
 post/chosen career.
 
 If you are a student and want me to talk about your grades and/or
-publications, please send readable digital versions.
+publications, please send readable digital versions of your transcripts
+and/or publications.
 
 Please add the full name, title and organisation (plus email) to whom
 the reference should be addressed at the top of the draft (please don’t
@@ -670,17 +698,17 @@ make me hunt for it in an old email chain).
 Provide the actual deadline (date and time in my local time zone) by
 when I need to submit it.
 
-Aim for 1-2 pages depending on the importance of the position. Brevity
+Aim for 1-2 pages, depending on the importance of the position. Brevity
 is key, but don’t miss any of the points above! Please try to get this
 to me at least 3 weeks before the deadline in case I’m travelling. It
-takes about 1-2 hours to craft a good reference even with all this
-information so I need to budget time.
+takes about 1-2 hours to craft a good reference, even with all this
+information, so I need to budget time.
 
 Don’t worry about getting any details wrong - I’ll definitely be
 changing them to reflect my realistic views on you. I’m English, so I
 can’t be hyperbolic and over-effusive in your reference, and I’ll
 delete any exaggerations, so please be truthful and balanced (but not
-modest) and it’ll save us all time. I’ll note my cultural bias (to
+modest) and it’ll save us all time. I may note my cultural bias (to
 under- rather than over-state) so the reader knows how to normalise your
 reference against the other hyperbolic ‘future world leader’ references
 they receive).
@@ -690,7 +718,7 @@ write for you. (Most referees will require this, so I suggest you do
 this for all of your referees.) I’m not able to spend time haggling
 over the nuances of a reference. I will most likely have already
 discussed it with you in detail if you took the initiative to provide me
-a draft. I am likely to tell you before hand if the reference will be
+a draft. I am likely to tell you beforehand if the reference will be
 poor, and suggest you find another referee. Of course, you should not
 request a reference from someone who does not know you well. Try to
 cultivate and maintain relationships with three or more mentors you know
@@ -708,7 +736,7 @@ yourself, then you are not going to fare well in the interview.
 
 I’m not a lawyer, and much of the information in this document might be
 wrong, particularly in different regions. Laws change, interpretations
-change and precedents are set. So none of the information on this site
+change, and precedents are set. So, none of the information on this site
 should be used without consulting a lawyer and all appropriate
 authorities. Do your own research, and read the research and thoughts of
 others.
