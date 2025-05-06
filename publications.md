@@ -15,7 +15,7 @@ permalink: /publications
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AlyssaRRoeckner_2025_05_03_Sequentialdecreases">
 <div class="citation">
-Roeckner AR, Lin ER, Hinrichs R, Harnett NG, Lebois LA, Rooij SJ, Ely TD, Jovanovic T, Murty VP, Bruce SE, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Musey PI, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Hudak LA, Pascual JL, Seamon MJ, Datner EM, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Joormann J, Sheridan JF, Harte SE, Koenen KC, Kessler RC, McLean SA, Ressler KJ, Stevens JS. <a href="https://drive.google.com/file/d/1cFHqH0S0hXKXQajlp3wdv8cehVbx9xv6/view?usp=sharing">Sequential decreases in basolateral amygdala response to threat predict failure to recover from PTSD</a>. Neuropsychopharmacology 2025 May 3; pp. 1-10. DOI: <a href="https://doi.org/10.1038/s41386-025-02115-">10.1038/s41386-025-02115-</a>.
+Roeckner AR, Lin ER, Hinrichs R, Harnett NG, Lebois LA, Rooij SJ, Ely TD, Jovanovic T, Murty VP, Bruce SE, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Musey PI, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Hudak LA, Pascual JL, Seamon MJ, Datner EM, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Joormann J, Sheridan JF, Harte SE, Koenen KC, Kessler RC, McLean SA, Ressler KJ, Stevens JS. <a href="https://drive.google.com/file/d/1cFHqH0S0hXKXQajlp3wdv8cehVbx9xv6/view?usp=sharing">Sequential decreases in basolateral amygdala response to threat predict failure to recover from PTSD</a>. Neuropsychopharmacology 2025 May 3; pp. 1-10. DOI: <a href="https://doi.org/10.1038/s41386-025-02115-1">10.1038/s41386-025-02115-1</a>.
 </div>
 <div class="bibtex_source"><pre>@article{AlyssaRRoeckner_2025_05_03_Sequentialdecreases,
     author = "Roeckner, Alyssa R and Lin, Esther R-H and Hinrichs, Rebecca and Harnett, Nathaniel G and Lebois, Lauren AM and van Rooij, Sanne JH and Ely, Timothy D and Jovanovic, Tanja and Murty, Vishnu P and Bruce, Steven E and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Neylan, Thomas C and Clifford, Gari D and Linnstaedt, Sarah D and Germine, Laura T and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Musey, Paul I and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Datner, Elizabeth M and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sergot, Paulina and Sanchez, Leon D and Joormann, Jutta and Sheridan, John F and Harte, Steven E and Koenen, Karestan C and Kessler, Ronald C and McLean, Samuel A and Ressler, Kerry J and Stevens, Jennifer S",
@@ -24,7 +24,7 @@ Roeckner AR, Lin ER, Hinrichs R, Harnett NG, Lebois LA, Rooij SJ, Ely TD, Jovano
     journal = "Neuropsychopharmacology",
     url = "https://drive.google.com/file/d/1cFHqH0S0hXKXQajlp3wdv8cehVbx9xv6/view?usp=sharing",
     pages = "1-10",
-    doi = "10.1038/s41386-025-02115-",
+    doi = "10.1038/s41386-025-02115-1",
     note = "Publisher: Springer International Publishing"
 }
 </pre>
