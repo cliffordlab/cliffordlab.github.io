@@ -630,3 +630,5 @@ C7HQDqNFSbYC # AlirezaRafiei_UnknownDate_AutoFEDUSAutoregressive
 t3sMychFT9UC # RuoqiWei_2025_04_11_Automatedphenotyping
 7fE6T6CK6bcC # DanielSumsion_2025_04_10_Identificationof
 gdpqVl03G0gC # ZuzanaKoscova_2025_04_25_ANoiseRobust
+KjnAay3C9J8C # AlyssaRRoeckner_2025_05_03_Sequentialdecreases
+9fSugHr6AN8C # SanneJHvanRooij_2024_05_AuthorCorrection
