@@ -536,6 +536,15 @@ can, send materials to others so they can pick up where you left off.
 shared with someone who can pick up where you left off on any given day
 - so your documentation should be high quality.) 
 
+A typical full-time research position should require about 40 hours of
+focused work each week. If you are part-time (e.g., you have classes to
+take), please be clear about what hours you can do. It's important to
+set expectations. If you want to do a rotation in another lab at the
+same time as my lab, let me know well in advance. We will need to
+discuss this carefully. Usually, it's a bad idea - you cannot give
+enough time to either lab, and you will probably fail both. It's best
+to immerse yourself in one lab culture at a time.
+
 While you are not our sick, in general I expect you to be in the office 
 at least 25 hours a week (or whatever your contract/agreement states), 
 Monday through Friday. I'm open to occasional remote work, especially if 
