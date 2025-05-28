@@ -15,7 +15,7 @@ permalink: /publications
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LisaVizer_2025_05_20_Smartphonelanguage">
 <div class="citation">
-Vizer L, Pierce J, Ji Y, Bucher MA, Liu M, Ungar L, Giorgi S, Xing Z, House SL, Beaudoin FL, Stevens JS, Neylan TC, Clifford GD, Jovanovic T, Linnstaedt SD, Zeng D, Germine LT, Bollen KA, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Musey PI, Hendry PL, Sheikh S, Jones CW, Punches BE, Hudak LA, Pascual JL, Seamon MJ, Harris E, Pearson C, Peak DA, Merchant RC, Domeier RM, O<span class="bibtex-protected">\textquoteright </span>Neil BJ, Sergot P, Sanchez LD, Bruce SE, Harte SE, Kessler RC, Koenen KC, McLean SA, An X. <a href="https://www.nature.com/articles/s44277-025-00028-x">Smartphone language features may help identify adverse post-traumatic neuropsychiatric sequelae and their trajectories</a>. NPP—Digital Psychiatry and Neuroscience 2025 May 20; 3 (1): pp. 1-10.
+Vizer L, Pierce J, Ji Y, Bucher MA, Liu M, Ungar L, Giorgi S, Xing Z, House SL, Beaudoin FL, Stevens JS, Neylan TC, Clifford GD, Jovanovic T, Linnstaedt SD, Zeng D, Germine LT, Bollen KA, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Musey PI, Hendry PL, Sheikh S, Jones CW, Punches BE, Hudak LA, Pascual JL, Seamon MJ, Harris E, Pearson C, Peak DA, Merchant RC, Domeier RM, O<span class="bibtex-protected">\textquoteright </span>Neil BJ, Sergot P, Sanchez LD, Bruce SE, Harte SE, Kessler RC, Koenen KC, McLean SA, An X. <a href="https://drive.google.com/file/d/1MWpZC_J46qfGW3Ifmrua31tFer50NaYw/view?usp=sharing">Smartphone language features may help identify adverse post-traumatic neuropsychiatric sequelae and their trajectories</a>. NPP—Digital Psychiatry and Neuroscience 2025 May 20; 3 (1): pp. 1-10. DOI: <a href="https://doi.org/10.1038/s44277-025-00028-x">10.1038/s44277-025-00028-x</a>.
 </div>
 <div class="bibtex_source"><pre>@article{LisaVizer_2025_05_20_Smartphonelanguage,
     author = "Vizer, Lisa and Pierce, Jennifer and Ji, Yinyao and Bucher, Meredith A and Liu, Mochuan and Ungar, Lyle and Giorgi, Salvatore and Xing, Zhaopeng and House, Stacey L and Beaudoin, Francesca L and Stevens, Jennifer S and Neylan, Thomas C and Clifford, Gari D and Jovanovic, Tanja and Linnstaedt, Sarah D and Zeng, Donglin and Germine, Laura T and Bollen, Kenneth A and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Musey, Paul I and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Harris, Erica and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and O{\textquoteright}Neil, Brian J and Sergot, Paulina and Sanchez, Leon D and Bruce, Steven E and Harte, Steven E and Kessler, Ronald C and Koenen, Karestan C and McLean, Samuel A and An, Xinming",
@@ -23,9 +23,10 @@ Vizer L, Pierce J, Ji Y, Bucher MA, Liu M, Ungar L, Giorgi S, Xing Z, House SL, 
     date = "2025-05-20",
     issue = "1",
     journal = "NPP{\textemdash}Digital Psychiatry and Neuroscience",
-    url = "https://www.nature.com/articles/s44277-025-00028-x",
+    url = "https://drive.google.com/file/d/1MWpZC\_J46qfGW3Ifmrua31tFer50NaYw/view?usp=sharing",
     pages = "1-10",
     volume = "3",
+    doi = "10.1038/s44277-025-00028-x",
     note = "Publisher: Nature Publishing Group"
 }
 </pre>
