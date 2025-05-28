@@ -7,7 +7,7 @@ permalink: /news
 <div onclick="">
 	<font size="5">Dr. Clifford and his lab's work was featured on GPB.</font>
  <br>
- 	<em>May 2025</em> - Dr. Gari Clifford and Clifford Lab's work on Alzheimer's Disease was featured on Georgia Public Broadcasting in the award winning series <strong>Your Fantastic Mind</strong> Season 6, Episode 4 <strong><a href="https://med.emory.edu/about/news/your_fantastic_mind/season_six/ep_four.html">"Unlocking the Mind"</a></strong>. This episode delves into brain health and aging, featuring stories on artificial intelligence (AI) used to detect Alzheimer's, lifestyle interventions to slow cognitive decline, how future doctors are being trained in dementia care and emerging research linking pollution and memory loss. 
+ 	<em>May 2025</em> - Dr. Gari Clifford and Clifford Lab's work on Alzheimer's Disease was featured on Georgia Public Broadcasting in the award winning series Your Fantastic Mind Season 6, Episode 4 <a href="https://med.emory.edu/about/news/your_fantastic_mind/season_six/ep_four.html">"Unlocking the Mind"</a>. This episode delves into brain health and aging, featuring stories on artificial intelligence (AI) used to detect Alzheimer's, lifestyle interventions to slow cognitive decline, how future doctors are being trained in dementia care and emerging research linking pollution and memory loss. 
 </div>
 
 <br>
