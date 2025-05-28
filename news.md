@@ -5,6 +5,11 @@ permalink: /news
 ---
 <details open><summary><font size="6">2025</font></summary>
 <div onclick="">
+	<font size="5">Dr. Clifford and his lab's work was featured on GPB.</font>
+ <br>
+ 	<em>May 2025</em> - Dr. Gari Clifford and Clifford Lab's work on Alzheimer's Disease was featured on Georgia Public Broadcasting in the award winning series <strong>Your Fantastic Mind</strong> Season 6, Episode 4 <strong><a href="https://med.emory.edu/about/news/your_fantastic_mind/season_six/ep_four.html">"Unlocking the Mind"</a></strong>. This episode delves into brain health and aging, featuring stories on artificial intelligence (AI) used to detect Alzheimer's, lifestyle interventions to slow cognitive decline, how future doctors are being trained in dementia care and emerging research linking pollution and memory loss. 
+</div>
+<div onclick="">
 	<font size="5">Dr. Clifford has been inducted into AIMBE Collage of Fellows.</font>
  <br>
  	<em>March 2025</em> - At the end of March, the <a href="https://aimbe.org/">American Institute for Medical and Biological Engineering (AIMBE)</a> inducted <a href="https://med.emory.edu/departments/biomedical-informatics/_images/aimbe-gari-clifford.pdf">Dr. Gari Clifford</a> into its <a href="https://aimbe.org/gari-clifford-inducted-into-the-2025-class-of-the-aimbe-college-of-fellows/">College of Fellows</a>.  AIMBE Fellows are among the most distinguished medical and biological engineers including four Nobel Prize laureates and 27 recipients of the Presidential Medal of Science and/or Technology and Innovation.  Fellows are nominated and evaluated by their peers prior to election so this honor is of special significance to Dr. Clifford. At the ceremony in Washington, DC, he said, “It's a privilege to be selected by my peers for this honor, and I hope to be able to use this opportunity to advocate for the health of the underserved and make some 'good trouble'.”
