@@ -5,6 +5,14 @@ permalink: /news
 ---
 <details open><summary><font size="6">2025</font></summary>
 <div onclick="">
+	<font size="5">Dr. Clifford was appointed as Dean's Eminent Investigator.</font>
+ <br>
+ 	<em>May 2025</em> - Dr. Gari Clifford was appointed as Dean’s Eminent Investigator, one of the highest honors that Emory University bestows upon a member of its faculty.  The distinction recognizes Dr. Clifford’s eminence as a scholar along with the accomplishments that place him at the very top of his field. The title also signifies that Dr. Clifford has made substantial contributions to Emory’s mission to create, preserve, teach, and apply knowledge in the service of humanity. 
+</div>
+
+<br>
+
+<div onclick="">
 	<font size="5">Dr. Clifford and his lab's work was featured on GPB.</font>
  <br>
  	<em>May 2025</em> - Dr. Gari Clifford and Clifford Lab's work on Alzheimer's Disease was featured on Georgia Public Broadcasting in the award winning series Your Fantastic Mind Season 6, Episode 4 <a href="https://med.emory.edu/about/news/your_fantastic_mind/season_six/ep_four.html">"Unlocking the Mind"</a>. This episode delves into brain health and aging, featuring stories on artificial intelligence (AI) used to detect Alzheimer's, lifestyle interventions to slow cognitive decline, how future doctors are being trained in dementia care and emerging research linking pollution and memory loss. 
