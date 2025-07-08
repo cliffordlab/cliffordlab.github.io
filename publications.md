@@ -12737,7 +12737,7 @@ Clifford GD. Statistical Conformal Field Theory and Information Loss in the Reno
 
 <table>
 <tr>
-<td>26</td>
+<td>25</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="XingyaoWang_2021_06_ParoxysmalAtrial">
 <div class="citation">
@@ -12757,7 +12757,7 @@ Wang X, Ma C, Zhang X, Gao H, Clifford GD, Liu C. <a href="https://www.physionet
 <div class="hidebibtex">
 <label for="XingyaoWang_2021_06_ParoxysmalAtrial">[show citation]</label>
 </div></div></td></tr><tr>
-<td>25</td>
+<td>24</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="BMoody_2020_Mimiciiiwaveform">
 <div class="citation">
@@ -12778,7 +12778,7 @@ Moody B, Moody G, Villarroel M, Clifford G, Silva I. <a href="https://scholar.go
 <div class="hidebibtex">
 <label for="BMoody_2020_Mimiciiiwaveform">[show citation]</label>
 </div></div></td></tr><tr>
-<td>24</td>
+<td>23</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AhmedAbbasi_2018_08_01_MakeFairness">
 <div class="citation">
@@ -12799,7 +12799,7 @@ Abbasi A, Li J, Clifford GD, Taylor HA. <a href="https://hbr.org/2018/08/make-fa
 <div class="hidebibtex">
 <label for="AhmedAbbasi_2018_08_01_MakeFairness">[show citation]</label>
 </div></div></td></tr><tr>
-<td>23</td>
+<td>22</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShriBHAnilKumar_2018_07_17_Theteam">
 <div class="citation">
@@ -12818,7 +12818,7 @@ Kumar SBA, Buchman T, Clifford GD, Nemati S, Li Q, Arar B, Stanley M, Holder A, 
 <div class="hidebibtex">
 <label for="ShriBHAnilKumar_2018_07_17_Theteam">[show citation]</label>
 </div></div></td></tr><tr>
-<td>22</td>
+<td>21</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2018_FromWearables">
 <div class="citation">
@@ -12838,7 +12838,7 @@ Clifford GD. <a href="https://hip.emory.edu/_includes/documents/sections/symposi
 <div class="hidebibtex">
 <label for="GariDClifford_2018_FromWearables">[show citation]</label>
 </div></div></td></tr><tr>
-<td>21</td>
+<td>20</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChengyuLiu_2018_Focuson">
 <div class="citation">
@@ -12858,34 +12858,14 @@ Liu C, Lehman L, Moody B, Li Q, Clifford G. <a href="https://drive.google.com/fi
 <div class="hidebibtex">
 <label for="ChengyuLiu_2018_Focuson">[show citation]</label>
 </div></div></td></tr><tr>
-<td>20</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="GiuliaDaPoian_2017_03_23_Exploitingsparsity">
-<div class="citation">
-Poian GD. <a href="https://air.uniud.it/retrieve/e27ce0c5-623c-055e-e053-6605fe0a7873/10990_793_dapoian_phdthesis_final.pdf">Exploiting sparsity for efficient compression and analysis of ECG and fetal-ECG signals</a>. 2017 March 23.
-</div>
-<div class="bibtex_source"><pre>@misc{GiuliaDaPoian_2017_03_23_Exploitingsparsity,
-    author = "Poian, Giulia Da",
-    title = "Exploiting sparsity for efficient compression and analysis of ECG and fetal-ECG signals",
-    date = "2017-03-23",
-    url = "https://air.uniud.it/retrieve/e27ce0c5-623c-055e-e053-6605fe0a7873/10990\_793\_dapoian\_phdthesis\_final.pdf",
-    note = "Publisher: Universit{\`a} degli Studi di Udine"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="GiuliaDaPoian_2017_03_23_Exploitingsparsity">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="GiuliaDaPoian_2017_03_23_Exploitingsparsity">[show citation]</label>
-</div></div></td></tr><tr>
 <td>19</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ArvindRaghuArvindRaghu_2015_11_04_Implicationsof">
 <div class="citation">
-Raghu ARA, Praveen DPD, Peiris D, Tarassenko L, Clifford G. <a href="https://www.cabidigitallibrary.org/doi/full/10.5555/20153375220">Implications of cardiovascular disease risk assessment using the WHO/ISH risk prediction charts in rural India.</a>. 2015 November 4.
+Raghu ARA, Praveen DPD, Peiris D, Tarassenko L, Clifford GD. <a href="https://www.cabidigitallibrary.org/doi/full/10.5555/20153375220">Implications of cardiovascular disease risk assessment using the WHO/ISH risk prediction charts in rural India.</a>. 2015 November 4.
 </div>
 <div class="bibtex_source"><pre>@misc{ArvindRaghuArvindRaghu_2015_11_04_Implicationsof,
-    author = "Raghu, Arvind Raghu Arvind and Praveen, Devarsetty Praveen Devarsetty and Peiris, D and Tarassenko, L and Clifford, G",
+    author = "Raghu, Arvind Raghu Arvind and Praveen, Devarsetty Praveen Devarsetty and Peiris, D and Tarassenko, L and Clifford, G D",
     title = "Implications of cardiovascular disease risk assessment using the WHO/ISH risk prediction charts in rural India.",
     date = "2015-11-04",
     issue = "8",
@@ -12964,7 +12944,7 @@ Fischer S, Grifantini K, Clifford GD, Gederi E, Heneghan C, Hirshkowitz M, Jan<s
 Osipov M, Clifford GD. <a href="https://arxiv.org/pdf/1908.06013.pdf">Towards automated symptoms assessment in mental health</a>. 2014 August 14.
 </div>
 <div class="bibtex_source"><pre>@misc{MaximOsipov_2014_08_14_Towardsautomated,
-    author = "Osipov, Maxim and Clifford, Gari D.",
+    author = "Osipov, Maxim and Clifford, Gari D",
     title = "Towards automated symptoms assessment in mental health",
     date = "2014-08-14",
     url = "https://arxiv.org/pdf/1908.06013.pdf"
@@ -13188,7 +13168,7 @@ McSharry PE, Clifford GD. <a href="https://scholar.google.com/scholar?cluster=25
 Clifford GD. Ectopic Beats, Activity Effects and Heart Rate Turbulence. 2006.
 </div>
 <div class="bibtex_source"><pre>@misc{GariDClifford_2006_EctopicBeats,
-    author = "Clifford, Gari D.",
+    author = "Clifford, Gari D",
     title = "Ectopic Beats, Activity Effects and Heart Rate Turbulence",
     date = "2006"
 }
