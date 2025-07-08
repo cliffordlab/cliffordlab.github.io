@@ -37,10 +37,10 @@ Rafiei A, Motie-Shirazi M, Sameni R, Clifford GD, Katebi N. <a href="https://dri
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JunLi_2025_06_26_AnElectrocardiogram">
 <div class="citation">
-Li J, Aguirre AD, Junior VM, Jin J, Liu C, Zhong L, Sun C, Clifford G, Westover MB, Hong S. <a href="https://drive.google.com/file/d/1Ej2_IntehhNml1ITeRpVex-9x00l2ndx/view?usp=sharing">An Electrocardiogram Foundation Model Built on over 10 Million Recordings</a>. NEJM AI 2025 June 26; 2 (7): p. AIoa2401033.
+Li J, Aguirre AD, Junior VM, Jin J, Liu C, Zhong L, Sun C, Clifford GD, Westover MB, Hong S. <a href="https://drive.google.com/file/d/1Ej2_IntehhNml1ITeRpVex-9x00l2ndx/view?usp=sharing">An Electrocardiogram Foundation Model Built on over 10 Million Recordings</a>. NEJM AI 2025 June 26; 2 (7): p. AIoa2401033.
 </div>
 <div class="bibtex_source"><pre>@article{JunLi_2025_06_26_AnElectrocardiogram,
-    author = "Li, Jun and Aguirre, Aaron D and Junior, Valdery Moura and Jin, Jiarui and Liu, Che and Zhong, Lanhai and Sun, Chenxi and Clifford, Gari and Westover, M Brandon and Hong, Shenda",
+    author = "Li, Jun and Aguirre, Aaron D and Junior, Valdery Moura and Jin, Jiarui and Liu, Che and Zhong, Lanhai and Sun, Chenxi and Clifford, Gari D and Westover, M Brandon and Hong, Shenda",
     title = "An Electrocardiogram Foundation Model Built on over 10 Million Recordings",
     date = "2025-06-26",
     issue = "7",
@@ -11005,7 +11005,7 @@ Clifford G, Tarassenko L, Townsend N. <a href="https://drive.google.com/file/d/1
 
 <table>
 <tr>
-<td>45</td>
+<td>47</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="TianyiLi_2025_Childhoodadversity">
 <div class="citation">
@@ -11027,7 +11027,26 @@ Li T, Huibregtse ME, Ely TD, Rooij SJ, Lebois LA, Webb EK, Jovanovic T, House SL
 <div class="hidebibtex">
 <label for="TianyiLi_2025_Childhoodadversity">[show citation]</label>
 </div></div></td></tr><tr>
-<td>44</td>
+<td>46</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="WeitaoTang_2025_06_27_FetalSleep">
+<div class="citation">
+Tang W, Vargas-Calixto J, Katebi N, Galinsky R, Clifford GD, Marzbanrad F. <a href="https://arxiv.org/abs/2506.21828">Fetal Sleep: A Cross-Species Review of Physiology, Measurement, and Classification</a>. 2025 June 27.
+</div>
+<div class="bibtex_source"><pre>@article{WeitaoTang_2025_06_27_FetalSleep,
+    author = "Tang, Weitao and Vargas-Calixto, Johann and Katebi, Nasim and Galinsky, Robert and Clifford, Gari D and Marzbanrad, Faezeh",
+    title = "Fetal Sleep: A Cross-Species Review of Physiology, Measurement, and Classification",
+    date = "2025-06-27",
+    url = "https://arxiv.org/abs/2506.21828"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="WeitaoTang_2025_06_27_FetalSleep">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="WeitaoTang_2025_06_27_FetalSleep">[show citation]</label>
+</div></div></td></tr><tr>
+<td>45</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SajjadKarimi_2025_06_11_CrossLearningBetween">
 <div class="citation">
@@ -11046,6 +11065,25 @@ Karimi S, Shah AJ, Clifford GD, Sameni R. <a href="https://arxiv.org/abs/2506.10
 </div>
 <div class="hidebibtex">
 <label for="SajjadKarimi_2025_06_11_CrossLearningBetween">[show citation]</label>
+</div></div></td></tr><tr>
+<td>44</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="QiaoLi_UnknownDate_FusionBasedQT">
+<div class="citation">
+Li Q, Barnett K, Xue J, Albert D, Deepanshi F, Rad A, Sameni R, Clifford GD. <a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.174844218.87794182">Fusion-Based QT Interval Estimation for Enhanced Long QT Detection on a South African Population using Mobile ECG</a>. 2025 May 28.
+</div>
+<div class="bibtex_source"><pre>@article{QiaoLi_UnknownDate_FusionBasedQT,
+    author = "Li, Qiao and Barnett, Kim and Xue, Joel and Albert, Dave and Deepanshi, F and Rad, Ali and Sameni, Reza and Clifford, Gari D",
+    title = "Fusion-Based QT Interval Estimation for Enhanced Long QT Detection on a South African Population using Mobile ECG",
+    date = "2025-05-28",
+    url = "https://www.techrxiv.org/doi/full/10.36227/techrxiv.174844218.87794182"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="QiaoLi_UnknownDate_FusionBasedQT">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="QiaoLi_UnknownDate_FusionBasedQT">[show citation]</label>
 </div></div></td></tr><tr>
 <td>43</td>
 <td><div class="citation_container">
@@ -12269,13 +12307,13 @@ Youn C, Kim B, Nam DS, An E, Lee B, Shim EB, Clifford GD. <a href="https://drive
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RobertMANNINO_2025_06_12_Systemsand">
 <div class="citation">
-MANNINO R, Lam W, CLIFFORD G, Tyburski E. <a href="https://patents.google.com/patent/US20250185953A1/en">Systems and methods for quantitative diagnosis of anemia</a>. 2025 June 12. US Patent App. 19053985.
+Mannino R, Lam W, Clifford GD, Tyburski E. <a href="https://drive.google.com/file/d/1Jc2ZFB_HqgsrHruGuqYTc1CG44TAlKi2/view?usp=sharing">Systems and methods for quantitative diagnosis of anemia</a>. 2025 June 12. US Patent App. 19053985.
 </div>
 <div class="bibtex_source"><pre>@misc{RobertMANNINO_2025_06_12_Systemsand,
-    author = "MANNINO, Robert and Lam, Wilbur and CLIFFORD, Gari and Tyburski, Erika",
+    author = "Mannino, Robert and Lam, Wilbur and Clifford, Gari D and Tyburski, Erika",
     title = "Systems and methods for quantitative diagnosis of anemia",
     date = "2025-06-12",
-    url = "https://patents.google.com/patent/US20250185953A1/en",
+    url = "https://drive.google.com/file/d/1Jc2ZFB\_HqgsrHruGuqYTc1CG44TAlKi2/view?usp=sharing",
     howpublished = "US Patent App. 19053985"
 }
 </pre>
@@ -12699,26 +12737,7 @@ Clifford GD. Statistical Conformal Field Theory and Information Loss in the Reno
 
 <table>
 <tr>
-<td>28</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="WeitaoTang_2025_06_27_FetalSleep">
-<div class="citation">
-Tang W, Vargas-Calixto J, Katebi N, Galinsky R, Clifford GD, Marzbanrad F. <a href="https://arxiv.org/abs/2506.21828">Fetal Sleep: A Cross-Species Review of Physiology, Measurement, and Classification</a>. 2025 June 27.
-</div>
-<div class="bibtex_source"><pre>@misc{WeitaoTang_2025_06_27_FetalSleep,
-    author = "Tang, Weitao and Vargas-Calixto, Johann and Katebi, Nasim and Galinsky, Robert and Clifford, Gari D and Marzbanrad, Faezeh",
-    title = "Fetal Sleep: A Cross-Species Review of Physiology, Measurement, and Classification",
-    date = "2025-06-27",
-    url = "https://arxiv.org/abs/2506.21828"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="WeitaoTang_2025_06_27_FetalSleep">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="WeitaoTang_2025_06_27_FetalSleep">[show citation]</label>
-</div></div></td></tr><tr>
-<td>27</td>
+<td>26</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="XingyaoWang_2021_06_ParoxysmalAtrial">
 <div class="citation">
@@ -12738,7 +12757,7 @@ Wang X, Ma C, Zhang X, Gao H, Clifford GD, Liu C. <a href="https://www.physionet
 <div class="hidebibtex">
 <label for="XingyaoWang_2021_06_ParoxysmalAtrial">[show citation]</label>
 </div></div></td></tr><tr>
-<td>26</td>
+<td>25</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="BMoody_2020_Mimiciiiwaveform">
 <div class="citation">
@@ -12759,7 +12778,7 @@ Moody B, Moody G, Villarroel M, Clifford G, Silva I. <a href="https://scholar.go
 <div class="hidebibtex">
 <label for="BMoody_2020_Mimiciiiwaveform">[show citation]</label>
 </div></div></td></tr><tr>
-<td>25</td>
+<td>24</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AhmedAbbasi_2018_08_01_MakeFairness">
 <div class="citation">
@@ -12780,7 +12799,7 @@ Abbasi A, Li J, Clifford GD, Taylor HA. <a href="https://hbr.org/2018/08/make-fa
 <div class="hidebibtex">
 <label for="AhmedAbbasi_2018_08_01_MakeFairness">[show citation]</label>
 </div></div></td></tr><tr>
-<td>24</td>
+<td>23</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShriBHAnilKumar_2018_07_17_Theteam">
 <div class="citation">
@@ -12799,7 +12818,7 @@ Kumar SBA, Buchman T, Clifford GD, Nemati S, Li Q, Arar B, Stanley M, Holder A, 
 <div class="hidebibtex">
 <label for="ShriBHAnilKumar_2018_07_17_Theteam">[show citation]</label>
 </div></div></td></tr><tr>
-<td>23</td>
+<td>22</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2018_FromWearables">
 <div class="citation">
@@ -12819,7 +12838,7 @@ Clifford GD. <a href="https://hip.emory.edu/_includes/documents/sections/symposi
 <div class="hidebibtex">
 <label for="GariDClifford_2018_FromWearables">[show citation]</label>
 </div></div></td></tr><tr>
-<td>22</td>
+<td>21</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChengyuLiu_2018_Focuson">
 <div class="citation">
@@ -12839,7 +12858,7 @@ Liu C, Lehman L, Moody B, Li Q, Clifford G. <a href="https://drive.google.com/fi
 <div class="hidebibtex">
 <label for="ChengyuLiu_2018_Focuson">[show citation]</label>
 </div></div></td></tr><tr>
-<td>21</td>
+<td>20</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GiuliaDaPoian_2017_03_23_Exploitingsparsity">
 <div class="citation">
@@ -12859,7 +12878,7 @@ Poian GD. <a href="https://air.uniud.it/retrieve/e27ce0c5-623c-055e-e053-6605fe0
 <div class="hidebibtex">
 <label for="GiuliaDaPoian_2017_03_23_Exploitingsparsity">[show citation]</label>
 </div></div></td></tr><tr>
-<td>20</td>
+<td>19</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ArvindRaghuArvindRaghu_2015_11_04_Implicationsof">
 <div class="citation">
@@ -12881,7 +12900,7 @@ Raghu ARA, Praveen DPD, Peiris D, Tarassenko L, Clifford G. <a href="https://www
 <div class="hidebibtex">
 <label for="ArvindRaghuArvindRaghu_2015_11_04_Implicationsof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>19</td>
+<td>18</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="TTZhu_2015_05_27_Theframework">
 <div class="citation">
@@ -12900,7 +12919,7 @@ Zhu T, Dunkley N, Behar J, Clifton D, Clifford G, Pimentel M. <a href="https://w
 <div class="hidebibtex">
 <label for="TTZhu_2015_05_27_Theframework">[show citation]</label>
 </div></div></td></tr><tr>
-<td>18</td>
+<td>17</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GlennSteeleJr_2015_04_02_USHealthcare">
 <div class="citation">
@@ -12919,7 +12938,7 @@ Jr GS, Erskine A, Clifford GD, Braunstein M, Simpson DR. <a href="https://www.hi
 <div class="hidebibtex">
 <label for="GlennSteeleJr_2015_04_02_USHealthcare">[show citation]</label>
 </div></div></td></tr><tr>
-<td>17</td>
+<td>16</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShannonFischer_2014_09_IEEEpULse">
 <div class="citation">
@@ -12938,7 +12957,7 @@ Fischer S, Grifantini K, Clifford GD, Gederi E, Heneghan C, Hirshkowitz M, Jan<s
 <div class="hidebibtex">
 <label for="ShannonFischer_2014_09_IEEEpULse">[show citation]</label>
 </div></div></td></tr><tr>
-<td>16</td>
+<td>15</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MaximOsipov_2014_08_14_Towardsautomated">
 <div class="citation">
@@ -12957,7 +12976,7 @@ Osipov M, Clifford GD. <a href="https://arxiv.org/pdf/1908.06013.pdf">Towards au
 <div class="hidebibtex">
 <label for="MaximOsipov_2014_08_14_Towardsautomated">[show citation]</label>
 </div></div></td></tr><tr>
-<td>15</td>
+<td>14</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LouisMayaud_2012_10_11_GeneticAlgorithm">
 <div class="citation">
@@ -12976,7 +12995,7 @@ Mayaud L, Tarassenko L, Clifford GD. <a href="https://www.researchgate.net/profi
 <div class="hidebibtex">
 <label for="LouisMayaud_2012_10_11_GeneticAlgorithm">[show citation]</label>
 </div></div></td></tr><tr>
-<td>14</td>
+<td>13</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MohammedSaeed_2011_MIMICIIClinical">
 <div class="citation">
@@ -12998,7 +13017,7 @@ Saeed M, Villarroel M, Reisner A, Clifford GD, Lehman L, Moody G, Heldt T, Kyaw 
 <div class="hidebibtex">
 <label for="MohammedSaeed_2011_MIMICIIClinical">[show citation]</label>
 </div></div></td></tr><tr>
-<td>13</td>
+<td>12</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="KatherineLKuan_2010_Aframework">
 <div class="citation">
@@ -13017,7 +13036,7 @@ Kuan KL, Szolovits P, Clifford GD. <a href="https://dspace.mit.edu/handle/1721.1
 <div class="hidebibtex">
 <label for="KatherineLKuan_2010_Aframework">[show citation]</label>
 </div></div></td></tr><tr>
-<td>12</td>
+<td>11</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GClifford_2010_Userguide">
 <div class="citation">
@@ -13036,7 +13055,7 @@ Clifford G, Scott D, Villarroel M. <a href="https://archive.physionet.org/mimic2
 <div class="hidebibtex">
 <label for="GClifford_2010_Userguide">[show citation]</label>
 </div></div></td></tr><tr>
-<td>11</td>
+<td>10</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariClifford_2008_TheEmerging">
 <div class="citation">
@@ -13055,7 +13074,7 @@ Clifford GD. <a href="https://d1wqtxts1xzle7.cloudfront.net/30707561/lec14_gari-
 <div class="hidebibtex">
 <label for="GariClifford_2008_TheEmerging">[show citation]</label>
 </div></div></td></tr><tr>
-<td>10</td>
+<td>9</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GDClifford_2007_Coursematerials">
 <div class="citation">
@@ -13075,7 +13094,7 @@ Clifford G. <a href="https://scholar.google.com/scholar?cluster=4552201191896152
 <div class="hidebibtex">
 <label for="GDClifford_2007_Coursematerials">[show citation]</label>
 </div></div></td></tr><tr>
-<td>9</td>
+<td>8</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2006_12_01_Reviewof">
 <div class="citation">
@@ -13100,7 +13119,7 @@ Clifford GD. <a href="https://drive.google.com/file/d/1LzA_LAXMbf0F09EPN8WEZpOTr
 <div class="hidebibtex">
 <label for="GariDClifford_2006_12_01_Reviewof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>8</td>
+<td>7</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GClifford_2006_Advancedmethods">
 <div class="citation">
@@ -13120,7 +13139,7 @@ Clifford G, AF D, McSharry P. <a href="https://scholar.google.com/scholar?cluste
 <div class="hidebibtex">
 <label for="GClifford_2006_Advancedmethods">[show citation]</label>
 </div></div></td></tr><tr>
-<td>7</td>
+<td>6</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AndrewTReisner_2006_Thephysiological">
 <div class="citation">
@@ -13141,7 +13160,7 @@ Reisner AT, Clifford GD, Mark RG. <a href="http://onlineedu.cafa.edu.cn/moocreso
 <div class="hidebibtex">
 <label for="AndrewTReisner_2006_Thephysiological">[show citation]</label>
 </div></div></td></tr><tr>
-<td>6</td>
+<td>5</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="PatrickEMcSharry_2006_NonlinearFiltering">
 <div class="citation">
@@ -13162,7 +13181,7 @@ McSharry PE, Clifford GD. <a href="https://scholar.google.com/scholar?cluster=25
 <div class="hidebibtex">
 <label for="PatrickEMcSharry_2006_NonlinearFiltering">[show citation]</label>
 </div></div></td></tr><tr>
-<td>5</td>
+<td>4</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2006_EctopicBeats">
 <div class="citation">
@@ -13180,7 +13199,7 @@ Clifford GD. Ectopic Beats, Activity Effects and Heart Rate Turbulence. 2006.
 <div class="hidebibtex">
 <label for="GariDClifford_2006_EctopicBeats">[show citation]</label>
 </div></div></td></tr><tr>
-<td>4</td>
+<td>3</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="PEMcSharry_2006_03_ECGSYNarealistic">
 <div class="citation">
@@ -13200,7 +13219,7 @@ McSharry P, Clifford G. <a href="https://scholar.google.com/scholar?cluster=1830
 <div class="hidebibtex">
 <label for="PEMcSharry_2006_03_ECGSYNarealistic">[show citation]</label>
 </div></div></td></tr><tr>
-<td>3</td>
+<td>2</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2005_01_BlindSource">
 <div class="citation">
@@ -13220,7 +13239,7 @@ Clifford GD. <a href="https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf
 <div class="hidebibtex">
 <label for="GariDClifford_2005_01_BlindSource">[show citation]</label>
 </div></div></td></tr><tr>
-<td>2</td>
+<td>1</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GDClifford_2005_04_07_Fetal">
 <div class="citation">
@@ -13239,24 +13258,5 @@ Clifford G. <a href="https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&
 </div>
 <div class="hidebibtex">
 <label for="GDClifford_2005_04_07_Fetal">[show citation]</label>
-</div></div></td></tr><tr>
-<td>1</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="QiaoLi_UnknownDate_FusionBasedQT">
-<div class="citation">
-Li Q, Barnett K, Xue J, Albert D, Deepanshi F, Rad A, Sameni R, Clifford G. <a href="https://www.techrxiv.org/doi/full/10.36227/techrxiv.174844218.87794182">Fusion-Based QT Interval Estimation for Enhanced Long QT Detection on a South African Population using Mobile ECG</a>. No Date.
-</div>
-<div class="bibtex_source"><pre>@misc{QiaoLi_UnknownDate_FusionBasedQT,
-    author = "Li, Qiao and Barnett, Kim and Xue, Joel and Albert, Dave and Deepanshi, F and Rad, Ali and Sameni, Reza and Clifford, Gari",
-    title = "Fusion-Based QT Interval Estimation for Enhanced Long QT Detection on a South African Population using Mobile ECG",
-    date = "No Date",
-    url = "https://www.techrxiv.org/doi/full/10.36227/techrxiv.174844218.87794182"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="QiaoLi_UnknownDate_FusionBasedQT">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="QiaoLi_UnknownDate_FusionBasedQT">[show citation]</label>
 </div></div></td></tr>
 </table>
