@@ -654,3 +654,7 @@ KIG7iI7jH74C # GariClifford_2022_RethinkingAlgorithm
 c5LcigzBm8MC # RHallClifford_2017_Sustainabletechnology
 kiFE3DPpsncC # DRBowler_2010_Focussection
 p6f6DfXMsGMC # GariDClifford_1990_11_Lasersand
+YP-lgzILWVMC # SoheilSaghafi_2025_07_24_PredictingTraumatic
+zVX0Cq83Iy8C # SeyedehSomayyehMousavi_2025_EstimatingBlood
+AkQCnCHIR28C # EKateWebb_UnknownDate_eScholarshipUMassChan
+XzWLPxS1ir4C # SalmanGhasemi_UnknownDate_OpenLibrary
