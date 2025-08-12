@@ -11,6 +11,27 @@ permalink: /publications
 
 <table>
 <tr>
+<td>286</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="MeganEHuibregtse_2025_08_04_AssociationBetween">
+<div class="citation">
+Huibregtse ME, Li T, Harnett NG, Yuh EL, Ely TD, Jovanovic T, Calhoun VD, Neylan TC, House SL, Clifford GD, Bucher MA, Linnstaedt SD, An X, Conti AC, Seligowski AV, Li Q, Dillon DG, Vizer LM, McKibben LA, Albertorio-S<span class="bibtex-protected">á</span>ez LM, Beaudoin FL, Wang KK, Matson L, Harte SE, Bruce SE, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Jones CW, Swor RA, Pearson C, Peak DA, O<span class="bibtex-protected">\textquoteright </span>Neil BJ, Kessler RC, Koenen KC, Ressler KJ, McLean SA, Stevens JS. <a href="https://www.liebertpub.com/doi/abs/10.1177/08977151251363590">Association Between Acute Plasma Glial Fibrillary Acidic Protein Levels and White Matter Integrity in Recent Trauma Survivors</a>. Journal of Neurotrauma 2025 August 4.
+</div>
+<div class="bibtex_source"><pre>@article{MeganEHuibregtse_2025_08_04_AssociationBetween,
+    author = "Huibregtse, Megan E and Li, Tianyi and Harnett, Nathaniel G and Yuh, Esther L and Ely, Timothy D and Jovanovic, Tanja and Calhoun, Vince D and Neylan, Thomas C and House, Stacey L and Clifford, Gari D and Bucher, Meredith A and Linnstaedt, Sarah D and An, Xinming and Conti, Alana C and Seligowski, Antonia V and Li, Qiao and Dillon, Daniel G and Vizer, Lisa M and McKibben, Lauren A and Albertorio-S{\'a}ez, Liz Marie and Beaudoin, Francesca L and Wang, Kevin KW and Matson, Liana and Harte, Steven E and Bruce, Steven E and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Jr, Paul I Musey and Hendry, Phyllis L and Jones, Christopher W and Swor, Robert A and Pearson, Claire and Peak, David A and O{\textquoteright}Neil, Brian J and Kessler, Ronald C and Koenen, Karestan C and Ressler, Kerry J and McLean, Samuel A and Stevens, Jennifer S",
+    title = "Association Between Acute Plasma Glial Fibrillary Acidic Protein Levels and White Matter Integrity in Recent Trauma Survivors",
+    date = "2025-08-04",
+    journal = "Journal of Neurotrauma",
+    url = "https://www.liebertpub.com/doi/abs/10.1177/08977151251363590",
+    note = "Publisher: Mary Ann Liebert, Inc., publishers"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="MeganEHuibregtse_2025_08_04_AssociationBetween">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="MeganEHuibregtse_2025_08_04_AssociationBetween">[show citation]</label>
+</div></div></td></tr><tr>
 <td>285</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SoheilSaghafi_2025_07_24_PredictingTraumatic">
@@ -174,29 +195,6 @@ Roeckner AR, Lin ER, Hinrichs R, Harnett NG, Lebois LA, Rooij SJ, Ely TD, Jovano
 </div></div></td></tr><tr>
 <td>278</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="RuoqiWei_2025_04_11_Automatedphenotyping">
-<div class="citation">
-Wei R, Buss SS, Milde R, Fernandes M, Sumsion D, Davis E, Kong W, Xiong Y, Veltink J, Rao S, Westover TM, Petersen L, Turley N, Singh A, Das S, Junior VM, Ghanta M, Gupta A, Kim J, Lam AD, Stone KL, Mignot E, Hwang D, Trotti LM, Clifford GD, Katwa U, Thomas RJ, Mukerji S, Zafar SF, Westover MB, Sun H. <a href="https://drive.google.com/file/d/1m8st16V0PaLpWwrYfXTC1hOc99db4BmA/view?usp=sharing">Automated phenotyping of mild cognitive impairment and Alzheimer's disease and related dementias using electronic health records</a>. International Journal of Medical Informatics 2025 April 11; 200: p. 105917.
-</div>
-<div class="bibtex_source"><pre>@article{RuoqiWei_2025_04_11_Automatedphenotyping,
-    author = "Wei, Ruoqi and Buss, Stephanie S and Milde, Rebecca and Fernandes, Marta and Sumsion, Daniel and Davis, Elijah and Kong, Wan-Yee and Xiong, Yiwen and Veltink, Jet and Rao, Samvrit and Westover, Tara M and Petersen, Lydia and Turley, Niels and Singh, Arjun and Das, Sudeshna and Junior, Valdery Moura and Ghanta, Manohar and Gupta, Aditya and Kim, Jennifer and Lam, Alice D and Stone, Katie L and Mignot, Emmanuel and Hwang, Dennis and Trotti, Lynn Marie and Clifford, Gari D and Katwa, Umakanth and Thomas, Robert J and Mukerji, Shibani and Zafar, Sahar F and Westover, M Brandon and Sun, Haoqi",
-    title = "Automated phenotyping of mild cognitive impairment and Alzheimer's disease and related dementias using electronic health records",
-    date = "2025-04-11",
-    journal = "International Journal of Medical Informatics",
-    url = "https://drive.google.com/file/d/1m8st16V0PaLpWwrYfXTC1hOc99db4BmA/view?usp=sharing",
-    pages = "105917",
-    volume = "200",
-    note = "Publisher: Elsevier"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="RuoqiWei_2025_04_11_Automatedphenotyping">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="RuoqiWei_2025_04_11_Automatedphenotyping">[show citation]</label>
-</div></div></td></tr><tr>
-<td>277</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RobynAEllis_2025_04_LongitudinalAssociations">
 <div class="citation">
 Ellis RA, Webber TK, Noble NC, Linnstaedt SD, Hinrichs R, Wiltshire C, Reda MH, Davie W, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Punches BE, Pascual JL, Seamon MJ, Datner EM, Pearson C, Peak DA, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Bruce SE, Joormann J, Kessler RC, Ressler KJ, Koenen KC, McLean SA, Stevens JS, Jovanovic T, Seligowski AV. <a href="https://drive.google.com/file/d/1J-H4b7l7uHL0mb2TQYmFhGcMgtI7rwRQ/view?usp=sharing">Longitudinal Associations Between Peritraumatic Oestradiol and Fear Responding in Women and Men</a>. Stress and Health 2025 April; 41 (2): p. e3522.
@@ -217,6 +215,29 @@ Ellis RA, Webber TK, Noble NC, Linnstaedt SD, Hinrichs R, Wiltshire C, Reda MH, 
 </div>
 <div class="hidebibtex">
 <label for="RobynAEllis_2025_04_LongitudinalAssociations">[show citation]</label>
+</div></div></td></tr><tr>
+<td>277</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="RuoqiWei_2025_04_11_Automatedphenotyping">
+<div class="citation">
+Wei R, Buss SS, Milde R, Fernandes M, Sumsion D, Davis E, Kong W, Xiong Y, Veltink J, Rao S, Westover TM, Petersen L, Turley N, Singh A, Das S, Junior VM, Ghanta M, Gupta A, Kim J, Lam AD, Stone KL, Mignot E, Hwang D, Trotti LM, Clifford GD, Katwa U, Thomas RJ, Mukerji S, Zafar SF, Westover MB, Sun H. <a href="https://drive.google.com/file/d/1m8st16V0PaLpWwrYfXTC1hOc99db4BmA/view?usp=sharing">Automated phenotyping of mild cognitive impairment and Alzheimer's disease and related dementias using electronic health records</a>. International Journal of Medical Informatics 2025 April 11; 200: p. 105917.
+</div>
+<div class="bibtex_source"><pre>@article{RuoqiWei_2025_04_11_Automatedphenotyping,
+    author = "Wei, Ruoqi and Buss, Stephanie S and Milde, Rebecca and Fernandes, Marta and Sumsion, Daniel and Davis, Elijah and Kong, Wan-Yee and Xiong, Yiwen and Veltink, Jet and Rao, Samvrit and Westover, Tara M and Petersen, Lydia and Turley, Niels and Singh, Arjun and Das, Sudeshna and Junior, Valdery Moura and Ghanta, Manohar and Gupta, Aditya and Kim, Jennifer and Lam, Alice D and Stone, Katie L and Mignot, Emmanuel and Hwang, Dennis and Trotti, Lynn Marie and Clifford, Gari D and Katwa, Umakanth and Thomas, Robert J and Mukerji, Shibani and Zafar, Sahar F and Westover, M Brandon and Sun, Haoqi",
+    title = "Automated phenotyping of mild cognitive impairment and Alzheimer's disease and related dementias using electronic health records",
+    date = "2025-04-11",
+    journal = "International Journal of Medical Informatics",
+    url = "https://drive.google.com/file/d/1m8st16V0PaLpWwrYfXTC1hOc99db4BmA/view?usp=sharing",
+    pages = "105917",
+    volume = "200",
+    note = "Publisher: Elsevier"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="RuoqiWei_2025_04_11_Automatedphenotyping">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="RuoqiWei_2025_04_11_Automatedphenotyping">[show citation]</label>
 </div></div></td></tr><tr>
 <td>276</td>
 <td><div class="citation_container">
@@ -1871,6 +1892,29 @@ Seyedi S, Jiang Z, Levey A, Clifford GD. <a href="https://drive.google.com/file/
 </div></div></td></tr><tr>
 <td>206</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="ErickAPerezAlday_2022_09_01_Agesex">
+<div class="citation">
+Alday EAP, Rad AB, Reyna MA, Sadr N, Gu A, Li Q, Dumitru M, Xue J, Albert D, Sameni R, Clifford GD. <a href="https://drive.google.com/file/d/1Zd7Pcq77Gy4Sc7064SsS-0l9iGWk8AVF/view?usp=sharing">Age, sex and race bias in automated arrhythmia detectors</a>. Journal of Electrocardiology 2022 September; 74: pp. 5-9.
+</div>
+<div class="bibtex_source"><pre>@article{ErickAPerezAlday_2022_09_01_Agesex,
+    author = "Alday, Erick A Perez and Rad, Ali B and Reyna, Matthew A and Sadr, Nadi and Gu, Annie and Li, Qiao and Dumitru, Mircea and Xue, Joel and Albert, Dave and Sameni, Reza and Clifford, Gari D",
+    title = "Age, sex and race bias in automated arrhythmia detectors",
+    date = "2022-09",
+    journal = "Journal of Electrocardiology",
+    url = "https://drive.google.com/file/d/1Zd7Pcq77Gy4Sc7064SsS-0l9iGWk8AVF/view?usp=sharing",
+    pages = "5-9",
+    volume = "74",
+    note = "Publisher: Churchill Livingstone"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="ErickAPerezAlday_2022_09_01_Agesex">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="ErickAPerezAlday_2022_09_01_Agesex">[show citation]</label>
+</div></div></td></tr><tr>
+<td>205</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SamuelHWaters_2022_12_Comparisonof">
 <div class="citation">
 Waters SH, Clifford GD. <a href="https://drive.google.com/file/d/18CHuWRflbKbrU3XAzqt0g85NQEvE4KKV/view?usp=sharing">Comparison of deep transfer learning algorithms and transferability measures for wearable sleep staging</a>. BioMedical Engineering Online 2022 September 12; 21 (1): p. 66.
@@ -1892,29 +1936,6 @@ Waters SH, Clifford GD. <a href="https://drive.google.com/file/d/18CHuWRflbKbrU3
 </div>
 <div class="hidebibtex">
 <label for="SamuelHWaters_2022_12_Comparisonof">[show citation]</label>
-</div></div></td></tr><tr>
-<td>205</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="ErickAPerezAlday_2022_09_01_Agesex">
-<div class="citation">
-Alday EAP, Rad AB, Reyna MA, Sadr N, Gu A, Li Q, Dumitru M, Xue J, Albert D, Sameni R, Clifford GD. <a href="https://drive.google.com/file/d/1Zd7Pcq77Gy4Sc7064SsS-0l9iGWk8AVF/view?usp=sharing">Age, sex and race bias in automated arrhythmia detectors</a>. Journal of Electrocardiology 2022 September; 74: pp. 5-9.
-</div>
-<div class="bibtex_source"><pre>@article{ErickAPerezAlday_2022_09_01_Agesex,
-    author = "Alday, Erick A Perez and Rad, Ali B and Reyna, Matthew A and Sadr, Nadi and Gu, Annie and Li, Qiao and Dumitru, Mircea and Xue, Joel and Albert, Dave and Sameni, Reza and Clifford, Gari D",
-    title = "Age, sex and race bias in automated arrhythmia detectors",
-    date = "2022-09",
-    journal = "Journal of Electrocardiology",
-    url = "https://drive.google.com/file/d/1Zd7Pcq77Gy4Sc7064SsS-0l9iGWk8AVF/view?usp=sharing",
-    pages = "5-9",
-    volume = "74",
-    note = "Publisher: Churchill Livingstone"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="ErickAPerezAlday_2022_09_01_Agesex">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="ErickAPerezAlday_2022_09_01_Agesex">[show citation]</label>
 </div></div></td></tr><tr>
 <td>204</td>
 <td><div class="citation_container">
@@ -4766,6 +4787,30 @@ Breen C, Zhu T, Bond R, Finlay D, Clifford GD. <a href="https://drive.google.com
 </div></div></td></tr><tr>
 <td>85</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="DavidBSpringer_2015_09_01_LogisticregressionHSMMbased">
+<div class="citation">
+Springer DB, Tarassenko L, Clifford GD. <a href="https://drive.google.com/file/d/17JERIel3fKe6a0pKer4s0pelRkU3Pf83/view?usp=sharing">Logistic regression-HSMM-based heart sound segmentation</a>. IEEE Transactions on Biomedical Engineering 2016 April; 63 (4): pp. 822-832.
+</div>
+<div class="bibtex_source"><pre>@article{DavidBSpringer_2015_09_01_LogisticregressionHSMMbased,
+    author = "Springer, David B and Tarassenko, Lionel and Clifford, Gari D",
+    title = "Logistic regression-HSMM-based heart sound segmentation",
+    date = "2016-04",
+    issue = "4",
+    journal = "IEEE Transactions on Biomedical Engineering",
+    url = "https://drive.google.com/file/d/17JERIel3fKe6a0pKer4s0pelRkU3Pf83/view?usp=sharing",
+    pages = "822-832",
+    volume = "63",
+    note = "Publisher: IEEE"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="DavidBSpringer_2015_09_01_LogisticregressionHSMMbased">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="DavidBSpringer_2015_09_01_LogisticregressionHSMMbased">[show citation]</label>
+</div></div></td></tr><tr>
+<td>84</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="FernandoAndreotti_2016_04_12_Anopensource">
 <div class="citation">
 Andreotti F, Behar J, Zaunseder S, Oster J, Clifford GD. <a href="https://drive.google.com/file/d/1i3AGVLO2mP_VQ8XUDz8nsxr9oGCNLVvq/view?usp=sharing">An open-source framework for stress-testing non-invasive foetal ECG extraction algorithms</a>. Physiological Measurement 2016 April 12; 37 (5): pp. 627-648.
@@ -4788,7 +4833,7 @@ Andreotti F, Behar J, Zaunseder S, Oster J, Clifford GD. <a href="https://drive.
 <div class="hidebibtex">
 <label for="FernandoAndreotti_2016_04_12_Anopensource">[show citation]</label>
 </div></div></td></tr><tr>
-<td>84</td>
+<td>83</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JoachimBehar_2016_04_12_Apractical">
 <div class="citation">
@@ -4811,30 +4856,6 @@ Behar J, Andreotti F, Zaunseder S, Oster J, Clifford GD. <a href="https://drive.
 </div>
 <div class="hidebibtex">
 <label for="JoachimBehar_2016_04_12_Apractical">[show citation]</label>
-</div></div></td></tr><tr>
-<td>83</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="DavidBSpringer_2015_09_01_LogisticregressionHSMMbased">
-<div class="citation">
-Springer DB, Tarassenko L, Clifford GD. <a href="https://drive.google.com/file/d/17JERIel3fKe6a0pKer4s0pelRkU3Pf83/view?usp=sharing">Logistic regression-HSMM-based heart sound segmentation</a>. IEEE Transactions on Biomedical Engineering 2016 April; 63 (4): pp. 822-832.
-</div>
-<div class="bibtex_source"><pre>@article{DavidBSpringer_2015_09_01_LogisticregressionHSMMbased,
-    author = "Springer, David B and Tarassenko, Lionel and Clifford, Gari D",
-    title = "Logistic regression-HSMM-based heart sound segmentation",
-    date = "2016-04",
-    issue = "4",
-    journal = "IEEE Transactions on Biomedical Engineering",
-    url = "https://drive.google.com/file/d/17JERIel3fKe6a0pKer4s0pelRkU3Pf83/view?usp=sharing",
-    pages = "822-832",
-    volume = "63",
-    note = "Publisher: IEEE"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="DavidBSpringer_2015_09_01_LogisticregressionHSMMbased">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="DavidBSpringer_2015_09_01_LogisticregressionHSMMbased">[show citation]</label>
 </div></div></td></tr><tr>
 <td>82</td>
 <td><div class="citation_container">
