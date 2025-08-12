@@ -12777,53 +12777,14 @@ Clifford GD. Statistical Conformal Field Theory and Information Loss in the Reno
 
 <table>
 <tr>
-<td>31</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="LiTianyi_2025_03_14_Childhoodadversity">
-<div class="citation">
-Tianyi L, Huibregtse ME, Ely TD, Rooij SJ, Lebois LA, Webb EK, Jovanovic T, House SL, Bruce SE, Murty VP, Beaudoin FL, An X, Neylan TC, Clifford GD, Linnstaedt SD, Bollen KA, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Musey PI, Hendry PL, Sheikh S, Jones CW, Punches BE, Hudak LA, Pascual JL, Seamon MJ, Datner EM, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Sheridan JF, Kessler RC, Koenen KC, Ressler KJ, McLean SA, Stevens JS, Harnett NG. <a href="https://repository.escholarship.umassmed.edu/entities/publication/ae8f92bf-5f1e-446c-b95a-3175873e3219">Childhood adversity is associated with longitudinal white matter changes after adulthood trauma [preprint]</a>. 2025 March 14.
-</div>
-<div class="bibtex_source"><pre>@misc{LiTianyi_2025_03_14_Childhoodadversity,
-    author = "Tianyi, Li and Huibregtse, Megan E and Ely, Timothy D and van Rooij, Sanne JH and Lebois, Lauren AM and Webb, E Kate and Jovanovic, Tanja and House, Stacey L and Bruce, Steven E and Murty, Vishnu P and Beaudoin, Francesca L and An, Xinming and Neylan, Thomas C and Clifford, Gari D and Linnstaedt, Sarah D and Bollen, Kenneth A and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Musey, Paul I and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Datner, Elizabeth M and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sergot, Paulina and Sanchez, Leon D and Sheridan, John F and Kessler, Ronald C and Koenen, Karestan C and Ressler, Kerry J and McLean, Samuel A and Stevens, Jennifer S and Harnett, Nathaniel G",
-    title = "Childhood adversity is associated with longitudinal white matter changes after adulthood trauma [preprint]",
-    date = "2025-03-14",
-    url = "https://repository.escholarship.umassmed.edu/entities/publication/ae8f92bf-5f1e-446c-b95a-3175873e3219"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="LiTianyi_2025_03_14_Childhoodadversity">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="LiTianyi_2025_03_14_Childhoodadversity">[show citation]</label>
-</div></div></td></tr><tr>
-<td>30</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="CeciliaHinojosa_2023_11_03_Rewardneurocircuitry">
-<div class="citation">
-Hinojosa C, Rooij SJ, Fani N, Ellis RA, Harnett NG, Lebois L, Ely TD, Jovanovic T, Murty VP, House SL, Beaudoin F, An X, Neylan TC, Clifford G, Linnstaedt SD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Punches BE, Hudak LA, Pascual JL, Seamon MS, Harris E, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Bruce SE, Pizzagalli DA, Sheridan JF, Harte SE, Koenen KC, Kessler RC, McLean SA, Ressler KJ, Stevens J. <a href="https://osf.io/rsak9_v1/">Reward neurocircuitry predicts longitudinal changes in alcohol use following trauma exposure</a>. 2023 November 3.
-</div>
-<div class="bibtex_source"><pre>@misc{CeciliaHinojosa_2023_11_03_Rewardneurocircuitry,
-    author = "Hinojosa, Cecilia and van Rooij, Sanne JH and Fani, Negar and Ellis, Robyn A and Harnett, Nathaniel G and Lebois, Lauren and Ely, Timothy D and Jovanovic, Tanja and Murty, Vishnu P and House, Stacey L and Beaudoin, Francesca and An, Xinming and Neylan, Thomas C and Clifford, Gari and Linnstaedt, Sarah D and Germine, Laura T and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Punches, Brittany E and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark S and Harris, Erica and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sergot, Paulina and Bruce, Steven E and Pizzagalli, Diego A and Sheridan, John F and Harte, Steven E and Koenen, Karestan C and Kessler, Ronald C and McLean, Samuel A and Ressler, Kerry J and Stevens, Jennifer",
-    title = "Reward neurocircuitry predicts longitudinal changes in alcohol use following trauma exposure",
-    date = "2023-11-03",
-    url = "https://osf.io/rsak9\_v1/",
-    note = "Publisher: OSF"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="CeciliaHinojosa_2023_11_03_Rewardneurocircuitry">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="CeciliaHinojosa_2023_11_03_Rewardneurocircuitry">[show citation]</label>
-</div></div></td></tr><tr>
-<td>29</td>
+<td>25</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariClifford_2022_RethinkingAlgorithm">
 <div class="citation">
-Clifford G, DPhil M. <a href="https://scholar.archive.org/work/3svi7vllb5amdowdxh6pn2zib4/access/wayback/https://jamanetwork.com/journals/jama/articlepdf/2794258/jama_reyna_2022_vp_220064_1657233951.99577.pdf">Rethinking Algorithm Performance Metrics for Artificial Intelligence in Diagnostic Medicine</a>. 2022.
+Clifford GD, DPhil M. <a href="https://scholar.archive.org/work/3svi7vllb5amdowdxh6pn2zib4/access/wayback/https://jamanetwork.com/journals/jama/articlepdf/2794258/jama_reyna_2022_vp_220064_1657233951.99577.pdf">Rethinking Algorithm Performance Metrics for Artificial Intelligence in Diagnostic Medicine</a>. 2022.
 </div>
 <div class="bibtex_source"><pre>@misc{GariClifford_2022_RethinkingAlgorithm,
-    author = "Clifford, Gari and DPhil, MA",
+    author = "Clifford, Gari D and DPhil, MA",
     title = "Rethinking Algorithm Performance Metrics for Artificial Intelligence in Diagnostic Medicine",
     date = "2022",
     url = "https://scholar.archive.org/work/3svi7vllb5amdowdxh6pn2zib4/access/wayback/https://jamanetwork.com/journals/jama/articlepdf/2794258/jama\_reyna\_2022\_vp\_220064\_1657233951.99577.pdf"
@@ -12835,7 +12796,7 @@ Clifford G, DPhil M. <a href="https://scholar.archive.org/work/3svi7vllb5amdowdx
 <div class="hidebibtex">
 <label for="GariClifford_2022_RethinkingAlgorithm">[show citation]</label>
 </div></div></td></tr><tr>
-<td>28</td>
+<td>24</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="XingyaoWang_2021_06_ParoxysmalAtrial">
 <div class="citation">
@@ -12855,7 +12816,7 @@ Wang X, Ma C, Zhang X, Gao H, Clifford GD, Liu C. <a href="https://www.physionet
 <div class="hidebibtex">
 <label for="XingyaoWang_2021_06_ParoxysmalAtrial">[show citation]</label>
 </div></div></td></tr><tr>
-<td>27</td>
+<td>23</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="BMoody_2020_Mimiciiiwaveform">
 <div class="citation">
@@ -12876,7 +12837,7 @@ Moody B, Moody G, Villarroel M, Clifford G, Silva I. <a href="https://scholar.go
 <div class="hidebibtex">
 <label for="BMoody_2020_Mimiciiiwaveform">[show citation]</label>
 </div></div></td></tr><tr>
-<td>26</td>
+<td>22</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2018_FromWearables">
 <div class="citation">
@@ -12896,7 +12857,7 @@ Clifford GD. <a href="https://hip.emory.edu/_includes/documents/sections/symposi
 <div class="hidebibtex">
 <label for="GariDClifford_2018_FromWearables">[show citation]</label>
 </div></div></td></tr><tr>
-<td>25</td>
+<td>21</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChengyuLiu_2018_Focuson">
 <div class="citation">
@@ -12916,7 +12877,7 @@ Liu C, Lehman L, Moody B, Li Q, Clifford G. <a href="https://drive.google.com/fi
 <div class="hidebibtex">
 <label for="ChengyuLiu_2018_Focuson">[show citation]</label>
 </div></div></td></tr><tr>
-<td>24</td>
+<td>20</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AhmedAbbasi_2018_08_01_MakeFairness">
 <div class="citation">
@@ -12937,33 +12898,14 @@ Abbasi A, Li J, Clifford GD, Taylor HA. <a href="https://hbr.org/2018/08/make-fa
 <div class="hidebibtex">
 <label for="AhmedAbbasi_2018_08_01_MakeFairness">[show citation]</label>
 </div></div></td></tr><tr>
-<td>23</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="ShriBHAnilKumar_2018_07_17_Theteam">
-<div class="citation">
-Kumar SBA, Buchman T, Clifford GD, Nemati S, Li Q, Arar B, Stanley M, Holder A, Koppisetty V, Prajwal S. <a href="http://nidm.gov.in/pdf/trgreports/2018/july/17-18_nidm.pdf">The team</a>. 2018 July 17.
-</div>
-<div class="bibtex_source"><pre>@misc{ShriBHAnilKumar_2018_07_17_Theteam,
-    author = "Kumar, Shri BH Anil and Buchman, Tim and Clifford, Gari D and Nemati, Shamim and Li, Qiao and Arar, Benjamin and Stanley, Matt and Holder, Andre and Koppisetty, Veera and Prajwal, Supreeth",
-    title = "The team",
-    date = "2018-07-17",
-    url = "http://nidm.gov.in/pdf/trgreports/2018/july/17-18\_nidm.pdf"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="ShriBHAnilKumar_2018_07_17_Theteam">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="ShriBHAnilKumar_2018_07_17_Theteam">[show citation]</label>
-</div></div></td></tr><tr>
-<td>22</td>
+<td>19</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RHallClifford_2017_Sustainabletechnology">
 <div class="citation">
-Hall-Clifford R, Roche S, Fathima S, Palmius N, Hollingworth K, Kennedy J, Merida J, Stephens M, Lavalley R, Rohloff P, Garcia P, Patrick S, Clifford G. <a href="https://www.cabidigitallibrary.org/doi/full/10.5555/20183216210">Sustainable technology for surgical referrals: pilot implementation of an electronic referral system for short-term surgical missions.</a>. 2017.
+Hall-Clifford R, Roche S, Fathima S, Palmius N, Hollingworth K, Kennedy J, Merida J, Stephens M, Lavalley R, Rohloff P, Garcia P, Patrick S, Clifford GD. <a href="https://www.cabidigitallibrary.org/doi/full/10.5555/20183216210">Sustainable technology for surgical referrals: pilot implementation of an electronic referral system for short-term surgical missions.</a>. 2017.
 </div>
 <div class="bibtex_source"><pre>@misc{RHallClifford_2017_Sustainabletechnology,
-    author = "Hall-Clifford, R and Roche, S and Fathima, S and Palmius, N and Hollingworth, K and Kennedy, J and Merida, J and Stephens, M and Lavalley, R and Rohloff, P and Garcia, P and Patrick, S and Clifford, G",
+    author = "Hall-Clifford, R and Roche, S and Fathima, S and Palmius, N and Hollingworth, K and Kennedy, J and Merida, J and Stephens, M and Lavalley, R and Rohloff, P and Garcia, P and Patrick, S and Clifford, G D",
     title = "Sustainable technology for surgical referrals: pilot implementation of an electronic referral system for short-term surgical missions.",
     date = "2017",
     issue = "2",
@@ -12978,7 +12920,7 @@ Hall-Clifford R, Roche S, Fathima S, Palmius N, Hollingworth K, Kennedy J, Merid
 <div class="hidebibtex">
 <label for="RHallClifford_2017_Sustainabletechnology">[show citation]</label>
 </div></div></td></tr><tr>
-<td>21</td>
+<td>18</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ArvindRaghuArvindRaghu_2015_11_04_Implicationsof">
 <div class="citation">
@@ -13000,7 +12942,7 @@ Raghu ARA, Praveen DPD, Peiris D, Tarassenko L, Clifford GD. <a href="https://ww
 <div class="hidebibtex">
 <label for="ArvindRaghuArvindRaghu_2015_11_04_Implicationsof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>20</td>
+<td>17</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="TTZhu_2015_05_27_Theframework">
 <div class="citation">
@@ -13019,7 +12961,7 @@ Zhu T, Dunkley N, Behar J, Clifton D, Clifford G, Pimentel M. <a href="https://w
 <div class="hidebibtex">
 <label for="TTZhu_2015_05_27_Theframework">[show citation]</label>
 </div></div></td></tr><tr>
-<td>19</td>
+<td>16</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GlennSteeleJr_2015_04_02_USHealthcare">
 <div class="citation">
@@ -13038,26 +12980,7 @@ Jr GS, Erskine A, Clifford GD, Braunstein M, Simpson DR. <a href="https://www.hi
 <div class="hidebibtex">
 <label for="GlennSteeleJr_2015_04_02_USHealthcare">[show citation]</label>
 </div></div></td></tr><tr>
-<td>18</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="ShannonFischer_2014_09_IEEEpULse">
-<div class="citation">
-Fischer S, Grifantini K, Clifford GD, Gederi E, Heneghan C, Hirshkowitz M, Jan<span class="bibtex-protected">é</span> R, Ward SLD, Amin R, Arens R, Chen Z, Davis S, Gutmark E, Superfine R, Wong B, Zdanski C, Khoo MC, Nayak KS, Fleck RJ, Nemati S, Orr J, Malhotra A, Tucker L. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6908138">IEEEpULse</a>. 2014 September.
-</div>
-<div class="bibtex_source"><pre>@misc{ShannonFischer_2014_09_IEEEpULse,
-    author = "Fischer, Shannon and Grifantini, Kristina and Clifford, Gari D and Gederi, Elnaz and Heneghan, Conor and Hirshkowitz, Max and Jan{\'e}, Raimon and Ward, Sally L Davidson and Amin, Raouf and Arens, Raanan and Chen, Zhongping and Davis, Stephanie and Gutmark, Ephraim and Superfine, Richard and Wong, Brian and Zdanski, Carlton and Khoo, Michael CK and Nayak, Krishna S and Fleck, Robert J and Nemati, Shamim and Orr, Jeremy and Malhotra, Atul and Tucker, Lindsay",
-    title = "IEEEpULse",
-    date = "2014-09",
-    url = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=6908138"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="ShannonFischer_2014_09_IEEEpULse">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="ShannonFischer_2014_09_IEEEpULse">[show citation]</label>
-</div></div></td></tr><tr>
-<td>17</td>
+<td>15</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MaximOsipov_2014_08_14_Towardsautomated">
 <div class="citation">
@@ -13076,7 +12999,7 @@ Osipov M, Clifford GD. <a href="https://arxiv.org/pdf/1908.06013.pdf">Towards au
 <div class="hidebibtex">
 <label for="MaximOsipov_2014_08_14_Towardsautomated">[show citation]</label>
 </div></div></td></tr><tr>
-<td>16</td>
+<td>14</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LouisMayaud_2012_10_11_GeneticAlgorithm">
 <div class="citation">
@@ -13095,7 +13018,7 @@ Mayaud L, Tarassenko L, Clifford GD. <a href="https://www.researchgate.net/profi
 <div class="hidebibtex">
 <label for="LouisMayaud_2012_10_11_GeneticAlgorithm">[show citation]</label>
 </div></div></td></tr><tr>
-<td>15</td>
+<td>13</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MohammedSaeed_2011_MIMICIIClinical">
 <div class="citation">
@@ -13117,7 +13040,7 @@ Saeed M, Villarroel M, Reisner A, Clifford GD, Lehman L, Moody G, Heldt T, Kyaw 
 <div class="hidebibtex">
 <label for="MohammedSaeed_2011_MIMICIIClinical">[show citation]</label>
 </div></div></td></tr><tr>
-<td>14</td>
+<td>12</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="KatherineLKuan_2010_Aframework">
 <div class="citation">
@@ -13136,7 +13059,7 @@ Kuan KL, Szolovits P, Clifford GD. <a href="https://dspace.mit.edu/handle/1721.1
 <div class="hidebibtex">
 <label for="KatherineLKuan_2010_Aframework">[show citation]</label>
 </div></div></td></tr><tr>
-<td>13</td>
+<td>11</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GClifford_2010_Userguide">
 <div class="citation">
@@ -13155,7 +13078,7 @@ Clifford G, Scott D, Villarroel M. <a href="https://archive.physionet.org/mimic2
 <div class="hidebibtex">
 <label for="GClifford_2010_Userguide">[show citation]</label>
 </div></div></td></tr><tr>
-<td>12</td>
+<td>10</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariClifford_2008_TheEmerging">
 <div class="citation">
@@ -13174,7 +13097,7 @@ Clifford GD. <a href="https://d1wqtxts1xzle7.cloudfront.net/30707561/lec14_gari-
 <div class="hidebibtex">
 <label for="GariClifford_2008_TheEmerging">[show citation]</label>
 </div></div></td></tr><tr>
-<td>11</td>
+<td>9</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GDClifford_2007_Coursematerials">
 <div class="citation">
@@ -13194,7 +13117,7 @@ Clifford G. <a href="https://scholar.google.com/scholar?cluster=4552201191896152
 <div class="hidebibtex">
 <label for="GDClifford_2007_Coursematerials">[show citation]</label>
 </div></div></td></tr><tr>
-<td>10</td>
+<td>8</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2006_12_01_Reviewof">
 <div class="citation">
@@ -13219,7 +13142,7 @@ Clifford GD. <a href="https://drive.google.com/file/d/1LzA_LAXMbf0F09EPN8WEZpOTr
 <div class="hidebibtex">
 <label for="GariDClifford_2006_12_01_Reviewof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>9</td>
+<td>7</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GClifford_2006_Advancedmethods">
 <div class="citation">
@@ -13239,7 +13162,7 @@ Clifford G, AF D, McSharry P. <a href="https://scholar.google.com/scholar?cluste
 <div class="hidebibtex">
 <label for="GClifford_2006_Advancedmethods">[show citation]</label>
 </div></div></td></tr><tr>
-<td>8</td>
+<td>6</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AndrewTReisner_2006_Thephysiological">
 <div class="citation">
@@ -13260,7 +13183,7 @@ Reisner AT, Clifford GD, Mark RG. <a href="http://onlineedu.cafa.edu.cn/moocreso
 <div class="hidebibtex">
 <label for="AndrewTReisner_2006_Thephysiological">[show citation]</label>
 </div></div></td></tr><tr>
-<td>7</td>
+<td>5</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="PatrickEMcSharry_2006_NonlinearFiltering">
 <div class="citation">
@@ -13281,7 +13204,7 @@ McSharry PE, Clifford GD. <a href="https://scholar.google.com/scholar?cluster=25
 <div class="hidebibtex">
 <label for="PatrickEMcSharry_2006_NonlinearFiltering">[show citation]</label>
 </div></div></td></tr><tr>
-<td>6</td>
+<td>4</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2006_EctopicBeats">
 <div class="citation">
@@ -13299,7 +13222,7 @@ Clifford GD. Ectopic Beats, Activity Effects and Heart Rate Turbulence. 2006.
 <div class="hidebibtex">
 <label for="GariDClifford_2006_EctopicBeats">[show citation]</label>
 </div></div></td></tr><tr>
-<td>5</td>
+<td>3</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="PEMcSharry_2006_03_ECGSYNarealistic">
 <div class="citation">
@@ -13319,7 +13242,7 @@ McSharry P, Clifford G. <a href="https://scholar.google.com/scholar?cluster=1830
 <div class="hidebibtex">
 <label for="PEMcSharry_2006_03_ECGSYNarealistic">[show citation]</label>
 </div></div></td></tr><tr>
-<td>4</td>
+<td>2</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2005_01_BlindSource">
 <div class="citation">
@@ -13339,7 +13262,7 @@ Clifford GD. <a href="https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf
 <div class="hidebibtex">
 <label for="GariDClifford_2005_01_BlindSource">[show citation]</label>
 </div></div></td></tr><tr>
-<td>3</td>
+<td>1</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GDClifford_2005_04_07_Fetal">
 <div class="citation">
@@ -13358,43 +13281,5 @@ Clifford G. <a href="https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&
 </div>
 <div class="hidebibtex">
 <label for="GDClifford_2005_04_07_Fetal">[show citation]</label>
-</div></div></td></tr><tr>
-<td>2</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="SalmanGhasemi_UnknownDate_OpenLibrary">
-<div class="citation">
-Ghasemi S, Moghaddam SS, Rahimi A, Damalas CA, Naji A. <a href="https://ngdc.cncb.ac.cn/openlb/publication/OLB-PM-37884724">Open Library of Bioscience</a>. No Date.
-</div>
-<div class="bibtex_source"><pre>@misc{SalmanGhasemi_UnknownDate_OpenLibrary,
-    author = "Ghasemi, Salman and Moghaddam, Sina Siavash and Rahimi, Amir and Damalas, Christos A and Naji, Abolfazl",
-    title = "Open Library of Bioscience",
-    date = "No Date",
-    url = "https://ngdc.cncb.ac.cn/openlb/publication/OLB-PM-37884724"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="SalmanGhasemi_UnknownDate_OpenLibrary">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="SalmanGhasemi_UnknownDate_OpenLibrary">[show citation]</label>
-</div></div></td></tr><tr>
-<td>1</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="EKateWebb_UnknownDate_eScholarshipUMassChan">
-<div class="citation">
-Webb EK, Ely TD, Rowland GE, Lebois LA, Stacey L, Beaudoin FL, An X, Neylan T, Kenneth A, Rauch SL, Haran JP, Storrow A, Elizabeth M, Pearson C, Peak DA, Merchant R, Leon D, Kessler RC, Koenen KC, McLean S, SE JT, House S, Beaudoin F, An X, Neylan T, Clifford G, Linnstaedt S, Germine L, Bollen K, Rauch S, Haran J, Storrow A, Lewandowski C, Jr PM, Hendry P, Sheikh S, Jones C, Punches B, Swor R, Pascual J, Seamon M, Datner E, Pearson C, Peak D, Merchant R, Domeier R, Rathlev N, Sergot P, Sanchez L, Kessler R, Koenen K, McLean S, Stevens J, Ressler K, Harnett N. <a href="https://repository.escholarship.umassmed.edu/server/api/core/bitstreams/66c6b9a7-4e4c-40bf-a87d-7845b9ed9252/content">eScholarship@ UMassChan</a>. No Date.
-</div>
-<div class="bibtex_source"><pre>@misc{EKateWebb_UnknownDate_eScholarshipUMassChan,
-    author = "Webb, E Kate and Ely, Timothy D and Rowland, Grace E and Lebois, Lauren A and Stacey, L and Beaudoin, Francesca L and An, Xinming and Neylan, Thomas and Kenneth, A and Rauch, Scott L and Haran, John P and Storrow, Alan and Elizabeth, M and Pearson, Claire and Peak, David A and Merchant, Roland and Leon, D and Kessler, Ronald C and Koenen, Karestan C and McLean, Samuel and SE, Jovanovic T and House, SL and Beaudoin, FL and An, X and Neylan, TC and Clifford, GD and Linnstaedt, SD and Germine, LT and Bollen, KA and Rauch, SL and Haran, JP and Storrow, AB and Lewandowski, C and Jr, PI Musey and Hendry, PL and Sheikh, S and Jones, CW and Punches, BE and Swor, RA and Pascual, JL and Seamon, MJ and Datner, EM and Pearson, C and Peak, DA and Merchant, RC and Domeier, RM and Rathlev, NK and Sergot, P and Sanchez, LD and Kessler, RC and Koenen, KC and McLean, SA and Stevens, JS and Ressler, KJ and Harnett, NG",
-    title = "eScholarship@ UMassChan",
-    date = "No Date",
-    url = "https://repository.escholarship.umassmed.edu/server/api/core/bitstreams/66c6b9a7-4e4c-40bf-a87d-7845b9ed9252/content"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="EKateWebb_UnknownDate_eScholarshipUMassChan">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="EKateWebb_UnknownDate_eScholarshipUMassChan">[show citation]</label>
 </div></div></td></tr>
 </table>
