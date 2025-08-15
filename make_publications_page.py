@@ -308,7 +308,10 @@ def render_citation(entry):
 
     if reference_elements == []:
         return ""
-    return ". ".join([e for e in reference_elements if e!=""]) + "."
+
+    joined_string=". ".join([e for e in reference_elements if e!=""]) + "."
+    # change ?. -> ?
+    return re.sub(r"\?((<[^>]*>)*)\.", r"?\1", joined_string)
 
 def render_bibtex(entry):
     """Print this entry in BibTeX."""

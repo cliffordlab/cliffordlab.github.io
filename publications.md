@@ -5554,7 +5554,7 @@ Zhu T, Johnson AE, Behar J, Clifford GD. <a href="https://drive.google.com/file/
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AndrewJESeely_2014_04_Doheart">
 <div class="citation">
-Seely AJ, Bravi A, Herry C, Green G, Longtin A, Ramsay T, Fergusson D, McIntyre L, Kubelik D, Maziak DE, Ferguson N, Brown SM, Mehta S, Martin C, Rubenfeld G, Jacono FJ, Clifford GD, Fazekas A, Marshall J. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-ic1BBdWN6MWI0Tk0/view?usp=sharing&resourcekey=0-aQVqxZnrvBxQO80mUj1sUw">Do heart and respiratory rate variability improve prediction of extubation outcomes in critically ill patients?</a>. Critical Care 2014 April 8; 18 (2): p. R65.
+Seely AJ, Bravi A, Herry C, Green G, Longtin A, Ramsay T, Fergusson D, McIntyre L, Kubelik D, Maziak DE, Ferguson N, Brown SM, Mehta S, Martin C, Rubenfeld G, Jacono FJ, Clifford GD, Fazekas A, Marshall J. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-ic1BBdWN6MWI0Tk0/view?usp=sharing&resourcekey=0-aQVqxZnrvBxQO80mUj1sUw">Do heart and respiratory rate variability improve prediction of extubation outcomes in critically ill patients?</a> Critical Care 2014 April 8; 18 (2): p. R65.
 </div>
 <div class="bibtex_source"><pre>@article{AndrewJESeely_2014_04_Doheart,
     author = "Seely, Andrew JE and Bravi, Andrea and Herry, Christophe and Green, Geoffrey and Longtin, Andr{\'e} and Ramsay, Tim and Fergusson, Dean and McIntyre, Lauralyn and Kubelik, Dalibor and Maziak, Donna E and Ferguson, Niall and Brown, Samuel M and Mehta, Sangeeta and Martin, Claudio and Rubenfeld, Gordon and Jacono, Frank J and Clifford, Gari D and Fazekas, Anna and Marshall, John",
@@ -6979,7 +6979,7 @@ Malian A, Xue J, Albert D, Clifford GD. <a href="https://drive.google.com/file/d
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JoelXue_UnknownDate_Doesa">
 <div class="citation">
-Xue J, Dwivedi T, Barnett K, Vlasenko A, Kirsch M, Parekh A, Yuan R, Clifford GD, Albert D. <a href="https://drive.google.com/file/d/1F5-UEXdoWgu0ZTYv9zjirdy5pmQ-HuCc/view?usp=sharing">Does a Reduced ECG Lead Set Contain the Full 12-lead ECG Information for Interpretation?</a>. 51st Computing in Cardiology, Karlsruhe, Germany 2024 September 8; 51: pp. 1-4.
+Xue J, Dwivedi T, Barnett K, Vlasenko A, Kirsch M, Parekh A, Yuan R, Clifford GD, Albert D. <a href="https://drive.google.com/file/d/1F5-UEXdoWgu0ZTYv9zjirdy5pmQ-HuCc/view?usp=sharing">Does a Reduced ECG Lead Set Contain the Full 12-lead ECG Information for Interpretation?</a> 51st Computing in Cardiology, Karlsruhe, Germany 2024 September 8; 51: pp. 1-4.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{JoelXue_UnknownDate_Doesa,
     author = "Xue, Joel and Dwivedi, Trisha and Barnett, Kim and Vlasenko, Aleksandr and Kirsch, Miguel and Parekh, Aarya and Yuan, Reena and Clifford, Gari D and Albert, David",
@@ -9192,7 +9192,7 @@ Springer DB, Brennan T, Z<span class="bibtex-protected">ü</span>hlke L, Abdelra
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RBond_2014_05_Eyetracking">
 <div class="citation">
-Bond R, Finlay D, Clifford GD, Drew B, Breen C, Guldenring D, Gallagher AG. <a href="https://scholar.google.com/scholar?cluster=13712228794969400792&hl=en&oi=scholarr">Eye tracking technology and the 12-lead electrocardiogram: Where the experts look?</a>. 39th Annual Conference of the International Society for Computerized Electrocardiography, Atlantic Beach, FL, USA 2014 April 26.
+Bond R, Finlay D, Clifford GD, Drew B, Breen C, Guldenring D, Gallagher AG. <a href="https://scholar.google.com/scholar?cluster=13712228794969400792&hl=en&oi=scholarr">Eye tracking technology and the 12-lead electrocardiogram: Where the experts look?</a> 39th Annual Conference of the International Society for Computerized Electrocardiography, Atlantic Beach, FL, USA 2014 April 26.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{RBond_2014_05_Eyetracking,
     author = "Bond, R. and Finlay, D.D. and Clifford, G. D. and Drew, B. and Breen, C. and Guldenring, D. and Gallagher, A G",
@@ -11975,7 +11975,7 @@ Reyna MA, Clifford GD. <a href="https://arxiv.org/abs/2012.11013">Voting of pred
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2020_07_20_TheFuture">
 <div class="citation">
-Clifford GD. <a href="https://arxiv.org/abs/2007.10502">The Future AI in Healthcare: A Tsunami of False Alarms or a Product of Experts?</a>. arXiv preprint arXiv:2007.10502 2020 July 20.
+Clifford GD. <a href="https://arxiv.org/abs/2007.10502">The Future AI in Healthcare: A Tsunami of False Alarms or a Product of Experts?</a> arXiv preprint arXiv:2007.10502 2020 July 20.
 </div>
 <div class="bibtex_source"><pre>@article{GariDClifford_2020_07_20_TheFuture,
     author = "Clifford, Gari D",
@@ -12179,7 +12179,7 @@ Oster J, Clifford GD. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-idWdC
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ArvindRaghu_2015_Lessonsfrom">
 <div class="citation">
-Raghu A, Praveen D, Peiris D, Tarassenko L, Clifford GD. <a href="https://drive.google.com/file/d/1dZQWtqrerXf5VJ9sxSVzerOykmUFML6I/view?usp=sharing">"Lessons from the evaluation of a clinical decision support tool for cardiovascular disease risk management in rural india" in <i>Technologies for Development: What is Essential?</i></a>. 2015. pp. 199-209.
+Raghu A, Praveen D, Peiris D, Tarassenko L, Clifford GD. <a href="https://drive.google.com/file/d/1dZQWtqrerXf5VJ9sxSVzerOykmUFML6I/view?usp=sharing">"Lessons from the evaluation of a clinical decision support tool for cardiovascular disease risk management in rural india" in <i>Technologies for Development: What is Essential?</i></a> 2015. pp. 199-209.
 </div>
 <div class="bibtex_source"><pre>@inbook{ArvindRaghu_2015_Lessonsfrom,
     author = "Raghu, Arvind and Praveen, Devarsetty and Peiris, David and Tarassenko, Lionel and Clifford, Gari D",
