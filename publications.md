@@ -11,6 +11,30 @@ permalink: /publications
 
 <table>
 <tr>
+<td>288</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="Kaplan2025">
+<div class="citation">
+Kaplan DM, Alvarez SJA, Palitsky R, Choi H, Clifford GD, Crozier M, Dunlop BW, Grant GH, Greenleaf MN, Johnson LM, Maples-Keller J, Levin-Aspenson HF, Mascaro JS, McDowall A, Pozzo NS, Raison CL, Zarrabi AJ, Rothbaum BO, Lam WA. <a href="https://drive.google.com/file/d/1o5qs159hJLMt847Fugp-KU-AVhOHW0IG/view?usp=sharing">Fabla: A voice-based ecological assessment method for securely collecting spoken responses to researcher questions</a>. Behavior Research Methods 2025 August 13; 57 (9): p. 257. DOI: <a href="https://doi.org/10.3758/s13428-025-02777-1">10.3758/s13428-025-02777-1</a>.
+</div>
+<div class="bibtex_source"><pre>@article{Kaplan2025,
+    author = "Kaplan, Daniel M. and Alvarez, Samuel J. A. and Palitsky, Rachel and Choi, H. and Clifford, Gari D. and Crozier, Michael and Dunlop, Bruce W. and Grant, Gideon H. and Greenleaf, Maxwell N. and Johnson, Lauren M. and Maples-Keller, Jessica and Levin-Aspenson, Holly F. and Mascaro, Jeremy S. and McDowall, Andrew and Pozzo, Nicholas S. and Raison, Charles L. and Zarrabi, Arash J. and Rothbaum, Barbara O. and Lam, W. Allan",
+    title = "Fabla: A voice-based ecological assessment method for securely collecting spoken responses to researcher questions",
+    journal = "Behavior Research Methods",
+    date = "2025-08-13",
+    volume = "57",
+    issue = "9",
+    pages = "257",
+    url = "https://drive.google.com/file/d/1o5qs159hJLMt847Fugp-KU-AVhOHW0IG/view?usp=sharing",
+    doi = "10.3758/s13428-025-02777-1"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="Kaplan2025">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="Kaplan2025">[show citation]</label>
+</div></div></td></tr><tr>
 <td>287</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AyushTripathi_2025_08_12_Automatedanalysis">
