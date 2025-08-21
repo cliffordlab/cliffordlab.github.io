@@ -11,6 +11,28 @@ permalink: /publications
 
 <table>
 <tr>
+<td>289</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="RuoqiWei_2024_11_06_AutomatedMedical">
+<div class="citation">
+Wei R, Buss SS, Milde R, Fernandes M, Sumsion D, Davis E, Kong W, Xiong Y, Veltink J, Rao S, Westover TM, Petersen L, Turley N, Singh A, Das S, Junior VM, Ghanta M, Gupta A, Kim J, Lam AD, Stone KL, Mignot E, Hwang D, Trotti LM, Clifford GD, Katwa U, Thomas RJ, Mukerji S, Zafar SF, Westover MB, Sun H. <a href="https://drive.google.com/file/d/1dT7GY93bIQYbfpCsXT_DgJnm7RjqrDH1/view?usp=sharing">Automated phenotyping of mild cognitive impairment and Alzheimer’s disease and related dementias using electronic health records</a>. International Journal of Medical Informatics 2025 August; 200: p. 105917.
+</div>
+<div class="bibtex_source"><pre>@article{RuoqiWei_2024_11_06_AutomatedMedical,
+    author = "Wei, Ruoqi and Buss, Stephanie S and Milde, Rebecca and Fernandes, Marta and Sumsion, Daniel and Davis, Elijah and Kong, Wan-Yee and Xiong, Yiwen and Veltink, Jet and Rao, Samvrit and Westover, Tara M and Petersen, Lydia and Turley, Niels and Singh, Arjun and Das, Sudeshna and Junior, Valdery Moura and Ghanta, Manohar and Gupta, Aditya and Kim, Jennifer and Lam, Alice D and Stone, Katie L and Mignot, Emmanuel and Hwang, Dennis and Trotti, Lynn Marie and Clifford, Gari D and Katwa, Umakanth and Thomas, Robert J and Mukerji, Shibani and Zafar, Sahar F and Westover, M Brandon and Sun, Haoqi",
+    title = "Automated phenotyping of mild cognitive impairment and Alzheimer’s disease and related dementias using electronic health records",
+    date = "2025-08",
+    journal = "International Journal of Medical Informatics",
+    url = "https://drive.google.com/file/d/1dT7GY93bIQYbfpCsXT\_DgJnm7RjqrDH1/view?usp=sharing",
+    pages = "105917",
+    volume = "200"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="RuoqiWei_2024_11_06_AutomatedMedical">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="RuoqiWei_2024_11_06_AutomatedMedical">[show citation]</label>
+</div></div></td></tr><tr>
 <td>288</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="Kaplan2025">
@@ -8734,13 +8756,13 @@ Saunders K, Bilderbeck A, Panchal P, Brett D, Clifford G, Harmer C, Nobre A, Har
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="FAndreotti_2015_Evaluationof">
 <div class="citation">
-Andreotti F, Behar J, Zaunseder S, Clifford G, Oster J. <a href="https://drive.google.com/file/d/1DI85lBgaRa_6t9rA4_B0hdifbhIQsKaf/view?usp=sharing">Evaluation of non-invasive foetal ECG extraction algorithms using non-stationary mixtures</a>. XXIV Brazilian Congress on Biomedical Engineering - CBEB 2014, Uberlândia, Minas Gerais, Brazil 2014 October 13; p. 1585.
+Andreotti F, Behar J, Zaunseder S, Clifford G, Oster J. <a href="https://drive.google.com/file/d/1DI85lBgaRa_6t9rA4_B0hdifbhIQsKaf/view?usp=sharing">Evaluation of non-invasive foetal ECG extraction algorithms using non-stationary mixtures</a>. XXIV Brazilian Congress on Biomedical Engineering - CBEB 2014, Uberli\^andia, Minas Gerais, Brazil 2014 October 13; p. 1585.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{FAndreotti_2015_Evaluationof,
     author = "Andreotti, F and Behar, J and Zaunseder, S and Clifford, GD and Oster, J",
     title = "Evaluation of non-invasive foetal ECG extraction algorithms using non-stationary mixtures",
     date = "2014-10-13",
-    booktitle = "XXIV Brazilian Congress on Biomedical Engineering - CBEB 2014, Uberlândia, Minas Gerais, Brazil",
+    booktitle = "XXIV Brazilian Congress on Biomedical Engineering - CBEB 2014, Uberli\^andia, Minas Gerais, Brazil",
     url = "https://drive.google.com/file/d/1DI85lBgaRa\_6t9rA4\_B0hdifbhIQsKaf/view?usp=sharing",
     pages = "1585"
 }
@@ -11069,7 +11091,7 @@ Clifford G, Tarassenko L, Townsend N. <a href="https://drive.google.com/file/d/1
 
 <table>
 <tr>
-<td>51</td>
+<td>50</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SeyedehSomayyehMousavi_2025_EstimatingBlood">
 <div class="citation">
@@ -11091,7 +11113,7 @@ Mousavi SS, Karimi S, Hassannia M, Koscova Z, Rad AB, Albert D, Clifford GD, Sam
 <div class="hidebibtex">
 <label for="SeyedehSomayyehMousavi_2025_EstimatingBlood">[show citation]</label>
 </div></div></td></tr><tr>
-<td>50</td>
+<td>49</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="TianyiLi_2025_Childhoodadversity">
 <div class="citation">
@@ -11113,7 +11135,7 @@ Li T, Huibregtse ME, Ely TD, Rooij SJ, Lebois LA, Webb EK, Jovanovic T, House SL
 <div class="hidebibtex">
 <label for="TianyiLi_2025_Childhoodadversity">[show citation]</label>
 </div></div></td></tr><tr>
-<td>49</td>
+<td>48</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="WeitaoTang_2025_06_27_FetalSleep">
 <div class="citation">
@@ -11132,7 +11154,7 @@ Tang W, Vargas-Calixto J, Katebi N, Galinsky R, Clifford GD, Marzbanrad F. <a hr
 <div class="hidebibtex">
 <label for="WeitaoTang_2025_06_27_FetalSleep">[show citation]</label>
 </div></div></td></tr><tr>
-<td>48</td>
+<td>47</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SajjadKarimi_2025_06_11_CrossLearningBetween">
 <div class="citation">
@@ -11152,7 +11174,7 @@ Karimi S, Shah AJ, Clifford GD, Sameni R. <a href="https://arxiv.org/abs/2506.10
 <div class="hidebibtex">
 <label for="SajjadKarimi_2025_06_11_CrossLearningBetween">[show citation]</label>
 </div></div></td></tr><tr>
-<td>47</td>
+<td>46</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="QiaoLi_UnknownDate_FusionBasedQT">
 <div class="citation">
@@ -11171,7 +11193,7 @@ Li Q, Barnett K, Xue J, Albert D, Deepanshi F, Rad A, Sameni R, Clifford GD. <a 
 <div class="hidebibtex">
 <label for="QiaoLi_UnknownDate_FusionBasedQT">[show citation]</label>
 </div></div></td></tr><tr>
-<td>46</td>
+<td>45</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZuzanaKoscova_2025_04_25_ANoiseRobust">
 <div class="citation">
@@ -11191,7 +11213,7 @@ Koscova Z, Shah A, Rad AB, Li Q, Clifford GD, Sameni R. <a href="https://drive.g
 <div class="hidebibtex">
 <label for="ZuzanaKoscova_2025_04_25_ANoiseRobust">[show citation]</label>
 </div></div></td></tr><tr>
-<td>45</td>
+<td>44</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LiTianyi_2025_03_14_Childhoodadversity">
 <div class="citation">
@@ -11210,7 +11232,7 @@ Tianyi L, Huibregtse ME, Ely TD, Rooij SJ, Lebois LA, Webb EK, Jovanovic T, Hous
 <div class="hidebibtex">
 <label for="LiTianyi_2025_03_14_Childhoodadversity">[show citation]</label>
 </div></div></td></tr><tr>
-<td>44</td>
+<td>43</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NasimKatebi_2025_03_12_EdgeAI">
 <div class="citation">
@@ -11230,7 +11252,7 @@ Katebi N, Ahmad M, Motie-Shirazi M, Phan D, Kolesnikova E, Nikookar S, Rafiei A,
 <div class="hidebibtex">
 <label for="NasimKatebi_2025_03_12_EdgeAI">[show citation]</label>
 </div></div></td></tr><tr>
-<td>43</td>
+<td>42</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SophiaSLiang_2025_Associationsbetween">
 <div class="citation">
@@ -11252,7 +11274,7 @@ Liang SS, Roeckner AR, Ely TD, Lebois LA, Rooij SJ, Bruce SE, Jovanovic T, House
 <div class="hidebibtex">
 <label for="SophiaSLiang_2025_Associationsbetween">[show citation]</label>
 </div></div></td></tr><tr>
-<td>42</td>
+<td>41</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="DeannaMKaplan_UnknownDate_FablaA">
 <div class="citation">
@@ -11273,7 +11295,7 @@ Kaplan DM, Alvarez SJA, Palitsky R, Choi H, Clifford GD, Crozier M, Dunlop BW, G
 <div class="hidebibtex">
 <label for="DeannaMKaplan_UnknownDate_FablaA">[show citation]</label>
 </div></div></td></tr><tr>
-<td>41</td>
+<td>40</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="XiaofanMu_2024_12_12_DetectingCognitive">
 <div class="citation">
@@ -11293,7 +11315,7 @@ Mu X, Seyedi S, Zheng I, Jiang Z, Chen L, Omofojoye B, Hershenberg R, Levey AI, 
 <div class="hidebibtex">
 <label for="XiaofanMu_2024_12_12_DetectingCognitive">[show citation]</label>
 </div></div></td></tr><tr>
-<td>40</td>
+<td>39</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LaurenAMcKibben_2024_PeritraumaticCreactive">
 <div class="citation">
@@ -11314,27 +11336,6 @@ McKibben LA, Layne MN, Albertorio-Saez EM, Zhao Y, Branham EM, House SL, Beaudoi
 </div>
 <div class="hidebibtex">
 <label for="LaurenAMcKibben_2024_PeritraumaticCreactive">[show citation]</label>
-</div></div></td></tr><tr>
-<td>39</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="RuoqiWei_2024_11_06_AutomatedMedical">
-<div class="citation">
-Wei R, Buss SS, Milde R, Fernandes M, Sumsion D, Davis E, Kong W, Xiong Y, Veltink J, Rao S, Westover TM, Petersen L, Turley N, Singh A, Das S, Junior VM, Ghanta M, Gupta A, Kim J, Lam AD, Stone KL, Mignot E, Hwang D, Trotti LM, Clifford GD, Katwa U, Thomas RJ, Mukerji S, Zafar SF, Westover MB, Sun H. <a href="https://drive.google.com/file/d/1YZSsYqHY5feLJ0cAD6tNIbtSaHyYW6dA/view?usp=sharing">Automated Medical Records Review for Mild Cognitive Impairment and Dementia</a>. Research Square 2024 November 6; pp. rs. 3. rs-5046441.
-</div>
-<div class="bibtex_source"><pre>@article{RuoqiWei_2024_11_06_AutomatedMedical,
-    author = "Wei, Ruoqi and Buss, Stephanie S and Milde, Rebecca and Fernandes, Marta and Sumsion, Daniel and Davis, Elijah and Kong, Wan-Yee and Xiong, Yiwen and Veltink, Jet and Rao, Samvrit and Westover, Tara M and Petersen, Lydia and Turley, Niels and Singh, Arjun and Das, Sudeshna and Junior, Valdery Moura and Ghanta, Manohar and Gupta, Aditya and Kim, Jennifer and Lam, Alice D and Stone, Katie L and Mignot, Emmanuel and Hwang, Dennis and Trotti, Lynn Marie and Clifford, Gari D and Katwa, Umakanth and Thomas, Robert J and Mukerji, Shibani and Zafar, Sahar F and Westover, M Brandon and Sun, Haoqi",
-    title = "Automated Medical Records Review for Mild Cognitive Impairment and Dementia",
-    date = "2024-11-06",
-    journal = "Research Square",
-    url = "https://drive.google.com/file/d/1YZSsYqHY5feLJ0cAD6tNIbtSaHyYW6dA/view?usp=sharing",
-    pages = "rs. 3. rs-5046441"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="RuoqiWei_2024_11_06_AutomatedMedical">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="RuoqiWei_2024_11_06_AutomatedMedical">[show citation]</label>
 </div></div></td></tr><tr>
 <td>38</td>
 <td><div class="citation_container">

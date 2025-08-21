@@ -32,7 +32,7 @@ import re
 
 def string2unicode(string):
     """Convert latex special characters to unicode, just in case."""
-    return string.encode().decode('latex').replace('{','').replace('}','')
+    return string.encode('utf-8').decode('latex+utf8').replace('{','').replace('}','')
 
 def write_front_matter(output_file_descriptor, page_title=None):
     """Write the front matter of a GitHub Pages publications page to the given
