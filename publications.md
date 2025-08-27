@@ -475,12 +475,15 @@ Rogers AJ, Bhatia NK, Bandyopadhyay S, Tooley J, Ansari R, Thakkar V, Xu J, Soto
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AliBahramiRad_2025_01_02_Frommotion">
 <div class="citation">
-Rad AB, Villavicencio T, Kiarashi Y, Anderson C, Foster J, Kwon H, Hamlin T, Lantz J, Clifford GD. <a href="https://drive.google.com/file/d/10j8OqJtVdiLwenL4pQqAvlvarzr6ESsU/view?usp=sharing">From motion to emotion: exploring challenging behaviors in autism spectrum disorder through analysis of wearable physiology and movement</a>. Physiological Measurement 2025 January 2.
+Rad AB, Villavicencio T, Kiarashi Y, Anderson C, Foster J, Kwon H, Hamlin T, Lantz J, Clifford GD. <a href="https://drive.google.com/file/d/10j8OqJtVdiLwenL4pQqAvlvarzr6ESsU/view?usp=sharing">From motion to emotion: exploring challenging behaviors in autism spectrum disorder through analysis of wearable physiology and movement</a>. Physiological Measurement 2025 January 2; 13 (1): p. 015004.
 </div>
 <div class="bibtex_source"><pre>@article{AliBahramiRad_2025_01_02_Frommotion,
     author = "Rad, Ali Bahrami and Villavicencio, Tania and Kiarashi, Yashar and Anderson, Conor and Foster, Jenny and Kwon, Hyeokhyen and Hamlin, Theresa and Lantz, Johanna and Clifford, Gari D",
     title = "From motion to emotion: exploring challenging behaviors in autism spectrum disorder through analysis of wearable physiology and movement",
     date = "2025-01-02",
+    volume = "13",
+    issue = "1",
+    pages = "015004",
     journal = "Physiological Measurement",
     url = "https://drive.google.com/file/d/10j8OqJtVdiLwenL4pQqAvlvarzr6ESsU/view?usp=sharing"
 }
@@ -542,13 +545,16 @@ Guichard L, An X, Neylan TC, Clifford GD, Li Q, Ji Y, Macchio L, Baker J, Beaudo
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChiyoungLee_2024_11_06_UnderstandingOnset">
 <div class="citation">
-Lee C, House SL, Beaudoin FL, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Punches BE, Swor RA, Hudak LA, Pascual JL, Seamon MJ, Harris E, Pearson C, Peak DA, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Bruce SE, Sheridan JF, Harte SE, Koenen KC, Kessler RC, McLean SA, Yang Q, An X. <a href="https://drive.google.com/file/d/1SFWhmd7pAZQ46RcaWsqnFuEn2gkrbYOL/view?usp=sharing">Understanding Onset, Dynamic Transitions, and Associated Inequality Risk Factors for Adverse Posttraumatic Neuropsychiatric Sequelae After Trauma Exposure</a>. Psychiatric Research and Clinical Practice 2024 November 6. DOI: <a href="https://doi.org/10.1176/appi.prcp.20240017">10.1176/appi.prcp.20240017</a>.
+Lee C, House SL, Beaudoin FL, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Punches BE, Swor RA, Hudak LA, Pascual JL, Seamon MJ, Harris E, Pearson C, Peak DA, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Bruce SE, Sheridan JF, Harte SE, Koenen KC, Kessler RC, McLean SA, Yang Q, An X. <a href="https://drive.google.com/file/d/1SFWhmd7pAZQ46RcaWsqnFuEn2gkrbYOL/view?usp=sharing">Understanding Onset, Dynamic Transitions, and Associated Inequality Risk Factors for Adverse Posttraumatic Neuropsychiatric Sequelae After Trauma Exposure</a>. Psychiatric Research and Clinical Practice 2024 November 6; 7 (1): pp. 53-62. DOI: <a href="https://doi.org/10.1176/appi.prcp.20240017">10.1176/appi.prcp.20240017</a>.
 </div>
 <div class="bibtex_source"><pre>@article{ChiyoungLee_2024_11_06_UnderstandingOnset,
     author = "Lee, Chiyoung and House, Stacey L and Beaudoin, Francesca L and Neylan, Thomas C and Clifford, Gari D and Linnstaedt, Sarah D and Germine, Laura T and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Punches, Brittany E and Swor, Robert A and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Harris, Erica and Pearson, Claire and Peak, David A and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sergot, Paulina and Sanchez, Leon D and Bruce, Steven E and Sheridan, John F and Harte, Steven E and Koenen, Karestan C and Kessler, Ronald C and McLean, Samuel A and Yang, Qing and An, Xinming",
     title = "Understanding Onset, Dynamic Transitions, and Associated Inequality Risk Factors for Adverse Posttraumatic Neuropsychiatric Sequelae After Trauma Exposure",
     date = "2024-11-06",
     journal = "Psychiatric Research and Clinical Practice",
+    volume = "7",
+    issue = "1",
+    pages = "53-62",
     url = "https://drive.google.com/file/d/1SFWhmd7pAZQ46RcaWsqnFuEn2gkrbYOL/view?usp=sharing",
     doi = "10.1176/appi.prcp.20240017"
 }
@@ -731,7 +737,7 @@ Hyatt CS, Reddi PJ, Sharpe BM, Michopoulos V, Rooij SJ, House SL, Beaudoin FL, A
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="EKateWebb_2024_Neighborhoodresources">
 <div class="citation">
-Webb EK, Stevens JS, Ely TD, Lebois LA, Rooij SJH, Bruce SE, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Bollen KA, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Musey PI, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Murty VP, Hudak LA, Pascual JL, Seamon MJ, Datner EM, Pearson C, Peak DA, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Joormann J, Pizzagalli DA, Harte SE, Kessler RC, Koenen KC, Ressler KJ, McLean SA, Harnett NG. <a href="https://drive.google.com/file/d/1--uMsnIBF0mxhVonmzg5FIxJTc5CfoCT/view?usp=sharing">Neighborhood resources associated with psychological trajectories and neural reactivity to reward after trauma</a>. JAMA Psychiatry 2024 July 31; p. e242148. DOI: <a href="https://doi.org/0.1001/jamapsychiatry.2024.2148">0.1001/jamapsychiatry.2024.2148</a>.
+Webb EK, Stevens JS, Ely TD, Lebois LA, Rooij SJH, Bruce SE, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Bollen KA, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Musey PI, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Murty VP, Hudak LA, Pascual JL, Seamon MJ, Datner EM, Pearson C, Peak DA, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Joormann J, Pizzagalli DA, Harte SE, Kessler RC, Koenen KC, Ressler KJ, McLean SA, Harnett NG. <a href="https://drive.google.com/file/d/1--uMsnIBF0mxhVonmzg5FIxJTc5CfoCT/view?usp=sharing">Neighborhood resources associated with psychological trajectories and neural reactivity to reward after trauma</a>. JAMA Psychiatry 2024 July 31; 81 (11): pp. 1090-1100. DOI: <a href="https://doi.org/0.1001/jamapsychiatry.2024.2148">0.1001/jamapsychiatry.2024.2148</a>.
 </div>
 <div class="bibtex_source"><pre>@article{EKateWebb_2024_Neighborhoodresources,
     author = "Webb, E Kate and Stevens, Jennifer S and Ely, Timothy D and Lebois, Lauren AM and van Rooij, Sanne J H and Bruce, Steven E and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Neylan, Thomas C and Clifford, Gari D and Linnstaedt, Sarah D and Germine, Laura T and Bollen, Kenneth A and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Musey, Paul I and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and Murty, Vishnu P and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Datner, Elizabeth M and Pearson, Claire and Peak, David A and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sergot, Paulina and Sanchez, Leon D and Joormann, Jutta and Pizzagalli, Diego A and Harte, Steven E and Kessler, Ronald C and Koenen, Karestan C and Ressler, Kerry J and McLean, Samuel A and Harnett, Nathaniel G",
@@ -739,7 +745,9 @@ Webb EK, Stevens JS, Ely TD, Lebois LA, Rooij SJH, Bruce SE, House SL, Beaudoin 
     date = "2024-07-31",
     journal = "JAMA Psychiatry",
     url = "https://drive.google.com/file/d/1--uMsnIBF0mxhVonmzg5FIxJTc5CfoCT/view?usp=sharing",
-    pages = "e242148",
+    volume = "81",
+    issue = "11",
+    pages = "1090-1100",
     doi = "0.1001/jamapsychiatry.2024.2148"
 }
 </pre>
