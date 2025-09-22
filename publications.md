@@ -11,37 +11,15 @@ permalink: /publications
 
 <table>
 <tr>
-<td>292</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="MatthewAReyna_2025_Detectionof">
-<div class="citation">
-Reyna MA, Koscova Z, Pavlus J, Weigle J, Saghafi S, Gomes P, Elola A, Hassannia MS, Campbell K, Rad AB, Ribeiro AH, Ribeiro A, Sameni R, Clifford GD. <a href="https://cinc.org/2025/Program/accepted/68_Preprint.pdf">Detection of chagas disease from the ecg: The george b. moody physionet challenge 2025</a>. Computing in Cardiology 2025; 52: pp. 1-4.
-</div>
-<div class="bibtex_source"><pre>@article{MatthewAReyna_2025_Detectionof,
-    author = "Reyna, Matthew A and Koscova, Z and Pavlus, Jan and Weigle, James and Saghafi, Soheil and Gomes, Paulo and Elola, Andoni and Hassannia, Mohammad Sina and Campbell, Kiersten and Rad, A Bahrami and Ribeiro, Ant{\^o}nio H and Ribeiro, AL and Sameni, Reza and Clifford, Gari D",
-    title = "Detection of chagas disease from the ecg: The george b. moody physionet challenge 2025",
-    date = "2025",
-    journal = "Computing in Cardiology",
-    url = "https://cinc.org/2025/Program/accepted/68\_Preprint.pdf",
-    pages = "1-4",
-    volume = "52"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="MatthewAReyna_2025_Detectionof">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="MatthewAReyna_2025_Detectionof">[show citation]</label>
-</div></div></td></tr><tr>
 <td>291</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AyushTripathi_2025_09_16_TheBoston">
 <div class="citation">
-Tripathi A, Ganglberger W, Sun H, Alcott C, Turley N, Fitzgerald R, Mitra A, Waters S, Gupta A, Gupta A, Ghanta M, Junior VM, Nasiri S, Nearing B, Stone KL, Mignot E, Hwang D, Reyna MA, Koscova Z, Robichaux C, Zhang Z, Li Q, Ganjoo G, Trotti LM, Clifford GD, Silvers CT, Gunapati B, Thomas RJ, Westover MB, Maski K, Katwa U. <a href="https://academic.oup.com/sleep/advance-article-abstract/doi/10.1093/sleep/zsaf273/8255792">The Boston Children\textquoteright s Hospital Sleep Corpus: A Collection of 15,695 Annotated Pediatric Polysomnograms</a>. SLEEPJ 2025 September 16; p. zsaf273.
+Tripathi A, Ganglberger W, Sun H, Alcott C, Turley N, Fitzgerald R, Mitra A, Waters S, Gupta A, Gupta A, Ghanta M, Junior VM, Nasiri S, Nearing B, Stone KL, Mignot E, Hwang D, Reyna MA, Koscova Z, Robichaux C, Zhang Z, Li Q, Ganjoo G, Trotti LM, Clifford GD, Silvers CT, Gunapati B, Thomas RJ, Westover MB, Maski K, Katwa U. <a href="https://academic.oup.com/sleep/advance-article-abstract/doi/10.1093/sleep/zsaf273/8255792">The Boston Children's Hospital Sleep Corpus: A Collection of 15,695 Annotated Pediatric Polysomnograms</a>. SLEEPJ 2025 September 16; p. zsaf273.
 </div>
 <div class="bibtex_source"><pre>@article{AyushTripathi_2025_09_16_TheBoston,
     author = "Tripathi, Ayush and Ganglberger, Wolfgang and Sun, Haoqi and Alcott, Callison and Turley, Niels and Fitzgerald, Rebecca and Mitra, Ayan and Waters, Samuel and Gupta, Arnav and Gupta, Aditya and Ghanta, Manohar and Junior, Valdery Moura and Nasiri, Samaneh and Nearing, Bruce and Stone, Katie L and Mignot, Emmanuel and Hwang, Dennis and Reyna, Matthew A and Koscova, Zuzana and Robichaux, Chad and Zhang, Zhiyong and Li, Qiao and Ganjoo, Gauri and Trotti, Lynn Marie and Clifford, Gari D and Silvers, Christine Tsien and Gunapati, Bharath and Thomas, Robert J and Westover, M Brandon and Maski, Kiran and Katwa, Umakanth",
-    title = "The Boston Children{\textquoteright}s Hospital Sleep Corpus: A Collection of 15,695 Annotated Pediatric Polysomnograms",
+    title = "The Boston Children's Hospital Sleep Corpus: A Collection of 15,695 Annotated Pediatric Polysomnograms",
     date = "2025-09-16",
     journal = "SLEEPJ",
     url = "https://academic.oup.com/sleep/advance-article-abstract/doi/10.1093/sleep/zsaf273/8255792",
@@ -6962,6 +6940,28 @@ Clifford GD, Tarassenko L, Townsend N. <a href="https://drive.google.com/file/d/
 
 <table>
 <tr>
+<td>189</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="MatthewAReyna_2025_Detectionof">
+<div class="citation">
+Reyna MA, Koscova Z, Pavlus J, Weigle J, Saghafi S, Gomes P, Elola A, Hassannia MS, Campbell K, Rad AB, Ribeiro AH, Ribeiro A, Sameni R, Clifford GD. <a href="https://cinc.org/2025/Program/accepted/68_Preprint.pdf">Detection of chagas disease from the ecg: The george b. moody physionet challenge 2025</a>. Computing in Cardiology 2025; 52: pp. 1-4.
+</div>
+<div class="bibtex_source"><pre>@article{MatthewAReyna_2025_Detectionof,
+    author = "Reyna, Matthew A and Koscova, Z and Pavlus, Jan and Weigle, James and Saghafi, Soheil and Gomes, Paulo and Elola, Andoni and Hassannia, Mohammad Sina and Campbell, Kiersten and Rad, A Bahrami and Ribeiro, Ant{\^o}nio H and Ribeiro, AL and Sameni, Reza and Clifford, Gari D",
+    title = "Detection of chagas disease from the ecg: The george b. moody physionet challenge 2025",
+    date = "2025",
+    journal = "Computing in Cardiology",
+    url = "https://cinc.org/2025/Program/accepted/68\_Preprint.pdf",
+    pages = "1-4",
+    volume = "52"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="MatthewAReyna_2025_Detectionof">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="MatthewAReyna_2025_Detectionof">[show citation]</label>
+</div></div></td></tr><tr>
 <td>188</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AlirezaRafiei_UnknownDate_AutoFEDUSAutoregressive">
