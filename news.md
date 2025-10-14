@@ -4,6 +4,39 @@ layout: page
 permalink: /news
 ---
 <details open><summary><font size="6">2025</font></summary>
+
+<div onclick="">
+	<font size="5">The George B. Moody PhysioNet Challenge 2025 released the challenge results.</font>
+ <br>
+ 	<em>September 2025</em> - Drs. Clifford, Reyna and Sameni have just returned from presenting the prizes at the conference Computing in Cardiology in São Paulo, Brazil, for <a href="https://moody-challenge.physionet.org/2025/">the George B. Moody PhysioNet Challenge 2025</a>, on the topic of Detection of Chagas disease from the ECG. This international competition (now in its 26th year) posts a unique set of public data and then challenges research and industry from around the world to address an unsolved problem in biomedical data science. Typically over 100 teams compete for almost 9 months, generating thousands of entries to solve the problem.  The Challenges are one of three specific aims of the world-renowned <a href="https://physionet.org/">PhysioNet Resource</a>, which has been continuously funded by the NIH since its inception in 1999. Emory has run the Challenges under Dr. Clifford’s leadership for over a decade, and jointly with Dr. Reyna since he joined the department 5 years ago.
+</div>
+
+<br>
+
+<div onclick="">
+	<font size="5">A postdoctoral researcher at the Clifford Lab won the 'Gary and Bill Sanders Best Poster Award'.</font>
+ <br>
+ 	<em>September 2025</em> - Dr. Johann Vargas-Calixto,  a postdoctoral researcher working with Dr. Clifford, won the ‘Gary and Bill Sanders Best Poster Award’ at Computing in Cardiology in Brazil. His highly innovative poster entitled <a href="https://cinc.org/2025/Program/accepted/96_Preprint.pdf">‘Classification of the source of 1D Doppler ultrasound activity in fetal monitoring’</a> included a live demo using a bespoke app on a smartphone taped to the poster. Johann’s study aimed to develop an algorithm that automatically differentiates the sounds of fetal heart and umbilical cord pulses. Conference attendees who came to listen to the fetal Doppler signals could then try to guess their origin and see if their guesses were better than his automated AI approach. (Spoiler alert - they could not, by a long margin.) Results of this on-the-fly post-hoc experiment were then included in the final 4-page manuscript submitted in the conference proceedings.
+</div>
+
+<br>
+
+<div onclick="">
+	<font size="5">A research Scientist at the Clifford Lab was a runner up in the Young Investigator Award at Computing in Cardiology in Brazil.</font>
+ <br>
+ 	<em>September 2025</em> - Zuzana Koščová, a research scientist working with Dr. Clifford, was a runner up in the Young Investigator Award at Computing in Cardiology in Brazil for her work  <a href="https://cinc.org/2025/Program/accepted/291.pdf">“Predicting Ventricular Arrhythmias using Upstream Electrograms from Intracardiac Devices,”</a>. Ventricular arrhythmias (VAs) can lead to sudden cardiac death if not promptly managed. Implantable cardioverter defibrillators (ICDs) typically deliver therapy after VA onset, leaving a limited window for intervention, and can lead to adverse effects such as inappropriate shocks. Her study investigates predicting VA onset using intracardiac electrograms (EGMs) up to 25 seconds before life-threatening VA. Her deep learning model achieved sensitivity of 96% and specificity of 98%. This approach could allow low-impact closed loop interventions (such as vagal stimulation) that could prevent VAs, and reduce the incidence of unpleasant and painful inappropriate shocks.
+</div>
+
+<br>
+
+<div onclick="">
+	<font size="5">Dr. Clifford's PhD student was accepted as an ARCS Foundation Scholar.</font>
+ <br>
+ 	<em>August 2025</em> - Xavier Velez, a PhD student advised by professor Dr. Gari Clifford, was accepted as an Achievement Rewards for College Scientists (ARCS) Foundation Scholar. His research focuses on developing signal processing and machine learning methods to improve the diagnosis and understanding of neurodegenerative and psychiatric disorders. Currently, he is adapting deep learning models originally trained for sleep staging to detect dementia, schizophrenia, and depression from EEG recordings during wakefulness. This work presents a novel method of leveraging foundation models for new clinical applications. 
+</div>
+
+<br>
+	
 <div onclick="">
 	<font size="5">Dr. Clifford was appointed as Dean's Eminent Investigator.</font>
  <br>
