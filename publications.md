@@ -15,15 +15,16 @@ permalink: /publications
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AyushTripathi_2025_09_16_TheBoston">
 <div class="citation">
-Tripathi A, Ganglberger W, Sun H, Alcott C, Turley N, Fitzgerald R, Mitra A, Waters S, Gupta A, Gupta A, Ghanta M, Junior VM, Nasiri S, Nearing B, Stone KL, Mignot E, Hwang D, Reyna MA, Koscova Z, Robichaux C, Zhang Z, Li Q, Ganjoo G, Trotti LM, Clifford GD, Silvers CT, Gunapati B, Thomas RJ, Westover MB, Maski K, Katwa U. <a href="https://academic.oup.com/sleep/advance-article-abstract/doi/10.1093/sleep/zsaf273/8255792">The Boston Children's Hospital Sleep Corpus: A Collection of 15,695 Annotated Pediatric Polysomnograms</a>. SLEEPJ 2025 September 16; p. zsaf273.
+Tripathi A, Ganglberger W, Sun H, Alcott C, Turley N, Fitzgerald R, Mitra A, Waters S, Gupta A, Gupta A, Ghanta M, Junior VM, Nasiri S, Nearing B, Stone KL, Mignot E, Hwang D, Reyna MA, Koscova Z, Robichaux C, Zhang Z, Li Q, Ganjoo G, Trotti LM, Clifford GD, Silvers CT, Gunapati B, Thomas RJ, Westover MB, Maski K, Katwa U. <a href="https://drive.google.com/file/d/1568_7nzi88e-jUHmiQR3Qi_PprbsKrBZ/view?usp=sharing">The Boston Children's Hospital Sleep Corpus: A Collection of 15,695 Annotated Pediatric Polysomnograms</a>. SLEEPJ 2025 September 16; p. zsaf273. DOI: <a href="https://doi.org/10.1093/sleep">10.1093/sleep</a>.
 </div>
 <div class="bibtex_source"><pre>@article{AyushTripathi_2025_09_16_TheBoston,
     author = "Tripathi, Ayush and Ganglberger, Wolfgang and Sun, Haoqi and Alcott, Callison and Turley, Niels and Fitzgerald, Rebecca and Mitra, Ayan and Waters, Samuel and Gupta, Arnav and Gupta, Aditya and Ghanta, Manohar and Junior, Valdery Moura and Nasiri, Samaneh and Nearing, Bruce and Stone, Katie L and Mignot, Emmanuel and Hwang, Dennis and Reyna, Matthew A and Koscova, Zuzana and Robichaux, Chad and Zhang, Zhiyong and Li, Qiao and Ganjoo, Gauri and Trotti, Lynn Marie and Clifford, Gari D and Silvers, Christine Tsien and Gunapati, Bharath and Thomas, Robert J and Westover, M Brandon and Maski, Kiran and Katwa, Umakanth",
     title = "The Boston Children's Hospital Sleep Corpus: A Collection of 15,695 Annotated Pediatric Polysomnograms",
     date = "2025-09-16",
     journal = "SLEEPJ",
-    url = "https://academic.oup.com/sleep/advance-article-abstract/doi/10.1093/sleep/zsaf273/8255792",
+    url = "https://drive.google.com/file/d/1568\_7nzi88e-jUHmiQR3Qi\_PprbsKrBZ/view?usp=sharing",
     pages = "zsaf273",
+    doi = "10.1093/sleep/zsaf273",
     note = "Publisher: Oxford University Press"
 }
 </pre>
