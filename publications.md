@@ -7008,6 +7008,26 @@ Clifford GD, Tarassenko L, Townsend N. <a href="https://drive.google.com/file/d/
 
 <table>
 <tr>
+<td>193</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="karimi2025bidirectional">
+<div class="citation">
+Karimi S, Shah AJ, Clifford GD, Sameni R. <a href="https://drive.google.com/file/d/1hDFvPemmpdq1x6KI8XoWpJk4s35BzVug/view?usp=sharing">Bidirectional Translation Between ECG and PCG</a>. IEEE-EMBS International Conference on Biomedical and Health Informatics, Atlanta, Georgia, United States 2025 October 26.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{karimi2025bidirectional,
+    author = "Karimi, Sajjad and Shah, Amit J. and Clifford, Gari D and Sameni, Reza",
+    title = "Bidirectional Translation Between ECG and PCG",
+    booktitle = "IEEE-EMBS International Conference on Biomedical and Health Informatics, Atlanta, Georgia, United States",
+    date = "2025-10-26",
+    url = "https://drive.google.com/file/d/1hDFvPemmpdq1x6KI8XoWpJk4s35BzVug/view?usp=sharing"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="karimi2025bidirectional">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="karimi2025bidirectional">[show citation]</label>
+</div></div></td></tr><tr>
 <td>192</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JohannVargasCalixto_UnknownDate_Classificationof">
