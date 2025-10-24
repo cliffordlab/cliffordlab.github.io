@@ -899,29 +899,6 @@ Horwitz A, McCarthy K, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Linn
 </div></div></td></tr><tr>
 <td>256</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="SanneJHvanRooij_2024_04_22_Definingthe">
-<div class="citation">
-Rooij SJ, Santos JL, Hinojosa CA, Ely TD, Harnett NG, Murty VP, Lebois LA, Jovanovic T, House SL, Bruce SE, Beaudoin FL, An X, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Bollen KA, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Musey PI, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Pascual JL, Seamon MJ, Harris E, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sanchez LD, Joormann J, Pizzagalli DA, Sheridan JF, Harte SE, Kessler RC, Koenen KC, McLean SA, Ressler KJ, Stevens JS. <a href="https://drive.google.com/file/d/1uHU5OwGzwvsEZlpHRCO1E1SpO62Pc-n-/view?usp=sharing">Defining the r factor for post-trauma resilience and its neural predictors</a>. Nature Mental Health 2024 April 22; pp. 1-14. DOI: <a href="https://doi.org/10.1038/s44220-024-00242-0">10.1038/s44220-024-00242-0</a>.
-</div>
-<div class="bibtex_source"><pre>@article{SanneJHvanRooij_2024_04_22_Definingthe,
-    author = "van Rooij, Sanne JH and Santos, Justin L and Hinojosa, Cecilia A and Ely, Timothy D and Harnett, Nathaniel G and Murty, Vishnu P and Lebois, Lauren AM and Jovanovic, Tanja and House, Stacey L and Bruce, Steven E and Beaudoin, Francesca L and An, Xinming and Neylan, Thomas C and Clifford, Gari D and Linnstaedt, Sarah D and Germine, Laura T and Bollen, Kenneth A and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Musey, Paul I and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and Pascual, Jose L and Seamon, Mark J and Harris, Erica and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sanchez, Leon D and Joormann, Jutta and Pizzagalli, Diego A and Sheridan, John F and Harte, Steven E and Kessler, Ronald C and Koenen, Karestan C and McLean, Samuel A and Ressler, Kerry J and Stevens, Jennifer S",
-    title = "Defining the r factor for post-trauma resilience and its neural predictors",
-    date = "2024-04-22",
-    journal = "Nature Mental Health",
-    url = "https://drive.google.com/file/d/1uHU5OwGzwvsEZlpHRCO1E1SpO62Pc-n-/view?usp=sharing",
-    pages = "1-14",
-    doi = "10.1038/s44220-024-00242-0",
-    note = "Publisher: Nature Publishing Group US"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="SanneJHvanRooij_2024_04_22_Definingthe">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="SanneJHvanRooij_2024_04_22_Definingthe">[show citation]</label>
-</div></div></td></tr><tr>
-<td>255</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShafaatAliSheikh_2023_Impedancecardiogram">
 <div class="citation">
 Sheikh SA, Shah AJ, Bremner JD, Vaccarino V, Inan OT, Clifford GD, Rad AB. <a href="https://drive.google.com/file/d/1N6fJBf5qhiuisNpbzTqRa_Q9Gp2fq2Oh/view?usp=sharing">Impedance cardiogram based exploration of cardiac mechanisms in post-traumatic stress disorder during trauma recall</a>. Psychophysiology 2024 April; 61 (4): p. e14488. DOI: <a href="https://doi.org/10.1111/psyp.14488">10.1111/psyp.14488</a>.
@@ -944,7 +921,7 @@ Sheikh SA, Shah AJ, Bremner JD, Vaccarino V, Inan OT, Clifford GD, Rad AB. <a hr
 <div class="hidebibtex">
 <label for="ShafaatAliSheikh_2023_Impedancecardiogram">[show citation]</label>
 </div></div></td></tr><tr>
-<td>254</td>
+<td>255</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZifanJiang_2023_Disentanglingvisual">
 <div class="citation">
@@ -967,6 +944,29 @@ Jiang Z, Seyedi S, Vickers KL, Manzanares CM, Lah JJ, Levey AI, Clifford GD. <a 
 </div>
 <div class="hidebibtex">
 <label for="ZifanJiang_2023_Disentanglingvisual">[show citation]</label>
+</div></div></td></tr><tr>
+<td>254</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="SanneJHvanRooij_2024_04_22_Definingthe">
+<div class="citation">
+Rooij SJ, Santos JL, Hinojosa CA, Ely TD, Harnett NG, Murty VP, Lebois LA, Jovanovic T, House SL, Bruce SE, Beaudoin FL, An X, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Bollen KA, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Musey PI, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Pascual JL, Seamon MJ, Harris E, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sanchez LD, Joormann J, Pizzagalli DA, Sheridan JF, Harte SE, Kessler RC, Koenen KC, McLean SA, Ressler KJ, Stevens JS. <a href="https://drive.google.com/file/d/1uHU5OwGzwvsEZlpHRCO1E1SpO62Pc-n-/view?usp=sharing">Defining the r factor for post-trauma resilience and its neural predictors</a>. Nature Mental Health 2024 April 22; pp. 1-14. DOI: <a href="https://doi.org/10.1038/s44220-024-00242-0">10.1038/s44220-024-00242-0</a>.
+</div>
+<div class="bibtex_source"><pre>@article{SanneJHvanRooij_2024_04_22_Definingthe,
+    author = "van Rooij, Sanne JH and Santos, Justin L and Hinojosa, Cecilia A and Ely, Timothy D and Harnett, Nathaniel G and Murty, Vishnu P and Lebois, Lauren AM and Jovanovic, Tanja and House, Stacey L and Bruce, Steven E and Beaudoin, Francesca L and An, Xinming and Neylan, Thomas C and Clifford, Gari D and Linnstaedt, Sarah D and Germine, Laura T and Bollen, Kenneth A and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Musey, Paul I and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and Pascual, Jose L and Seamon, Mark J and Harris, Erica and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sanchez, Leon D and Joormann, Jutta and Pizzagalli, Diego A and Sheridan, John F and Harte, Steven E and Kessler, Ronald C and Koenen, Karestan C and McLean, Samuel A and Ressler, Kerry J and Stevens, Jennifer S",
+    title = "Defining the r factor for post-trauma resilience and its neural predictors",
+    date = "2024-04-22",
+    journal = "Nature Mental Health",
+    url = "https://drive.google.com/file/d/1uHU5OwGzwvsEZlpHRCO1E1SpO62Pc-n-/view?usp=sharing",
+    pages = "1-14",
+    doi = "10.1038/s44220-024-00242-0",
+    note = "Publisher: Nature Publishing Group US"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="SanneJHvanRooij_2024_04_22_Definingthe">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="SanneJHvanRooij_2024_04_22_Definingthe">[show citation]</label>
 </div></div></td></tr><tr>
 <td>253</td>
 <td><div class="citation_container">
@@ -1968,6 +1968,29 @@ Short NA, Rooij SJ, Murty VP, Stevens JS, An X, Ji Y, McLean SA, House SL, Beaud
 </div></div></td></tr><tr>
 <td>211</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="ErickAPerezAlday_2022_09_01_Agesex">
+<div class="citation">
+Alday EAP, Rad AB, Reyna MA, Sadr N, Gu A, Li Q, Dumitru M, Xue J, Albert D, Sameni R, Clifford GD. <a href="https://drive.google.com/file/d/1Zd7Pcq77Gy4Sc7064SsS-0l9iGWk8AVF/view?usp=sharing">Age, sex and race bias in automated arrhythmia detectors</a>. Journal of Electrocardiology 2022 September; 74: pp. 5-9.
+</div>
+<div class="bibtex_source"><pre>@article{ErickAPerezAlday_2022_09_01_Agesex,
+    author = "Alday, Erick A Perez and Rad, Ali B and Reyna, Matthew A and Sadr, Nadi and Gu, Annie and Li, Qiao and Dumitru, Mircea and Xue, Joel and Albert, Dave and Sameni, Reza and Clifford, Gari D",
+    title = "Age, sex and race bias in automated arrhythmia detectors",
+    date = "2022-09",
+    journal = "Journal of Electrocardiology",
+    url = "https://drive.google.com/file/d/1Zd7Pcq77Gy4Sc7064SsS-0l9iGWk8AVF/view?usp=sharing",
+    pages = "5-9",
+    volume = "74",
+    note = "Publisher: Churchill Livingstone"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="ErickAPerezAlday_2022_09_01_Agesex">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="ErickAPerezAlday_2022_09_01_Agesex">[show citation]</label>
+</div></div></td></tr><tr>
+<td>210</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="BrittanyEPunches_2022_09_23_Predictingatrisk">
 <div class="citation">
 Punches BE, Stolz U, Freiermuth CE, Ancona RM, McLean SA, House SL, Beaudoin FL, An X, Stevens JS, Zeng D, Neylan TC, Clifford GD, Jovanovic T, Linnstaedt SD, Germine LT, Bollen KA, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Kurz MC, Gentile NT, McGrath ME, Hudak LA, Pascual JL, Seamon MJ, Harris E, Chang AM, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sanchez LD, Bruce SE, Pietrzak RH, Joormann J, Barch DM, Pizzagalli DA, Smoller JW, Luna B, Harte SE, Elliott JM, Kessler RC, Ressler KJ, Koenen KC, Lyons MS. <a href="https://drive.google.com/file/d/1oCQUTfJGRDPmRsaJhP6p51kCfrOPxLK2/view?usp=sharing">Predicting at-risk opioid use three months after ed visit for trauma: Results from the AURORA study</a>. PLoS One 2022 September 23; 17 (9): p. e0273378.
@@ -1989,29 +2012,6 @@ Punches BE, Stolz U, Freiermuth CE, Ancona RM, McLean SA, House SL, Beaudoin FL,
 </div>
 <div class="hidebibtex">
 <label for="BrittanyEPunches_2022_09_23_Predictingatrisk">[show citation]</label>
-</div></div></td></tr><tr>
-<td>210</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="ErickAPerezAlday_2022_09_01_Agesex">
-<div class="citation">
-Alday EAP, Rad AB, Reyna MA, Sadr N, Gu A, Li Q, Dumitru M, Xue J, Albert D, Sameni R, Clifford GD. <a href="https://drive.google.com/file/d/1Zd7Pcq77Gy4Sc7064SsS-0l9iGWk8AVF/view?usp=sharing">Age, sex and race bias in automated arrhythmia detectors</a>. Journal of Electrocardiology 2022 September; 74: pp. 5-9.
-</div>
-<div class="bibtex_source"><pre>@article{ErickAPerezAlday_2022_09_01_Agesex,
-    author = "Alday, Erick A Perez and Rad, Ali B and Reyna, Matthew A and Sadr, Nadi and Gu, Annie and Li, Qiao and Dumitru, Mircea and Xue, Joel and Albert, Dave and Sameni, Reza and Clifford, Gari D",
-    title = "Age, sex and race bias in automated arrhythmia detectors",
-    date = "2022-09",
-    journal = "Journal of Electrocardiology",
-    url = "https://drive.google.com/file/d/1Zd7Pcq77Gy4Sc7064SsS-0l9iGWk8AVF/view?usp=sharing",
-    pages = "5-9",
-    volume = "74",
-    note = "Publisher: Churchill Livingstone"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="ErickAPerezAlday_2022_09_01_Agesex">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="ErickAPerezAlday_2022_09_01_Agesex">[show citation]</label>
 </div></div></td></tr><tr>
 <td>209</td>
 <td><div class="citation_container">
@@ -3137,30 +3137,6 @@ Sadiq I, Perez-Alday EA, Shah AJ, Clifford GD. <a href="https://drive.google.com
 </div></div></td></tr><tr>
 <td>162</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="AyseSCakmak_2021_01_22_Classificationand">
-<div class="citation">
-Cakmak AS, Alday EAP, Poian GD, Rad AB, Metzler TJ, Neylan TC, House SL, Beaudoin FL, An X, Stevens JS, Zeng D, Linnstaedt SD, Jovanovic T, Germine LT, Bollen KA, Rauch SL, Lewandowski CA, Hendry PL, Sheikh S, Storrow AB, Musey PI, Haran JP, Jones CW, Punches BE, Swor RA, Gentile NT, McGrath ME, Seamon MJ, Mohiuddin K, Chang AM, Pearson C, Domeier RM, Bruce SE, O'Neil BJ, Rathlev NK, Sanchez LD, Pietrzak RH, Joormann J, Barch DM, Pizzagalli DA, Harte SE, Elliott JM, Kessler RC, Koenen KC, Ressler KJ, Mclean SA, Li Q, Clifford GD. <a href="https://drive.google.com/file/d/1AbFEUIVUiDY36uBe-aags22AZnz8kFh8/view?usp=sharing">Classification and prediction of post-trauma outcomes related to PTSD using circadian rhythm changes measured via wrist-worn research watch in a large longitudinal cohort</a>. IEEE Journal of Biomedical and Health Informatics 2021 January 22; 25 (8): pp. 2866-2876.
-</div>
-<div class="bibtex_source"><pre>@article{AyseSCakmak_2021_01_22_Classificationand,
-    author = "Cakmak, Ayse S and Alday, Erick A Perez and Poian, Giulia Da and Rad, Ali Bahrami and Metzler, Thomas J and Neylan, Thomas C and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Stevens, Jennifer S and Zeng, Donglin and Linnstaedt, Sarah D and Jovanovic, Tanja and Germine, Laura T and Bollen, Kenneth A and Rauch, Scott L and Lewandowski, Christopher A and Hendry, Phyllis L and Sheikh, Sophia and Storrow, Alan B and Musey, Paul I and Haran, John P and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and Gentile, Nina T and McGrath, Meghan E and Seamon, Mark J and Mohiuddin, Kamran and Chang, Anna M and Pearson, Claire and Domeier, Robert M and Bruce, Steven E and O'Neil, Brian J and Rathlev, Niels K and Sanchez, Leon D and Pietrzak, Robert H and Joormann, Jutta and Barch, Deanna M and Pizzagalli, Diego A and Harte, Steven E and Elliott, James M and Kessler, Ronald C and Koenen, Karestan C and Ressler, Kerry J and Mclean, Samuel A and Li, Qiao and Clifford, Gari D",
-    title = "Classification and prediction of post-trauma outcomes related to PTSD using circadian rhythm changes measured via wrist-worn research watch in a large longitudinal cohort",
-    date = "2021-01-22",
-    issue = "8",
-    pages = "2866-2876",
-    journal = "IEEE Journal of Biomedical and Health Informatics",
-    url = "https://drive.google.com/file/d/1AbFEUIVUiDY36uBe-aags22AZnz8kFh8/view?usp=sharing",
-    volume = "25",
-    note = "Publisher: IEEE"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="AyseSCakmak_2021_01_22_Classificationand">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="AyseSCakmak_2021_01_22_Classificationand">[show citation]</label>
-</div></div></td></tr><tr>
-<td>161</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RafiUHaque_2020_04_27_Deepconvolutional">
 <div class="citation">
 Haque RU, Pongos AL, Manzanares CM, Lah JJ, Levey AI, Clifford GD. <a href="https://drive.google.com/file/d/1kV0ynI48GYmQv84Yh_j9AMCdPg6yzmEZ/view?usp=sharing">Deep convolutional neural networks and transfer learning for measuring cognitive impairment using eye-tracking in a distributed tablet-based environment</a>. IEEE Transactions on Biomedical Engineering 2021 January; 68 (1): pp. 11-18.
@@ -3182,6 +3158,30 @@ Haque RU, Pongos AL, Manzanares CM, Lah JJ, Levey AI, Clifford GD. <a href="http
 </div>
 <div class="hidebibtex">
 <label for="RafiUHaque_2020_04_27_Deepconvolutional">[show citation]</label>
+</div></div></td></tr><tr>
+<td>161</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="AyseSCakmak_2021_01_22_Classificationand">
+<div class="citation">
+Cakmak AS, Alday EAP, Poian GD, Rad AB, Metzler TJ, Neylan TC, House SL, Beaudoin FL, An X, Stevens JS, Zeng D, Linnstaedt SD, Jovanovic T, Germine LT, Bollen KA, Rauch SL, Lewandowski CA, Hendry PL, Sheikh S, Storrow AB, Musey PI, Haran JP, Jones CW, Punches BE, Swor RA, Gentile NT, McGrath ME, Seamon MJ, Mohiuddin K, Chang AM, Pearson C, Domeier RM, Bruce SE, O'Neil BJ, Rathlev NK, Sanchez LD, Pietrzak RH, Joormann J, Barch DM, Pizzagalli DA, Harte SE, Elliott JM, Kessler RC, Koenen KC, Ressler KJ, Mclean SA, Li Q, Clifford GD. <a href="https://drive.google.com/file/d/1AbFEUIVUiDY36uBe-aags22AZnz8kFh8/view?usp=sharing">Classification and prediction of post-trauma outcomes related to PTSD using circadian rhythm changes measured via wrist-worn research watch in a large longitudinal cohort</a>. IEEE Journal of Biomedical and Health Informatics 2021 January 22; 25 (8): pp. 2866-2876.
+</div>
+<div class="bibtex_source"><pre>@article{AyseSCakmak_2021_01_22_Classificationand,
+    author = "Cakmak, Ayse S and Alday, Erick A Perez and Poian, Giulia Da and Rad, Ali Bahrami and Metzler, Thomas J and Neylan, Thomas C and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Stevens, Jennifer S and Zeng, Donglin and Linnstaedt, Sarah D and Jovanovic, Tanja and Germine, Laura T and Bollen, Kenneth A and Rauch, Scott L and Lewandowski, Christopher A and Hendry, Phyllis L and Sheikh, Sophia and Storrow, Alan B and Musey, Paul I and Haran, John P and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and Gentile, Nina T and McGrath, Meghan E and Seamon, Mark J and Mohiuddin, Kamran and Chang, Anna M and Pearson, Claire and Domeier, Robert M and Bruce, Steven E and O'Neil, Brian J and Rathlev, Niels K and Sanchez, Leon D and Pietrzak, Robert H and Joormann, Jutta and Barch, Deanna M and Pizzagalli, Diego A and Harte, Steven E and Elliott, James M and Kessler, Ronald C and Koenen, Karestan C and Ressler, Kerry J and Mclean, Samuel A and Li, Qiao and Clifford, Gari D",
+    title = "Classification and prediction of post-trauma outcomes related to PTSD using circadian rhythm changes measured via wrist-worn research watch in a large longitudinal cohort",
+    date = "2021-01-22",
+    issue = "8",
+    pages = "2866-2876",
+    journal = "IEEE Journal of Biomedical and Health Informatics",
+    url = "https://drive.google.com/file/d/1AbFEUIVUiDY36uBe-aags22AZnz8kFh8/view?usp=sharing",
+    volume = "25",
+    note = "Publisher: IEEE"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="AyseSCakmak_2021_01_22_Classificationand">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="AyseSCakmak_2021_01_22_Classificationand">[show citation]</label>
 </div></div></td></tr><tr>
 <td>160</td>
 <td><div class="citation_container">
@@ -7032,14 +7032,14 @@ Karimi S, Shah AJ, Clifford GD, Sameni R. <a href="https://drive.google.com/file
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JohannVargasCalixto_UnknownDate_Classificationof">
 <div class="citation">
-Vargas-Calixto J, Beanland R, Sameni R, Katebi N, Reynolds S, Chandrasekaran S, Rohloff P, Sazawal S, Deb S, Das S, Clifford GD, Marzbanrad F. <a href="https://drive.google.com/file/d/1mZCeAXX0LIbLy4Vqev4T2RjTDhXDFt3r/view?usp=sharing">Classification of the Source of 1D Doppler Ultrasound Activity in Fetal Monitoring</a>. 52nd Computing in Cardiology,São Paulo, Brzil 2025 September 14.
+Vargas-Calixto J, Beanland R, Sameni R, Katebi N, Reynolds S, Chandrasekaran S, Rohloff P, Sazawal S, Deb S, Das S, Clifford GD, Marzbanrad F. <a href="https://drive.google.com/file/d/1m89MHko6c7k6IjwIacAG_pC34UevHx6e/view?usp=sharing">Classification of the Source of 1D Doppler Ultrasound Activity in Fetal Monitoring</a>. 52nd Computing in Cardiology, São Paulo, Brazil 2025 September 14.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{JohannVargasCalixto_UnknownDate_Classificationof,
     author = "Vargas-Calixto, Johann and Beanland, Rachel and Sameni, Reza and Katebi, Nasim and Reynolds, Shanice and Chandrasekaran, Suchitra and Rohloff, Peter and Sazawal, Sunil and Deb, Saikat and Das, Sayan and Clifford, Gari D and Marzbanrad, Faezeh",
     title = "Classification of the Source of 1D Doppler Ultrasound Activity in Fetal Monitoring",
     date = "2025-09-14",
-    booktitle = "52nd Computing in Cardiology,São Paulo, Brzil",
-    url = "https://drive.google.com/file/d/1mZCeAXX0LIbLy4Vqev4T2RjTDhXDFt3r/view?usp=sharing"
+    booktitle = "52nd Computing in Cardiology, São Paulo, Brazil",
+    url = "https://drive.google.com/file/d/1m89MHko6c7k6IjwIacAG\_pC34UevHx6e/view?usp=sharing"
 }
 </pre>
 </div><div class="showbibtex">
@@ -7052,13 +7052,13 @@ Vargas-Calixto J, Beanland R, Sameni R, Katebi N, Reynolds S, Chandrasekaran S, 
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MatthewAReyna_2025_Detectionof">
 <div class="citation">
-Reyna MA, Koscova Z, Pavlus J, Weigle J, Saghafi S, Gomes P, Elola A, Hassannia MS, Campbell K, Rad AB, Ribeiro AH, Ribeiro A, Sameni R, Clifford GD. <a href="https://drive.google.com/file/d/1PoMZ0hBihTNAhvziRoZ0F4CMho50cheS/view?usp=sharing">Detection of chagas disease from the ecg: The george b. moody physionet challenge 2025</a>. 52nd Computing in Cardiology,São Paulo, Brzil 2025 September 14; 52: pp. 1-4.
+Reyna MA, Koscova Z, Pavlus J, Weigle J, Saghafi S, Gomes P, Elola A, Hassannia MS, Campbell K, Rad AB, Ribeiro AH, Ribeiro A, Sameni R, Clifford GD. <a href="https://drive.google.com/file/d/1PoMZ0hBihTNAhvziRoZ0F4CMho50cheS/view?usp=sharing">Detection of chagas disease from the ecg: The george b. moody physionet challenge 2025</a>. 52nd Computing in Cardiology, São Paulo, Brazil 2025 September 14; 52: pp. 1-4.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{MatthewAReyna_2025_Detectionof,
     author = "Reyna, Matthew A and Koscova, Z and Pavlus, Jan and Weigle, James and Saghafi, Soheil and Gomes, Paulo and Elola, Andoni and Hassannia, Mohammad Sina and Campbell, Kiersten and Rad, A Bahrami and Ribeiro, Ant{\^o}nio H and Ribeiro, AL and Sameni, Reza and Clifford, Gari D",
     title = "Detection of chagas disease from the ecg: The george b. moody physionet challenge 2025",
     date = "2025-09-14",
-    booktitle = "52nd Computing in Cardiology,São Paulo, Brzil",
+    booktitle = "52nd Computing in Cardiology, São Paulo, Brazil",
     url = "https://drive.google.com/file/d/1PoMZ0hBihTNAhvziRoZ0F4CMho50cheS/view?usp=sharing",
     pages = "1-4",
     volume = "52"
