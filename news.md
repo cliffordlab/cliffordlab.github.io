@@ -6,7 +6,7 @@ permalink: /news
 <details open><summary><font size="6">2025</font></summary>
 
 <div onclick="">
-	<font size="5">Drs. Gari Clifford and Yashar Kiarashi received a grant of $500,000.</font>
+	<font size="5">Drs. Gari Clifford and Yashar Kiarashi received funding for a novel in-ear EEG monitoring for cognitive impairment.</font>
  <br>
  	<em>September 2025</em> - Drs. Gari Clifford, <a href="https://yashkia.github.io/">Yashar Kiarashi</a>, and Allan Levey received a grant of $500,000 for a research award titled "AI-Driven Sleep Study on Links Between Sleep and Neurodegeneration" from the <a href="https://www.alz.org/">Alzheimer's Association</a>, <a href="https://www.michaeljfox.org/">The Michael J. Fox Foundation for Parkinson's Research</a>, and <a href="https://www.psp.org/">CurePSP</a>.  In collaboration with Drs. James Lah, Amy Rodriguez, Donald Bliwise, and Lenora Higginbotham,  NextSense, in-ear EEG will be deployed for multi-night, at-home recordings in at-risk populations and to develop AI-driven analysis that identifies sleep-driven features associated with neurodegeneration biomarkers. 
 </div>
@@ -14,7 +14,7 @@ permalink: /news
 <br>
 
 <div onclick="">
-	<font size="5">The George B. Moody PhysioNet Challenge 2025 released the challenge results.</font>
+	<font size="5">The George B. Moody PhysioNet Challenge 2025 released the challenge results in Brazil.</font>
  <br>
  	<em>September 2025</em> - Drs. Clifford, Reyna and Sameni have just returned from presenting the prizes at the conference Computing in Cardiology in São Paulo, Brazil, for <a href="https://moody-challenge.physionet.org/2025/">the George B. Moody PhysioNet Challenge 2025</a>, on the topic of Detection of Chagas disease from the ECG. This international competition (now in its 26th year) posts a unique set of public data and then challenges research and industry from around the world to address an unsolved problem in biomedical data science. Typically over 100 teams compete for almost 9 months, generating thousands of entries to solve the problem.  The Challenges are one of three specific aims of the world-renowned <a href="https://physionet.org/">PhysioNet Resource</a>, which has been continuously funded by the NIH since its inception in 1999. Emory has run the Challenges under Dr. Clifford’s leadership for over a decade, and jointly with Dr. Reyna since he joined the department 5 years ago.
 </div>
