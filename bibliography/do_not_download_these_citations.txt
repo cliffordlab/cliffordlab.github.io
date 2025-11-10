@@ -675,3 +675,7 @@ f36TrmluGJsC # SepidehNikookar_2025_AMobile
 SN5MtqHu-psC # HenriMGarrisonDesany_2025_10_24_Posttraumaticstress
 2MSJ22rj538C # MohsenMotieShirazi_UnknownDate_SelfSupervisedLearning
 bu5pTcyXo34C # SajjadKarimi_UnknownDate_BidirectionalTranslation
+3I1Fh14WnZcC # MohsenMotieShirazi_2025_11_05_RealTimeQuality
+HaiYZdWvYCYC # JOHANNALEXANDRECHAFAEDJIMBI_2025_11_04_DiagnosticAccuracy
+htV_5D2kmyYC # RandIbrahim_2025_11_04_NovelUse
+MTuJV9umhWMC # AmitShah_2025_11_04_AmbulatoryQT
