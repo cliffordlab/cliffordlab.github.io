@@ -15,10 +15,10 @@ permalink: /publications
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MohsenMotieShirazi_2025_11_05_RealTimeQuality">
 <div class="citation">
-Motie-Shirazi M, Nikookar S, Ahmad M, Rafiei A, Sameni R, Rohloff P, Clifford G, Katebi N. <a href="https://iopscience.iop.org/article/10.1088/3049-477X/ae1bad/meta">Real-Time Quality Feedback on Doppler Data for Community Midwives using Edge-AI</a>. Machine Learning: Health 2025 November 5.
+Motie-Shirazi M, Nikookar S, Ahmad M, Rafiei A, Sameni R, Rohloff P, Clifford GD, Katebi N. <a href="https://iopscience.iop.org/article/10.1088/3049-477X/ae1bad/meta">Real-Time Quality Feedback on Doppler Data for Community Midwives using Edge-AI</a>. Machine Learning: Health 2025 November 5.
 </div>
 <div class="bibtex_source"><pre>@article{MohsenMotieShirazi_2025_11_05_RealTimeQuality,
-    author = "Motie-Shirazi, Mohsen and Nikookar, Sepideh and Ahmad, Mohammad and Rafiei, Alireza and Sameni, Reza and Rohloff, Peter and Clifford, Gari and Katebi, Nasim",
+    author = "Motie-Shirazi, Mohsen and Nikookar, Sepideh and Ahmad, Mohammad and Rafiei, Alireza and Sameni, Reza and Rohloff, Peter and Clifford, Gari D and Katebi, Nasim",
     title = "Real-Time Quality Feedback on Doppler Data for Community Midwives using Edge-AI",
     date = "2025-11-05",
     journal = "Machine Learning: Health",
@@ -7052,13 +7052,37 @@ Clifford GD, Tarassenko L, Townsend N. <a href="https://drive.google.com/file/d/
 
 <table>
 <tr>
+<td>196</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="JOHANNALEXANDRECHAFAEDJIMBI_2025_11_04_DiagnosticAccuracy">
+<div class="citation">
+EDJIMBI JAC, Gajjar A, Shah N, Ribeiro A, GAYE N, Carter J, Sattler E, Dani S, Clifford GD, Marijon E, Gaye B. <a href="https://www.ahajournals.org/doi/abs/10.1161/circ.152.suppl_3.4369836">Diagnostic Accuracy of AI Algorithms for Detecting Left Ventricular Diastolic Dysfunction on ECG: A Systematic Review and Meta-Analysis</a>. The American Heart Association 2025 Scientific Session, New Orleans, Louisiana, United States 2025 November 7; 152 (Suppl_3): p. A4369836.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{JOHANNALEXANDRECHAFAEDJIMBI_2025_11_04_DiagnosticAccuracy,
+    author = "EDJIMBI, JOHANN ALEXANDRE CHAFA and Gajjar, Aryan and Shah, Nisarg and Ribeiro, Antonio and GAYE, Ngone and Carter, Jennifer and Sattler, Elisabeth and Dani, Sourbha and Clifford, Gari D and Marijon, Eloi and Gaye, Bamba",
+    title = "Diagnostic Accuracy of AI Algorithms for Detecting Left Ventricular Diastolic Dysfunction on ECG: A Systematic Review and Meta-Analysis",
+    date = "2025-11-07",
+    issue = "Suppl\_3",
+    booktitle = "The American Heart Association 2025 Scientific Session, New Orleans, Louisiana, United States",
+    url = "https://www.ahajournals.org/doi/abs/10.1161/circ.152.suppl\_3.4369836",
+    pages = "A4369836",
+    volume = "152",
+    note = "Publisher: Lippincott Williams {\\&} Wilkins"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="JOHANNALEXANDRECHAFAEDJIMBI_2025_11_04_DiagnosticAccuracy">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="JOHANNALEXANDRECHAFAEDJIMBI_2025_11_04_DiagnosticAccuracy">[show citation]</label>
+</div></div></td></tr><tr>
 <td>195</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AmitShah_2025_11_04_AmbulatoryQT">
 <div class="citation">
-Shah A, Koscova Z, Li Q, Sameni R, Rad AB, Karimi S, Lampert R, Mathew L, Alagar N, Colon-Motas K, Leon K, Murtala A, Osei J, Mourad R, Chang S, Ko Y, Zeng Z, Sheikh S, Xu Y, Kim K, Akoto N, Santana E, Alexander A, Suvada K, Roberts T, Stefanos L, Vaccarino V, Clifford GD. <a href="https://www.ahajournals.org/doi/abs/10.1161/circ.152.suppl_3.4372469">Ambulatory QT Interval Prolongation and Reduced T-Amplitude Help Identify Veterans with Heart Disease</a>. 2025 November 7; 152 (Suppl_3): p. A4372469.
+Shah A, Koscova Z, Li Q, Sameni R, Rad AB, Karimi S, Lampert R, Mathew L, Alagar N, Colon-Motas K, Leon K, Murtala A, Osei J, Mourad R, Chang S, Ko Y, Zeng Z, Sheikh S, Xu Y, Kim K, Akoto N, Santana E, Alexander A, Suvada K, Roberts T, Stefanos L, Vaccarino V, Clifford GD. <a href="https://www.ahajournals.org/doi/abs/10.1161/circ.152.suppl_3.4372469">Ambulatory QT Interval Prolongation and Reduced T-Amplitude Help Identify Veterans with Heart Disease</a>. The American Heart Association 2025 Scientific Session, New Orleans, Louisiana, United States 2025 November 7; 152 (Suppl_3): p. A4372469.
 </div>
-<div class="bibtex_source"><pre>@article{AmitShah_2025_11_04_AmbulatoryQT,
+<div class="bibtex_source"><pre>@inproceedings{AmitShah_2025_11_04_AmbulatoryQT,
     author = "Shah, Amit and Koscova, Zuzana and Li, Qiao and Sameni, Reza and Rad, Ali Bahrami and Karimi, Sajjad and Lampert, Rachel and Mathew, Lejy and Alagar, Nikila and Colon-Motas, Kay and de Leon, Katalina and Murtala, Abdulkareem and Osei, Jeffery and Mourad, Rama and Chang, Sarah and Ko, Yi-An and Zeng, Zhaohua and Sheikh, Shafa-at and Xu, Ying and Kim, Kain and Akoto, Natalie and Santana, Eric and Alexander, Abigail and Suvada, Kara and Roberts, Tatum and Stefanos, Lewam and Vaccarino, Viola and Clifford, Gari D",
     title = "Ambulatory QT Interval Prolongation and Reduced T-Amplitude Help Identify Veterans with Heart Disease",
     date = "2025-11-07",
@@ -7080,9 +7104,9 @@ Shah A, Koscova Z, Li Q, Sameni R, Rad AB, Karimi S, Lampert R, Mathew L, Alagar
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RandIbrahim_2025_11_04_NovelUse">
 <div class="citation">
-Ibrahim R, Rad AB, DeBakey M, Lloyd M, El-Chami M, Westerman S, Merchant F, Iravanian S, Clifford GD, Bhatia N. <a href="https://www.ahajournals.org/doi/abs/10.1161/circ.152.suppl_3.4365018">Novel Use of KardiaMobile Device to Assess For Vector Suitability for Subcutaneous Implantable Cardioverter Defibrillator Implantation</a>. 2025 November 7; 152 (Suppl_3): p. A4365018.
+Ibrahim R, Rad AB, DeBakey M, Lloyd M, El-Chami M, Westerman S, Merchant F, Iravanian S, Clifford GD, Bhatia N. <a href="https://www.ahajournals.org/doi/abs/10.1161/circ.152.suppl_3.4365018">Novel Use of KardiaMobile Device to Assess For Vector Suitability for Subcutaneous Implantable Cardioverter Defibrillator Implantation</a>. The American Heart Association 2025 Scientific Session, New Orleans, Louisiana, United States 2025 November 7; 152 (Suppl_3): p. A4365018.
 </div>
-<div class="bibtex_source"><pre>@article{RandIbrahim_2025_11_04_NovelUse,
+<div class="bibtex_source"><pre>@inproceedings{RandIbrahim_2025_11_04_NovelUse,
     author = "Ibrahim, Rand and Rad, Ali Bahrami and DeBakey, Michael and Lloyd, Michael and El-Chami, Mikhael and Westerman, Stacy and Merchant, Faisal and Iravanian, Shahriar and Clifford, Gari D and Bhatia, Neal",
     title = "Novel Use of KardiaMobile Device to Assess For Vector Suitability for Subcutaneous Implantable Cardioverter Defibrillator Implantation",
     date = "2025-11-07",
@@ -7166,10 +7190,10 @@ Reyna MA, Koscova Z, Pavlus J, Weigle J, Saghafi S, Gomes P, Elola A, Hassannia 
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="EmilyLGiannotto_2025_07_28_Thefeasibility">
 <div class="citation">
-Giannotto EL, Rodriguez AD, DuBose J, Rozga A, Clifford G, Rasheed C, Moon T, LaForce M, Levey AI. <a href="https://drive.google.com/file/d/1c1OEaceIjHgE6B41fSxVRRW1A3zq28Ut/view?usp=sharing">The feasibility of a tai chi for sleep intervention for persons with MCI and their caregivers</a>. Alzheimer's Association International Conference, London, United Kingdom 2025 July 28.
+Giannotto EL, Rodriguez AD, DuBose J, Rozga A, Clifford GD, Rasheed C, Moon T, LaForce M, Levey AI. <a href="https://drive.google.com/file/d/1c1OEaceIjHgE6B41fSxVRRW1A3zq28Ut/view?usp=sharing">The feasibility of a tai chi for sleep intervention for persons with MCI and their caregivers</a>. Alzheimer's Association International Conference, London, United Kingdom 2025 July 28.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{EmilyLGiannotto_2025_07_28_Thefeasibility,
-    author = "Giannotto, Emily L and Rodriguez, Amy D and DuBose, Jennifer and Rozga, Agata and Clifford, Gari and Rasheed, Clementine and Moon, Tracy and LaForce, Muslimah and Levey, Allan I",
+    author = "Giannotto, Emily L and Rodriguez, Amy D and DuBose, Jennifer and Rozga, Agata and Clifford, Gari D and Rasheed, Clementine and Moon, Tracy and LaForce, Muslimah and Levey, Allan I",
     title = "The feasibility of a tai chi for sleep intervention for persons with MCI and their caregivers",
     date = "2025-07-28",
     booktitle = "Alzheimer's Association International Conference, London, United Kingdom",
@@ -7187,10 +7211,10 @@ Giannotto EL, Rodriguez AD, DuBose J, Rozga A, Clifford G, Rasheed C, Moon T, La
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AlirezaRafiei_UnknownDate_AutoFEDUSAutoregressive">
 <div class="citation">
-Rafiei A, Clifford G, Katebi N. <a href="https://drive.google.com/file/d/19FliyiM8c5hGrU5OnSwjpDpKG__yfy0U/view?usp=sharing">Auto-FEDUS: Autoregressive Generative Modeling of Doppler Ultrasound Signals from Fetal Electrocardiograms</a>. Workshop on Large Language Models and Generative AI for Health at AAAI 2025, Philadelphia, PA, USA 2025 March 4.
+Rafiei A, Clifford GD, Katebi N. <a href="https://drive.google.com/file/d/19FliyiM8c5hGrU5OnSwjpDpKG__yfy0U/view?usp=sharing">Auto-FEDUS: Autoregressive Generative Modeling of Doppler Ultrasound Signals from Fetal Electrocardiograms</a>. Workshop on Large Language Models and Generative AI for Health at AAAI 2025, Philadelphia, PA, USA 2025 March 4.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{AlirezaRafiei_UnknownDate_AutoFEDUSAutoregressive,
-    author = "Rafiei, Alireza and Clifford, Gari and Katebi, Nasim",
+    author = "Rafiei, Alireza and Clifford, Gari D and Katebi, Nasim",
     title = "Auto-FEDUS: Autoregressive Generative Modeling of Doppler Ultrasound Signals from Fetal Electrocardiograms",
     date = "2025-03-04",
     booktitle = "Workshop on Large Language Models and Generative AI for Health at AAAI 2025, Philadelphia, PA, USA",
@@ -13284,29 +13308,6 @@ Clifford GD. Statistical Conformal Field Theory and Information Loss in the Reno
 
 <table>
 <tr>
-<td>20</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="JOHANNALEXANDRECHAFAEDJIMBI_2025_11_04_DiagnosticAccuracy">
-<div class="citation">
-EDJIMBI JAC, Gajjar A, Shah N, Ribeiro A, GAYE N, Carter J, Sattler E, Dani S, Clifford G, Marijon E, Gaye B. <a href="https://www.ahajournals.org/doi/abs/10.1161/circ.152.suppl_3.4369836">Diagnostic Accuracy of AI Algorithms for Detecting Left Ventricular Diastolic Dysfunction on ECG: A Systematic Review and Meta-Analysis</a>. 2025 November 4.
-</div>
-<div class="bibtex_source"><pre>@misc{JOHANNALEXANDRECHAFAEDJIMBI_2025_11_04_DiagnosticAccuracy,
-    author = "EDJIMBI, JOHANN ALEXANDRE CHAFA and Gajjar, Aryan and Shah, Nisarg and Ribeiro, Antonio and GAYE, Ngone and Carter, Jennifer and Sattler, Elisabeth and Dani, Sourbha and Clifford, Gari and Marijon, Eloi and Gaye, Bamba",
-    title = "Diagnostic Accuracy of AI Algorithms for Detecting Left Ventricular Diastolic Dysfunction on ECG: A Systematic Review and Meta-Analysis",
-    date = "2025-11-04",
-    issue = "Suppl{\\_}3",
-    url = "https://www.ahajournals.org/doi/abs/10.1161/circ.152.suppl\_3.4369836",
-    pages = "A4369836-A4369836",
-    volume = "152",
-    note = "Publisher: Lippincott Williams {\\&} Wilkins"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="JOHANNALEXANDRECHAFAEDJIMBI_2025_11_04_DiagnosticAccuracy">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="JOHANNALEXANDRECHAFAEDJIMBI_2025_11_04_DiagnosticAccuracy">[show citation]</label>
-</div></div></td></tr><tr>
 <td>19</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="XingyaoWang_2021_06_ParoxysmalAtrial">
