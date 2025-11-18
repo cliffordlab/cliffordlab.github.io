@@ -15,15 +15,14 @@ permalink: /publications
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MohsenMotieShirazi_2025_11_05_RealTimeQuality">
 <div class="citation">
-Motie-Shirazi M, Nikookar S, Ahmad M, Rafiei A, Sameni R, Rohloff P, Clifford GD, Katebi N. <a href="https://drive.google.com/file/d/1-2r4d2PhefAmQmhAA5e1QDjb8NtUnOc1/view?usp=sharing">Real-Time Quality Feedback on Doppler Data for Community Midwives using Edge-AI</a>. Machine Learning: Health 2025 November 5. DOI: <a href="https://doi.org/10.1088/3049-477X">10.1088/3049-477X</a>.
+Motie-Shirazi M, Nikookar S, Ahmad M, Rafiei A, Sameni R, Rohloff P, Clifford GD, Katebi N. <a href="https://drive.google.com/file/d/1-2r4d2PhefAmQmhAA5e1QDjb8NtUnOc1/view?usp=sharing">Real-Time Quality Feedback on Doppler Data for Community Midwives using Edge-AI</a>. Machine Learning: Health 2025 November 5.
 </div>
 <div class="bibtex_source"><pre>@article{MohsenMotieShirazi_2025_11_05_RealTimeQuality,
     author = "Motie-Shirazi, Mohsen and Nikookar, Sepideh and Ahmad, Mohammad and Rafiei, Alireza and Sameni, Reza and Rohloff, Peter and Clifford, Gari D and Katebi, Nasim",
     title = "Real-Time Quality Feedback on Doppler Data for Community Midwives using Edge-AI",
     date = "2025-11-05",
     journal = "Machine Learning: Health",
-    url = "https://drive.google.com/file/d/1-2r4d2PhefAmQmhAA5e1QDjb8NtUnOc1/view?usp=sharing",
-    doi = "10.1088/3049-477X/ae1bad"
+    url = "https://drive.google.com/file/d/1-2r4d2PhefAmQmhAA5e1QDjb8NtUnOc1/view?usp=sharing"
 }
 </pre>
 </div><div class="showbibtex">
