@@ -7056,7 +7056,7 @@ Clifford GD, Tarassenko L, Townsend N. <a href="https://drive.google.com/file/d/
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JOHANNALEXANDRECHAFAEDJIMBI_2025_11_04_DiagnosticAccuracy">
 <div class="citation">
-EDJIMBI JAC, Gajjar A, Shah N, Ribeiro A, GAYE N, Carter J, Sattler E, Dani S, Clifford GD, Marijon E, Gaye B. <a href="https://www.ahajournals.org/doi/abs/10.1161/circ.152.suppl_3.4369836">Diagnostic Accuracy of AI Algorithms for Detecting Left Ventricular Diastolic Dysfunction on ECG: A Systematic Review and Meta-Analysis</a>. The American Heart Association 2025 Scientific Session, New Orleans, Louisiana, United States 2025 November 7; 152 (Suppl_3): p. A4369836.
+EDJIMBI JAC, Gajjar A, Shah N, Ribeiro A, GAYE N, Carter J, Sattler E, Dani S, Clifford GD, Marijon E, Gaye B. <a href="https://drive.google.com/file/d/1tRDZdqzgQ_PM1o1B9ksgPOSKY_DzTSyC/view?usp=sharing">Diagnostic Accuracy of AI Algorithms for Detecting Left Ventricular Diastolic Dysfunction on ECG: A Systematic Review and Meta-Analysis</a>. The American Heart Association 2025 Scientific Session, New Orleans, Louisiana, United States 2025 November 7; 152 (Suppl_3): p. A4369836.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{JOHANNALEXANDRECHAFAEDJIMBI_2025_11_04_DiagnosticAccuracy,
     author = "EDJIMBI, JOHANN ALEXANDRE CHAFA and Gajjar, Aryan and Shah, Nisarg and Ribeiro, Antonio and GAYE, Ngone and Carter, Jennifer and Sattler, Elisabeth and Dani, Sourbha and Clifford, Gari D and Marijon, Eloi and Gaye, Bamba",
@@ -7064,7 +7064,7 @@ EDJIMBI JAC, Gajjar A, Shah N, Ribeiro A, GAYE N, Carter J, Sattler E, Dani S, C
     date = "2025-11-07",
     issue = "Suppl\_3",
     booktitle = "The American Heart Association 2025 Scientific Session, New Orleans, Louisiana, United States",
-    url = "https://www.ahajournals.org/doi/abs/10.1161/circ.152.suppl\_3.4369836",
+    url = "https://drive.google.com/file/d/1tRDZdqzgQ\_PM1o1B9ksgPOSKY\_DzTSyC/view?usp=sharing",
     pages = "A4369836",
     volume = "152",
     note = "Publisher: Lippincott Williams {\\&} Wilkins"
@@ -7080,7 +7080,7 @@ EDJIMBI JAC, Gajjar A, Shah N, Ribeiro A, GAYE N, Carter J, Sattler E, Dani S, C
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AmitShah_2025_11_04_AmbulatoryQT">
 <div class="citation">
-Shah A, Koscova Z, Li Q, Sameni R, Rad AB, Karimi S, Lampert R, Mathew L, Alagar N, Colon-Motas K, Leon K, Murtala A, Osei J, Mourad R, Chang S, Ko Y, Zeng Z, Sheikh S, Xu Y, Kim K, Akoto N, Santana E, Alexander A, Suvada K, Roberts T, Stefanos L, Vaccarino V, Clifford GD. <a href="https://www.ahajournals.org/doi/abs/10.1161/circ.152.suppl_3.4372469">Ambulatory QT Interval Prolongation and Reduced T-Amplitude Help Identify Veterans with Heart Disease</a>. The American Heart Association 2025 Scientific Session, New Orleans, Louisiana, United States 2025 November 7; 152 (Suppl_3): p. A4372469.
+Shah A, Koscova Z, Li Q, Sameni R, Rad AB, Karimi S, Lampert R, Mathew L, Alagar N, Colon-Motas K, Leon K, Murtala A, Osei J, Mourad R, Chang S, Ko Y, Zeng Z, Sheikh S, Xu Y, Kim K, Akoto N, Santana E, Alexander A, Suvada K, Roberts T, Stefanos L, Vaccarino V, Clifford GD. <a href="https://drive.google.com/file/d/1kkVfF6VdI4Fpmg12lYyuEoWAqhTpGc3O/view?usp=sharing">Ambulatory QT Interval Prolongation and Reduced T-Amplitude Help Identify Veterans with Heart Disease</a>. The American Heart Association 2025 Scientific Session, New Orleans, Louisiana, United States 2025 November 7; 152 (Suppl_3): p. A4372469.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{AmitShah_2025_11_04_AmbulatoryQT,
     author = "Shah, Amit and Koscova, Zuzana and Li, Qiao and Sameni, Reza and Rad, Ali Bahrami and Karimi, Sajjad and Lampert, Rachel and Mathew, Lejy and Alagar, Nikila and Colon-Motas, Kay and de Leon, Katalina and Murtala, Abdulkareem and Osei, Jeffery and Mourad, Rama and Chang, Sarah and Ko, Yi-An and Zeng, Zhaohua and Sheikh, Shafa-at and Xu, Ying and Kim, Kain and Akoto, Natalie and Santana, Eric and Alexander, Abigail and Suvada, Kara and Roberts, Tatum and Stefanos, Lewam and Vaccarino, Viola and Clifford, Gari D",
@@ -7088,7 +7088,7 @@ Shah A, Koscova Z, Li Q, Sameni R, Rad AB, Karimi S, Lampert R, Mathew L, Alagar
     date = "2025-11-07",
     issue = "Suppl\_3",
     booktitle = "The American Heart Association 2025 Scientific Session, New Orleans, Louisiana, United States",
-    url = "https://www.ahajournals.org/doi/abs/10.1161/circ.152.suppl\_3.4372469",
+    url = "https://drive.google.com/file/d/1kkVfF6VdI4Fpmg12lYyuEoWAqhTpGc3O/view?usp=sharing",
     pages = "A4372469",
     volume = "152",
     note = "Publisher: Lippincott Williams {\\&} Wilkins"
@@ -7104,7 +7104,7 @@ Shah A, Koscova Z, Li Q, Sameni R, Rad AB, Karimi S, Lampert R, Mathew L, Alagar
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RandIbrahim_2025_11_04_NovelUse">
 <div class="citation">
-Ibrahim R, Rad AB, DeBakey M, Lloyd M, El-Chami M, Westerman S, Merchant F, Iravanian S, Clifford GD, Bhatia N. <a href="https://www.ahajournals.org/doi/abs/10.1161/circ.152.suppl_3.4365018">Novel Use of KardiaMobile Device to Assess For Vector Suitability for Subcutaneous Implantable Cardioverter Defibrillator Implantation</a>. The American Heart Association 2025 Scientific Session, New Orleans, Louisiana, United States 2025 November 7; 152 (Suppl_3): p. A4365018.
+Ibrahim R, Rad AB, DeBakey M, Lloyd M, El-Chami M, Westerman S, Merchant F, Iravanian S, Clifford GD, Bhatia N. <a href="https://drive.google.com/file/d/12Bm9Gk6HTG4v5Hf3bcHmAvwvRf8yGaei/view?usp=sharing">Novel Use of KardiaMobile Device to Assess For Vector Suitability for Subcutaneous Implantable Cardioverter Defibrillator Implantation</a>. The American Heart Association 2025 Scientific Session, New Orleans, Louisiana, United States 2025 November 7; 152 (Suppl_3): p. A4365018.
 </div>
 <div class="bibtex_source"><pre>@inproceedings{RandIbrahim_2025_11_04_NovelUse,
     author = "Ibrahim, Rand and Rad, Ali Bahrami and DeBakey, Michael and Lloyd, Michael and El-Chami, Mikhael and Westerman, Stacy and Merchant, Faisal and Iravanian, Shahriar and Clifford, Gari D and Bhatia, Neal",
@@ -7112,7 +7112,7 @@ Ibrahim R, Rad AB, DeBakey M, Lloyd M, El-Chami M, Westerman S, Merchant F, Irav
     date = "2025-11-07",
     issue = "Suppl\_3",
     booktitle = "The American Heart Association 2025 Scientific Session, New Orleans, Louisiana, United States",
-    url = "https://www.ahajournals.org/doi/abs/10.1161/circ.152.suppl\_3.4365018",
+    url = "https://drive.google.com/file/d/12Bm9Gk6HTG4v5Hf3bcHmAvwvRf8yGaei/view?usp=sharing",
     pages = "A4365018",
     volume = "152",
     note = "Publisher: Lippincott Williams {\\&} Wilkins"
