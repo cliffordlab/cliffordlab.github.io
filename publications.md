@@ -7112,6 +7112,26 @@ Valderrama C, Stroux L, Springer D, Clifford GD. <a href="https://ui.adsabs.harv
 
 <table>
 <tr>
+<td>197</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="MohsenMotieShirazi_UnknownDate_SelfSupervisedLearning">
+<div class="citation">
+Motie-Shirazi M, Ramos E, Chandrasekaran S, Sameni R, Rohloff P, Clifford GD, Katebi N. <a href="https://drive.google.com/file/d/1EYL9t3Hd9oKySOA5Gn-yuatxoSXVq-Az/view?usp=sharing">Self-Supervised Learning for Gestational Age Estimation from Low-Cost Doppler Ultrasound in Low-Resource Settings</a>. NeurIPS 2025, San Diego, CA, United States 2025 December 2.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{MohsenMotieShirazi_UnknownDate_SelfSupervisedLearning,
+    author = "Motie-Shirazi, Mohsen and Ramos, Edlyn and Chandrasekaran, Suchitra and Sameni, Reza and Rohloff, Peter and Clifford, Gari D and Katebi, Nasim",
+    title = "Self-Supervised Learning for Gestational Age Estimation from Low-Cost Doppler Ultrasound in Low-Resource Settings",
+    date = "2025-12-02",
+    booktitle = "NeurIPS 2025, San Diego, CA, United States",
+    url = "https://drive.google.com/file/d/1EYL9t3Hd9oKySOA5Gn-yuatxoSXVq-Az/view?usp=sharing"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="MohsenMotieShirazi_UnknownDate_SelfSupervisedLearning">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="MohsenMotieShirazi_UnknownDate_SelfSupervisedLearning">[show citation]</label>
+</div></div></td></tr><tr>
 <td>196</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JOHANNALEXANDRECHAFAEDJIMBI_2025_11_04_DiagnosticAccuracy">
@@ -13434,7 +13454,7 @@ Clifford GD. Statistical Conformal Field Theory and Information Loss in the Reno
 
 <table>
 <tr>
-<td>20</td>
+<td>19</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="XingyaoWang_2021_06_ParoxysmalAtrial">
 <div class="citation">
@@ -13454,7 +13474,7 @@ Wang X, Ma C, Zhang X, Gao H, Clifford GD, Liu C. <a href="https://www.physionet
 <div class="hidebibtex">
 <label for="XingyaoWang_2021_06_ParoxysmalAtrial">[show citation]</label>
 </div></div></td></tr><tr>
-<td>19</td>
+<td>18</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="BMoody_2020_Mimiciiiwaveform">
 <div class="citation">
@@ -13475,7 +13495,7 @@ Moody B, Moody G, Villarroel M, Clifford G, Silva I. <a href="https://scholar.go
 <div class="hidebibtex">
 <label for="BMoody_2020_Mimiciiiwaveform">[show citation]</label>
 </div></div></td></tr><tr>
-<td>18</td>
+<td>17</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2018_FromWearables">
 <div class="citation">
@@ -13495,7 +13515,7 @@ Clifford GD. <a href="https://hip.emory.edu/_includes/documents/sections/symposi
 <div class="hidebibtex">
 <label for="GariDClifford_2018_FromWearables">[show citation]</label>
 </div></div></td></tr><tr>
-<td>17</td>
+<td>16</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChengyuLiu_2018_Focuson">
 <div class="citation">
@@ -13515,7 +13535,7 @@ Liu C, Lehman L, Moody B, Li Q, Clifford G. <a href="https://drive.google.com/fi
 <div class="hidebibtex">
 <label for="ChengyuLiu_2018_Focuson">[show citation]</label>
 </div></div></td></tr><tr>
-<td>16</td>
+<td>15</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AhmedAbbasi_2018_08_01_MakeFairness">
 <div class="citation">
@@ -13536,7 +13556,7 @@ Abbasi A, Li J, Clifford GD, Taylor HA. <a href="https://hbr.org/2018/08/make-fa
 <div class="hidebibtex">
 <label for="AhmedAbbasi_2018_08_01_MakeFairness">[show citation]</label>
 </div></div></td></tr><tr>
-<td>15</td>
+<td>14</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="TTZhu_2015_05_27_Theframework">
 <div class="citation">
@@ -13555,7 +13575,7 @@ Zhu T, Dunkley N, Behar J, Clifton D, Clifford G, Pimentel M. <a href="https://w
 <div class="hidebibtex">
 <label for="TTZhu_2015_05_27_Theframework">[show citation]</label>
 </div></div></td></tr><tr>
-<td>14</td>
+<td>13</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GlennSteeleJr_2015_04_02_USHealthcare">
 <div class="citation">
@@ -13574,7 +13594,7 @@ Jr GS, Erskine A, Clifford GD, Braunstein M, Simpson DR. <a href="https://www.hi
 <div class="hidebibtex">
 <label for="GlennSteeleJr_2015_04_02_USHealthcare">[show citation]</label>
 </div></div></td></tr><tr>
-<td>13</td>
+<td>12</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MaximOsipov_2014_08_14_Towardsautomated">
 <div class="citation">
@@ -13593,7 +13613,7 @@ Osipov M, Clifford GD. <a href="https://arxiv.org/pdf/1908.06013.pdf">Towards au
 <div class="hidebibtex">
 <label for="MaximOsipov_2014_08_14_Towardsautomated">[show citation]</label>
 </div></div></td></tr><tr>
-<td>12</td>
+<td>11</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MohammedSaeed_2011_MIMICIIClinical">
 <div class="citation">
@@ -13615,7 +13635,7 @@ Saeed M, Villarroel M, Reisner A, Clifford GD, Lehman L, Moody G, Heldt T, Kyaw 
 <div class="hidebibtex">
 <label for="MohammedSaeed_2011_MIMICIIClinical">[show citation]</label>
 </div></div></td></tr><tr>
-<td>11</td>
+<td>10</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="KatherineLKuan_2010_Aframework">
 <div class="citation">
@@ -13634,7 +13654,7 @@ Kuan KL, Szolovits P, Clifford GD. <a href="https://dspace.mit.edu/handle/1721.1
 <div class="hidebibtex">
 <label for="KatherineLKuan_2010_Aframework">[show citation]</label>
 </div></div></td></tr><tr>
-<td>10</td>
+<td>9</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GClifford_2010_Userguide">
 <div class="citation">
@@ -13653,7 +13673,7 @@ Clifford G, Scott D, Villarroel M. <a href="https://archive.physionet.org/mimic2
 <div class="hidebibtex">
 <label for="GClifford_2010_Userguide">[show citation]</label>
 </div></div></td></tr><tr>
-<td>9</td>
+<td>8</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariClifford_2008_TheEmerging">
 <div class="citation">
@@ -13672,7 +13692,7 @@ Clifford GD. <a href="https://d1wqtxts1xzle7.cloudfront.net/30707561/lec14_gari-
 <div class="hidebibtex">
 <label for="GariClifford_2008_TheEmerging">[show citation]</label>
 </div></div></td></tr><tr>
-<td>8</td>
+<td>7</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GDClifford_2007_Coursematerials">
 <div class="citation">
@@ -13692,7 +13712,7 @@ Clifford G. <a href="https://scholar.google.com/scholar?cluster=4552201191896152
 <div class="hidebibtex">
 <label for="GDClifford_2007_Coursematerials">[show citation]</label>
 </div></div></td></tr><tr>
-<td>7</td>
+<td>6</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AndrewTReisner_2006_Thephysiological">
 <div class="citation">
@@ -13713,7 +13733,7 @@ Reisner AT, Clifford GD, Mark RG. <a href="http://onlineedu.cafa.edu.cn/moocreso
 <div class="hidebibtex">
 <label for="AndrewTReisner_2006_Thephysiological">[show citation]</label>
 </div></div></td></tr><tr>
-<td>6</td>
+<td>5</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2006_EctopicBeats">
 <div class="citation">
@@ -13731,7 +13751,7 @@ Clifford GD. Ectopic Beats, Activity Effects and Heart Rate Turbulence. 2006.
 <div class="hidebibtex">
 <label for="GariDClifford_2006_EctopicBeats">[show citation]</label>
 </div></div></td></tr><tr>
-<td>5</td>
+<td>4</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2006_12_01_Reviewof">
 <div class="citation">
@@ -13756,7 +13776,7 @@ Clifford GD. <a href="https://drive.google.com/file/d/1LzA_LAXMbf0F09EPN8WEZpOTr
 <div class="hidebibtex">
 <label for="GariDClifford_2006_12_01_Reviewof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>4</td>
+<td>3</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="PEMcSharry_2006_03_ECGSYNarealistic">
 <div class="citation">
@@ -13776,7 +13796,7 @@ McSharry P, Clifford G. <a href="https://physionet.org/content/ecgsyn/1.0.0/">EC
 <div class="hidebibtex">
 <label for="PEMcSharry_2006_03_ECGSYNarealistic">[show citation]</label>
 </div></div></td></tr><tr>
-<td>3</td>
+<td>2</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2005_01_BlindSource">
 <div class="citation">
@@ -13796,7 +13816,7 @@ Clifford GD. <a href="https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf
 <div class="hidebibtex">
 <label for="GariDClifford_2005_01_BlindSource">[show citation]</label>
 </div></div></td></tr><tr>
-<td>2</td>
+<td>1</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GDClifford_2005_04_07_Fetal">
 <div class="citation">
@@ -13815,24 +13835,5 @@ Clifford G. <a href="https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&
 </div>
 <div class="hidebibtex">
 <label for="GDClifford_2005_04_07_Fetal">[show citation]</label>
-</div></div></td></tr><tr>
-<td>1</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="MohsenMotieShirazi_UnknownDate_SelfSupervisedLearning">
-<div class="citation">
-Motie-Shirazi M, Ramos E, Chandrasekaran S, Sameni R, Rohloff P, Clifford GD, Katebi N. <a href="https://openreview.net/pdf?id=8oVfZwwWKb">Self-Supervised Learning for Gestational Age Estimation from Low-Cost Doppler Ultrasound in Low-Resource Settings</a>. No Date.
-</div>
-<div class="bibtex_source"><pre>@misc{MohsenMotieShirazi_UnknownDate_SelfSupervisedLearning,
-    author = "Motie-Shirazi, Mohsen and Ramos, Edlyn and Chandrasekaran, Suchitra and Sameni, Reza and Rohloff, Peter and Clifford, Gari D and Katebi, Nasim",
-    title = "Self-Supervised Learning for Gestational Age Estimation from Low-Cost Doppler Ultrasound in Low-Resource Settings",
-    date = "No Date",
-    url = "https://openreview.net/pdf?id=8oVfZwwWKb"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="MohsenMotieShirazi_UnknownDate_SelfSupervisedLearning">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="MohsenMotieShirazi_UnknownDate_SelfSupervisedLearning">[show citation]</label>
 </div></div></td></tr>
 </table>
