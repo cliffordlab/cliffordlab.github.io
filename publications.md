@@ -15,7 +15,7 @@ permalink: /publications
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AlirezaRafiei_2026_02_05_Towardselfvalidating">
 <div class="citation">
-Rafiei A, Dwivedi T, Xue J, Schlesinger DE, Katebi N, Albert DE, Clifford GD. <a href="https://www.sciencedirect.com/science/article/pii/S002207362600021X">Toward self-validating ECG Systems: A personalized, uncertainty-aware approach for detecting and estimating lead misplacement</a>. Journal of Electrocardiology 2026 February 5; 95: p. 154204. DOI: <a href="https://doi.org/https:/">https:/</a>.
+Rafiei A, Dwivedi T, Xue J, Schlesinger DE, Katebi N, Albert DE, Clifford GD. <a href="https://www.sciencedirect.com/science/article/pii/S002207362600021X">Toward self-validating ECG Systems: A personalized, uncertainty-aware approach for detecting and estimating lead misplacement</a>. Journal of Electrocardiology 2026 February 5; 95: p. 154204. DOI: <a href="https://doi.org/10.1016/j.jelectrocard.2026.154204">10.1016/j.jelectrocard.2026.154204</a>.
 </div>
 <div class="bibtex_source"><pre>@article{AlirezaRafiei_2026_02_05_Towardselfvalidating,
     author = "Rafiei, Alireza and Dwivedi, Trisha and Xue, Joel and Schlesinger, Daphne E and Katebi, Nasim and Albert, David E and Clifford, Gari D",
@@ -25,7 +25,7 @@ Rafiei A, Dwivedi T, Xue J, Schlesinger DE, Katebi N, Albert DE, Clifford GD. <a
     volume = "95",
     url = "https://www.sciencedirect.com/science/article/pii/S002207362600021X",
     pages = "154204",
-    doi = "https://doi.org/10.1016/j.jelectrocard.2026.154204",
+    doi = "10.1016/j.jelectrocard.2026.154204",
     note = "Publisher: Churchill Livingstone"
 }
 </pre>
