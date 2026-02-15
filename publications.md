@@ -195,6 +195,28 @@ Short NA, Ellis RA, Pezza M, House SL, Beaudoin FL, An X, Clifford GD, Jovanovic
 </div></div></td></tr><tr>
 <td>292</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="RuoqiWei_2024_11_06_AutomatedMedical">
+<div class="citation">
+Wei R, Buss SS, Milde R, Fernandes M, Sumsion D, Davis E, Kong W, Xiong Y, Veltink J, Rao S, Westover TM, Petersen L, Turley N, Singh A, Das S, Junior VM, Ghanta M, Gupta A, Kim J, Lam AD, Stone KL, Mignot E, Hwang D, Trotti LM, Clifford GD, Katwa U, Thomas RJ, Mukerji S, Zafar SF, Westover MB, Sun H. <a href="https://drive.google.com/file/d/1dT7GY93bIQYbfpCsXT_DgJnm7RjqrDH1/view?usp=sharing">Automated phenotyping of mild cognitive impairment and Alzheimer’s disease and related dementias using electronic health records</a>. International Journal of Medical Informatics 2025 August; 200: p. 105917.
+</div>
+<div class="bibtex_source"><pre>@article{RuoqiWei_2024_11_06_AutomatedMedical,
+    author = "Wei, Ruoqi and Buss, Stephanie S and Milde, Rebecca and Fernandes, Marta and Sumsion, Daniel and Davis, Elijah and Kong, Wan-Yee and Xiong, Yiwen and Veltink, Jet and Rao, Samvrit and Westover, Tara M and Petersen, Lydia and Turley, Niels and Singh, Arjun and Das, Sudeshna and Junior, Valdery Moura and Ghanta, Manohar and Gupta, Aditya and Kim, Jennifer and Lam, Alice D and Stone, Katie L and Mignot, Emmanuel and Hwang, Dennis and Trotti, Lynn Marie and Clifford, Gari D and Katwa, Umakanth and Thomas, Robert J and Mukerji, Shibani and Zafar, Sahar F and Westover, M Brandon and Sun, Haoqi",
+    title = "Automated phenotyping of mild cognitive impairment and Alzheimer’s disease and related dementias using electronic health records",
+    date = "2025-08",
+    journal = "International Journal of Medical Informatics",
+    url = "https://drive.google.com/file/d/1dT7GY93bIQYbfpCsXT\_DgJnm7RjqrDH1/view?usp=sharing",
+    pages = "105917",
+    volume = "200"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="RuoqiWei_2024_11_06_AutomatedMedical">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="RuoqiWei_2024_11_06_AutomatedMedical">[show citation]</label>
+</div></div></td></tr><tr>
+<td>291</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="Kaplan2025">
 <div class="citation">
 Kaplan DM, Alvarez SJA, Palitsky R, Choi H, Clifford GD, Crozier M, Dunlop BW, Grant GH, Greenleaf MN, Johnson LM, Maples-Keller J, Levin-Aspenson HF, Mascaro JS, McDowall A, Pozzo NS, Raison CL, Zarrabi AJ, Rothbaum BO, Lam WA. <a href="https://drive.google.com/file/d/1o5qs159hJLMt847Fugp-KU-AVhOHW0IG/view?usp=sharing">Fabla: A voice-based ecological assessment method for securely collecting spoken responses to researcher questions</a>. Behavior Research Methods 2025 August 13; 57 (10): p. 257. DOI: <a href="https://doi.org/10.3758/s13428-025-02777-1">10.3758/s13428-025-02777-1</a>.
@@ -216,28 +238,6 @@ Kaplan DM, Alvarez SJA, Palitsky R, Choi H, Clifford GD, Crozier M, Dunlop BW, G
 </div>
 <div class="hidebibtex">
 <label for="Kaplan2025">[show citation]</label>
-</div></div></td></tr><tr>
-<td>291</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="RuoqiWei_2024_11_06_AutomatedMedical">
-<div class="citation">
-Wei R, Buss SS, Milde R, Fernandes M, Sumsion D, Davis E, Kong W, Xiong Y, Veltink J, Rao S, Westover TM, Petersen L, Turley N, Singh A, Das S, Junior VM, Ghanta M, Gupta A, Kim J, Lam AD, Stone KL, Mignot E, Hwang D, Trotti LM, Clifford GD, Katwa U, Thomas RJ, Mukerji S, Zafar SF, Westover MB, Sun H. <a href="https://drive.google.com/file/d/1dT7GY93bIQYbfpCsXT_DgJnm7RjqrDH1/view?usp=sharing">Automated phenotyping of mild cognitive impairment and Alzheimer’s disease and related dementias using electronic health records</a>. International Journal of Medical Informatics 2025 August; 200: p. 105917.
-</div>
-<div class="bibtex_source"><pre>@article{RuoqiWei_2024_11_06_AutomatedMedical,
-    author = "Wei, Ruoqi and Buss, Stephanie S and Milde, Rebecca and Fernandes, Marta and Sumsion, Daniel and Davis, Elijah and Kong, Wan-Yee and Xiong, Yiwen and Veltink, Jet and Rao, Samvrit and Westover, Tara M and Petersen, Lydia and Turley, Niels and Singh, Arjun and Das, Sudeshna and Junior, Valdery Moura and Ghanta, Manohar and Gupta, Aditya and Kim, Jennifer and Lam, Alice D and Stone, Katie L and Mignot, Emmanuel and Hwang, Dennis and Trotti, Lynn Marie and Clifford, Gari D and Katwa, Umakanth and Thomas, Robert J and Mukerji, Shibani and Zafar, Sahar F and Westover, M Brandon and Sun, Haoqi",
-    title = "Automated phenotyping of mild cognitive impairment and Alzheimer’s disease and related dementias using electronic health records",
-    date = "2025-08",
-    journal = "International Journal of Medical Informatics",
-    url = "https://drive.google.com/file/d/1dT7GY93bIQYbfpCsXT\_DgJnm7RjqrDH1/view?usp=sharing",
-    pages = "105917",
-    volume = "200"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="RuoqiWei_2024_11_06_AutomatedMedical">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="RuoqiWei_2024_11_06_AutomatedMedical">[show citation]</label>
 </div></div></td></tr><tr>
 <td>290</td>
 <td><div class="citation_container">
@@ -2129,6 +2129,29 @@ Punches BE, Stolz U, Freiermuth CE, Ancona RM, McLean SA, House SL, Beaudoin FL,
 </div></div></td></tr><tr>
 <td>210</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="ErickAPerezAlday_2022_09_01_Agesex">
+<div class="citation">
+Alday EAP, Rad AB, Reyna MA, Sadr N, Gu A, Li Q, Dumitru M, Xue J, Albert D, Sameni R, Clifford GD. <a href="https://drive.google.com/file/d/1Zd7Pcq77Gy4Sc7064SsS-0l9iGWk8AVF/view?usp=sharing">Age, sex and race bias in automated arrhythmia detectors</a>. Journal of Electrocardiology 2022 September; 74: pp. 5-9.
+</div>
+<div class="bibtex_source"><pre>@article{ErickAPerezAlday_2022_09_01_Agesex,
+    author = "Alday, Erick A Perez and Rad, Ali B and Reyna, Matthew A and Sadr, Nadi and Gu, Annie and Li, Qiao and Dumitru, Mircea and Xue, Joel and Albert, Dave and Sameni, Reza and Clifford, Gari D",
+    title = "Age, sex and race bias in automated arrhythmia detectors",
+    date = "2022-09",
+    journal = "Journal of Electrocardiology",
+    url = "https://drive.google.com/file/d/1Zd7Pcq77Gy4Sc7064SsS-0l9iGWk8AVF/view?usp=sharing",
+    pages = "5-9",
+    volume = "74",
+    note = "Publisher: Churchill Livingstone"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="ErickAPerezAlday_2022_09_01_Agesex">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="ErickAPerezAlday_2022_09_01_Agesex">[show citation]</label>
+</div></div></td></tr><tr>
+<td>209</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SalmanSeyedi_2022_12_Aninvestigation">
 <div class="citation">
 Seyedi S, Jiang Z, Levey A, Clifford GD. <a href="https://drive.google.com/file/d/1G9WWDOAl57uSCLmEgY9O94Y7FKt-4pTG/view?usp=sharing">An investigation of privacy preservation in deep learning-based eye-tracking</a>. Biomedical Engineering Online 2022 September 13; 21 (1): p. 67.
@@ -2150,29 +2173,6 @@ Seyedi S, Jiang Z, Levey A, Clifford GD. <a href="https://drive.google.com/file/
 </div>
 <div class="hidebibtex">
 <label for="SalmanSeyedi_2022_12_Aninvestigation">[show citation]</label>
-</div></div></td></tr><tr>
-<td>209</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="ErickAPerezAlday_2022_09_01_Agesex">
-<div class="citation">
-Alday EAP, Rad AB, Reyna MA, Sadr N, Gu A, Li Q, Dumitru M, Xue J, Albert D, Sameni R, Clifford GD. <a href="https://drive.google.com/file/d/1Zd7Pcq77Gy4Sc7064SsS-0l9iGWk8AVF/view?usp=sharing">Age, sex and race bias in automated arrhythmia detectors</a>. Journal of Electrocardiology 2022 September; 74: pp. 5-9.
-</div>
-<div class="bibtex_source"><pre>@article{ErickAPerezAlday_2022_09_01_Agesex,
-    author = "Alday, Erick A Perez and Rad, Ali B and Reyna, Matthew A and Sadr, Nadi and Gu, Annie and Li, Qiao and Dumitru, Mircea and Xue, Joel and Albert, Dave and Sameni, Reza and Clifford, Gari D",
-    title = "Age, sex and race bias in automated arrhythmia detectors",
-    date = "2022-09",
-    journal = "Journal of Electrocardiology",
-    url = "https://drive.google.com/file/d/1Zd7Pcq77Gy4Sc7064SsS-0l9iGWk8AVF/view?usp=sharing",
-    pages = "5-9",
-    volume = "74",
-    note = "Publisher: Churchill Livingstone"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="ErickAPerezAlday_2022_09_01_Agesex">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="ErickAPerezAlday_2022_09_01_Agesex">[show citation]</label>
 </div></div></td></tr><tr>
 <td>208</td>
 <td><div class="citation_container">
@@ -2369,30 +2369,6 @@ Reyna MA, Nsoesie EO, Clifford GD. <a href="https://drive.google.com/file/d/1aH9
 </div></div></td></tr><tr>
 <td>200</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="RobertOCotes_2022_07_13_MultimodalAssessment">
-<div class="citation">
-Cotes RO, Boazak M, Griner E, Jiang Z, Kim B, Bremer W, Seyedi S, Rad AB, Clifford GD. <a href="https://drive.google.com/file/d/1lpjPKweyz0XiFEB3otmNjB4Ppb_KvlXx/view?usp=sharing">Multimodal Assessment of Schizophrenia and Depression Utilizing Video, Acoustic, Locomotor, Electroencephalographic, and Heart Rate Technology: Protocol for an Observational Study</a>. JMIR Research Protocols 2022 July 13; 11 (7): p. e36417.
-</div>
-<div class="bibtex_source"><pre>@article{RobertOCotes_2022_07_13_MultimodalAssessment,
-    author = "Cotes, Robert O and Boazak, Mina and Griner, Emily and Jiang, Zifan and Kim, Bona and Bremer, Whitney and Seyedi, Salman and Rad, Ali Bahrami and Clifford, Gari D",
-    title = "Multimodal Assessment of Schizophrenia and Depression Utilizing Video, Acoustic, Locomotor, Electroencephalographic, and Heart Rate Technology: Protocol for an Observational Study",
-    date = "2022-07-13",
-    issue = "7",
-    journal = "JMIR Research Protocols",
-    url = "https://drive.google.com/file/d/1lpjPKweyz0XiFEB3otmNjB4Ppb\_KvlXx/view?usp=sharing",
-    pages = "e36417",
-    volume = "11",
-    note = "Publisher: JMIR Publications Inc., Toronto, Canada"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="RobertOCotes_2022_07_13_MultimodalAssessment">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="RobertOCotes_2022_07_13_MultimodalAssessment">[show citation]</label>
-</div></div></td></tr><tr>
-<td>199</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JuttaJoormann_2020_10_29_Sociodemographicand">
 <div class="citation">
 Joormann J, McLean SA, Beaudoin FL, An X, Stevens JS, Zeng D, Neylan TC, Clifford GD, Linnstaedt SD, Germine LT, Rauch SL, Musey PI, Hendry PL, Sheikh S, Jones CW, Punches BE, Fermann G, Hudak LA, Mohiuddin K, Murty V, McGrath ME, Haran JP, Pascual J, Seamon M, Peak DA, Pearson C, Domeier RM, Sergot P, Merchant R, Sanchez LD, Rathlev NK, Peacock WF, Bruce SE, Barch D, Pizzagalli DA, Luna B, Harte SE, Hwang I, Lee S, Sampson N, Koenen KC, Ressler KJ, Kessler RC. <a href="https://drive.google.com/file/d/12asAetAKMyVaXF65L-KsJyXAGjcL2WbY/view?usp=sharing">Socio-demographic and trauma-related predictors of depression within eight weeks of motor vehicle collision in the AURORA study</a>. Psychological Medicine 2022 July; 52 (10): pp. 1934-1947.
@@ -2415,7 +2391,7 @@ Joormann J, McLean SA, Beaudoin FL, An X, Stevens JS, Zeng D, Neylan TC, Cliffor
 <div class="hidebibtex">
 <label for="JuttaJoormann_2020_10_29_Sociodemographicand">[show citation]</label>
 </div></div></td></tr><tr>
-<td>198</td>
+<td>199</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ShafaatAliSheikh_2022_07_Validationof">
 <div class="citation">
@@ -2437,6 +2413,30 @@ Sheikh SA, Gurel NZ, Gupta S, Chukwu IV, Levantsevych O, Alkhalaf M, Soudan M, A
 </div>
 <div class="hidebibtex">
 <label for="ShafaatAliSheikh_2022_07_Validationof">[show citation]</label>
+</div></div></td></tr><tr>
+<td>198</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="RobertOCotes_2022_07_13_MultimodalAssessment">
+<div class="citation">
+Cotes RO, Boazak M, Griner E, Jiang Z, Kim B, Bremer W, Seyedi S, Rad AB, Clifford GD. <a href="https://drive.google.com/file/d/1lpjPKweyz0XiFEB3otmNjB4Ppb_KvlXx/view?usp=sharing">Multimodal Assessment of Schizophrenia and Depression Utilizing Video, Acoustic, Locomotor, Electroencephalographic, and Heart Rate Technology: Protocol for an Observational Study</a>. JMIR Research Protocols 2022 July 13; 11 (7): p. e36417.
+</div>
+<div class="bibtex_source"><pre>@article{RobertOCotes_2022_07_13_MultimodalAssessment,
+    author = "Cotes, Robert O and Boazak, Mina and Griner, Emily and Jiang, Zifan and Kim, Bona and Bremer, Whitney and Seyedi, Salman and Rad, Ali Bahrami and Clifford, Gari D",
+    title = "Multimodal Assessment of Schizophrenia and Depression Utilizing Video, Acoustic, Locomotor, Electroencephalographic, and Heart Rate Technology: Protocol for an Observational Study",
+    date = "2022-07-13",
+    issue = "7",
+    journal = "JMIR Research Protocols",
+    url = "https://drive.google.com/file/d/1lpjPKweyz0XiFEB3otmNjB4Ppb\_KvlXx/view?usp=sharing",
+    pages = "e36417",
+    volume = "11",
+    note = "Publisher: JMIR Publications Inc., Toronto, Canada"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="RobertOCotes_2022_07_13_MultimodalAssessment">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="RobertOCotes_2022_07_13_MultimodalAssessment">[show citation]</label>
 </div></div></td></tr><tr>
 <td>197</td>
 <td><div class="citation_container">
@@ -3061,30 +3061,6 @@ Kulkarni SS, Katebi N, Valderrama CE, Rohloff P, Clifford GD. <a href="https://d
 </div></div></td></tr><tr>
 <td>171</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="QiaoLi_2021_05_13_Transferlearning">
-<div class="citation">
-Li Q, Li Q, Cakmak AS, Poian GD, Bliwise DL, Vaccarino V, Shah AJ, Clifford GD. <a href="https://drive.google.com/file/d/1dS4zcCw997W3q3pnyJcLuhOKEjCr3CQX/view?usp=sharing">Transfer learning from ECG to PPG for improved sleep staging from wrist-worn wearables</a>. Physiological measurement 2021 May 13; 42 (4): p. 044004.
-</div>
-<div class="bibtex_source"><pre>@article{QiaoLi_2021_05_13_Transferlearning,
-    author = "Li, Qiao and Li, Qichen and Cakmak, Ayse S and Poian, Giulia Da and Bliwise, Donald L and Vaccarino, Viola and Shah, Amit J and Clifford, Gari D",
-    title = "Transfer learning from ECG to PPG for improved sleep staging from wrist-worn wearables",
-    date = "2021-05-13",
-    issue = "4",
-    journal = "Physiological measurement",
-    url = "https://drive.google.com/file/d/1dS4zcCw997W3q3pnyJcLuhOKEjCr3CQX/view?usp=sharing",
-    pages = "044004",
-    volume = "42",
-    note = "Publisher: IOP Publishing"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="QiaoLi_2021_05_13_Transferlearning">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="QiaoLi_2021_05_13_Transferlearning">[show citation]</label>
-</div></div></td></tr><tr>
-<td>170</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AzadeTabaie_2021_05_01_Predictingpresumed">
 <div class="citation">
 Tabaie A, Orenstein EW, Nemati S, Basu RK, Kandaswamy S, Clifford GD, Kamaleswaran R. <a href="https://drive.google.com/file/d/1Ea0FCJaDRbXNRCtjpvI4I2ip46uOeJO2/view?usp=sharing">Predicting presumed serious infection among hospitalized children on central venous lines with machine learning</a>. Computers in Biology and Medicine 2021 May; 132: p. 104289. DOI: <a href="https://doi.org/10.1016/j.compbiomed.2021.104289">10.1016/j.compbiomed.2021.104289</a>.
@@ -3107,7 +3083,7 @@ Tabaie A, Orenstein EW, Nemati S, Basu RK, Kandaswamy S, Clifford GD, Kamaleswar
 <div class="hidebibtex">
 <label for="AzadeTabaie_2021_05_01_Predictingpresumed">[show citation]</label>
 </div></div></td></tr><tr>
-<td>169</td>
+<td>170</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="FrancescaLBeaudoin_2021_05_Painafter">
 <div class="citation">
@@ -3129,6 +3105,30 @@ Beaudoin FL, Kessler R, Hwang I, Lee S, Sampson N, An X, Ressler K, Koenen K, Mc
 </div>
 <div class="hidebibtex">
 <label for="FrancescaLBeaudoin_2021_05_Painafter">[show citation]</label>
+</div></div></td></tr><tr>
+<td>169</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="QiaoLi_2021_05_13_Transferlearning">
+<div class="citation">
+Li Q, Li Q, Cakmak AS, Poian GD, Bliwise DL, Vaccarino V, Shah AJ, Clifford GD. <a href="https://drive.google.com/file/d/1dS4zcCw997W3q3pnyJcLuhOKEjCr3CQX/view?usp=sharing">Transfer learning from ECG to PPG for improved sleep staging from wrist-worn wearables</a>. Physiological measurement 2021 May 13; 42 (4): p. 044004.
+</div>
+<div class="bibtex_source"><pre>@article{QiaoLi_2021_05_13_Transferlearning,
+    author = "Li, Qiao and Li, Qichen and Cakmak, Ayse S and Poian, Giulia Da and Bliwise, Donald L and Vaccarino, Viola and Shah, Amit J and Clifford, Gari D",
+    title = "Transfer learning from ECG to PPG for improved sleep staging from wrist-worn wearables",
+    date = "2021-05-13",
+    issue = "4",
+    journal = "Physiological measurement",
+    url = "https://drive.google.com/file/d/1dS4zcCw997W3q3pnyJcLuhOKEjCr3CQX/view?usp=sharing",
+    pages = "044004",
+    volume = "42",
+    note = "Publisher: IOP Publishing"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="QiaoLi_2021_05_13_Transferlearning">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="QiaoLi_2021_05_13_Transferlearning">[show citation]</label>
 </div></div></td></tr><tr>
 <td>168</td>
 <td><div class="citation_container">
@@ -4497,28 +4497,6 @@ Stroux L, Redman CW, Georgieva A, Payne SJ, Clifford GD. <a href="https://drive.
 </div></div></td></tr><tr>
 <td>111</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="RachelHallClifford_2017_10_15_Sustainabletechnology">
-<div class="citation">
-Clifford RH, Roche S, Fathima S, Palmius N, Hollingworth K, Kennedy J, Merida J, Stephens M, Lavalley R, Rohloff P, Garcia P, Patrick S, Clifford GD. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-icEkzbUJvenZQTEU/view?usp=sharing&resourcekey=0-EaoFa2h40Y2y4-P1qc4ohg">Sustainable technology for surgical referrals: pilot implementation of an electronic referral system for short-term surgical missions</a>. Journal of Health Informatics in Developing Countries 2017 October 15; 11 (2).
-</div>
-<div class="bibtex_source"><pre>@article{RachelHallClifford_2017_10_15_Sustainabletechnology,
-    author = "Clifford, Rachel Hall and Roche, Stephanie and Fathima, Sana and Palmius, Niclas and Hollingworth, Kelly and Kennedy, Jennifer and Merida, Jasmin and Stephens, Meghan and Lavalley, Ryan and Rohloff, Peter and Garcia, Pablo and Patrick, Stephen and Clifford, Gari D",
-    title = "Sustainable technology for surgical referrals: pilot implementation of an electronic referral system for short-term surgical missions",
-    date = "2017-10-15",
-    issue = "2",
-    journal = "Journal of Health Informatics in Developing Countries",
-    url = "https://drive.google.com/file/d/0B5wjNvhEV8-icEkzbUJvenZQTEU/view?usp=sharing\&resourcekey=0-EaoFa2h40Y2y4-P1qc4ohg",
-    volume = "11"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="RachelHallClifford_2017_10_15_Sustainabletechnology">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="RachelHallClifford_2017_10_15_Sustainabletechnology">[show citation]</label>
-</div></div></td></tr><tr>
-<td>110</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LisaMuirhead_2017_10_01_Criticalquestions">
 <div class="citation">
 Muirhead L, Hall P, Jones-Taylor C, Clifford GD, Felton-Williams T, Williams K. <a href="https://drive.google.com/file/d/1Qq4mh7RqtL0VDEutStBl5oeJ1QocDEpa/view?usp=sharing">Critical questions: Advancing the health of female Veterans</a>. Journal of the American Association of Nurse Practitioners 2017 October; 29 (10): pp. 571-580.
@@ -4540,6 +4518,28 @@ Muirhead L, Hall P, Jones-Taylor C, Clifford GD, Felton-Williams T, Williams K. 
 </div>
 <div class="hidebibtex">
 <label for="LisaMuirhead_2017_10_01_Criticalquestions">[show citation]</label>
+</div></div></td></tr><tr>
+<td>110</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="RachelHallClifford_2017_10_15_Sustainabletechnology">
+<div class="citation">
+Clifford RH, Roche S, Fathima S, Palmius N, Hollingworth K, Kennedy J, Merida J, Stephens M, Lavalley R, Rohloff P, Garcia P, Patrick S, Clifford GD. <a href="https://drive.google.com/file/d/0B5wjNvhEV8-icEkzbUJvenZQTEU/view?usp=sharing&resourcekey=0-EaoFa2h40Y2y4-P1qc4ohg">Sustainable technology for surgical referrals: pilot implementation of an electronic referral system for short-term surgical missions</a>. Journal of Health Informatics in Developing Countries 2017 October 15; 11 (2).
+</div>
+<div class="bibtex_source"><pre>@article{RachelHallClifford_2017_10_15_Sustainabletechnology,
+    author = "Clifford, Rachel Hall and Roche, Stephanie and Fathima, Sana and Palmius, Niclas and Hollingworth, Kelly and Kennedy, Jennifer and Merida, Jasmin and Stephens, Meghan and Lavalley, Ryan and Rohloff, Peter and Garcia, Pablo and Patrick, Stephen and Clifford, Gari D",
+    title = "Sustainable technology for surgical referrals: pilot implementation of an electronic referral system for short-term surgical missions",
+    date = "2017-10-15",
+    issue = "2",
+    journal = "Journal of Health Informatics in Developing Countries",
+    url = "https://drive.google.com/file/d/0B5wjNvhEV8-icEkzbUJvenZQTEU/view?usp=sharing\&resourcekey=0-EaoFa2h40Y2y4-P1qc4ohg",
+    volume = "11"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="RachelHallClifford_2017_10_15_Sustainabletechnology">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="RachelHallClifford_2017_10_15_Sustainabletechnology">[show citation]</label>
 </div></div></td></tr><tr>
 <td>109</td>
 <td><div class="citation_container">
