@@ -7,18 +7,20 @@ permalink: /news
 <div onclick="">
 	<font size="5">A postdoctoral researcher at the Clifford Lab was profiled in The Scientist</font>
  <br>
- 	<em>February 2026</em> - <a herf="https://www.linkedin.com/in/johann-vargas-calixto/">Dr. Johann Vargas-Calixto</a>, a postdoctoral researcher working with Dr. Clifford, was featured in the Postodc Potrait series for <a https://www.the-scientist.com/postdoc-portrait-johann-vargas-calixto-74098>The Scientist</a>, a publication dedicated to covering a wide range of topics central to the life-science fields. The article covered his career to-date, his hopes, passions, and desire to be an espresso machine.
+ 	<em>February 2026</em> - <a herf="https://www.linkedin.com/in/johann-vargas-calixto/">Dr. Johann Vargas-Calixto</a>, a postdoctoral researcher working with Dr. Clifford, was featured in the Postodc Potrait series for <a href="https://www.the-scientist.com/postdoc-portrait-johann-vargas-calixto-74098">The Scientist</a>, a publication dedicated to covering a wide range of topics central to the life-science fields. The article covered his career to-date, his hopes, passions, and desire to be an espresso machine.
 </div>
 
 </details>
 
+<br>
 <details open><summary><font size="6">2025</font></summary>
 <div onclick="">
 	<font size="5">Dr. Gari Clifford has been elected a Fellow of the National Academy of Inventors</font>
  <br>
  	<em>December 2025</em> - Dr. Gari Clifford was elected as a <a href="https://academyofinventors.org/wp-content/uploads/2025/12/2025-Fellows-List.pdf">National Academy of Inventors (NAI) Fellow</a> on December 11th.  This honor recognizes his exceptional achievements as an inventor and his significant impact on the innovation ecosystem, economic development, and society. His election reflects not only his personal accomplishments but also his dedication to advancing technology and fostering innovation for the benefit of society. Dr. Clifford will be inducted as a Fellow of the Academy during the 15th Annual Conference in June 2026 in Los Angeles, California.
 </div>
-
+<br>
+	
 <div onclick="">
 	<font size="5">A PhD student at the Clifford Lab wins NextGen Scholar Recognition and Best Poster at IEEE BHI.</font>
  <br>
@@ -144,7 +146,7 @@ The competition will take place at <a href="https://www.isce.org/page/annualconf
 </div>
 </details>
 
-<br>
+
 <details><summary><font size="6">2023</font></summary>
 <div onclick="">
 	<font size="5">A postdoctoral fellow's paper won the 'Best Thematic Paper Award' at ML4H conference</font>
