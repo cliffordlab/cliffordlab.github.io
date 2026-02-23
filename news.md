@@ -3,7 +3,29 @@ title: News
 layout: page
 permalink: /news
 ---
+<details open><summary><font size="6">2026</font></summary>
+<div onclick="">
+	<font size="5">A postdoctoral researcher at the Clifford Lab was profiled in The Scientist</font>
+ <br>
+ 	<em>February 2026</em> - <a herf="https://www.linkedin.com/in/johann-vargas-calixto/">Dr. Johann Vargas-Calixto</a>, a postdoctoral researcher working with Dr. Clifford, was featured in the Postodc Potrait series for <a https://www.the-scientist.com/postdoc-portrait-johann-vargas-calixto-74098>The Scientist</a>, a publication dedicated to covering a wide range of topics central to the life-science fields. The article covered his career to-date, his hopes, passions, and desire to be an espresso machine.
+</div>
+
+</details>
+
 <details open><summary><font size="6">2025</font></summary>
+<div onclick="">
+	<font size="5">Dr. Gari Clifford has been elected a Fellow of the National Academy of Inventors</font>
+ <br>
+ 	<em>December 2025</em> - Dr. Gari Clifford was elected as a <a href="https://academyofinventors.org/wp-content/uploads/2025/12/2025-Fellows-List.pdf">National Academy of Inventors (NAI) Fellow</a> on December 11th.  This honor recognizes his exceptional achievements as an inventor and his significant impact on the innovation ecosystem, economic development, and society. His election reflects not only his personal accomplishments but also his dedication to advancing technology and fostering innovation for the benefit of society. Dr. Clifford will be inducted as a Fellow of the Academy during the 15th Annual Conference in June 2026 in Los Angeles, California.
+</div>
+
+<div onclick="">
+	<font size="5">A PhD student at the Clifford Lab wins NextGen Scholar Recognition and Best Poster at IEEE BHI.</font>
+ <br>
+ 	<em>October 2025</em> - <a href="https://www.linkedin.com/in/weitao-tang-1267a7245/?originalSubdomain=au">Weitao Tang</a>, a PhD student at Monash University working under the funding and supervision of Dr. Gari Clifford and <a href="https://www.linkedin.com/in/nasim-katebi-2730a179/">Dr. Katebi</a>, was awarded a <a href="https://bhi.embs.org/2025/registration-2/nsf-embs-google-sponsored-young-professional-nextgen-scholar-recognition/">NSF-EMBS-Google Sponsored Young Professional NextGen Scholar Recognition</a> for his IEEE BHI conference paper "Fetal Sleep State Classification using Deep Learning". Additionally, his accompanying poster was selected as the best poster on behalf of the research team, including Drs. Johann Vargas, Katebi, and Clifford, at the <a href="https://bhi.embs.org/2025/">2025 IEEE EMBS International Conference on Biomedical and Health Informatics</a>.
+</div>
+
+<br>
 
 <div onclick="">
 	<font size="5">Drs. Gari Clifford and Yashar Kiarashi received funding for a novel in-ear EEG monitoring for cognitive impairment.</font>
@@ -68,7 +90,7 @@ permalink: /news
 </details>
 
 <br>
-<details open><summary><font size="6">2024</font></summary>
+<details><summary><font size="6">2024</font></summary>
 <div onclick="">
 	<font size="5">Dr. Clifford has received a new NIH grant</font>
  <br>
