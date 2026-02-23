@@ -234,8 +234,8 @@ def format_doi(entry):
     if 'doi' not in entry.fields:
         return ""
     # sometimes people include the full url. we strip this off, and keep the
-    # last block of the form [something]/[something].
-    doi_entry="/".join(entry.fields['doi'].split('/')[:2])
+    # last block of the form [something]/[something] or [something]/[something]/[something].
+    doi_entry="/".join(entry.fields['doi'].split('/')[:3])
     return f"DOI: <a href=\"https://doi.org/{doi_entry}\">{doi_entry}</a>"
 
 def render_citation(entry):
