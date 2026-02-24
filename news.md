@@ -7,7 +7,7 @@ permalink: /news
 <div onclick="">
 	<font size="5">A postdoctoral researcher at the Clifford Lab was profiled in The Scientist</font>
  <br>
- 	<em>February 2026</em> - <a herf="https://www.linkedin.com/in/johann-vargas-calixto/">Dr. Johann Vargas-Calixto</a>, a postdoctoral researcher working with Dr. Clifford, was featured in the Postodc Potrait series for <a href="https://www.the-scientist.com/postdoc-portrait-johann-vargas-calixto-74098">The Scientist</a>, a publication dedicated to covering a wide range of topics central to the life-science fields. The article covered his career to-date, his hopes, passions, and desire to be an espresso machine.
+ 	<em>February 2026</em> - <a href="https://www.linkedin.com/in/johann-vargas-calixto/">Dr. Johann Vargas-Calixto</a>, a postdoctoral researcher working with Dr. Clifford, was featured in the Postodc Potrait series for <a href="https://www.the-scientist.com/postdoc-portrait-johann-vargas-calixto-74098">The Scientist</a>, a publication dedicated to covering a wide range of topics central to the life-science fields. The article covered his career to-date, his hopes, passions, and desire to be an espresso machine.
 </div>
 
 </details>
