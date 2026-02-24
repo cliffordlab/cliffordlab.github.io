@@ -110,7 +110,7 @@ Mu X, Bibars M, Seyedi S, Zheng I, Jiang Z, Chen L, Omofojoye B, Hershenberg R, 
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="WeitaoTang_2025_06_27_FetalSleep">
 <div class="citation">
-Tang W, Vargas-Calixto J, Katebi N, Galinsky R, Clifford GD, Marzbanrad F. <a href="https://drive.google.com/file/d/1rtlysXzWs8-5ghG0Jlh5ZLVqyBICHdAV/view?usp=sharing">Fetal Sleep: A Cross-Species Review of Physiology, Measurement, and Classification</a>. Sleep 2026 January 14; p. zsag003.
+Tang W, Vargas-Calixto J, Katebi N, Galinsky R, Clifford GD, Marzbanrad F. <a href="https://drive.google.com/file/d/1rtlysXzWs8-5ghG0Jlh5ZLVqyBICHdAV/view?usp=sharing">Fetal Sleep: A Cross-Species Review of Physiology, Measurement, and Classification</a>. Sleep 2026 January 14; p. zsag003. DOI: <a href="https://doi.org/10.1093/sleep/zsag003">10.1093/sleep/zsag003</a>.
 </div>
 <div class="bibtex_source"><pre>@article{WeitaoTang_2025_06_27_FetalSleep,
     author = "Tang, Weitao and Vargas-Calixto, Johann and Katebi, Nasim and Galinsky, Robert and Clifford, Gari D and Marzbanrad, Faezeh",
@@ -118,6 +118,7 @@ Tang W, Vargas-Calixto J, Katebi N, Galinsky R, Clifford GD, Marzbanrad F. <a hr
     date = "2026-01-14",
     journal = "Sleep",
     pages = "zsag003",
+    doi = "10.1093/sleep/zsag003",
     url = "https://drive.google.com/file/d/1rtlysXzWs8-5ghG0Jlh5ZLVqyBICHdAV/view?usp=sharing"
 }
 </pre>
