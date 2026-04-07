@@ -5,6 +5,13 @@ permalink: /news
 ---
 <details open><summary><font size="6">2026</font></summary>
 <div onclick="">
+	<font size="5">Dr. Clifford recieved a RSPH Accelerator Award</font>
+ <br>
+ 	<em>February 2026</em> - Dr. Gari Clifford was awarded, with collaborators in Rollins, a <a href="https://sph.emory.edu/research/accelerators">RSPH Accelerator Award</a> of $176,433 for “AI-Enabled Early Detection of Maternal Hypertension and Pre-Eclampsia in an Under-Resources Georgia Community.” The RSPH Accelerator Awards are intended to support research projects emerging from RSPH Accelerators that can accelerate work across two or more departments. This project will leverage the <a href="https://safenatal.org/">safe+natal</a> toolkit as part of a community-based prenatal program to improve the recognition and treatment of maternal hypertension and pre-eclampsia among pregnant women in Clarkston, GA.
+</div>
+<br>
+	
+<div onclick="">
 	<font size="5">A postdoctoral researcher at the Clifford Lab was profiled in The Scientist</font>
  <br>
  	<em>February 2026</em> - <a href="https://www.linkedin.com/in/johann-vargas-calixto/">Dr. Johann Vargas-Calixto</a>, a postdoctoral researcher working with Dr. Clifford, was featured in the Postodc Potrait series for <a href="https://www.the-scientist.com/postdoc-portrait-johann-vargas-calixto-74098">The Scientist</a>, a publication dedicated to covering a wide range of topics central to the life-science fields. The article covered his career to-date, his hopes, passions, and desire to be an espresso machine.
