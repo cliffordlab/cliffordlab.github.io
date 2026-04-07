@@ -7,7 +7,7 @@ permalink: /news
 <div onclick="">
 	<font size="5">Dr. Clifford recieved a RSPH Accelerator Award</font>
  <br>
- 	<em>February 2026</em> - Dr. Gari Clifford was awarded, with collaborators in Rollins, a <a href="https://sph.emory.edu/research/accelerators">RSPH Accelerator Award</a> of $176,433 for “AI-Enabled Early Detection of Maternal Hypertension and Pre-Eclampsia in an Under-Resources Georgia Community.” The RSPH Accelerator Awards are intended to support research projects emerging from RSPH Accelerators that can accelerate work across two or more departments. This project will leverage the <a href="https://safenatal.org/">safe+natal</a> toolkit as part of a community-based prenatal program to improve the recognition and treatment of maternal hypertension and pre-eclampsia among pregnant women in Clarkston, GA.
+ 	<em>March 2026</em> - Dr. Gari Clifford was awarded, with collaborators in Rollins, a <a href="https://sph.emory.edu/research/accelerators">RSPH Accelerator Award</a> of $176,433 for “AI-Enabled Early Detection of Maternal Hypertension and Pre-Eclampsia in an Under-Resources Georgia Community.” The RSPH Accelerator Awards are intended to support research projects emerging from RSPH Accelerators that can accelerate work across two or more departments. This project will leverage the <a href="https://safenatal.org/">safe+natal</a> toolkit as part of a community-based prenatal program to improve the recognition and treatment of maternal hypertension and pre-eclampsia among pregnant women in Clarkston, GA.
 </div>
 <br>
 	
