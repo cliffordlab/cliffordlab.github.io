@@ -97,8 +97,8 @@ Emory University
 ![lab-member](/people/lab_members/velez.x.JPG)
 
 <div class="small-icons"></div>
-**PhD Student**\
-School of Electrical and Computer Engineering
+**PhD Student**  
+School of Electrical and Computer Engineering  
 Georgia Institute of Technology
 
 ## Mohammad Ahmad
