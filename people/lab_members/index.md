@@ -93,6 +93,14 @@ Emory University
 Department of Gynecology and Obstetrics\
 Emory University
 
+## Xavier A Velez
+![lab-member](/people/lab_members/velez.x.JPG)
+
+<div class="small-icons"></div>
+**PhD Student**
+School of Electrical and Computer Engineering\
+Georgia Institute of Technology
+
 ## Mohammad Ahmad
 ![lab-member](/people/lab_members/mohammad_ahmad.png)
 
