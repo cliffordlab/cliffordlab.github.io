@@ -98,7 +98,7 @@ Emory University
 
 <div class="small-icons"></div>
 **PhD Student**
-School of Electrical and Computer Engineering
+School of Electrical and Computer Engineering\
 Georgia Institute of Technology
 
 ## Mohammad Ahmad
