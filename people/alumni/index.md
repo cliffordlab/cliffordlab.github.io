@@ -71,9 +71,9 @@ permalink: /alumni
 20. Katebi, N. (Postdoc.) Fetal Growth Restriction in Low-Resource Settings, BMI, Emory University, 2021 – 2023
 21. Kwon, H. (Postdoc.) Tracking and Assessing MCI using Off-body Sensors, BMI, Emory University, 2022 – 2023
 22. Seyedi, S. (Postdoc.) Eye-tracking and Facial Expressions for Assessing MCI, BMI, Emory University, 2019 – 2023
-23. Bahrami Rad, A. PhD. Associate Professor at the University of North Dakota, 2020
-24. Shirazi, M. PhD. Now a Machine Learning Engineer and Data Scientist at Optum, 2023-2026
-25. Hegde, C. PhD. Now Cloud Engineer at Walma, 2024-2025
+23. Bahrami Rad, A. (Ph.D.) Now Associate Professor at the University of North Dakota, 2020
+24. Shirazi, M. (Ph.D.) Now Machine Learning Engineer and Data Scientist at Optum, 2023-2026
+25. Hegde, C. (Ph.D.) Now Cloud Engineer at Walma, 2024-2025
 
 &nbsp;
 ## <u>Research Staff:</u>
