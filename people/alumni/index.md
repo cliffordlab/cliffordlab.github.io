@@ -71,6 +71,9 @@ permalink: /alumni
 20. Katebi, N. (Postdoc.) Fetal Growth Restriction in Low-Resource Settings, BMI, Emory University, 2021 – 2023
 21. Kwon, H. (Postdoc.) Tracking and Assessing MCI using Off-body Sensors, BMI, Emory University, 2022 – 2023
 22. Seyedi, S. (Postdoc.) Eye-tracking and Facial Expressions for Assessing MCI, BMI, Emory University, 2019 – 2023
+23. Bahrami Rad, A. PhD. Associate Professor at the University of North Dakota, 2020
+24. Shirazi, M. PhD. Now a Machine Learning Engineer and Data Scientist at Optum, 2023-2026
+25. Hegde, C. PhD. Now Cloud Engineer at Walma, 2024-2025
 
 &nbsp;
 ## <u>Research Staff:</u>
@@ -83,6 +86,8 @@ permalink: /alumni
 6. Hogg, W. - Project Manager and Full Stack Software Engineer, BMI, Emory University, 2016 – 2021
 7. Nguyen, T. - Full Stack Software Engineer and Cloud Systems Engineer, BMI, Emory University, 2016 – 2022
 8. Shaw, C. - Mobile App Developer, BMI, Emory University, 2020 – 2022 (intern 2018-2019)
+9. Simms, R. Now a Labor and Delivery Nurse at Northside Hospital and Sonographer at Kaiser Permanente, 2023-2025
+10. Reynolds, S. Now a Physician Assistant Student, 2023-2026
 
 &nbsp;
 ## <u>Predoctoral MPhil, MEng, MSc, Undergraduate, and Interns:</u>
@@ -123,6 +128,8 @@ permalink: /alumni
 34. Singh, R. (MS), Fusion of Accelerometer and Bluetooth Data for tracking motion, 2020-2022
 35. Madala, K.V.S (MS), Acoustic event analysis in a built environment, 2020-2022 
 36. Desai, P. (Undergrad/capstone), Video analytics for MCI behaviors, 2020-2023
+37. Korikana, M. Now Software Engineer, AWS, 2023-2025
+38. Aghomo, C. Now an Associate Clinical Specialist in Electrophysiology at Abbott, 2024-2025
 
 
 \
