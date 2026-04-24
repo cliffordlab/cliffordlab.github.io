@@ -128,7 +128,7 @@ permalink: /alumni
 34. Singh, R. (MS), Fusion of Accelerometer and Bluetooth Data for tracking motion, 2020-2022
 35. Madala, K.V.S (MS), Acoustic event analysis in a built environment, 2020-2022 
 36. Desai, P. (Undergrad/capstone), Video analytics for MCI behaviors, 2020-2023
-37. Korikana, M. Now Software Engineer, AWS, 2023-2025
+37. Korikana, M. Now Software Engineer at AWS, 2023-2025
 38. Aghomo, C. Now an Associate Clinical Specialist in Electrophysiology at Abbott, 2024-2025
 
 
