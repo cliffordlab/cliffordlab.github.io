@@ -73,7 +73,7 @@ permalink: /alumni
 22. Seyedi, S. (Postdoc.) Eye-tracking and Facial Expressions for Assessing MCI, BMI, Emory University, 2019 – 2023
 23. Bahrami Rad, A. (Ph.D.) Now Associate Professor at the University of North Dakota, 2020
 24. Shirazi, M. (Ph.D.) Now Machine Learning Engineer and Data Scientist at Optum, 2023-2026
-25. Hegde, C. (Ph.D.) Now Cloud Engineer at Walma, 2024-2025
+25. Hegde, C. (Ph.D.) Now Cloud Engineer at Walmart, 2024-2025
 
 &nbsp;
 ## <u>Research Staff:</u>
