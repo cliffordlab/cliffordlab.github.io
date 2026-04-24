@@ -12,14 +12,6 @@ Department of Biomedical Informatics
 Emory University  
 
 
-## Ali Bahrami Rad, PhD
-![lab-member](/people/lab_members/ali_rad.jpg)
-
-**Assistant Professor**  
-Department of Biomedical Informatics  
-Emory University 
-
-
 ## Salman Seyedi, PhD
 ![lab-member](/people/lab_members/sseyedi.jpg)
 
@@ -29,14 +21,6 @@ Department of Biomedical Informatics
 Emory University  
 
 
-## Chaitra Hegde, PhD
-![lab-member](/people/lab_members/chaitra.png)
-
-<div class="small-icons"></div>
-**Research Engineer**  
-Department of Biomedical Informatics  
-Emory University  
-
 ## Zuzana Koscova
 ![lab-member](/people/lab_members/zuzana.png)
 
@@ -45,13 +29,6 @@ Emory University
 Department of Biomedical Informatics  
 Emory University  
 
-## Mohsen Shirazi, PhD
-![lab-member](/people/lab_members/mohsen.png)
-
-<div class="small-icons"></div>
-**Postdoc**  
-Department of Biomedical Informatics  
-Emory University  
 
 ## Sepideh Nikookar, PhD
 ![lab-member](/people/lab_members/sepideh_nikookar.png)
@@ -77,21 +54,6 @@ Emory University
 Department of Biomedical Informatics  
 Emory University
 
-## Ronja Simms
-![lab-member](/people/lab_members/ronja.jpeg)
-
-<div class="small-icons"></div>
-**Study Nurse**  
-Department of Biomedical Informatics\
-Emory University
-
-## Shanice Reynolds
-![lab-member](/people/lab_members/reynolds.JPG)
-
-<div class="small-icons"></div>
-**Study Coordinator**  
-Department of Gynecology and Obstetrics\
-Emory University
 
 ## Xavier A Velez
 ![lab-member](/people/lab_members/velez.x.JPG)
@@ -109,13 +71,6 @@ Georgia Institute of Technology
 School of Electrical and Computer Engineering  
 Georgia Institute of Technology
 
-## Murali K Korikana
-![lab-member](/people/lab_members/murali.png)
-
-<div class="small-icons"></div>
-**Masters Student**  
-Computer Science\
-Georgia Institute of Technology
 
 ## Claire Aghomo
 ![lab-member](/people/lab_members/claire.png)
