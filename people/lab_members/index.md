@@ -54,7 +54,7 @@ Emory University
 Department of Biomedical Informatics  
 Emory University
 
-## Alireza Rafiei
+## [Alireza Rafiei](https://alirezaaccelerates.github.io/)
 ![lab-member](/people/lab_members/rafiei_alireza.jpg)
 
 <div class="small-icons"></div>
@@ -89,7 +89,7 @@ Georgia Institute of Technology
 
 
 ## Sravya Potluru
-![lab-member](/people/lab_members/potluru_sravya.png)
+![lab-member](/people/lab_members/potluru_sravya.jpg)
 
 <div class="small-icons"></div>
 **Undergraduate Student**  
