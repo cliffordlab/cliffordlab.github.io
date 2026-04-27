@@ -31,7 +31,7 @@ permalink: /alumni
 23. Sheikh, S. (Ph.D.) Expert and non-expert label aggregation for bootstrapping cardiac labels, Georgia Institute of Technology, 2018 – 2022 [Returned to work in Pakistan Govt Research]
 24. Waters, S. (Ph.D.) Methods For Generalized Low-dimensional EEG Analysis Using Transfer Learning, Georgia Institute of Technology, 2018 – 2023 [Now Postdoc at Harvard]
 25. Jiang, Z. (Ph.D.) Multimodal assessment of neuropsychiatric disorders using audiovisual recordings, Georgia Institute of Technology, 2018 – 2023 [Now CEO of startup]
-26. Hedge, C. (Ph.D.), Objective Behavioral Analysis in Mild Cognitive Impairment, Georgia Institute of Technology, 2018 – 2023 [Now Research Engineer at Emory]
+26. Hedge, C. (Ph.D.), Objective Behavioral Analysis in Mild Cognitive Impairment, Georgia Institute of Technology, 2018 – 2023 [Now Cloud Engineer at Walmart]
 
 \
 &nbsp;&nbsp; <u><b>As secondary supervisor:</b></u>
@@ -73,7 +73,7 @@ permalink: /alumni
 22. Seyedi, S. (Postdoc.) Eye-tracking and Facial Expressions for Assessing MCI, BMI, Emory University, 2019 – 2023
 23. Bahrami Rad, A. (Ph.D.) Now Associate Professor at the University of North Dakota, 2020
 24. Shirazi, M. (Ph.D.) Now Machine Learning Engineer and Data Scientist at Optum, 2023-2026
-25. Hegde, C. (Ph.D.) Now Cloud Engineer at Walmart, 2024-2025
+
 
 &nbsp;
 ## <u>Research Staff:</u>
