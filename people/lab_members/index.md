@@ -54,6 +54,13 @@ Emory University
 Department of Biomedical Informatics  
 Emory University
 
+## Alireza Rafiei
+![lab-member](/people/lab_members/headshot - AR.jpg)
+
+<div class="small-icons"></div>
+**PhD Student, Co-Supervised by Prof. Nasim Katebi**  
+Computer Science and Informatics\
+Emory University
 
 ## Xavier A Velez
 ![lab-member](/people/lab_members/velez.x.JPG)
@@ -81,3 +88,10 @@ Department of Biomedical Engineering\
 Georgia Institute of Technology
 
 
+## Sravya Potluru
+![lab-member](/people/lab_members/Sri Sravya Potluru_ Headshot.png)
+
+<div class="small-icons"></div>
+**Undergraduate Student**  
+Computer Science\
+Georgia Institute of Technology
