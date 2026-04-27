@@ -55,7 +55,7 @@ Department of Biomedical Informatics
 Emory University
 
 ## Alireza Rafiei
-![lab-member](/people/lab_members/headshot - AR.jpg)
+![lab-member](/people/lab_members/rafiei_alireza.jpg)
 
 <div class="small-icons"></div>
 **PhD Student, Co-Supervised by Prof. Nasim Katebi**  
@@ -89,7 +89,7 @@ Georgia Institute of Technology
 
 
 ## Sravya Potluru
-![lab-member](/people/lab_members/Sri Sravya Potluru_ Headshot.png)
+![lab-member](/people/lab_members/potluru_sravya.png)
 
 <div class="small-icons"></div>
 **Undergraduate Student**  
