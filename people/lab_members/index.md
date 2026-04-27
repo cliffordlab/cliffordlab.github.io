@@ -89,7 +89,7 @@ Georgia Institute of Technology
 
 
 ## Sravya Potluru
-![lab-member](/people/lab_members/potluru_sravya.jpg)
+![lab-member](/people/lab_members/potluru.jpg)
 
 <div class="small-icons"></div>
 **Undergraduate Student**  
