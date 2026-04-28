@@ -62,6 +62,14 @@ Emory University
 Computer Science and Informatics\
 Emory University
 
+## Weitao Tang
+![lab-member](/people/lab_members/weitao_tang.jpeg)
+
+<div class="small-icons"></div>
+**Visiting PhD Student from Monash University, Co-supervised by Prof. Faezeh Marzbanrad**  
+Artificial Intelligence in Medical Technology\
+Monash University
+
 ## Xavier A Velez
 ![lab-member](/people/lab_members/velez.x.JPG)
 
