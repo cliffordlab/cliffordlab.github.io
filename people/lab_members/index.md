@@ -62,7 +62,7 @@ Emory University
 Computer Science and Informatics\
 Emory University
 
-## Weitao Tang
+## [Weitao Tang](https://weitaotang-github.github.io/)
 ![lab-member](/people/lab_members/weitao_tang.jpeg)
 
 <div class="small-icons"></div>
@@ -95,6 +95,12 @@ Georgia Institute of Technology
 Department of Biomedical Engineering\
 Georgia Institute of Technology
 
+## Ellen Kolesnikova
+![lab-member](/people/lab_members/ellen.jpeg)
+
+<div class="small-icons"></div>
+**Undergraduate Student**  
+Georgia Institute of Technology
 
 ## Sravya Potluru
 ![lab-member](/people/lab_members/potluru.jpg)
