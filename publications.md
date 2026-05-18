@@ -15,15 +15,17 @@ permalink: /publications
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JustinLCSantos_2026_05_14_Socialsupport">
 <div class="citation">
-Santos JL, Rooij SJ, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Jovanovic T, Linnstaedt SD, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Hudak LA, Pascual JL, Seamon MJ, Harris E, Pearson C, Peak DA, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Bruce SE, Harte SE, Kessler RC, Koenen KC, Ressler KJ, McLean SA, Stevens JS. <a href="https://www.sciencedirect.com/science/article/pii/S2950004426000155">Social support and post-traumatic stress symptoms: Longitudinal bidirectional relationships in the AURORA study</a>. Journal of Mood & Anxiety Disorders 2026 May 14; p. 100180.
+Santos JL, Rooij SJ, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Jovanovic T, Linnstaedt SD, Rauch SL, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Swor RA, Hudak LA, Pascual JL, Seamon MJ, Harris E, Pearson C, Peak DA, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Bruce SE, Harte SE, Kessler RC, Koenen KC, Ressler KJ, McLean SA, Stevens JS. <a href="https://drive.google.com/file/d/1MbSl5V1aoUCqzWK_mHg6IhMAEQPiUHDJ/view?usp=sharing">Social support and post-traumatic stress symptoms: Longitudinal bidirectional relationships in the AURORA study</a>. Journal of Mood & Anxiety Disorders 2026 May 14; 14: p. 100180. DOI: <a href="https://doi.org/10.1016/j.xjmad.2026.100180">10.1016/j.xjmad.2026.100180</a>.
 </div>
 <div class="bibtex_source"><pre>@article{JustinLCSantos_2026_05_14_Socialsupport,
     author = "Santos, Justin LC and van Rooij, Sanne JH and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Neylan, Thomas C and Clifford, Gari D and Jovanovic, Tanja and Linnstaedt, Sarah D and Rauch, Scott L and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Swor, Robert A and Hudak, Lauren A and Pascual, Jose L and Seamon, Mark J and Harris, Erica and Pearson, Claire and Peak, David A and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sergot, Paulina and Sanchez, Leon D and Bruce, Steven E and Harte, Steven E and Kessler, Ronald C and Koenen, Karestan C and Ressler, Kerry J and McLean, Samuel A and Stevens, Jennifer S",
     title = "Social support and post-traumatic stress symptoms: Longitudinal bidirectional relationships in the AURORA study",
     date = "2026-05-14",
-    journal = "Journal of Mood {\\&} Anxiety Disorders",
-    url = "https://www.sciencedirect.com/science/article/pii/S2950004426000155",
+    journal = "Journal of Mood \& Anxiety Disorders",
+    url = "https://drive.google.com/file/d/1MbSl5V1aoUCqzWK\_mHg6IhMAEQPiUHDJ/view?usp=sharing",
+    volume = "14",
     pages = "100180",
+    doi = "10.1016/j.xjmad.2026.100180",
     note = "Publisher: Elsevier"
 }
 </pre>
@@ -34,6 +36,30 @@ Santos JL, Rooij SJ, House SL, Beaudoin FL, An X, Neylan TC, Clifford GD, Jovano
 <label for="JustinLCSantos_2026_05_14_Socialsupport">[show citation]</label>
 </div></div></td></tr><tr>
 <td>308</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="KristenNishimi_2026_01_Inflammatorymarkers">
+<div class="citation">
+Nishimi K, Linnstaedt SD, Neylan TC, McKibben LA, Albertorio-S<span class="bibtex-protected">á</span>ez LM, Zhao Y, House SL, Beaudoin FL, An X, Stevens JS, Clifford GD, Jovanovic T, Germine LT, Rauch SL, Haran JP, Storrow AB, Jr PIM, Hendry PL, Sheikh S, Punches BE, Swor RA, Pascual JL, Seamon MJ, Datner EM, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Bruce SE, Harte SE, Kessler RC, Koenen KC, Ressler KJ, McLean SA, O'Donovan A. <a href="https://drive.google.com/file/d/1SHtQhRC28w3LtN9XGv9hJlQJ8yA2kmS_/view?usp=sharing">Inflammatory markers in the emergency department and PTSD symptoms in the AURORA Study: A longitudinal cohort study</a>. Psychological Medicine 2026 May 8; 56: p. e123. DOI: <a href="https://doi.org/10.1017/S0033291726103833">10.1017/S0033291726103833</a>.
+</div>
+<div class="bibtex_source"><pre>@article{KristenNishimi_2026_01_Inflammatorymarkers,
+    author = "Nishimi, Kristen and Linnstaedt, Sarah D and Neylan, Thomas C and McKibben, Lauren A and Albertorio-S{\'a}ez, Liz Marie and Zhao, Ying and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Stevens, Jennifer S and Clifford, Gari D and Jovanovic, Tanja and Germine, Laura T and Rauch, Scott L and Haran, John P and Storrow, Alan B and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Punches, Brittany E and Swor, Robert A and Pascual, Jose L and Seamon, Mark J and Datner, Elizabeth M and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sergot, Paulina and Sanchez, Leon D and Bruce, Steven E and Harte, Steven E and Kessler, Ronald C and Koenen, Karestan C and Ressler, Kerry J and McLean, Samuel A and O'Donovan, Aoife",
+    title = "Inflammatory markers in the emergency department and PTSD symptoms in the AURORA Study: A longitudinal cohort study",
+    date = "2026-05-08",
+    journal = "Psychological Medicine",
+    url = "https://drive.google.com/file/d/1SHtQhRC28w3LtN9XGv9hJlQJ8yA2kmS\_/view?usp=sharing",
+    pages = "e123",
+    volume = "56",
+    doi = "10.1017/S0033291726103833",
+    note = "Publisher: Cambridge University Press"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="KristenNishimi_2026_01_Inflammatorymarkers">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="KristenNishimi_2026_01_Inflammatorymarkers">[show citation]</label>
+</div></div></td></tr><tr>
+<td>307</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="EKateWebb_2026_04_02_NeighborhoodDisadvantage">
 <div class="citation">
@@ -55,7 +81,7 @@ Webb EK, Zannas AS, Linnstaedt SD, House SL, Beaudoin FL, An X, Stevens JS, Neyl
 <div class="hidebibtex">
 <label for="EKateWebb_2026_04_02_NeighborhoodDisadvantage">[show citation]</label>
 </div></div></td></tr><tr>
-<td>307</td>
+<td>306</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MohamedAlmadi_UnknownDate_ContinuousBeattoBeat">
 <div class="citation">
@@ -76,7 +102,7 @@ Almadi M, Zhu G, Zheng Y, Li Q, Yang Y, Gong JS, Strangman G, Xiang T, Liu Z, Zh
 <div class="hidebibtex">
 <label for="MohamedAlmadi_UnknownDate_ContinuousBeattoBeat">[show citation]</label>
 </div></div></td></tr><tr>
-<td>306</td>
+<td>305</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GregoryBHooke_2026_03_23_AutomatedElectronic">
 <div class="citation">
@@ -100,7 +126,7 @@ Hooke GB, Sun H, Clive C, Boris S, Turley N, Petersen L, Searle J, Overmeer B, Y
 <div class="hidebibtex">
 <label for="GregoryBHooke_2026_03_23_AutomatedElectronic">[show citation]</label>
 </div></div></td></tr><tr>
-<td>305</td>
+<td>304</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AyushTripathi_2026_03_10_PediatricSleepNet">
 <div class="citation">
@@ -123,19 +149,19 @@ Tripathi A, Gupta A, Ganglberger W, Waters S, Sun H, Nasiri S, Mitra A, Stone KL
 <div class="hidebibtex">
 <label for="AyushTripathi_2026_03_10_PediatricSleepNet">[show citation]</label>
 </div></div></td></tr><tr>
-<td>304</td>
+<td>303</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RandIbrahim_2026_03_01_Noveluse">
 <div class="citation">
-Ibrahim R, Rad AB, Toye M, Debakey M, El-Chami M, Iravanian S, Shah A, Lloyd M, Westerman S, Merchant FM, Clifford G, Bhatia NK. <a href="https://www.heartrhythmjournal.com/article/S1547-5271(25)03064-4/abstract">Novel use of KardiaMobile device to assess for vector suitability for subcutaneous implantable cardioverter-defibrillator implantation</a>. Heart Rhythm 2026 March 1; 23 (3): pp. e500-e501.
+Ibrahim R, Rad AB, Toye M, Debakey M, El-Chami M, Iravanian S, Shah A, Lloyd M, Westerman S, Merchant FM, Clifford GD, Bhatia NK. <a href="https://drive.google.com/file/d/1ctWm8vXJKgjZ58FpjlOa1jQeClAGfS10/view?usp=sharing">Novel use of KardiaMobile device to assess for vector suitability for subcutaneous implantable cardioverter-defibrillator implantation</a>. Heart Rhythm 2026 March 1; 23 (3): pp. e500-e501.
 </div>
 <div class="bibtex_source"><pre>@article{RandIbrahim_2026_03_01_Noveluse,
-    author = "Ibrahim, Rand and Rad, Ali Bahrami and Toye, Mikael and Debakey, Michael and El-Chami, Mikhael and Iravanian, Shahriar and Shah, Anand and Lloyd, Michael and Westerman, Stacy and Merchant, Faisal M and Clifford, Gari and Bhatia, Neal K",
+    author = "Ibrahim, Rand and Rad, Ali Bahrami and Toye, Mikael and Debakey, Michael and El-Chami, Mikhael and Iravanian, Shahriar and Shah, Anand and Lloyd, Michael and Westerman, Stacy and Merchant, Faisal M and Clifford, Gari D and Bhatia, Neal K",
     title = "Novel use of KardiaMobile device to assess for vector suitability for subcutaneous implantable cardioverter-defibrillator implantation",
     date = "2026-03-01",
     issue = "3",
     journal = "Heart Rhythm",
-    url = "https://www.heartrhythmjournal.com/article/S1547-5271(25)03064-4/abstract",
+    url = "https://drive.google.com/file/d/1ctWm8vXJKgjZ58FpjlOa1jQeClAGfS10/view?usp=sharing",
     pages = "e500-e501",
     volume = "23",
     note = "Publisher: Elsevier"
@@ -147,7 +173,7 @@ Ibrahim R, Rad AB, Toye M, Debakey M, El-Chami M, Iravanian S, Shah A, Lloyd M, 
 <div class="hidebibtex">
 <label for="RandIbrahim_2026_03_01_Noveluse">[show citation]</label>
 </div></div></td></tr><tr>
-<td>303</td>
+<td>302</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AlirezaRafiei_2026_02_05_Towardselfvalidating">
 <div class="citation">
@@ -171,7 +197,7 @@ Rafiei A, Dwivedi T, Xue J, Schlesinger DE, Katebi N, Albert DE, Clifford GD. <a
 <div class="hidebibtex">
 <label for="AlirezaRafiei_2026_02_05_Towardselfvalidating">[show citation]</label>
 </div></div></td></tr><tr>
-<td>302</td>
+<td>301</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AmyDRodriguez_2026_01_Rationaleand">
 <div class="citation">
@@ -194,7 +220,7 @@ Rodriguez AD, DuBose JR, Rozga A, Zimring CM, Mynatt ED, Clifford GD, Vickers KL
 <div class="hidebibtex">
 <label for="AmyDRodriguez_2026_01_Rationaleand">[show citation]</label>
 </div></div></td></tr><tr>
-<td>301</td>
+<td>300</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="XiaofanMu_2025_11_27_Feasibilityof">
 <div class="citation">
@@ -216,29 +242,6 @@ Mu X, Bibars M, Seyedi S, Zheng I, Jiang Z, Chen L, Omofojoye B, Hershenberg R, 
 </div>
 <div class="hidebibtex">
 <label for="XiaofanMu_2025_11_27_Feasibilityof">[show citation]</label>
-</div></div></td></tr><tr>
-<td>300</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="KristenNishimi_2026_01_Inflammatorymarkers">
-<div class="citation">
-Nishimi K, Linnstaedt SD, Neylan TC, McKibben LA, Albertorio-S<span class="bibtex-protected">á</span>ez LM, Zhao Y, House SL, Beaudoin FL, An X, Stevens JS, Clifford GD, Jovanovic T, Germine LT, Rauch SL, Haran JP, Storrow AB, Jr PIM, Hendry PL, Sheikh S, Punches BE, Swor RA, Pascual JL, Seamon MJ, Datner EM, Pearson C, Peak DA, Merchant RC, Domeier RM, Rathlev NK, O<span class="bibtex-protected">\textquoteright </span>Neil BJ, Sergot P, Sanchez LD, Bruce SE, Harte SE, Kessler RC, Koenen KC, Ressler KJ, McLean SA, O<span class="bibtex-protected">\textquoteright </span>Donovan A. <a href="https://www.cambridge.org/core/journals/psychological-medicine/article/inflammatory-markers-in-the-emergency-department-and-ptsd-symptoms-in-the-aurora-study-a-longitudinal-cohort-study/D4A03EBB55E3E88FE007453B5BE00007">Inflammatory markers in the emergency department and PTSD symptoms in the AURORA Study: A longitudinal cohort study</a>. Psychological Medicine 2026 January; 56: p. e123.
-</div>
-<div class="bibtex_source"><pre>@article{KristenNishimi_2026_01_Inflammatorymarkers,
-    author = "Nishimi, Kristen and Linnstaedt, Sarah D and Neylan, Thomas C and McKibben, Lauren A and Albertorio-S{\'a}ez, Liz Marie and Zhao, Ying and House, Stacey L and Beaudoin, Francesca L and An, Xinming and Stevens, Jennifer S and Clifford, Gari D and Jovanovic, Tanja and Germine, Laura T and Rauch, Scott L and Haran, John P and Storrow, Alan B and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Punches, Brittany E and Swor, Robert A and Pascual, Jose L and Seamon, Mark J and Datner, Elizabeth M and Pearson, Claire and Peak, David A and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and O{\textquoteright}Neil, Brian J and Sergot, Paulina and Sanchez, Leon D and Bruce, Steven E and Harte, Steven E and Kessler, Ronald C and Koenen, Karestan C and Ressler, Kerry J and McLean, Samuel A and O{\textquoteright}Donovan, Aoife",
-    title = "Inflammatory markers in the emergency department and PTSD symptoms in the AURORA Study: A longitudinal cohort study",
-    date = "2026-01",
-    journal = "Psychological Medicine",
-    url = "https://www.cambridge.org/core/journals/psychological-medicine/article/inflammatory-markers-in-the-emergency-department-and-ptsd-symptoms-in-the-aurora-study-a-longitudinal-cohort-study/D4A03EBB55E3E88FE007453B5BE00007",
-    pages = "e123",
-    volume = "56",
-    note = "Publisher: Cambridge University Press"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="KristenNishimi_2026_01_Inflammatorymarkers">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="KristenNishimi_2026_01_Inflammatorymarkers">[show citation]</label>
 </div></div></td></tr><tr>
 <td>299</td>
 <td><div class="citation_container">
