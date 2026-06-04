@@ -11,20 +11,21 @@ permalink: /publications
 
 <table>
 <tr>
-<td>310</td>
+<td>311</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NicoleAShort_2026_06_01_SmartphoneKeystroke">
 <div class="citation">
-Short NA, An X, Ji Y, Li Q, Neylan TC, Clifford GD, House SL, Beaudoin FL, Stevens JS, Linnstaedt SD, Germine LT, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Pascual JL, Seamon MJ, Harris E, Pearson C, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Bruce SE, Kessler RC, Koenen KC, Ressler KJ, McLean SA. <a href="https://www.jmir.org/2026/1/e73771/">Smartphone Keystroke Biomarkers as Predictors of Adverse Neuropsychiatric Sequelae After Trauma in Trauma Survivors: Prospective Observational Cohort Study</a>. Journal of Medical Internet Research 2026 June 1; 28: p. e73771.
+Short NA, An X, Ji Y, Li Q, Neylan TC, Clifford GD, House SL, Beaudoin FL, Stevens JS, Linnstaedt SD, Germine LT, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Pascual JL, Seamon MJ, Harris E, Pearson C, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Bruce SE, Kessler RC, Koenen KC, Ressler KJ, McLean SA. <a href="https://drive.google.com/file/d/1nMlkWgmHUVuXBegaxglk1uaKkpxZXHrf/view?usp=sharing">Smartphone Keystroke Biomarkers as Predictors of Adverse Neuropsychiatric Sequelae After Trauma in Trauma Survivors: Prospective Observational Cohort Study</a>. Journal of Medical Internet Research 2026 June 1; 28: p. e73771. DOI: <a href="https://doi.org/10.2196/73771">10.2196/73771</a>.
 </div>
 <div class="bibtex_source"><pre>@article{NicoleAShort_2026_06_01_SmartphoneKeystroke,
     author = "Short, Nicole A and An, Xinming and Ji, Yinyao and Li, Qinghua and Neylan, Thomas C and Clifford, Gari D and House, Stacey L and Beaudoin, Francesca L and Stevens, Jennifer S and Linnstaedt, Sarah D and Germine, Laura T and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Pascual, Jose L and Seamon, Mark J and Harris, Erica and Pearson, Claire and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sergot, Paulina and Sanchez, Leon D and Bruce, Steven E and Kessler, Ronald C and Koenen, Karestan C and Ressler, Kerry J and McLean, Samuel A",
     title = "Smartphone Keystroke Biomarkers as Predictors of Adverse Neuropsychiatric Sequelae After Trauma in Trauma Survivors: Prospective Observational Cohort Study",
     date = "2026-06-01",
     journal = "Journal of Medical Internet Research",
-    url = "https://www.jmir.org/2026/1/e73771/",
+    url = "https://drive.google.com/file/d/1nMlkWgmHUVuXBegaxglk1uaKkpxZXHrf/view?usp=sharing",
     pages = "e73771",
     volume = "28",
+    doi = "10.2196/73771",
     note = "Publisher: JMIR Publications"
 }
 </pre>
@@ -33,6 +34,28 @@ Short NA, An X, Ji Y, Li Q, Neylan TC, Clifford GD, House SL, Beaudoin FL, Steve
 </div>
 <div class="hidebibtex">
 <label for="NicoleAShort_2026_06_01_SmartphoneKeystroke">[show citation]</label>
+</div></div></td></tr><tr>
+<td>310</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="MohamedBJalloh_2026_05_30_Healthsystembarriers">
+<div class="citation">
+Jalloh MB, Jalloh F, Baldeh M, Lorenz T, Foray FM, Bockarie T, Clifford GD, Jalloh A, Farlow A, Gaye B. <a href="https://drive.google.com/file/d/1sgSQE--bIBj0VRYwmmQDUxnIygghJA98/view?usp=sharing">Health-system barriers and missed opportunities in cardiovascular care in Sierra Leone: a scoping review</a>. 2026 May 30. DOI: <a href="https://doi.org/10.1038/s43856-026-01684-6">10.1038/s43856-026-01684-6</a>.
+</div>
+<div class="bibtex_source"><pre>@misc{MohamedBJalloh_2026_05_30_Healthsystembarriers,
+    author = "Jalloh, Mohamed B and Jalloh, Fatima and Baldeh, Mamadu and Lorenz, Thiess and Foray, Foray M and Bockarie, Tahir and Clifford, Gari D and Jalloh, Abdul and Farlow, Andrew and Gaye, Bamba",
+    title = "Health-system barriers and missed opportunities in cardiovascular care in Sierra Leone: a scoping review",
+    date = "2026-05-30",
+    url = "https://drive.google.com/file/d/1sgSQE--bIBj0VRYwmmQDUxnIygghJA98/view?usp=sharing",
+    journal = "Communications Medicine",
+    note = "Publisher: Nature Publishing Group UK",
+    doi = "10.1038/s43856-026-01684-6"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="MohamedBJalloh_2026_05_30_Healthsystembarriers">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="MohamedBJalloh_2026_05_30_Healthsystembarriers">[show citation]</label>
 </div></div></td></tr><tr>
 <td>309</td>
 <td><div class="citation_container">
@@ -13534,26 +13557,6 @@ Clifford GD. Statistical Conformal Field Theory and Information Loss in the Reno
 
 <table>
 <tr>
-<td>22</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="MohamedBJalloh_2026_05_30_Healthsystembarriers">
-<div class="citation">
-Jalloh MB, Jalloh F, Baldeh M, Lorenz T, Foray FM, Bockarie T, Clifford GD, Jalloh A, Farlow A, Gaye B. <a href="https://www.nature.com/articles/s43856-026-01684-6">Health-system barriers and missed opportunities in cardiovascular care in Sierra Leone: a scoping review</a>. 2026 May 30.
-</div>
-<div class="bibtex_source"><pre>@misc{MohamedBJalloh_2026_05_30_Healthsystembarriers,
-    author = "Jalloh, Mohamed B and Jalloh, Fatima and Baldeh, Mamadu and Lorenz, Thiess and Foray, Foray M and Bockarie, Tahir and Clifford, Gari D and Jalloh, Abdul and Farlow, Andrew and Gaye, Bamba",
-    title = "Health-system barriers and missed opportunities in cardiovascular care in Sierra Leone: a scoping review",
-    date = "2026-05-30",
-    url = "https://www.nature.com/articles/s43856-026-01684-6",
-    note = "Publisher: Nature Publishing Group UK"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="MohamedBJalloh_2026_05_30_Healthsystembarriers">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="MohamedBJalloh_2026_05_30_Healthsystembarriers">[show citation]</label>
-</div></div></td></tr><tr>
 <td>21</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="XingyaoWang_2021_06_ParoxysmalAtrial">
