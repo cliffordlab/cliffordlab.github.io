@@ -11,6 +11,29 @@ permalink: /publications
 
 <table>
 <tr>
+<td>310</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="NicoleAShort_2026_06_01_SmartphoneKeystroke">
+<div class="citation">
+Short NA, An X, Ji Y, Li Q, Neylan TC, Clifford GD, House SL, Beaudoin FL, Stevens JS, Linnstaedt SD, Germine LT, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Sheikh S, Jones CW, Punches BE, Pascual JL, Seamon MJ, Harris E, Pearson C, Merchant RC, Domeier RM, Rathlev NK, O'Neil BJ, Sergot P, Sanchez LD, Bruce SE, Kessler RC, Koenen KC, Ressler KJ, McLean SA. <a href="https://www.jmir.org/2026/1/e73771/">Smartphone Keystroke Biomarkers as Predictors of Adverse Neuropsychiatric Sequelae After Trauma in Trauma Survivors: Prospective Observational Cohort Study</a>. Journal of Medical Internet Research 2026 June 1; 28: p. e73771.
+</div>
+<div class="bibtex_source"><pre>@article{NicoleAShort_2026_06_01_SmartphoneKeystroke,
+    author = "Short, Nicole A and An, Xinming and Ji, Yinyao and Li, Qinghua and Neylan, Thomas C and Clifford, Gari D and House, Stacey L and Beaudoin, Francesca L and Stevens, Jennifer S and Linnstaedt, Sarah D and Germine, Laura T and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Jr, Paul I Musey and Hendry, Phyllis L and Sheikh, Sophia and Jones, Christopher W and Punches, Brittany E and Pascual, Jose L and Seamon, Mark J and Harris, Erica and Pearson, Claire and Merchant, Roland C and Domeier, Robert M and Rathlev, Niels K and O'Neil, Brian J and Sergot, Paulina and Sanchez, Leon D and Bruce, Steven E and Kessler, Ronald C and Koenen, Karestan C and Ressler, Kerry J and McLean, Samuel A",
+    title = "Smartphone Keystroke Biomarkers as Predictors of Adverse Neuropsychiatric Sequelae After Trauma in Trauma Survivors: Prospective Observational Cohort Study",
+    date = "2026-06-01",
+    journal = "Journal of Medical Internet Research",
+    url = "https://www.jmir.org/2026/1/e73771/",
+    pages = "e73771",
+    volume = "28",
+    note = "Publisher: JMIR Publications"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="NicoleAShort_2026_06_01_SmartphoneKeystroke">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="NicoleAShort_2026_06_01_SmartphoneKeystroke">[show citation]</label>
+</div></div></td></tr><tr>
 <td>309</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="JustinLCSantos_2026_05_14_Socialsupport">
@@ -476,27 +499,6 @@ Kaplan DM, Alvarez SJA, Palitsky R, Choi H, Clifford GD, Crozier M, Dunlop BW, G
 </div></div></td></tr><tr>
 <td>289</td>
 <td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="MeganEHuibregtse_2025_08_04_AssociationBetween">
-<div class="citation">
-Huibregtse ME, Li T, Harnett NG, Yuh EL, Ely TD, Jovanovic T, Calhoun VD, Neylan TC, House SL, Clifford GD, Bucher MA, Linnstaedt SD, An X, Conti AC, Seligowski AV, Li Q, Dillon DG, Vizer LM, McKibben LA, Albertorio-S<span class="bibtex-protected">á</span>ez LM, Beaudoin FL, Wang KK, Matson L, Harte SE, Bruce SE, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Jones CW, Swor RA, Pearson C, Peak DA, O'Neil BJ, Kessler RC, Koenen KC, Ressler KJ, McLean SA, Stevens JS. <a href="https://drive.google.com/file/d/1TtT4rDeZw6zvz0SpcX7hvq2rsJJgTXn6/view?usp=sharing">Association Between Acute Plasma Glial Fibrillary Acidic Protein Levels and White Matter Integrity in Recent Trauma Survivors</a>. Journal of Neurotrauma 2025 August 4.
-</div>
-<div class="bibtex_source"><pre>@article{MeganEHuibregtse_2025_08_04_AssociationBetween,
-    author = "Huibregtse, Megan E and Li, Tianyi and Harnett, Nathaniel G and Yuh, Esther L and Ely, Timothy D and Jovanovic, Tanja and Calhoun, Vince D and Neylan, Thomas C and House, Stacey L and Clifford, Gari D and Bucher, Meredith A and Linnstaedt, Sarah D and An, Xinming and Conti, Alana C and Seligowski, Antonia V and Li, Qiao and Dillon, Daniel G and Vizer, Lisa M and McKibben, Lauren A and Albertorio-S{\'a}ez, Liz Marie and Beaudoin, Francesca L and Wang, Kevin KW and Matson, Liana and Harte, Steven E and Bruce, Steven E and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Jr, Paul I Musey and Hendry, Phyllis L and Jones, Christopher W and Swor, Robert A and Pearson, Claire and Peak, David A and O'Neil, Brian J and Kessler, Ronald C and Koenen, Karestan C and Ressler, Kerry J and McLean, Samuel A and Stevens, Jennifer S",
-    title = "Association Between Acute Plasma Glial Fibrillary Acidic Protein Levels and White Matter Integrity in Recent Trauma Survivors",
-    date = "2025-08-04",
-    journal = "Journal of Neurotrauma",
-    url = "https://drive.google.com/file/d/1TtT4rDeZw6zvz0SpcX7hvq2rsJJgTXn6/view?usp=sharing",
-    note = "Publisher: Mary Ann Liebert, Inc., publishers"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="MeganEHuibregtse_2025_08_04_AssociationBetween">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="MeganEHuibregtse_2025_08_04_AssociationBetween">[show citation]</label>
-</div></div></td></tr><tr>
-<td>288</td>
-<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="RuoqiWei_2024_11_06_AutomatedMedical">
 <div class="citation">
 Wei R, Buss SS, Milde R, Fernandes M, Sumsion D, Davis E, Kong W, Xiong Y, Veltink J, Rao S, Westover TM, Petersen L, Turley N, Singh A, Das S, Junior VM, Ghanta M, Gupta A, Kim J, Lam AD, Stone KL, Mignot E, Hwang D, Trotti LM, Clifford GD, Katwa U, Thomas RJ, Mukerji S, Zafar SF, Westover MB, Sun H. <a href="https://drive.google.com/file/d/1dT7GY93bIQYbfpCsXT_DgJnm7RjqrDH1/view?usp=sharing">Automated phenotyping of mild cognitive impairment and Alzheimer’s disease and related dementias using electronic health records</a>. International Journal of Medical Informatics 2025 August; 200: p. 105917.
@@ -516,6 +518,27 @@ Wei R, Buss SS, Milde R, Fernandes M, Sumsion D, Davis E, Kong W, Xiong Y, Velti
 </div>
 <div class="hidebibtex">
 <label for="RuoqiWei_2024_11_06_AutomatedMedical">[show citation]</label>
+</div></div></td></tr><tr>
+<td>288</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="MeganEHuibregtse_2025_08_04_AssociationBetween">
+<div class="citation">
+Huibregtse ME, Li T, Harnett NG, Yuh EL, Ely TD, Jovanovic T, Calhoun VD, Neylan TC, House SL, Clifford GD, Bucher MA, Linnstaedt SD, An X, Conti AC, Seligowski AV, Li Q, Dillon DG, Vizer LM, McKibben LA, Albertorio-S<span class="bibtex-protected">á</span>ez LM, Beaudoin FL, Wang KK, Matson L, Harte SE, Bruce SE, Haran JP, Storrow AB, Lewandowski C, Jr PIM, Hendry PL, Jones CW, Swor RA, Pearson C, Peak DA, O'Neil BJ, Kessler RC, Koenen KC, Ressler KJ, McLean SA, Stevens JS. <a href="https://drive.google.com/file/d/1TtT4rDeZw6zvz0SpcX7hvq2rsJJgTXn6/view?usp=sharing">Association Between Acute Plasma Glial Fibrillary Acidic Protein Levels and White Matter Integrity in Recent Trauma Survivors</a>. Journal of Neurotrauma 2025 August 4.
+</div>
+<div class="bibtex_source"><pre>@article{MeganEHuibregtse_2025_08_04_AssociationBetween,
+    author = "Huibregtse, Megan E and Li, Tianyi and Harnett, Nathaniel G and Yuh, Esther L and Ely, Timothy D and Jovanovic, Tanja and Calhoun, Vince D and Neylan, Thomas C and House, Stacey L and Clifford, Gari D and Bucher, Meredith A and Linnstaedt, Sarah D and An, Xinming and Conti, Alana C and Seligowski, Antonia V and Li, Qiao and Dillon, Daniel G and Vizer, Lisa M and McKibben, Lauren A and Albertorio-S{\'a}ez, Liz Marie and Beaudoin, Francesca L and Wang, Kevin KW and Matson, Liana and Harte, Steven E and Bruce, Steven E and Haran, John P and Storrow, Alan B and Lewandowski, Christopher and Jr, Paul I Musey and Hendry, Phyllis L and Jones, Christopher W and Swor, Robert A and Pearson, Claire and Peak, David A and O'Neil, Brian J and Kessler, Ronald C and Koenen, Karestan C and Ressler, Kerry J and McLean, Samuel A and Stevens, Jennifer S",
+    title = "Association Between Acute Plasma Glial Fibrillary Acidic Protein Levels and White Matter Integrity in Recent Trauma Survivors",
+    date = "2025-08-04",
+    journal = "Journal of Neurotrauma",
+    url = "https://drive.google.com/file/d/1TtT4rDeZw6zvz0SpcX7hvq2rsJJgTXn6/view?usp=sharing",
+    note = "Publisher: Mary Ann Liebert, Inc., publishers"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="MeganEHuibregtse_2025_08_04_AssociationBetween">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="MeganEHuibregtse_2025_08_04_AssociationBetween">[show citation]</label>
 </div></div></td></tr><tr>
 <td>287</td>
 <td><div class="citation_container">
@@ -1011,6 +1034,30 @@ Kiarashi Y, Suresha PB, Rad AB, Reyna MA, Anderson C, Foster J, Lantz J, Villavi
 </div></div></td></tr><tr>
 <td>266</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="ZuzanaKoscova_2024_FromSleep">
+<div class="citation">
+Koscova Z, Rad AB, Nasiri S, Reyna MA, Sameni R, Trotti LM, Sun H, Turley N, Stone KL, Thoman RJ, Mignot E, Westover B, Clifford GD. <a href="https://drive.google.com/file/d/18y0zxRpkeeUSKCO9ODbAb5NgPNLWhCkd/view?usp=sharing">From Sleep Patterns to Heart Rhythms: Predicting Atrial Fibrillation from Overnight Polysomnograms</a>. Journal of Electrocardiology 2024 September; 86: p. 153759. DOI: <a href="https://doi.org/10.1016/j.jelectrocard.2024.153759">10.1016/j.jelectrocard.2024.153759</a>.
+</div>
+<div class="bibtex_source"><pre>@article{ZuzanaKoscova_2024_FromSleep,
+    author = "Koscova, Zuzana and Rad, Ali Bahrami and Nasiri, Samaneh and Reyna, Matthew A and Sameni, Reza and Trotti, Lynn M and Sun, Haoqi and Turley, Niels and Stone, Katie L and Thoman, Robert J and Mignot, Emmanuel and Westover, Brandon and Clifford, Gari D",
+    title = "From Sleep Patterns to Heart Rhythms: Predicting Atrial Fibrillation from Overnight Polysomnograms",
+    date = "2024-09",
+    journal = "Journal of Electrocardiology",
+    url = "https://drive.google.com/file/d/18y0zxRpkeeUSKCO9ODbAb5NgPNLWhCkd/view?usp=sharing",
+    pages = "153759",
+    volume = "86",
+    doi = "10.1016/j.jelectrocard.2024.153759",
+    note = "Elsevier"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="ZuzanaKoscova_2024_FromSleep">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="ZuzanaKoscova_2024_FromSleep">[show citation]</label>
+</div></div></td></tr><tr>
+<td>265</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AliBahramiRad_2024_09_02_ACrowdsourced">
 <div class="citation">
 Rad AB, Kirsch M, Li Q, Xue J, Sameni R, Albert D, Clifford GD. <a href="https://drive.google.com/file/d/1F5cP4sCYgF-zHdvYVabyE6T1JvggfTfy/view?usp=sharing">A Crowdsourced AI Framework for Atrial Fibrillation Detection in Apple Watch and Kardia Mobile ECGs</a>. Sensors 2024 September 2; 24 (17): p. 5708. DOI: <a href="https://doi.org/10.3390/s24175708">10.3390/s24175708</a>.
@@ -1033,30 +1080,6 @@ Rad AB, Kirsch M, Li Q, Xue J, Sameni R, Albert D, Clifford GD. <a href="https:/
 </div>
 <div class="hidebibtex">
 <label for="AliBahramiRad_2024_09_02_ACrowdsourced">[show citation]</label>
-</div></div></td></tr><tr>
-<td>265</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="ZuzanaKoscova_2024_FromSleep">
-<div class="citation">
-Koscova Z, Rad AB, Nasiri S, Reyna MA, Sameni R, Trotti LM, Sun H, Turley N, Stone KL, Thoman RJ, Mignot E, Westover B, Clifford GD. <a href="https://drive.google.com/file/d/18y0zxRpkeeUSKCO9ODbAb5NgPNLWhCkd/view?usp=sharing">From Sleep Patterns to Heart Rhythms: Predicting Atrial Fibrillation from Overnight Polysomnograms</a>. Journal of Electrocardiology 2024 September; 86: p. 153759. DOI: <a href="https://doi.org/10.1016/j.jelectrocard.2024.153759">10.1016/j.jelectrocard.2024.153759</a>.
-</div>
-<div class="bibtex_source"><pre>@article{ZuzanaKoscova_2024_FromSleep,
-    author = "Koscova, Zuzana and Rad, Ali Bahrami and Nasiri, Samaneh and Reyna, Matthew A and Sameni, Reza and Trotti, Lynn M and Sun, Haoqi and Turley, Niels and Stone, Katie L and Thoman, Robert J and Mignot, Emmanuel and Westover, Brandon and Clifford, Gari D",
-    title = "From Sleep Patterns to Heart Rhythms: Predicting Atrial Fibrillation from Overnight Polysomnograms",
-    date = "2024-09",
-    journal = "Journal of Electrocardiology",
-    url = "https://drive.google.com/file/d/18y0zxRpkeeUSKCO9ODbAb5NgPNLWhCkd/view?usp=sharing",
-    pages = "153759",
-    volume = "86",
-    doi = "10.1016/j.jelectrocard.2024.153759",
-    note = "Elsevier"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="ZuzanaKoscova_2024_FromSleep">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="ZuzanaKoscova_2024_FromSleep">[show citation]</label>
 </div></div></td></tr><tr>
 <td>264</td>
 <td><div class="citation_container">
@@ -2177,6 +2200,29 @@ Rowland GE, Roeckner A, Ely TD, Lebois LA, Rooij SJ, Bruce SE, Jovanovic T, Hous
 </div></div></td></tr><tr>
 <td>217</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="ErickAPerezAlday_2023_02_Associationof">
+<div class="citation">
+Alday EAP, Poian GD, Levantsevych O, Murrah N, Shallenberger L, Alkhalaf M, Haffar A, Kaseer B, Ko Y, Goldberg J, Smith N, Lampert R, Bremner JD, Clifford GD, Vaccarino V, Shah AJ. <a href="https://drive.google.com/file/d/1vATrzHbiHrpNvhGW-EQS0UycaJ40AA4V/view?usp=sharing">Association of Autonomic Activation with traumatic reminder challenges in posttraumatic stress disorder: A co-twin control study</a>. Psychophysiology 2023 February; 60 (2): p. e14167.
+</div>
+<div class="bibtex_source"><pre>@article{ErickAPerezAlday_2023_02_Associationof,
+    author = "Alday, Erick A Perez and Poian, Giulia Da and Levantsevych, Oleksiy and Murrah, Nancy and Shallenberger, Lucy and Alkhalaf, Mhmtjamil and Haffar, Ammer and Kaseer, Belal and Ko, Yi{-}An and Goldberg, Jack and Smith, Nicholas and Lampert, Rachel and Bremner, J Douglas and Clifford, Gari D and Vaccarino, Viola and Shah, Amit J",
+    title = "Association of Autonomic Activation with traumatic reminder challenges in posttraumatic stress disorder: A co{-}twin control study",
+    date = "2023-02",
+    issue = "2",
+    journal = "Psychophysiology",
+    url = "https://drive.google.com/file/d/1vATrzHbiHrpNvhGW-EQS0UycaJ40AA4V/view?usp=sharing",
+    pages = "e14167",
+    volume = "60"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="ErickAPerezAlday_2023_02_Associationof">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="ErickAPerezAlday_2023_02_Associationof">[show citation]</label>
+</div></div></td></tr><tr>
+<td>216</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="HyeokhyenKwon_2023_02_04_Anexplainable">
 <div class="citation">
 Kwon H, Clifford GD, Genias I, Bernhard D, Esper CD, Factor SA, McKay JL. <a href="https://drive.google.com/file/d/19kSoubelKh8F2Q8akOv1xImLikvWRdOJ/view?usp=sharing">An explainable spatial-temporal graphical convolutional network to score freezing of gait in parkinsonian patients</a>. Sensors 2023 February 4; 23 (4): p. 1766.
@@ -2198,29 +2244,6 @@ Kwon H, Clifford GD, Genias I, Bernhard D, Esper CD, Factor SA, McKay JL. <a hre
 </div>
 <div class="hidebibtex">
 <label for="HyeokhyenKwon_2023_02_04_Anexplainable">[show citation]</label>
-</div></div></td></tr><tr>
-<td>216</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="ErickAPerezAlday_2023_02_Associationof">
-<div class="citation">
-Alday EAP, Poian GD, Levantsevych O, Murrah N, Shallenberger L, Alkhalaf M, Haffar A, Kaseer B, Ko Y, Goldberg J, Smith N, Lampert R, Bremner JD, Clifford GD, Vaccarino V, Shah AJ. <a href="https://drive.google.com/file/d/1vATrzHbiHrpNvhGW-EQS0UycaJ40AA4V/view?usp=sharing">Association of Autonomic Activation with traumatic reminder challenges in posttraumatic stress disorder: A co-twin control study</a>. Psychophysiology 2023 February; 60 (2): p. e14167.
-</div>
-<div class="bibtex_source"><pre>@article{ErickAPerezAlday_2023_02_Associationof,
-    author = "Alday, Erick A Perez and Poian, Giulia Da and Levantsevych, Oleksiy and Murrah, Nancy and Shallenberger, Lucy and Alkhalaf, Mhmtjamil and Haffar, Ammer and Kaseer, Belal and Ko, Yi{-}An and Goldberg, Jack and Smith, Nicholas and Lampert, Rachel and Bremner, J Douglas and Clifford, Gari D and Vaccarino, Viola and Shah, Amit J",
-    title = "Association of Autonomic Activation with traumatic reminder challenges in posttraumatic stress disorder: A co{-}twin control study",
-    date = "2023-02",
-    issue = "2",
-    journal = "Psychophysiology",
-    url = "https://drive.google.com/file/d/1vATrzHbiHrpNvhGW-EQS0UycaJ40AA4V/view?usp=sharing",
-    pages = "e14167",
-    volume = "60"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="ErickAPerezAlday_2023_02_Associationof">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="ErickAPerezAlday_2023_02_Associationof">[show citation]</label>
 </div></div></td></tr><tr>
 <td>215</td>
 <td><div class="citation_container">
@@ -13511,6 +13534,26 @@ Clifford GD. Statistical Conformal Field Theory and Information Loss in the Reno
 
 <table>
 <tr>
+<td>22</td>
+<td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="MohamedBJalloh_2026_05_30_Healthsystembarriers">
+<div class="citation">
+Jalloh MB, Jalloh F, Baldeh M, Lorenz T, Foray FM, Bockarie T, Clifford GD, Jalloh A, Farlow A, Gaye B. <a href="https://www.nature.com/articles/s43856-026-01684-6">Health-system barriers and missed opportunities in cardiovascular care in Sierra Leone: a scoping review</a>. 2026 May 30.
+</div>
+<div class="bibtex_source"><pre>@misc{MohamedBJalloh_2026_05_30_Healthsystembarriers,
+    author = "Jalloh, Mohamed B and Jalloh, Fatima and Baldeh, Mamadu and Lorenz, Thiess and Foray, Foray M and Bockarie, Tahir and Clifford, Gari D and Jalloh, Abdul and Farlow, Andrew and Gaye, Bamba",
+    title = "Health-system barriers and missed opportunities in cardiovascular care in Sierra Leone: a scoping review",
+    date = "2026-05-30",
+    url = "https://www.nature.com/articles/s43856-026-01684-6",
+    note = "Publisher: Nature Publishing Group UK"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="MohamedBJalloh_2026_05_30_Healthsystembarriers">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="MohamedBJalloh_2026_05_30_Healthsystembarriers">[show citation]</label>
+</div></div></td></tr><tr>
 <td>21</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="XingyaoWang_2021_06_ParoxysmalAtrial">
