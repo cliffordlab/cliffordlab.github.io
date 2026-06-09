@@ -11893,7 +11893,7 @@ Clifford G, Tarassenko L, Townsend N. <a href="https://drive.google.com/file/d/1
 
 <table>
 <tr>
-<td>45</td>
+<td>44</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="YadhuKartha_2026_05_17_Predictionof">
 <div class="citation">
@@ -11913,7 +11913,7 @@ Kartha Y, Anderson C, Foster J, Hamlin T, Lantz J, Lay R, Hahn J, Clifford GD, K
 <div class="hidebibtex">
 <label for="YadhuKartha_2026_05_17_Predictionof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>44</td>
+<td>43</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AlirezaRafiei_2026_04_24_MultiViewHierarchical">
 <div class="citation">
@@ -11933,7 +11933,7 @@ Rafiei A, Strader AV, Arag<span class="bibtex-protected">ó</span>n EC, Serech V
 <div class="hidebibtex">
 <label for="AlirezaRafiei_2026_04_24_MultiViewHierarchical">[show citation]</label>
 </div></div></td></tr><tr>
-<td>43</td>
+<td>42</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SepidehNikookar_2026_04_10_AnOpenSource">
 <div class="citation">
@@ -11953,7 +11953,7 @@ Nikookar S, Tian E, Hoffman H, Parks M, McKay JL, Kiarashi Y, Thomas TT, Hall A,
 <div class="hidebibtex">
 <label for="SepidehNikookar_2026_04_10_AnOpenSource">[show citation]</label>
 </div></div></td></tr><tr>
-<td>42</td>
+<td>41</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SoheilSaghafi_2026_03_06_ModelingMetabolic">
 <div class="citation">
@@ -11973,7 +11973,7 @@ Saghafi S, Clifford GD. <a href="https://arxiv.org/abs/2603.06819">Modeling Meta
 <div class="hidebibtex">
 <label for="SoheilSaghafi_2026_03_06_ModelingMetabolic">[show citation]</label>
 </div></div></td></tr><tr>
-<td>41</td>
+<td>40</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2026_02_17_FromPhysioNet">
 <div class="citation">
@@ -11993,7 +11993,7 @@ Clifford GD. <a href="https://arxiv.org/abs/2602.15371">From PhysioNet to Founda
 <div class="hidebibtex">
 <label for="GariDClifford_2026_02_17_FromPhysioNet">[show citation]</label>
 </div></div></td></tr><tr>
-<td>40</td>
+<td>39</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="XavierAVelez_2025_11_17_SleepStaging">
 <div class="citation">
@@ -12015,7 +12015,7 @@ Velez XA, Li Q, Nasiri S, Kiarashi Y, Clifford G. <a href="https://www.medrxiv.o
 <div class="hidebibtex">
 <label for="XavierAVelez_2025_11_17_SleepStaging">[show citation]</label>
 </div></div></td></tr><tr>
-<td>39</td>
+<td>38</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="WeitaoTang_2025_09_12_FetalSleepNetA">
 <div class="citation">
@@ -12035,7 +12035,7 @@ Tang W, Vargas-Calixto J, Katebi N, Tran N, Kelly SB, Clifford GD, Galinsky R, M
 <div class="hidebibtex">
 <label for="WeitaoTang_2025_09_12_FetalSleepNetA">[show citation]</label>
 </div></div></td></tr><tr>
-<td>38</td>
+<td>37</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MohammadSendi_2025_08_26_Comprehensivemapping">
 <div class="citation">
@@ -12055,7 +12055,7 @@ Sendi M, Halko M, Traynor J, Brown J, Copersino M, Nickerson L, Harnett N, Rooij
 <div class="hidebibtex">
 <label for="MohammadSendi_2025_08_26_Comprehensivemapping">[show citation]</label>
 </div></div></td></tr><tr>
-<td>37</td>
+<td>36</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ViolaVaccarino_2025_08_26_ReallifePsychological">
 <div class="citation">
@@ -12075,7 +12075,7 @@ Vaccarino V, She H, Elon L, Lewis TT, Ko Y, Clifford G, Li Q, Murrah N, Shallenb
 <div class="hidebibtex">
 <label for="ViolaVaccarino_2025_08_26_ReallifePsychological">[show citation]</label>
 </div></div></td></tr><tr>
-<td>36</td>
+<td>35</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SajjadKarimi_2025_06_11_CrossLearningBetween">
 <div class="citation">
@@ -12095,7 +12095,7 @@ Karimi S, Shah AJ, Clifford GD, Sameni R. <a href="https://arxiv.org/abs/2506.10
 <div class="hidebibtex">
 <label for="SajjadKarimi_2025_06_11_CrossLearningBetween">[show citation]</label>
 </div></div></td></tr><tr>
-<td>35</td>
+<td>34</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="YasharKiarashi_2025_BedtimeBrain">
 <div class="citation">
@@ -12117,7 +12117,7 @@ Kiarashi Y, Berent J, Motieshirazi M, Li Q, Stewart AX, Saini P, Grimaldi D, Rei
 <div class="hidebibtex">
 <label for="YasharKiarashi_2025_BedtimeBrain">[show citation]</label>
 </div></div></td></tr><tr>
-<td>34</td>
+<td>33</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="YasharKiarashi_2025_SleepDerivedFeatures">
 <div class="citation">
@@ -12139,7 +12139,7 @@ Kiarashi Y, Giannotto EL, Motie-Shirazi M, Rodriguez AD, Levey AI, Clifford GD. 
 <div class="hidebibtex">
 <label for="YasharKiarashi_2025_SleepDerivedFeatures">[show citation]</label>
 </div></div></td></tr><tr>
-<td>33</td>
+<td>32</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SepidehNikookar_2025_AMobile">
 <div class="citation">
@@ -12161,7 +12161,7 @@ Nikookar S, Phan D, Robichaux C, Watson M, Carroll K, Shoai BB, Platner M, Herna
 <div class="hidebibtex">
 <label for="SepidehNikookar_2025_AMobile">[show citation]</label>
 </div></div></td></tr><tr>
-<td>32</td>
+<td>31</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SeyedehSomayyehMousavi_2025_EstimatingBlood">
 <div class="citation">
@@ -12183,7 +12183,7 @@ Mousavi SS, Karimi S, Hassannia M, Koscova Z, Rad AB, Albert D, Clifford GD, Sam
 <div class="hidebibtex">
 <label for="SeyedehSomayyehMousavi_2025_EstimatingBlood">[show citation]</label>
 </div></div></td></tr><tr>
-<td>31</td>
+<td>30</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="QiaoLi_UnknownDate_FusionBasedQT">
 <div class="citation">
@@ -12202,7 +12202,7 @@ Li Q, Barnett K, Xue J, Albert D, Deepanshi F, Rad A, Sameni R, Clifford GD. <a 
 <div class="hidebibtex">
 <label for="QiaoLi_UnknownDate_FusionBasedQT">[show citation]</label>
 </div></div></td></tr><tr>
-<td>30</td>
+<td>29</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ZuzanaKoscova_2025_04_25_ANoiseRobust">
 <div class="citation">
@@ -12222,7 +12222,7 @@ Koscova Z, Shah A, Rad AB, Li Q, Clifford GD, Sameni R. <a href="https://drive.g
 <div class="hidebibtex">
 <label for="ZuzanaKoscova_2025_04_25_ANoiseRobust">[show citation]</label>
 </div></div></td></tr><tr>
-<td>29</td>
+<td>28</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LiTianyi_2025_03_14_Childhoodadversity">
 <div class="citation">
@@ -12241,7 +12241,7 @@ Tianyi L, Huibregtse ME, Ely TD, Rooij SJ, Lebois LA, Webb EK, Jovanovic T, Hous
 <div class="hidebibtex">
 <label for="LiTianyi_2025_03_14_Childhoodadversity">[show citation]</label>
 </div></div></td></tr><tr>
-<td>28</td>
+<td>27</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="NasimKatebi_2025_03_12_EdgeAI">
 <div class="citation">
@@ -12261,7 +12261,7 @@ Katebi N, Ahmad M, Motie-Shirazi M, Phan D, Kolesnikova E, Nikookar S, Rafiei A,
 <div class="hidebibtex">
 <label for="NasimKatebi_2025_03_12_EdgeAI">[show citation]</label>
 </div></div></td></tr><tr>
-<td>27</td>
+<td>26</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="SophiaSLiang_2025_Associationsbetween">
 <div class="citation">
@@ -12282,26 +12282,6 @@ Liang SS, Roeckner AR, Ely TD, Lebois LA, Rooij SJ, Bruce SE, Jovanovic T, House
 </div>
 <div class="hidebibtex">
 <label for="SophiaSLiang_2025_Associationsbetween">[show citation]</label>
-</div></div></td></tr><tr>
-<td>26</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="XiaofanMu_2024_12_12_Feasibilityof">
-<div class="citation">
-Mu X, Bibars M, Seyedi S, Zheng I, Jiang Z, Chen L, Omofojoye B, Hershenberg R, Levey AI, Clifford GD, Dodge HH, Kwon H. <a href="https://arxiv.org/abs/2412.14194">Feasibility of Detecting Cognitive Impairment and Psychological Well-being among Older Adults Using Facial, Acoustic, Linguistic, and Cardiovascular Patterns Derived from Remote Conversations</a>. arXiv preprint arXiv:2412.14194 2024 December 12.
-</div>
-<div class="bibtex_source"><pre>@article{XiaofanMu_2024_12_12_Feasibilityof,
-    author = "Mu, Xiaofan and Bibars, Merna and Seyedi, Salman and Zheng, Iris and Jiang, Zifan and Chen, Liu and Omofojoye, Bolaji and Hershenberg, Rachel and Levey, Allan I and Clifford, Gari D and Dodge, Hiroko H and Kwon, Hyeokhyen",
-    title = "Feasibility of Detecting Cognitive Impairment and Psychological Well-being among Older Adults Using Facial, Acoustic, Linguistic, and Cardiovascular Patterns Derived from Remote Conversations",
-    date = "2024-12-12",
-    journal = "arXiv preprint arXiv:2412.14194",
-    url = "https://arxiv.org/abs/2412.14194"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="XiaofanMu_2024_12_12_Feasibilityof">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="XiaofanMu_2024_12_12_Feasibilityof">[show citation]</label>
 </div></div></td></tr><tr>
 <td>25</td>
 <td><div class="citation_container">
