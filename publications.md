@@ -7406,6 +7406,29 @@ Clifford GD, Tarassenko L, Townsend N. <a href="https://drive.google.com/file/d/
 <tr>
 <td>201</td>
 <td><div class="citation_container">
+<input type="checkbox" class="toggle-button" id="YasharKiarashi_2026_05_01_ContactlessSleep">
+<div class="citation">
+Kiarashi Y, Anderson C, Lay R, Foster J, Lantz J, Hamlin T, Clifford GD. <a href="https://drive.google.com/file/d/1cMaBhrqREFzr9nZgVlGeYipkPNyPlLBE/view?usp=sharing">0325 Contactless Sleep Monitoring Technology to Predict Adverse Behaviors in Autism</a>. SLEEP 2026, Baltimore, MD, United States 2026 May 8; 49: p. A144.
+</div>
+<div class="bibtex_source"><pre>@inproceedings{YasharKiarashi_2026_05_01_ContactlessSleep,
+    author = "Kiarashi, Yashar and Anderson, Conor and Lay, Ryan and Foster, Jenny and Lantz, Johanna and Hamlin, Theresa and Clifford, Gari D",
+    title = "0325 Contactless Sleep Monitoring Technology to Predict Adverse Behaviors in Autism",
+    date = "2026-05-08",
+    booktitle = "SLEEP 2026, Baltimore, MD, United States",
+    url = "https://drive.google.com/file/d/1cMaBhrqREFzr9nZgVlGeYipkPNyPlLBE/view?usp=sharing",
+    pages = "A144",
+    volume = "49",
+    publisher = "OXFORD UNIV PRESS INC"
+}
+</pre>
+</div><div class="showbibtex">
+<label for="YasharKiarashi_2026_05_01_ContactlessSleep">[show BibTeX]</label>
+</div>
+<div class="hidebibtex">
+<label for="YasharKiarashi_2026_05_01_ContactlessSleep">[show citation]</label>
+</div></div></td></tr><tr>
+<td>200</td>
+<td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="YasharKiarashi_2026_05_0329PreSleep">
 <div class="citation">
 Kiarashi Y, Berent J, Motie-shirazi M, Papalambros N, Li Q, Stewart A, Saini P, Grimaldi D, Reid K, Zee P, Paller K, Levey A, Clifford GD. <a href="https://drive.google.com/file/d/1a8lNdGHp91x9d3mo3XR7qS0yDRVEqlM3/view?usp=sharing">0329 Pre-Sleep Physiological Patterns Identify Responders to Closed-Loop Auditory Stimulation for Sleep Enhancement</a>. SLEEP 2026, Baltimore, MD, United States 2026 May 8; 49 (Supplement_1): pp. A145-A146.
@@ -7427,29 +7450,6 @@ Kiarashi Y, Berent J, Motie-shirazi M, Papalambros N, Li Q, Stewart A, Saini P, 
 </div>
 <div class="hidebibtex">
 <label for="YasharKiarashi_2026_05_0329PreSleep">[show citation]</label>
-</div></div></td></tr><tr>
-<td>200</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="YasharKiarashi_2026_05_01_ContactlessSleep">
-<div class="citation">
-Kiarashi Y, Anderson C, Lay R, Foster J, Lantz J, Hamlin T, Clifford G. <a href="https://scholar.google.com/scholar?cluster=15142901149319768430&hl=en&oi=scholarr">Contactless Sleep Monitoring Technology to Predict Adverse Behaviors in Autism</a>. SLEEP 2026 May 1; 49: pp. A144-A144.
-</div>
-<div class="bibtex_source"><pre>@inproceedings{YasharKiarashi_2026_05_01_ContactlessSleep,
-    author = "Kiarashi, Yashar and Anderson, Conor and Lay, Ryan and Foster, Jenny and Lantz, Johanna and Hamlin, Theresa and Clifford, Gari",
-    title = "Contactless Sleep Monitoring Technology to Predict Adverse Behaviors in Autism",
-    date = "2026-05-01",
-    booktitle = "SLEEP",
-    url = "https://scholar.google.com/scholar?cluster=15142901149319768430\&hl=en\&oi=scholarr",
-    pages = "A144-A144",
-    volume = "49",
-    publisher = "OXFORD UNIV PRESS INC"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="YasharKiarashi_2026_05_01_ContactlessSleep">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="YasharKiarashi_2026_05_01_ContactlessSleep">[show citation]</label>
 </div></div></td></tr><tr>
 <td>199</td>
 <td><div class="citation_container">
@@ -13580,7 +13580,7 @@ Clifford GD. Statistical Conformal Field Theory and Information Loss in the Reno
 
 <table>
 <tr>
-<td>21</td>
+<td>20</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="XingyaoWang_2021_06_ParoxysmalAtrial">
 <div class="citation">
@@ -13600,14 +13600,14 @@ Wang X, Ma C, Zhang X, Gao H, Clifford GD, Liu C. <a href="https://www.physionet
 <div class="hidebibtex">
 <label for="XingyaoWang_2021_06_ParoxysmalAtrial">[show citation]</label>
 </div></div></td></tr><tr>
-<td>20</td>
+<td>19</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="LiXiong_2021_04_07_SCCPGJST">
 <div class="citation">
-Xiong L, An W, Clifford G, Yoshikawa M, Kuroda T. <a href="https://sccvo.org/sites/sccvo.org/files/2021_pi_meeting/Privacy-enhanced_data-driven_health_monitoring_for_smart_and_connected_senior_communities_0.pdf">SCC-PG: JST: Privacy-Enhanced Data-Driven Health Monitoring for Smart and Connected Senior Communities</a>. 2021 April 7.
+Xiong L, An W, Clifford GD, Yoshikawa M, Kuroda T. <a href="https://sccvo.org/sites/sccvo.org/files/2021_pi_meeting/Privacy-enhanced_data-driven_health_monitoring_for_smart_and_connected_senior_communities_0.pdf">SCC-PG: JST: Privacy-Enhanced Data-Driven Health Monitoring for Smart and Connected Senior Communities</a>. 2021 April 7.
 </div>
 <div class="bibtex_source"><pre>@misc{LiXiong_2021_04_07_SCCPGJST,
-    author = "Xiong, Li and An, Weihua and Clifford, Gari and Yoshikawa, Masatoshi and Kuroda, Tomohiro",
+    author = "Xiong, Li and An, Weihua and Clifford, Gari D and Yoshikawa, Masatoshi and Kuroda, Tomohiro",
     title = "SCC-PG: JST: Privacy-Enhanced Data-Driven Health Monitoring for Smart and Connected Senior Communities",
     date = "2021-04-07",
     url = "https://sccvo.org/sites/sccvo.org/files/2021\_pi\_meeting/Privacy-enhanced\_data-driven\_health\_monitoring\_for\_smart\_and\_connected\_senior\_communities\_0.pdf"
@@ -13619,14 +13619,14 @@ Xiong L, An W, Clifford G, Yoshikawa M, Kuroda T. <a href="https://sccvo.org/sit
 <div class="hidebibtex">
 <label for="LiXiong_2021_04_07_SCCPGJST">[show citation]</label>
 </div></div></td></tr><tr>
-<td>19</td>
+<td>18</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="BMoody_2020_Mimiciiiwaveform">
 <div class="citation">
-Moody B, Moody G, Villarroel M, Clifford G, Silva I. <a href="https://scholar.google.com/scholar?cluster=8054701620246985605&hl=en&oi=scholarr">Mimic-iii waveform database (version 1.0)</a>. 2020.
+Moody B, Moody G, Villarroel M, Clifford GD, Silva I. <a href="https://scholar.google.com/scholar?cluster=8054701620246985605&hl=en&oi=scholarr">Mimic-iii waveform database (version 1.0)</a>. 2020.
 </div>
 <div class="bibtex_source"><pre>@misc{BMoody_2020_Mimiciiiwaveform,
-    author = "Moody, B and Moody, G and Villarroel, M and Clifford, GD and Silva, I",
+    author = "Moody, B and Moody, G and Villarroel, M and Clifford, Gari D and Silva, I",
     title = "Mimic-iii waveform database (version 1.0)",
     date = "2020",
     journal = "PhysioNet",
@@ -13640,7 +13640,7 @@ Moody B, Moody G, Villarroel M, Clifford G, Silva I. <a href="https://scholar.go
 <div class="hidebibtex">
 <label for="BMoody_2020_Mimiciiiwaveform">[show citation]</label>
 </div></div></td></tr><tr>
-<td>18</td>
+<td>17</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AhmedAbbasi_2018_08_01_MakeFairness">
 <div class="citation">
@@ -13661,7 +13661,7 @@ Abbasi A, Li J, Clifford GD, Taylor HA. <a href="https://hbr.org/2018/08/make-fa
 <div class="hidebibtex">
 <label for="AhmedAbbasi_2018_08_01_MakeFairness">[show citation]</label>
 </div></div></td></tr><tr>
-<td>17</td>
+<td>16</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2018_FromWearables">
 <div class="citation">
@@ -13681,14 +13681,14 @@ Clifford GD. <a href="https://hip.emory.edu/_includes/documents/sections/symposi
 <div class="hidebibtex">
 <label for="GariDClifford_2018_FromWearables">[show citation]</label>
 </div></div></td></tr><tr>
-<td>16</td>
+<td>15</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="ChengyuLiu_2018_Focuson">
 <div class="citation">
-Liu C, Lehman L, Moody B, Li Q, Clifford G. <a href="https://drive.google.com/file/d/1_1MO07xyO6FC9IhZG8Rg83n-ugQuSkoZ/view?usp=sharing">Focus on detection of arrhythmia and noise from cardiovascular data</a>. 2018.
+Liu C, Lehman L, Moody B, Li Q, Clifford GD. <a href="https://drive.google.com/file/d/1_1MO07xyO6FC9IhZG8Rg83n-ugQuSkoZ/view?usp=sharing">Focus on detection of arrhythmia and noise from cardiovascular data</a>. 2018.
 </div>
 <div class="bibtex_source"><pre>@misc{ChengyuLiu_2018_Focuson,
-    author = "Liu, Chengyu and Lehman, Li-wei and Moody, Benjamin and Li, Qiao and Clifford, GD",
+    author = "Liu, Chengyu and Lehman, Li-wei and Moody, Benjamin and Li, Qiao and Clifford, Gari D",
     title = "Focus on detection of arrhythmia and noise from cardiovascular data",
     date = "2018",
     journal = "Physiological Measurement - Focus Collections",
@@ -13701,14 +13701,14 @@ Liu C, Lehman L, Moody B, Li Q, Clifford G. <a href="https://drive.google.com/fi
 <div class="hidebibtex">
 <label for="ChengyuLiu_2018_Focuson">[show citation]</label>
 </div></div></td></tr><tr>
-<td>15</td>
+<td>14</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="TTZhu_2015_05_27_Theframework">
 <div class="citation">
-Zhu T, Dunkley N, Behar J, Clifton D, Clifford G, Pimentel M. <a href="https://www.robots.ox.ac.uk/~davidc/pubs/tt2015_ttz.pdf">The framework of the BCLA and its applications</a>. 2015 May 27.
+Zhu T, Dunkley N, Behar J, Clifton D, Clifford GD, Pimentel M. <a href="https://www.robots.ox.ac.uk/~davidc/pubs/tt2015_ttz.pdf">The framework of the BCLA and its applications</a>. 2015 May 27.
 </div>
 <div class="bibtex_source"><pre>@misc{TTZhu_2015_05_27_Theframework,
-    author = "Zhu, TT and Dunkley, N and Behar, J and Clifton, DA and Clifford, GD and Pimentel, MAF",
+    author = "Zhu, TT and Dunkley, N and Behar, J and Clifton, DA and Clifford, Gari D and Pimentel, MAF",
     title = "The framework of the BCLA and its applications",
     date = "2015-05-27",
     url = "https://www.robots.ox.ac.uk/\textasciitilde davidc/pubs/tt2015\_ttz.pdf"
@@ -13720,7 +13720,7 @@ Zhu T, Dunkley N, Behar J, Clifton D, Clifford G, Pimentel M. <a href="https://w
 <div class="hidebibtex">
 <label for="TTZhu_2015_05_27_Theframework">[show citation]</label>
 </div></div></td></tr><tr>
-<td>14</td>
+<td>13</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GlennSteeleJr_2015_04_02_USHealthcare">
 <div class="citation">
@@ -13739,7 +13739,7 @@ Jr GS, Erskine A, Clifford GD, Braunstein M, Simpson DR. <a href="https://www.hi
 <div class="hidebibtex">
 <label for="GlennSteeleJr_2015_04_02_USHealthcare">[show citation]</label>
 </div></div></td></tr><tr>
-<td>13</td>
+<td>12</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MaximOsipov_2014_08_14_Towardsautomated">
 <div class="citation">
@@ -13758,7 +13758,7 @@ Osipov M, Clifford GD. <a href="https://arxiv.org/pdf/1908.06013.pdf">Towards au
 <div class="hidebibtex">
 <label for="MaximOsipov_2014_08_14_Towardsautomated">[show citation]</label>
 </div></div></td></tr><tr>
-<td>12</td>
+<td>11</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="MohammedSaeed_2011_MIMICIIClinical">
 <div class="citation">
@@ -13780,7 +13780,7 @@ Saeed M, Villarroel M, Reisner A, Clifford GD, Lehman L, Moody G, Heldt T, Kyaw 
 <div class="hidebibtex">
 <label for="MohammedSaeed_2011_MIMICIIClinical">[show citation]</label>
 </div></div></td></tr><tr>
-<td>11</td>
+<td>10</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="KatherineLKuan_2010_Aframework">
 <div class="citation">
@@ -13799,14 +13799,14 @@ Kuan KL, Szolovits P, Clifford GD. <a href="https://dspace.mit.edu/handle/1721.1
 <div class="hidebibtex">
 <label for="KatherineLKuan_2010_Aframework">[show citation]</label>
 </div></div></td></tr><tr>
-<td>10</td>
+<td>9</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GClifford_2010_Userguide">
 <div class="citation">
-Clifford G, Scott D, Villarroel M. <a href="https://archive.physionet.org/mimic2/UserGuide/UserGuide.pdf">User guide and documentation for the MIMIC II database (version 2, release 1)</a>. 2010.
+Clifford GD, Scott D, Villarroel M. <a href="https://archive.physionet.org/mimic2/UserGuide/UserGuide.pdf">User guide and documentation for the MIMIC II database (version 2, release 1)</a>. 2010.
 </div>
 <div class="bibtex_source"><pre>@misc{GClifford_2010_Userguide,
-    author = "Clifford, GD and Scott, D and Villarroel, Mauricio",
+    author = "Clifford, Gari D and Scott, D and Villarroel, Mauricio",
     title = "User guide and documentation for the MIMIC II database (version 2, release 1)",
     date = "2010",
     url = "https://archive.physionet.org/mimic2/UserGuide/UserGuide.pdf"
@@ -13818,7 +13818,7 @@ Clifford G, Scott D, Villarroel M. <a href="https://archive.physionet.org/mimic2
 <div class="hidebibtex">
 <label for="GClifford_2010_Userguide">[show citation]</label>
 </div></div></td></tr><tr>
-<td>9</td>
+<td>8</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariClifford_2008_TheEmerging">
 <div class="citation">
@@ -13837,14 +13837,14 @@ Clifford GD. <a href="https://d1wqtxts1xzle7.cloudfront.net/30707561/lec14_gari-
 <div class="hidebibtex">
 <label for="GariClifford_2008_TheEmerging">[show citation]</label>
 </div></div></td></tr><tr>
-<td>8</td>
+<td>7</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GDClifford_2007_Coursematerials">
 <div class="citation">
-Clifford G. <a href="https://scholar.google.com/scholar?cluster=4552201191896152218&hl=en&oi=scholarr">Course materials for HST. 582J/6.555 J/16.456 J, biomedical signal and image processing</a>. 2007.
+Clifford GD. <a href="https://scholar.google.com/scholar?cluster=4552201191896152218&hl=en&oi=scholarr">Course materials for HST. 582J/6.555 J/16.456 J, biomedical signal and image processing</a>. 2007.
 </div>
 <div class="bibtex_source"><pre>@misc{GDClifford_2007_Coursematerials,
-    author = "Clifford, GD",
+    author = "Clifford, Gari D",
     title = "Course materials for HST. 582J/6.555 J/16.456 J, biomedical signal and image processing",
     date = "2007",
     url = "https://scholar.google.com/scholar?cluster=4552201191896152218\&hl=en\&oi=scholarr",
@@ -13857,7 +13857,7 @@ Clifford G. <a href="https://scholar.google.com/scholar?cluster=4552201191896152
 <div class="hidebibtex">
 <label for="GDClifford_2007_Coursematerials">[show citation]</label>
 </div></div></td></tr><tr>
-<td>7</td>
+<td>6</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2006_12_01_Reviewof">
 <div class="citation">
@@ -13882,7 +13882,7 @@ Clifford GD. <a href="https://drive.google.com/file/d/1LzA_LAXMbf0F09EPN8WEZpOTr
 <div class="hidebibtex">
 <label for="GariDClifford_2006_12_01_Reviewof">[show citation]</label>
 </div></div></td></tr><tr>
-<td>6</td>
+<td>5</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="AndrewTReisner_2006_Thephysiological">
 <div class="citation">
@@ -13903,7 +13903,7 @@ Reisner AT, Clifford GD, Mark RG. <a href="http://onlineedu.cafa.edu.cn/moocreso
 <div class="hidebibtex">
 <label for="AndrewTReisner_2006_Thephysiological">[show citation]</label>
 </div></div></td></tr><tr>
-<td>5</td>
+<td>4</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2006_EctopicBeats">
 <div class="citation">
@@ -13921,14 +13921,14 @@ Clifford GD. Ectopic Beats, Activity Effects and Heart Rate Turbulence. 2006.
 <div class="hidebibtex">
 <label for="GariDClifford_2006_EctopicBeats">[show citation]</label>
 </div></div></td></tr><tr>
-<td>4</td>
+<td>3</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="PEMcSharry_2006_03_ECGSYNarealistic">
 <div class="citation">
-McSharry P, Clifford G. <a href="https://physionet.org/content/ecgsyn/1.0.0/">ECGSYN-a realistic ECG waveform generator</a>. 2006 March.
+McSharry P, Clifford GD. <a href="https://physionet.org/content/ecgsyn/1.0.0/">ECGSYN-a realistic ECG waveform generator</a>. 2006 March.
 </div>
 <div class="bibtex_source"><pre>@misc{PEMcSharry_2006_03_ECGSYNarealistic,
-    author = "McSharry, PE and Clifford, GD",
+    author = "McSharry, PE and Clifford, Gari D",
     title = "ECGSYN-a realistic ECG waveform generator",
     date = "2006-03",
     url = "https://physionet.org/content/ecgsyn/1.0.0/",
@@ -13941,7 +13941,7 @@ McSharry P, Clifford G. <a href="https://physionet.org/content/ecgsyn/1.0.0/">EC
 <div class="hidebibtex">
 <label for="PEMcSharry_2006_03_ECGSYNarealistic">[show citation]</label>
 </div></div></td></tr><tr>
-<td>3</td>
+<td>2</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GariDClifford_2005_01_BlindSource">
 <div class="citation">
@@ -13961,14 +13961,14 @@ Clifford GD. <a href="https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf
 <div class="hidebibtex">
 <label for="GariDClifford_2005_01_BlindSource">[show citation]</label>
 </div></div></td></tr><tr>
-<td>2</td>
+<td>1</td>
 <td><div class="citation_container">
 <input type="checkbox" class="toggle-button" id="GDClifford_2005_04_07_Fetal">
 <div class="citation">
-Clifford G. <a href="https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=a89a40c9d66dab5c9ed99443c122910f36afbf94">Fetal & Maternal ECG Blind Source Separation Lab</a>. 2005 April 7.
+Clifford GD. <a href="https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=a89a40c9d66dab5c9ed99443c122910f36afbf94">Fetal & Maternal ECG Blind Source Separation Lab</a>. 2005 April 7.
 </div>
 <div class="bibtex_source"><pre>@misc{GDClifford_2005_04_07_Fetal,
-    author = "Clifford, GD",
+    author = "Clifford, Gari D",
     title = "Fetal {\\&} Maternal ECG Blind Source Separation Lab",
     date = "2005-04-07",
     url = "https://citeseerx.ist.psu.edu/document?repid=rep1\&type=pdf\&doi=a89a40c9d66dab5c9ed99443c122910f36afbf94",
@@ -13980,25 +13980,5 @@ Clifford G. <a href="https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&
 </div>
 <div class="hidebibtex">
 <label for="GDClifford_2005_04_07_Fetal">[show citation]</label>
-</div></div></td></tr><tr>
-<td>1</td>
-<td><div class="citation_container">
-<input type="checkbox" class="toggle-button" id="MaryClifford_2002_MaryClifford">
-<div class="citation">
-Clifford M, O'Keeffe M. <a href="https://www.pierceatwood.com/sites/default/files/pa_legacy_files/71258_2015-03-02%20Joint%20Proposed%20Protective%20Order%20(W4754348x7AC2E).pdf">Mary Clifford</a>. 2002.
-</div>
-<div class="bibtex_source"><pre>@misc{MaryClifford_2002_MaryClifford,
-    author = "Clifford, Mary and O'Keeffe, Maurice",
-    title = "Mary Clifford",
-    date = "2002",
-    url = "https://www.pierceatwood.com/sites/default/files/pa\_legacy\_files/71258\_2015-03-02\%20Joint\%20Proposed\%20Protective\%20Order\%20(W4754348x7AC2E).pdf",
-    note = "Publisher: M. O'Keeffe"
-}
-</pre>
-</div><div class="showbibtex">
-<label for="MaryClifford_2002_MaryClifford">[show BibTeX]</label>
-</div>
-<div class="hidebibtex">
-<label for="MaryClifford_2002_MaryClifford">[show citation]</label>
 </div></div></td></tr>
 </table>
