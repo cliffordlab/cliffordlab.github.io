@@ -733,3 +733,8 @@ VWrUr7O2Zk8C # JangwonLim_2026_Wearablesensing
 rMJ1_5uPwdAC # VidaAdeli_2025_09_24_AMultiSite
 FV77Gu53xKkC # GariDClifford_2007_MultichannelECG
 ix4AEQmNN7wC # HannahHKim_UnknownDate_Multidimensionalresiliency
+VoowTMkWmDwC # TongliSu_2026_07_09_CrossModalGenerative
+RIp7fglqhzwC # ArnavGupta_2026_07_07_PANDApediatric
+U073gGq-K-4C # QiaoLi_2026_07_02_DynamicBeattoBeat
+WrvHtiK_1SgC # MatthewAReyna_2026_07_02_ECGImageDatabaseLargeScale
+dw2rCEx0FpQC # ShamaPatel_2026_06_03_Promiseto
