@@ -738,3 +738,5 @@ RIp7fglqhzwC # ArnavGupta_2026_07_07_PANDApediatric
 U073gGq-K-4C # QiaoLi_2026_07_02_DynamicBeattoBeat
 WrvHtiK_1SgC # MatthewAReyna_2026_07_02_ECGImageDatabaseLargeScale
 dw2rCEx0FpQC # ShamaPatel_2026_06_03_Promiseto
+jEJjQKk8aPQC # EKateWebb_2026_AncestryCalibratedPolygenic
+jmwITWCuk8IC # GDClifford_2006_Ecgstatistics
