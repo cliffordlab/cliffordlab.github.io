@@ -758,3 +758,8 @@ HiMnOR5ODjIC # SeyedehSomayyehMousavi_UnknownDate_ECGAgefor
 CQikpi1_-5oC # SajjadKarimi_UnknownDate_ASystem
 6FFC2c45_UYC # JohannVargasCalixto_UnknownDate_SelfSupervisedRepresentation
 vfT5ieZw1WcC # JanPavlus_UnknownDate_CanI
+lfn0f_u3g34C # SeyedehSomayyehMousavi_2026_12_31_Earlyprediction
+B9dQ7Cd3MGsC # SoheilSaghafi_2026_09_23_CircadianDerived
+As9-p0eyQpQC # YeYang_2026_09_23_Exploratorydata
+BhdUJeZOhtEC # CdeFreitas_2025_Developmentof
+99tJykcxT8kC # RooijSv_2023_06_28_Rethinkingresilience
