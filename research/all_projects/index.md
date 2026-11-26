@@ -27,14 +27,26 @@ permalink: /research
   <body>
     <div class="container">
       <div class="image">
-        <img src="/research/all_projects/Zifan_eye_track.gif">
+        <img src="/research/all_projects/edgeML.png">
       </div>
     </div>
   </body>
 </html>
 
+<h1 style="text-align: left; font-size: 30px"><strong>Edge Computing in Healthcare</strong></h1>
+<p>Deploying AI in clinical settings raises questions of privacy, heavy resource costs, environmental impact, and responsiveness. This can be largely addressed by computing at the bedside. In addition, data routinely captured in healthcare is often sparse and insufficient to capture every key event. Our research combines traditional electronic data, high-density bedside monitor streams, and ambient sensor data to build an entire, longitudinal model of a patient, and allow counterfactual predictions. </p>
+
+<br>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img src="/research/all_projects/Zifan_eye_track.gif">
+      </div>
+    </div>
+  </body>
+
 <h1 style="text-align: left; font-size: 30px"><strong>Brain Health</strong></h1>
-<p>Modern machine learning and low cost digital devices have the potential to expand digital diagnostics and decision support systems for clinical psychiatry and neurology. We focus on developing signal processing and machine learning approaches applied to data streams from ambient devices and wearables in neurodivergent populations, with applications in Autism, Alzheimer's, Circadian Rhythm Disorders, Depression, Rett Syndrome, and Sleep Health, among others. We also partner with <a href="https://linushealth.com/press-releases/emory-healthcare-engages-linus-health-on-initiative-to-expand-early-detection-of-alzheimers-disease-and-other-dementias">Linus Health</a> to scale some of our innovations within the healthcare system. Our work is funded by the NIH, the Center for Discovery, the Rett Syndrome Research Foundation, and the One Mind foundation.</p>
+<p>Modern machine learning and low cost digital devices have the potential to expand digital diagnostics and decision support systems for clinical psychiatry and neurology. We focus on developing signal processing and machine learning approaches applied to data streams from ambient devices and wearables in neurodivergent populations, with applications in Autism, Alzheimer's, Circadian Rhythm Disorders, Depression, Rett Syndrome, and Sleep Health, among others. We also partner with <a href="https://linushealth.com/press-releases/emory-healthcare-engages-linus-health-on-initiative-to-expand-early-detection-of-alzheimers-disease-and-other-dementias">Linus Health</a> and <a href="https://nextsense.io/pages/about">Nextsense</a> to scale some of our innovations within the healthcare system and in the wider ambulatory space. Our work is funded by the NIH, the Center for Discovery, the Rett Syndrome Research Foundation, and the One Mind foundation.</p>
 
 <br>
   <body>
